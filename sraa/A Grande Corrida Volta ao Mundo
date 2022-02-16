@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Corrida Volta ao Mundo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/dUVQYxxofUoYrXXRWhjhSe3aYEX.jpg" group-title="Reality Show's",A Grande Corrida Volta ao Mundo S01 E01
+http://lxls.mx:80/series/994153115/101217/142913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Corrida Volta ao Mundo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kF40BdSV2tDgwWRz2GqVOPpuS2F.jpg" group-title="Reality Show's",A Grande Corrida Volta ao Mundo S01 E02
+http://lxls.mx:80/series/994153115/101217/142912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Corrida Volta ao Mundo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/iXQAttJH5VPOLxNGfvhQ2h1pH4W.jpg" group-title="Reality Show's",A Grande Corrida Volta ao Mundo S01 E03
+http://lxls.mx:80/series/994153115/101217/142911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Corrida Volta ao Mundo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3i0jzSFdFSv3LGHgwFaMwWVrvB2.jpg" group-title="Reality Show's",A Grande Corrida Volta ao Mundo S01 E04
+http://lxls.mx:80/series/994153115/101217/142910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Corrida Volta ao Mundo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3i0jzSFdFSv3LGHgwFaMwWVrvB2.jpg" group-title="Reality Show's",A Grande Corrida Volta ao Mundo S01 E05
+http://lxls.mx:80/series/994153115/101217/142909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Corrida Volta ao Mundo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/d6c1fn38pYen2z6Xco0IztxNggH.jpg" group-title="Reality Show's",A Grande Corrida Volta ao Mundo S01 E06
+http://lxls.mx:80/series/994153115/101217/142908.mp4

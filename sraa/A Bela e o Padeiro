@@ -1,0 +1,21 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e o Padeiro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/kRlDVYVGjckx3LG0yAKr6nKKa9g.jpg" group-title="Séries | Globoplay",A Bela e o Padeiro S01 E01
+http://lxls.mx:80/series/994153115/101217/174700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e o Padeiro S01 E02" tvg-logo="http://lxls.mx:8080/images/4b6fea57948bb00611330e787208fe26.jpg" group-title="Séries | Globoplay",A Bela e o Padeiro S01 E02
+http://lxls.mx:80/series/994153115/101217/174699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e o Padeiro S01 E03" tvg-logo="http://lxls.mx:8080/images/4b6fea57948bb00611330e787208fe26.jpg" group-title="Séries | Globoplay",A Bela e o Padeiro S01 E03
+http://lxls.mx:80/series/994153115/101217/174698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e o Padeiro S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/gq1zJ45R3yrmhqujXs28NwZIdCh.jpg" group-title="Séries | Globoplay",A Bela e o Padeiro S01 E04
+http://lxls.mx:80/series/994153115/101217/174697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e o Padeiro S01 E05" tvg-logo="http://lxls.mx:8080/images/4b6fea57948bb00611330e787208fe26.jpg" group-title="Séries | Globoplay",A Bela e o Padeiro S01 E05
+http://lxls.mx:80/series/994153115/101217/174696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e o Padeiro S01 E06" tvg-logo="http://lxls.mx:8080/images/4b6fea57948bb00611330e787208fe26.jpg" group-title="Séries | Globoplay",A Bela e o Padeiro S01 E06
+http://lxls.mx:80/series/994153115/101217/174695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e o Padeiro S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/7keQTr7fdafzdsPyjcXrr2mp5s8.jpg" group-title="Séries | Globoplay",A Bela e o Padeiro S01 E07
+http://lxls.mx:80/series/994153115/101217/174694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e o Padeiro S01 E08" tvg-logo="http://lxls.mx:8080/images/4b6fea57948bb00611330e787208fe26.jpg" group-title="Séries | Globoplay",A Bela e o Padeiro S01 E08
+http://lxls.mx:80/series/994153115/101217/174693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e o Padeiro S01 E09" tvg-logo="http://lxls.mx:8080/images/4b6fea57948bb00611330e787208fe26.jpg" group-title="Séries | Globoplay",A Bela e o Padeiro S01 E09
+http://lxls.mx:80/series/994153115/101217/174692.mp4

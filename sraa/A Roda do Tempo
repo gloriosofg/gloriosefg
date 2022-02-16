@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Roda do Tempo S01 E01" tvg-logo="http://lxls.mx:8080/images/45619e98917311b523352061b0e48ee2.jpg" group-title="Séries | Amazon Prime",A Roda do Tempo S01 E01
+http://lxls.mx:80/series/994153115/101217/142677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Roda do Tempo S01 E02" tvg-logo="http://lxls.mx:8080/images/45619e98917311b523352061b0e48ee2.jpg" group-title="Séries | Amazon Prime",A Roda do Tempo S01 E02
+http://lxls.mx:80/series/994153115/101217/142676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Roda do Tempo S01 E03" tvg-logo="http://lxls.mx:8080/images/45619e98917311b523352061b0e48ee2.jpg" group-title="Séries | Amazon Prime",A Roda do Tempo S01 E03
+http://lxls.mx:80/series/994153115/101217/142675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Roda do Tempo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/yRFsTWVi5oaDzEfY1RxMaqZheAi.jpg" group-title="Séries | Amazon Prime",A Roda do Tempo S01 E04
+http://lxls.mx:80/series/994153115/101217/141745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Roda do Tempo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/mG0msmGey6EJ2KPdKV0EROzZPxo.jpg" group-title="Séries | Amazon Prime",A Roda do Tempo S01 E05
+http://lxls.mx:80/series/994153115/101217/141279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Roda do Tempo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/7hsl7FPEqI8OBDtAr6N3oH6Iodh.jpg" group-title="Séries | Amazon Prime",A Roda do Tempo S01 E06
+http://lxls.mx:80/series/994153115/101217/140769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Roda do Tempo S01 E07" tvg-logo="http://lxls.mx:8080/images/45619e98917311b523352061b0e48ee2.jpg" group-title="Séries | Amazon Prime",A Roda do Tempo S01 E07
+http://lxls.mx:80/series/994153115/101217/140195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Roda do Tempo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/zV4PtAr2cMYhUcypPsIQzFeiWjg.jpg" group-title="Séries | Amazon Prime",A Roda do Tempo S01 E08
+http://lxls.mx:80/series/994153115/101217/140194.mp4

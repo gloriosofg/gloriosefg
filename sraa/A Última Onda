@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Última Onda S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/an1v84XrGhitD7uFaMTSiQJxqRI.jpg" group-title="Séries | Globoplay",A Última Onda S01 E01
+http://lxls.mx:80/series/994153115/101217/180439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Onda S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/hIN4Xpq1kcEjdlkLkhEcXouKcpL.jpg" group-title="Séries | Globoplay",A Última Onda S01 E02
+http://lxls.mx:80/series/994153115/101217/180438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Onda S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ePE7ymIGjVkFxb5Mq61ifE806Et.jpg" group-title="Séries | Globoplay",A Última Onda S01 E03
+http://lxls.mx:80/series/994153115/101217/180437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Onda S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/k1ROqG82Mgpd4iAV1tAyuChSgHV.jpg" group-title="Séries | Globoplay",A Última Onda S01 E04
+http://lxls.mx:80/series/994153115/101217/180436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Onda S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/an1v84XrGhitD7uFaMTSiQJxqRI.jpg" group-title="Séries | Globoplay",A Última Onda S01 E05
+http://lxls.mx:80/series/994153115/101217/180435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Onda S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/880Rji8axXn5H0262p6GlQ4jdEe.jpg" group-title="Séries | Globoplay",A Última Onda S01 E06
+http://lxls.mx:80/series/994153115/101217/180434.mp4

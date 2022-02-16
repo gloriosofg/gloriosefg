@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Linha Invisível S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/vfEF6iHm6uewd2JPsIsgPcJSevW.jpg" group-title="Séries | HBO Max",A Linha Invisível S01 E01
+http://lxls.mx:80/series/994153115/101217/142907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Linha Invisível S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/rhDYRdkSpFOe1qMUlyUPupATFd.jpg" group-title="Séries | HBO Max",A Linha Invisível S01 E02
+http://lxls.mx:80/series/994153115/101217/142906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Linha Invisível S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/eVuUNwcBovsmpp7KltH9sVKfUKv.jpg" group-title="Séries | HBO Max",A Linha Invisível S01 E03
+http://lxls.mx:80/series/994153115/101217/142905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Linha Invisível S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ygXoAW0wPJ4Xr8nxSmyuV58YiRj.jpg" group-title="Séries | HBO Max",A Linha Invisível S01 E04
+http://lxls.mx:80/series/994153115/101217/141746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Linha Invisível S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/hBiCDI368F79lRN4glkvvaQ2zCg.jpg" group-title="Séries | HBO Max",A Linha Invisível S01 E05
+http://lxls.mx:80/series/994153115/101217/141679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Linha Invisível S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/twVuIHFi0TlcacNwkBYr7nHBokc.jpg" group-title="Séries | HBO Max",A Linha Invisível S01 E06
+http://lxls.mx:80/series/994153115/101217/141049.mp4

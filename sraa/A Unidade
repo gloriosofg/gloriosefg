@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Unidade S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mip2NAShs4CDUhUt81WngWCDEZW.jpg" group-title="Séries | HBO Max",A Unidade S01 E01
+http://lxls.mx:80/series/994153115/101217/164225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Unidade S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/5qQgvMhoN8HKCor00tYPrsdgtvM.jpg" group-title="Séries | HBO Max",A Unidade S01 E02
+http://lxls.mx:80/series/994153115/101217/164222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Unidade S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/xk9Sy5U0DtZvVynFscdbi2Andsy.jpg" group-title="Séries | HBO Max",A Unidade S01 E03
+http://lxls.mx:80/series/994153115/101217/164220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Unidade S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/yuLLLWW7lDkhROK1BLkCMAeuvsC.jpg" group-title="Séries | HBO Max",A Unidade S01 E04
+http://lxls.mx:80/series/994153115/101217/164217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Unidade S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/58qGmPRxmGXgPD3dbzwdrhakOO0.jpg" group-title="Séries | HBO Max",A Unidade S01 E05
+http://lxls.mx:80/series/994153115/101217/164215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Unidade S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/7u7OO95wDuQfkPdMzNHBrYxFvAx.jpg" group-title="Séries | HBO Max",A Unidade S01 E06
+http://lxls.mx:80/series/994153115/101217/164212.mp4

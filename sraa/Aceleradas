@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Aceleradas S01 E01" tvg-logo="http://lxls.mx:8080/images/d9dc25f32079280f5009072461bbd565.jpg" group-title="Séries | Netflix",Aceleradas S01 E01
+http://lxls.mx:80/series/994153115/101217/208610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aceleradas S01 E02" tvg-logo="http://lxls.mx:8080/images/d9dc25f32079280f5009072461bbd565.jpg" group-title="Séries | Netflix",Aceleradas S01 E02
+http://lxls.mx:80/series/994153115/101217/208609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aceleradas S01 E03" tvg-logo="http://lxls.mx:8080/images/d9dc25f32079280f5009072461bbd565.jpg" group-title="Séries | Netflix",Aceleradas S01 E03
+http://lxls.mx:80/series/994153115/101217/208608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aceleradas S01 E04" tvg-logo="http://lxls.mx:8080/images/d9dc25f32079280f5009072461bbd565.jpg" group-title="Séries | Netflix",Aceleradas S01 E04
+http://lxls.mx:80/series/994153115/101217/208607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aceleradas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/mMfLJqOpINxov9MCRyfTJvJ1oc0.jpg" group-title="Séries | Netflix",Aceleradas S01 E05
+http://lxls.mx:80/series/994153115/101217/208606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aceleradas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/cLmGD6CFvLBvuAUkfKvDG0n9sza.jpg" group-title="Séries | Netflix",Aceleradas S01 E06
+http://lxls.mx:80/series/994153115/101217/208605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aceleradas S01 E07" tvg-logo="http://lxls.mx:8080/images/d9dc25f32079280f5009072461bbd565.jpg" group-title="Séries | Netflix",Aceleradas S01 E07
+http://lxls.mx:80/series/994153115/101217/208604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aceleradas S01 E08" tvg-logo="http://lxls.mx:8080/images/d9dc25f32079280f5009072461bbd565.jpg" group-title="Séries | Netflix",Aceleradas S01 E08
+http://lxls.mx:80/series/994153115/101217/208603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aceleradas S01 E09" tvg-logo="http://lxls.mx:8080/images/d9dc25f32079280f5009072461bbd565.jpg" group-title="Séries | Netflix",Aceleradas S01 E09
+http://lxls.mx:80/series/994153115/101217/208602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aceleradas S01 E10" tvg-logo="http://lxls.mx:8080/images/d9dc25f32079280f5009072461bbd565.jpg" group-title="Séries | Netflix",Aceleradas S01 E10
+http://lxls.mx:80/series/994153115/101217/208601.mp4

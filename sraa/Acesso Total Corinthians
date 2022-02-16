@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Acesso Total Corinthians S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/k0696Yk8GNpZrs3tvu8evWJWTtm.jpg" group-title="Séries | Globoplay",Acesso Total Corinthians S01 E01
+http://lxls.mx:80/series/994153115/101217/169192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acesso Total Corinthians S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/zYiQb18egY3wLVDNkhOTdvTLqT2.jpg" group-title="Séries | Globoplay",Acesso Total Corinthians S01 E02
+http://lxls.mx:80/series/994153115/101217/169191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acesso Total Corinthians S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/wbwMrEBmuF24l0brmVOF61NLE1t.jpg" group-title="Séries | Globoplay",Acesso Total Corinthians S01 E03
+http://lxls.mx:80/series/994153115/101217/169190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acesso Total Corinthians S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/7Mu1Ma2X3YuMz55pDAO0j9J5BgQ.jpg" group-title="Séries | Globoplay",Acesso Total Corinthians S01 E04
+http://lxls.mx:80/series/994153115/101217/169189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acesso Total Corinthians S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/9GlucjWttfREbeZwJ8wIBAITqJ2.jpg" group-title="Séries | Globoplay",Acesso Total Corinthians S01 E05
+http://lxls.mx:80/series/994153115/101217/169188.mp4

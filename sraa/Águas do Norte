@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Águas do Norte S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8K6sbIUHmizEhel42jlE5ZNJzY2.jpg" group-title="Séries | Globoplay",Águas do Norte S01 E01
+http://lxls.mx:80/series/994153115/101217/140892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Águas do Norte S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/12ve3G6uhVSsMVM83gGLmDgYEk0.jpg" group-title="Séries | Globoplay",Águas do Norte S01 E02
+http://lxls.mx:80/series/994153115/101217/140891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Águas do Norte S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/uJvlOicEjGFlBX2PDV3CfjhVYBU.jpg" group-title="Séries | Globoplay",Águas do Norte S01 E03
+http://lxls.mx:80/series/994153115/101217/140890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Águas do Norte S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/yEh5CMyqNzFIiBByu5P23kmVRlY.jpg" group-title="Séries | Globoplay",Águas do Norte S01 E04
+http://lxls.mx:80/series/994153115/101217/140889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Águas do Norte S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/yBDspe0CxvEd2j8Qy3kayDzbo6v.jpg" group-title="Séries | Globoplay",Águas do Norte S01 E05
+http://lxls.mx:80/series/994153115/101217/140888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Águas do Norte S01 E06" tvg-logo="http://lxls.mx:8080/images/13a24efb65344c494d1002140824876a.jpg" group-title="Séries | Globoplay",Águas do Norte S01 E06
+http://lxls.mx:80/series/994153115/101217/140887.mp4

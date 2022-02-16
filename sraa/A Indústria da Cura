@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Indústria da Cura S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/nXR7nFKC9OHHYIkfPuOEsoQwzNC.jpg" group-title="Séries | Netflix",A Indústria da Cura S01 E01
+http://lxls.mx:80/series/994153115/101217/189656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Indústria da Cura S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/5JU2fwAE6DfDbScbr2EwykIlthV.jpg" group-title="Séries | Netflix",A Indústria da Cura S01 E02
+http://lxls.mx:80/series/994153115/101217/189655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Indústria da Cura S01 E03" tvg-logo="http://lxls.mx:8080/images/5fc4be2b7a23a6116eb964ed65814d56.jpg" group-title="Séries | Netflix",A Indústria da Cura S01 E03
+http://lxls.mx:80/series/994153115/101217/189654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Indústria da Cura S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/pd6KT5TZq7EcjRWvmg28DeRm1ki.jpg" group-title="Séries | Netflix",A Indústria da Cura S01 E04
+http://lxls.mx:80/series/994153115/101217/189653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Indústria da Cura S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5uONnHEqIK6MWCb6ICoa0nqI2EJ.jpg" group-title="Séries | Netflix",A Indústria da Cura S01 E05
+http://lxls.mx:80/series/994153115/101217/189652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Indústria da Cura S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/d0eYdeNO7md4AJir14wbP7oG2nJ.jpg" group-title="Séries | Netflix",A Indústria da Cura S01 E06
+http://lxls.mx:80/series/994153115/101217/189651.mp4

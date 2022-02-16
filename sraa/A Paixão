@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Paixão S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8o7rEGqMXhdABiCVzAziwcsSUKX.jpg" group-title="Séries | HBO Max",A Paixão S01 E01
+http://lxls.mx:80/series/994153115/101217/192207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Paixão S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/lNaFyWEGRAp0rdgCzV5goUwxapT.jpg" group-title="Séries | HBO Max",A Paixão S01 E02
+http://lxls.mx:80/series/994153115/101217/192206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Paixão S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/k6AUyAuDSx6hC1zd7cSZM7WxxTD.jpg" group-title="Séries | HBO Max",A Paixão S01 E03
+http://lxls.mx:80/series/994153115/101217/192205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Paixão S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/2Lbvz7hCtW0HN2gUBgcPDZEi5hy.jpg" group-title="Séries | HBO Max",A Paixão S01 E04
+http://lxls.mx:80/series/994153115/101217/192204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Paixão S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/q8yLOaIFQrVin0zcwFeYWTdYoy2.jpg" group-title="Séries | HBO Max",A Paixão S01 E05
+http://lxls.mx:80/series/994153115/101217/192203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Paixão S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/9mJoZW3apdUBwDAfS33Sra41gXa.jpg" group-title="Séries | HBO Max",A Paixão S01 E06
+http://lxls.mx:80/series/994153115/101217/192202.mp4

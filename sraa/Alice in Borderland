@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/758JlWhBQjnvRBKKdxH6nEuuyBr.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E01
+http://lxls.mx:80/series/994153115/101217/180207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/At7tagPr0drQWBLAW8dUD8zLsXn.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E02
+http://lxls.mx:80/series/994153115/101217/180206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E03" tvg-logo="http://lxls.mx:8080/images/6fe4c62553052b58104d4c9e7bcf066f.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E03
+http://lxls.mx:80/series/994153115/101217/180205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/rNX5GmJdgVGdp2uBGzPxeVEzXVb.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E04
+http://lxls.mx:80/series/994153115/101217/180204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/fpyXJ8bPwvgJpBe6aFnzrMj01CR.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E05
+http://lxls.mx:80/series/994153115/101217/180203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/9JMqIduUuKncLb7qnh8nlMrmA2K.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E06
+http://lxls.mx:80/series/994153115/101217/180202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/9YZHiAop1YrYQVInKMjPcKCS4GL.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E07
+http://lxls.mx:80/series/994153115/101217/180201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E08" tvg-logo="http://lxls.mx:8080/images/6fe4c62553052b58104d4c9e7bcf066f.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E08
+http://lxls.mx:80/series/994153115/101217/180200.mp4

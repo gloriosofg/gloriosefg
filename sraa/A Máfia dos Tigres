@@ -1,0 +1,27 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Máfia dos Tigres S01 E01" tvg-logo="http://lxls.mx:8080/images/09c0403f54a7315af351cd71cd62d015.jpg" group-title="Séries | Netflix",A Máfia dos Tigres S01 E01
+http://lxls.mx:80/series/994153115/101217/206866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máfia dos Tigres S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/orPsKWqjMe2eIVxReE3dgIekDI.jpg" group-title="Séries | Netflix",A Máfia dos Tigres S01 E02
+http://lxls.mx:80/series/994153115/101217/206865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máfia dos Tigres S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/s9eAyKzrRbeeWLvFAAME4C9eQ1B.jpg" group-title="Séries | Netflix",A Máfia dos Tigres S01 E03
+http://lxls.mx:80/series/994153115/101217/206864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máfia dos Tigres S01 E04" tvg-logo="http://lxls.mx:8080/images/09c0403f54a7315af351cd71cd62d015.jpg" group-title="Séries | Netflix",A Máfia dos Tigres S01 E04
+http://lxls.mx:80/series/994153115/101217/206863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máfia dos Tigres S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/cjIgrZwendKGUxIhAmL2PZgWZ2d.jpg" group-title="Séries | Netflix",A Máfia dos Tigres S01 E05
+http://lxls.mx:80/series/994153115/101217/206862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máfia dos Tigres S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/ztllJUvfMxSuRoaKgJXqaZFCxfA.jpg" group-title="Séries | Netflix",A Máfia dos Tigres S01 E06
+http://lxls.mx:80/series/994153115/101217/206861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máfia dos Tigres S01 E07" tvg-logo="http://lxls.mx:8080/images/09c0403f54a7315af351cd71cd62d015.jpg" group-title="Séries | Netflix",A Máfia dos Tigres S01 E07
+http://lxls.mx:80/series/994153115/101217/206860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máfia dos Tigres S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/k9UMxxYDSouSxG6KXyES3eLzh6G.jpg" group-title="Séries | Netflix",A Máfia dos Tigres S02 E01
+http://lxls.mx:80/series/994153115/101217/142596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máfia dos Tigres S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/AbkyGu4zupNbIOC7pmHXKgNKCMv.jpg" group-title="Séries | Netflix",A Máfia dos Tigres S02 E02
+http://lxls.mx:80/series/994153115/101217/142595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máfia dos Tigres S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/fimvKwQv0cWysdjQb2gkhFe96ej.jpg" group-title="Séries | Netflix",A Máfia dos Tigres S02 E03
+http://lxls.mx:80/series/994153115/101217/142594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máfia dos Tigres S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ymrgSovfz2Sxgc9AFJMpl9otZzr.jpg" group-title="Séries | Netflix",A Máfia dos Tigres S02 E04
+http://lxls.mx:80/series/994153115/101217/142593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máfia dos Tigres S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/eRMfnmYrAk36U5DNpWyjHW3Ad4T.jpg" group-title="Séries | Netflix",A Máfia dos Tigres S02 E05
+http://lxls.mx:80/series/994153115/101217/142592.mp4

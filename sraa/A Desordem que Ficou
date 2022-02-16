@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Desordem que Ficou S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/z8yNSjMII4HDEi0yhvlnigiconU.jpg" group-title="Séries | Netflix",A Desordem que Ficou S01 E01
+http://lxls.mx:80/series/994153115/101217/180215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Desordem que Ficou S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/tiq4Zwpma5I4dmreELj900FesWu.jpg" group-title="Séries | Netflix",A Desordem que Ficou S01 E02
+http://lxls.mx:80/series/994153115/101217/180214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Desordem que Ficou S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/jbHIud9DJqcBFtbQRhrjbZOnsOq.jpg" group-title="Séries | Netflix",A Desordem que Ficou S01 E03
+http://lxls.mx:80/series/994153115/101217/180213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Desordem que Ficou S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/bRdswxOdNm7DKAS7qFZuHWzSi9U.jpg" group-title="Séries | Netflix",A Desordem que Ficou S01 E04
+http://lxls.mx:80/series/994153115/101217/180212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Desordem que Ficou S01 E05" tvg-logo="http://lxls.mx:8080/images/9b7ef5ecc1e1f0ef50e27c0f35e28c30.jpg" group-title="Séries | Netflix",A Desordem que Ficou S01 E05
+http://lxls.mx:80/series/994153115/101217/180211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Desordem que Ficou S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/8zD5pi7tiiWiVVjLc9mjoBrQwKw.jpg" group-title="Séries | Netflix",A Desordem que Ficou S01 E06
+http://lxls.mx:80/series/994153115/101217/180210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Desordem que Ficou S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/vNQKlO4DJMpL6YG7Ar2FBXp0e1v.jpg" group-title="Séries | Netflix",A Desordem que Ficou S01 E07
+http://lxls.mx:80/series/994153115/101217/180209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Desordem que Ficou S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/utknMavxKWb2cqG6ghNTMtg9UdZ.jpg" group-title="Séries | Netflix",A Desordem que Ficou S01 E08
+http://lxls.mx:80/series/994153115/101217/180208.mp4

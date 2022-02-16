@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="À Procura do Amor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/v1BHgPyfBMlHCQKzHMDlVDZ8HvY.jpg" group-title="Séries | Star+",À Procura do Amor S01 E01
+http://lxls.mx:80/series/994153115/101217/146174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Procura do Amor S01 E02" tvg-logo="http://lxls.mx:8080/images/1e5a45cd095044430a53c9737015d206.jpg" group-title="Séries | Star+",À Procura do Amor S01 E02
+http://lxls.mx:80/series/994153115/101217/146173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="À Procura do Amor S01 E03" tvg-logo="http://lxls.mx:8080/images/1e5a45cd095044430a53c9737015d206.jpg" group-title="Séries | Star+",À Procura do Amor S01 E03
+http://lxls.mx:80/series/994153115/101217/146172.mp4

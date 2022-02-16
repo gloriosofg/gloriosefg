@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Outros Planetas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/biJnzivrFTomkETaNHD5l2ocIIs.jpg" group-title="Séries | Netflix",A Vida em Outros Planetas S01 E01
+http://lxls.mx:80/series/994153115/101217/180366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Outros Planetas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/3mAEwJ6lLnfdjRV6eLxNaK0kmn6.jpg" group-title="Séries | Netflix",A Vida em Outros Planetas S01 E02
+http://lxls.mx:80/series/994153115/101217/180365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Outros Planetas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/yf1QX4mHSFlRL3JRQ9nkIXP8U5V.jpg" group-title="Séries | Netflix",A Vida em Outros Planetas S01 E03
+http://lxls.mx:80/series/994153115/101217/180364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Outros Planetas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/g0JT44solf0SFEo99J2ZthijJiu.jpg" group-title="Séries | Netflix",A Vida em Outros Planetas S01 E04
+http://lxls.mx:80/series/994153115/101217/180363.mp4

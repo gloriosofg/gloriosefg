@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Costa do Mosquito S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/UPvm415T8sYCPAVthSl4JNdrlz.jpg" group-title="Séries | Drama",A Costa do Mosquito S01 E01
+http://lxls.mx:80/series/994153115/101217/169772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Costa do Mosquito S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/8iaV9sbLdRz3tvAZOd0khb0mOTk.jpg" group-title="Séries | Drama",A Costa do Mosquito S01 E02
+http://lxls.mx:80/series/994153115/101217/169771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Costa do Mosquito S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVtwJQN2uBbGF9rryXPIvuJHWzH.jpg" group-title="Séries | Drama",A Costa do Mosquito S01 E03
+http://lxls.mx:80/series/994153115/101217/166561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Costa do Mosquito S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVtwJQN2uBbGF9rryXPIvuJHWzH.jpg" group-title="Séries | Drama",A Costa do Mosquito S01 E04
+http://lxls.mx:80/series/994153115/101217/166560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Costa do Mosquito S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVtwJQN2uBbGF9rryXPIvuJHWzH.jpg" group-title="Séries | Drama",A Costa do Mosquito S01 E05
+http://lxls.mx:80/series/994153115/101217/166559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Costa do Mosquito S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/uDXHDKW4PFwyM8MqbwT03iLmW6a.jpg" group-title="Séries | Drama",A Costa do Mosquito S01 E06
+http://lxls.mx:80/series/994153115/101217/166331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Costa do Mosquito S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/8QvfUZHa6TXuRzHJx5VPRNlhNQ0.jpg" group-title="Séries | Drama",A Costa do Mosquito S01 E07
+http://lxls.mx:80/series/994153115/101217/148065.mp4

@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Dança da Morte S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mJnXSMkiGlGTIVEbTSSJXdapsgL.jpg" group-title="Séries | Terror & Suspense",A Dança da Morte S01 E01
+http://lxls.mx:80/series/994153115/101217/167809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dança da Morte S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/2rAx6Cmf8S79kV4LVdAOiAtN2qX.jpg" group-title="Séries | Terror & Suspense",A Dança da Morte S01 E02
+http://lxls.mx:80/series/994153115/101217/167808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dança da Morte S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/f5HTaAT4c0fZem3NcFG73dy1Oft.jpg" group-title="Séries | Terror & Suspense",A Dança da Morte S01 E03
+http://lxls.mx:80/series/994153115/101217/167807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dança da Morte S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8DGVec33YIScKK9XFPZL4louh13.jpg" group-title="Séries | Terror & Suspense",A Dança da Morte S01 E04
+http://lxls.mx:80/series/994153115/101217/167806.mp4

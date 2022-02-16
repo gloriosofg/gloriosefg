@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Cores com David Attenborough S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/wXaSkqguDAv7Ri9lJn7jHLsKqRS.jpg" group-title="Séries | Netflix",A Vida em Cores com David Attenborough S01 E01
+http://lxls.mx:80/series/994153115/101217/170526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Cores com David Attenborough S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/pRYCsBnFAIlRwFL8zsO1FNJnoVK.jpg" group-title="Séries | Netflix",A Vida em Cores com David Attenborough S01 E02
+http://lxls.mx:80/series/994153115/101217/170525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Cores com David Attenborough S01 E03" tvg-logo="http://lxls.mx:8080/images/2bd7353341afa436d2091e7bb7557634.jpg" group-title="Séries | Netflix",A Vida em Cores com David Attenborough S01 E03
+http://lxls.mx:80/series/994153115/101217/170524.mp4

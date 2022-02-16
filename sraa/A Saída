@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Saída S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/enQnhU2TqE9pCsGN1805QHtXGwr.jpg" group-title="Séries | Netflix",A Saída S01 E01
+http://lxls.mx:80/series/994153115/101217/151299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saída S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/uxUWDqqlWxP5qVBLOYwSYT5lEn6.jpg" group-title="Séries | Netflix",A Saída S01 E02
+http://lxls.mx:80/series/994153115/101217/151296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saída S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/3quyiWgPTamLnYTCVcSfXJ2uaO3.jpg" group-title="Séries | Netflix",A Saída S01 E03
+http://lxls.mx:80/series/994153115/101217/151294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saída S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/pVASLTshFebRGG0WSxik9ZBswux.jpg" group-title="Séries | Netflix",A Saída S01 E04
+http://lxls.mx:80/series/994153115/101217/151292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saída S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/r3C0LDQadeJyJjNwQFwnR87rQeR.jpg" group-title="Séries | Netflix",A Saída S01 E05
+http://lxls.mx:80/series/994153115/101217/151289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saída S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/btr3GHYXP5K6jqCtVpM3ljVLjLL.jpg" group-title="Séries | Netflix",A Saída S01 E06
+http://lxls.mx:80/series/994153115/101217/151288.mp4

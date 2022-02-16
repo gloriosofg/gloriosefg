@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",A Divisão S01 E01
+http://lxls.mx:80/series/994153115/101217/214382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",A Divisão S01 E02
+http://lxls.mx:80/series/994153115/101217/214381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",A Divisão S01 E03
+http://lxls.mx:80/series/994153115/101217/214380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",A Divisão S01 E04
+http://lxls.mx:80/series/994153115/101217/214379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",A Divisão S01 E05
+http://lxls.mx:80/series/994153115/101217/214378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",A Divisão S02 E01
+http://lxls.mx:80/series/994153115/101217/187910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",A Divisão S02 E02
+http://lxls.mx:80/series/994153115/101217/187909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",A Divisão S02 E03
+http://lxls.mx:80/series/994153115/101217/187908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",A Divisão S02 E04
+http://lxls.mx:80/series/994153115/101217/187907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Divisão S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",A Divisão S02 E05
+http://lxls.mx:80/series/994153115/101217/187906.mp4

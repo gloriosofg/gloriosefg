@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9biFnd1kx1uhc7CDTGISHN9PSno.jpg" group-title="Séries | Comédia",Acapulco S01 E01
+http://lxls.mx:80/series/994153115/101217/141130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ktYD4UhshuxwN4FBg1JmeHQBxMT.jpg" group-title="Séries | Comédia",Acapulco S01 E02
+http://lxls.mx:80/series/994153115/101217/141129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/8w4KKZ7rrU6ThQ563yMRvX7Wou.jpg" group-title="Séries | Comédia",Acapulco S01 E03
+http://lxls.mx:80/series/994153115/101217/141128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/uErGLZl3DdyHlqzoinptWDLj4FS.jpg" group-title="Séries | Comédia",Acapulco S01 E04
+http://lxls.mx:80/series/994153115/101217/141127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/xwMhnZb8EX4no2zr3U9COi0NTIQ.jpg" group-title="Séries | Comédia",Acapulco S01 E05
+http://lxls.mx:80/series/994153115/101217/141126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/21C0xP5r7FR8j2BI1sy5wkDHOQL.jpg" group-title="Séries | Comédia",Acapulco S01 E06
+http://lxls.mx:80/series/994153115/101217/141125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/38hQG5Pq190VQr3t6I3YvzeMxLa.jpg" group-title="Séries | Comédia",Acapulco S01 E07
+http://lxls.mx:80/series/994153115/101217/141124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/R7eauOJcXENJPp4KwFBHGUd67N.jpg" group-title="Séries | Comédia",Acapulco S01 E08
+http://lxls.mx:80/series/994153115/101217/141123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9biFnd1kx1uhc7CDTGISHN9PSno.jpg" group-title="Séries | Comédia",Acapulco S01 E09
+http://lxls.mx:80/series/994153115/101217/141122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9biFnd1kx1uhc7CDTGISHN9PSno.jpg" group-title="Séries | Comédia",Acapulco S01 E10
+http://lxls.mx:80/series/994153115/101217/141121.mp4
