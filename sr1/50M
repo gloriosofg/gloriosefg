@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="50M S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/auV4p0WPjKFLbjKYHLRUawlDeu1.jpg" group-title="Séries | Netflix",50M S01 E01
+http://lxls.mx:80/series/994153115/101217/178180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="50M S01 E02" tvg-logo="http://lxls.mx:8080/images/1b5054c34c31259011761dab2f6c4a18.jpg" group-title="Séries | Netflix",50M S01 E02
+http://lxls.mx:80/series/994153115/101217/178179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="50M S01 E03" tvg-logo="http://lxls.mx:8080/images/1b5054c34c31259011761dab2f6c4a18.jpg" group-title="Séries | Netflix",50M S01 E03
+http://lxls.mx:80/series/994153115/101217/178178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="50M S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/BJVIC6Q1C7ljgHQ9IiaWLhi9jp.jpg" group-title="Séries | Netflix",50M S01 E04
+http://lxls.mx:80/series/994153115/101217/178177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="50M S01 E05" tvg-logo="http://lxls.mx:8080/images/1b5054c34c31259011761dab2f6c4a18.jpg" group-title="Séries | Netflix",50M S01 E05
+http://lxls.mx:80/series/994153115/101217/178176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="50M S01 E06" tvg-logo="http://lxls.mx:8080/images/1b5054c34c31259011761dab2f6c4a18.jpg" group-title="Séries | Netflix",50M S01 E06
+http://lxls.mx:80/series/994153115/101217/178175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="50M S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/s9pfY3QJ8G04byPDpIs4xR0ZDpr.jpg" group-title="Séries | Netflix",50M S01 E07
+http://lxls.mx:80/series/994153115/101217/178174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="50M S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/oCxp6YW6nMMAxFT0aBc433A1bfR.jpg" group-title="Séries | Netflix",50M S01 E08
+http://lxls.mx:80/series/994153115/101217/178173.mp4

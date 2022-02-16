@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="100 Humanos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/bTpqyNZYZ86zc2X7m7e3Dkb1vTs.jpg" group-title="Séries | Netflix",100 Humanos S01 E01
+http://lxls.mx:80/series/994153115/101217/207050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Humanos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/lmEanQ0ovHIMoMJGu30Clzoe4cB.jpg" group-title="Séries | Netflix",100 Humanos S01 E02
+http://lxls.mx:80/series/994153115/101217/207049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Humanos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/3Vywal6IAKoODuCu8OJLQvzeSZS.jpg" group-title="Séries | Netflix",100 Humanos S01 E03
+http://lxls.mx:80/series/994153115/101217/207048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Humanos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/g1zt25BVLjCVLLlmXr0VyIYpjTk.jpg" group-title="Séries | Netflix",100 Humanos S01 E04
+http://lxls.mx:80/series/994153115/101217/207047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Humanos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/aGpigQA6efz21pDKJcNCtKX10N7.jpg" group-title="Séries | Netflix",100 Humanos S01 E05
+http://lxls.mx:80/series/994153115/101217/207046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Humanos S01 E06" tvg-logo="http://lxls.mx:8080/imageS-Aa33563bb4e5a7b35e0c54a2d244a5a4.jpg" group-title="Séries | Netflix",100 Humanos S01 E06
+http://lxls.mx:80/series/994153115/101217/207045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Humanos S01 E07" tvg-logo="http://lxls.mx:8080/imageS-Aa33563bb4e5a7b35e0c54a2d244a5a4.jpg" group-title="Séries | Netflix",100 Humanos S01 E07
+http://lxls.mx:80/series/994153115/101217/207044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Humanos S01 E08" tvg-logo="http://lxls.mx:8080/imageS-Aa33563bb4e5a7b35e0c54a2d244a5a4.jpg" group-title="Séries | Netflix",100 Humanos S01 E08
+http://lxls.mx:80/series/994153115/101217/207043.mp4
