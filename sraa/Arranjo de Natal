@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Arranjo de Natal S01 E01" tvg-logo="http://lxls.mx:8080/images/f9dacfcd0b4d356b2e0524f5c1500f9d.jpg" group-title="Séries | Netflix",Arranjo de Natal S01 E01
+http://lxls.mx:80/series/994153115/101217/142904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arranjo de Natal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/iDxYTllBG2ANjFmVlqOG2Lnt4Ge.jpg" group-title="Séries | Netflix",Arranjo de Natal S01 E02
+http://lxls.mx:80/series/994153115/101217/142903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arranjo de Natal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/cRrNpBXagJsnHYm4Ym4hYpk4rZT.jpg" group-title="Séries | Netflix",Arranjo de Natal S01 E03
+http://lxls.mx:80/series/994153115/101217/142902.mp4

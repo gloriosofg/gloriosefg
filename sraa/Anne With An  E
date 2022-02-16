@@ -1,0 +1,57 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/2C6MSA0WsqPTgXkegKLgwyeIgyZ.jpg" group-title="Séries | Netflix",Anne With An  E S01 E01
+http://lxls.mx:80/series/994153115/101217/220962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ypBsgIGhNghsZqnpfXPjlxfb4KT.jpg" group-title="Séries | Netflix",Anne With An  E S01 E02
+http://lxls.mx:80/series/994153115/101217/220961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S01 E03" tvg-logo="http://lxls.mx:8080/images/8d79a8da4ed383b6e8c271f0a85acd4e.jpg" group-title="Séries | Netflix",Anne With An  E S01 E03
+http://lxls.mx:80/series/994153115/101217/220960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S01 E04" tvg-logo="http://lxls.mx:8080/images/8d79a8da4ed383b6e8c271f0a85acd4e.jpg" group-title="Séries | Netflix",Anne With An  E S01 E04
+http://lxls.mx:80/series/994153115/101217/220959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/zLMKsszinTCpMjSHjLhl35rHFu8.jpg" group-title="Séries | Netflix",Anne With An  E S01 E05
+http://lxls.mx:80/series/994153115/101217/220958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/iLsOYjPyhl2aVp6w7t7AG9Y829G.jpg" group-title="Séries | Netflix",Anne With An  E S01 E06
+http://lxls.mx:80/series/994153115/101217/220957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/yJwVXeWTd7Ao9X0sdgc8ri64khh.jpg" group-title="Séries | Netflix",Anne With An  E S01 E07
+http://lxls.mx:80/series/994153115/101217/220956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/vggzdgmEaj8rwpasJULwlsOOyvf.jpg" group-title="Séries | Netflix",Anne With An  E S02 E01
+http://lxls.mx:80/series/994153115/101217/220955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/8S3Zzk36wTm9q82msUtsDMMTRuy.jpg" group-title="Séries | Netflix",Anne With An  E S02 E02
+http://lxls.mx:80/series/994153115/101217/220954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S02 E03" tvg-logo="http://lxls.mx:8080/images/8d79a8da4ed383b6e8c271f0a85acd4e.jpg" group-title="Séries | Netflix",Anne With An  E S02 E03
+http://lxls.mx:80/series/994153115/101217/220953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S02 E04" tvg-logo="http://lxls.mx:8080/images/8d79a8da4ed383b6e8c271f0a85acd4e.jpg" group-title="Séries | Netflix",Anne With An  E S02 E04
+http://lxls.mx:80/series/994153115/101217/220952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/jedmmB76Q4U1OQyoDABZOMYtAwS.jpg" group-title="Séries | Netflix",Anne With An  E S02 E05
+http://lxls.mx:80/series/994153115/101217/220951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/p91S7FcfMzpwV7YWMrNayeTtFSc.jpg" group-title="Séries | Netflix",Anne With An  E S02 E06
+http://lxls.mx:80/series/994153115/101217/220950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/dDrgiE2paTktnHRFOcRFTuieeeI.jpg" group-title="Séries | Netflix",Anne With An  E S02 E07
+http://lxls.mx:80/series/994153115/101217/220949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S02 E08" tvg-logo="http://lxls.mx:8080/images/8d79a8da4ed383b6e8c271f0a85acd4e.jpg" group-title="Séries | Netflix",Anne With An  E S02 E08
+http://lxls.mx:80/series/994153115/101217/220948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/6MCxM85bBzkg0KPy0cJ7ztwgceb.jpg" group-title="Séries | Netflix",Anne With An  E S02 E09
+http://lxls.mx:80/series/994153115/101217/220947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/xqrmORZyv629L5S7M0KY64mJkcP.jpg" group-title="Séries | Netflix",Anne With An  E S02 E10
+http://lxls.mx:80/series/994153115/101217/220946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/fbBxgE0tMw0Nb7rPDV4SIR2jQwL.jpg" group-title="Séries | Netflix",Anne With An  E S03 E01
+http://lxls.mx:80/series/994153115/101217/207086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/dtKGlsLAWF158ZLRVgEJCViJtag.jpg" group-title="Séries | Netflix",Anne With An  E S03 E02
+http://lxls.mx:80/series/994153115/101217/207085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/adnAMbPhh4VFi9wSAw8o9IAdaEG.jpg" group-title="Séries | Netflix",Anne With An  E S03 E03
+http://lxls.mx:80/series/994153115/101217/207084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/3FGjMNoZI110JLAWUkWjQMGGHzS.jpg" group-title="Séries | Netflix",Anne With An  E S03 E04
+http://lxls.mx:80/series/994153115/101217/207083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/tu166RxQSYwHCovxAB5rF87LPX0.jpg" group-title="Séries | Netflix",Anne With An  E S03 E05
+http://lxls.mx:80/series/994153115/101217/207082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/1wGmLopjz3Ue3Vt6MhcZCHcktnT.jpg" group-title="Séries | Netflix",Anne With An  E S03 E06
+http://lxls.mx:80/series/994153115/101217/207081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S03 E07" tvg-logo="http://lxls.mx:8080/images/8d79a8da4ed383b6e8c271f0a85acd4e.jpg" group-title="Séries | Netflix",Anne With An  E S03 E07
+http://lxls.mx:80/series/994153115/101217/207080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S03 E08" tvg-logo="http://lxls.mx:8080/images/8d79a8da4ed383b6e8c271f0a85acd4e.jpg" group-title="Séries | Netflix",Anne With An  E S03 E08
+http://lxls.mx:80/series/994153115/101217/207079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S03 E09" tvg-logo="https://image.tmdb.org/t/p/w300/7oNkLRNeIeZW4aPFOGbzqpBjXr5.jpg" group-title="Séries | Netflix",Anne With An  E S03 E09
+http://lxls.mx:80/series/994153115/101217/207078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne With An  E S03 E10" tvg-logo="http://lxls.mx:8080/images/8d79a8da4ed383b6e8c271f0a85acd4e.jpg" group-title="Séries | Netflix",Anne With An  E S03 E10
+http://lxls.mx:80/series/994153115/101217/207077.mp4

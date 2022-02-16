@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Ana Bolena A Rainha S01 E01" tvg-logo="http://lxls.mx:8080/images/00c1f35c7245e00bcb16b9d861348502.jpg" group-title="Séries | Globoplay",Ana Bolena A Rainha S01 E01
+http://lxls.mx:80/series/994153115/101217/142409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ana Bolena A Rainha S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/z7JptrVrrA75oD7eKXN3lNVZ0EV.jpg" group-title="Séries | Globoplay",Ana Bolena A Rainha S01 E02
+http://lxls.mx:80/series/994153115/101217/142408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ana Bolena A Rainha S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/lSS7BHyp4PnN7kdBK8C6y8JnFhB.jpg" group-title="Séries | Globoplay",Ana Bolena A Rainha S01 E03
+http://lxls.mx:80/series/994153115/101217/142407.mp4

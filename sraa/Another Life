@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Another Life S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/9AHTIxGYIBmFxl33hffD2fQG3BR.jpg" group-title="Séries | Netflix",Another Life S01 E01
+http://lxls.mx:80/series/994153115/101217/214259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Another Life S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ol99mydGgGln1BIZ8KQzlNFVPyP.jpg" group-title="Séries | Netflix",Another Life S01 E02
+http://lxls.mx:80/series/994153115/101217/214258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Another Life S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/dQ4X73EMsewC6qbt0zTTQdv0mSC.jpg" group-title="Séries | Netflix",Another Life S01 E03
+http://lxls.mx:80/series/994153115/101217/214257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Another Life S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/w7nf8QBcCUkf51khc8yDLrI5AQs.jpg" group-title="Séries | Netflix",Another Life S01 E04
+http://lxls.mx:80/series/994153115/101217/214256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Another Life S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ogswjFHPHYbOlMzBfvH8J2Eig6E.jpg" group-title="Séries | Netflix",Another Life S01 E05
+http://lxls.mx:80/series/994153115/101217/214255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Another Life S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/iDzeWtVxoec08OSTmxfkxpioZ9B.jpg" group-title="Séries | Netflix",Another Life S01 E06
+http://lxls.mx:80/series/994153115/101217/214254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Another Life S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/a5RvHgQCVwxjBhr8pa7liGsZJ9N.jpg" group-title="Séries | Netflix",Another Life S01 E07
+http://lxls.mx:80/series/994153115/101217/214253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Another Life S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/1f3K0qpVzxn3pk8yTXyCGbdbxyf.jpg" group-title="Séries | Netflix",Another Life S01 E08
+http://lxls.mx:80/series/994153115/101217/214252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Another Life S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/4pDQyGrUas6wGZ8Pk6XAFCf9eQN.jpg" group-title="Séries | Netflix",Another Life S01 E09
+http://lxls.mx:80/series/994153115/101217/214251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Another Life S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/v3vlMi1C5k8EhUmOQ4YlhxG4pUt.jpg" group-title="Séries | Netflix",Another Life S01 E10
+http://lxls.mx:80/series/994153115/101217/214250.mp4

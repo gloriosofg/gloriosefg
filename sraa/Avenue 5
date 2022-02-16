@@ -1,0 +1,21 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Avenue 5 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7GcLfNhAWPlh0oVPqiN2eld7X2a.jpg" group-title="Séries | HBO Max",Avenue 5 S01 E01
+http://lxls.mx:80/series/994153115/101217/208625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avenue 5 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/bDODxGXafza5cvx0Sd8Mjqf50Ze.jpg" group-title="Séries | HBO Max",Avenue 5 S01 E02
+http://lxls.mx:80/series/994153115/101217/208624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avenue 5 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/l0TCNyL2FIUf1Qyn2RgWK6kpv3d.jpg" group-title="Séries | HBO Max",Avenue 5 S01 E03
+http://lxls.mx:80/series/994153115/101217/208623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avenue 5 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/g3xOUXQNTmrqqkj54Up4g3TXiz9.jpg" group-title="Séries | HBO Max",Avenue 5 S01 E04
+http://lxls.mx:80/series/994153115/101217/208622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avenue 5 S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/zBoxnisz0aQpQQBRFnYIYcGAqjo.jpg" group-title="Séries | HBO Max",Avenue 5 S01 E05
+http://lxls.mx:80/series/994153115/101217/208621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avenue 5 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/98eyNnCtqFlCud0YBiQt5o9f2kS.jpg" group-title="Séries | HBO Max",Avenue 5 S01 E06
+http://lxls.mx:80/series/994153115/101217/208620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avenue 5 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/a7bVsAtvJyeqRZVDeXThAeBH0lW.jpg" group-title="Séries | HBO Max",Avenue 5 S01 E07
+http://lxls.mx:80/series/994153115/101217/208087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avenue 5 S01 E08" tvg-logo="http://lxls.mx:8080/images/ead42f7712af0b862182b5256e908c4a.jpg" group-title="Séries | HBO Max",Avenue 5 S01 E08
+http://lxls.mx:80/series/994153115/101217/207243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avenue 5 S01 E09" tvg-logo="http://lxls.mx:8080/images/ead42f7712af0b862182b5256e908c4a.jpg" group-title="Séries | HBO Max",Avenue 5 S01 E09
+http://lxls.mx:80/series/994153115/101217/207042.mp4

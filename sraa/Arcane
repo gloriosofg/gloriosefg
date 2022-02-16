@@ -1,0 +1,21 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/g7dMkFJvJECDYoL0TRzGQCfF3xD.jpg" group-title="Séries | Netflix",Arcane S01 E01
+http://lxls.mx:80/series/994153115/101217/143961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S01 E02" tvg-logo="http://lxls.mx:8080/images/a7767e537cf4c90d9634c005cca4e90d.jpg" group-title="Séries | Netflix",Arcane S01 E02
+http://lxls.mx:80/series/994153115/101217/143960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/rWgfZJ9F0bUxvSW6Ak2KfboXUih.jpg" group-title="Séries | Netflix",Arcane S01 E03
+http://lxls.mx:80/series/994153115/101217/143959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/7CYgTZUqI80HeJgN686sYW3f9y2.jpg" group-title="Séries | Netflix",Arcane S01 E04
+http://lxls.mx:80/series/994153115/101217/142591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/72Ti7nTKEAPgx4VSggb1ksl31rm.jpg" group-title="Séries | Netflix",Arcane S01 E05
+http://lxls.mx:80/series/994153115/101217/142590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S01 E06" tvg-logo="http://lxls.mx:8080/images/a7767e537cf4c90d9634c005cca4e90d.jpg" group-title="Séries | Netflix",Arcane S01 E06
+http://lxls.mx:80/series/994153115/101217/142589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S01 E07" tvg-logo="http://lxls.mx:8080/images/a7767e537cf4c90d9634c005cca4e90d.jpg" group-title="Séries | Netflix",Arcane S01 E07
+http://lxls.mx:80/series/994153115/101217/142588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/4PhdO5SvOBvrsj6IUx52ii1mtNy.jpg" group-title="Séries | Netflix",Arcane S01 E08
+http://lxls.mx:80/series/994153115/101217/142587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arcane S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/dbnGqpGWUjLcTVQxr5k1V3no8BB.jpg" group-title="Séries | Netflix",Arcane S01 E09
+http://lxls.mx:80/series/994153115/101217/142586.mp4

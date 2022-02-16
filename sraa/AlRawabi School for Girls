@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="AlRawabi School for Girls S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eeDmxbbpikGBTfJH55VUf6GFMWa.jpg" group-title="Séries | Netflix",AlRawabi School for Girls S01 E01
+http://lxls.mx:80/series/994153115/101217/152825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AlRawabi School for Girls S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4mcseu9uFJqS6LdENBmVTYZI03S.jpg" group-title="Séries | Netflix",AlRawabi School for Girls S01 E02
+http://lxls.mx:80/series/994153115/101217/152823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AlRawabi School for Girls S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/2IyGF8crgrG6KjwOcqXYvmuA4cx.jpg" group-title="Séries | Netflix",AlRawabi School for Girls S01 E03
+http://lxls.mx:80/series/994153115/101217/152820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AlRawabi School for Girls S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/sdDuSzIlWbClHS0uzpiat2hufgB.jpg" group-title="Séries | Netflix",AlRawabi School for Girls S01 E04
+http://lxls.mx:80/series/994153115/101217/152818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AlRawabi School for Girls S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/hRNUAteyDWd6A43wP56wSWB0Sy1.jpg" group-title="Séries | Netflix",AlRawabi School for Girls S01 E05
+http://lxls.mx:80/series/994153115/101217/152815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AlRawabi School for Girls S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/bbNQvbLjoCnHT8AZa3CByVnvgz2.jpg" group-title="Séries | Netflix",AlRawabi School for Girls S01 E06
+http://lxls.mx:80/series/994153115/101217/152812.mp4
