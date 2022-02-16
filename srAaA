@@ -841,7 +841,7 @@
 <genre>[COLOR  red][B]Acesso Total Corinthians[/B][/COLOR]</genre>
 </channel>
 
-  <channels>
+<channels>
 <channel>
 <name>[COLOR White][B]Admir%C3%A1vel Mundo Novo[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w300None</thumbnail>
@@ -1161,25 +1161,6 @@
 <genre>[COLOR  red][B]Ana Bolena A Rainha[/B][/COLOR]</genre>
 </channel>
 
-<channels>
-<channel>
-<name>[COLOR White][B]Ana Pimentinha
-[/B][/COLOR]</name>
-<channels>
-<channel>
-<name>[COLOR White][B]Anatomia do Crime[/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w300/bTu8MIrpobeOUhQUnDav5BwQeIZ.jpg</thumbnail>
-<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Anatomia%20do%20Crime</externallink>
-<genre>[COLOR  red][B]Anatomia do Crime[/B][/COLOR]</genre>
-</channel>
-<thumbnail>https://image.tmdb.org/t/p/w300/omzfCTLFc847eaD3hQTOrctNrWU.jpg</thumbnail>
-<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Ana%20Pimentinha</externallink>
-<genre>[COLOR  red][B]Ana Pimentinha[/B][/COLOR]</genre>
-</channel>
 
 <channels>
 <channel>
@@ -1401,3 +1382,352 @@
 <genre>[COLOR  red][B]Arquivo X[/B][/COLOR]</genre>
 </channel>
 
+<channels>
+<channel>
+<name>[COLOR White][B]Arranjo de Natal[/B][/COLOR]</name>
+<thumbnail>http://lxls.mx:8080/images/f9dacfcd0b4d356b2e0524f5c1500f9d.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Arranjo%20de%20Natal</externallink>
+<genre>[COLOR  red][B]Arranjo de Natal[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Arremesso Final[/B][/COLOR]</name>
+<thumbnail>http://lxls.mx:8080/images/b36ca293839a3ec049be56d8d31b0888.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Arremesso%20Final</externallink>
+<genre>[COLOR  red][B]Arremesso Final[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Arremesso Final[/B][/COLOR]</name>
+<thumbnail>http://lxls.mx:8080/images/b36ca293839a3ec049be56d8d31b0888.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Arremesso%20Final</externallink>
+<genre>[COLOR  red][B]Arremesso Final[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Aruanas[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/9P7wGED32fg7OKlmxLsHqCmgrcP.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Aruanas</externallink>
+<genre>[COLOR  red][B]Aruanas[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As 24 Personalidades de Billy Milligan[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/z9JvXXzjbGn0TG0hUGh9cgZ1TcX.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%2024%20Personalidades%20de%20Billy%20Milligan</externallink>
+<genre>[COLOR  red][B]As 24 Personalidades de Billy Milligan[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Aventuras de Jackie Chan[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/zeywcAOd7vR2c0U1fw3uwkybWSW.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Aventuras%20de%20Jackie%20Chan</externallink>
+<genre>[COLOR  red][B]As Aventuras de Jackie Chan[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Aventuras de Merlin[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/rB0nSLQZbyNgWxgTQQbKrFsEw6h.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Aventuras%20de%20Merlin</externallink>
+<genre>[COLOR  red][B]As Aventuras de Merlin[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Aventuras do Batman[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300None</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Aventuras%20do%20Batman</externallink>
+<genre>[COLOR  red][B]As Aventuras do Batman[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Brasileiras[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300None</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Brasileiras</externallink>
+<genre>[COLOR  red][B]As Brasileiras[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Criancas Que Amamos[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/6jSzcwiGufQTXYFkBS5V5vVy7kn.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Criancas%20Que%20Amamos</externallink>
+<genre>[COLOR  red][B]As Criancas Que Amamos[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Crônicas de Shannara[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/p69NsS3lrpovp8KWBKxGX5aIfBB.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Crônicas%20de%20Shannara</externallink>
+<genre>[COLOR  red][B]As Crônicas de Shannara[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Five[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/vqnIfndwboVvhKaApMui0BequIg.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Five</externallink>
+<genre>[COLOR  red][B]As Five[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Grandes Ferias Grandes[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300None</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Grandes%20Ferias%20Grandes</externallink>
+<genre>[COLOR  red][B]As Grandes Ferias Grandes[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Maiores Maquinas Do Mundo[/B][/COLOR]</name>
+<thumbnail>http://lxls.mx:8080/images/65a50d0320dff53c5368e5e77fcc2cb7.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Maiores%20Maquinas%20Do%20Mundo</externallink>
+<genre>[COLOR  red][B]As Maiores Maquinas Do Mundo[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Novas Aventuras de Christine[/B][/COLOR]</name>
+<thumbnail>http://lxls.mx:8080/images/05b1003435f7a29918d73a39c812f649.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Novas%20Aventuras%20de%20Christine</externallink>
+<genre>[COLOR  red][B]As Novas Aventuras de Christine[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Novas Aventuras do Macaco[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/sYFEIy2U3b6OG9nsAmxLHdxrlH2.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Novas%20Aventuras%20do%20Macaco</externallink>
+<genre>[COLOR  red][B]As Novas Aventuras do Macaco[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Novas Aventuras do Superman[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/rTxgUc1yDLD27DrgI2ATZ2pL1ko.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Novas%20Aventuras%20do%20Superman</externallink>
+<genre>[COLOR  red][B]As Novas Aventuras do Superman[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Novas Aventuras do Ursinho Puff[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/lJz7pUsY3oaFQdDoaO3tVF6J0R2.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Novas%20Aventuras%20do%20Ursinho%20Puff</externallink>
+<genre>[COLOR  red][B]As Novas Aventuras do Ursinho Puff[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Telefonistas[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/gtlSWsfiKPVcHYNWalkrmQVgaaa.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Telefonistas</externallink>
+<genre>[COLOR  red][B]As Telefonistas[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Terríveis Aventuras de Billy e Mandy[/B][/COLOR]</name>
+<thumbnail>http://lxls.mx:8080/imageS-Af303fb66f0f2b680af7192421010b84.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Terríveis%20Aventuras%20de%20Billy%20e%20Mandy</externallink>
+<genre>[COLOR  red][B]As Terríveis Aventuras de Billy e Mandy[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]As Visões da Raven[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/4phzW2MCUr3oFuGipNiM08jDuz5.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/As%20Visões%20da%20Raven</externallink>
+<genre>[COLOR  red][B]As Visões da Raven[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Ascensão Império Otomano[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/b6rjtOUGLkVqtPfUGduTIB0ZPDM.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Ascensão%20Império%20Otomano</externallink>
+<genre>[COLOR  red][B]Ascensão Império Otomano[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Assassinato do Primeiro-Ministro[/B][/COLOR]</name>
+<thumbnail>http://lxls.mx:8080/images/d2cb4758202bac71070208e1740d5fbd.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Assassinato%20do%20Primeiro-Ministro</externallink>
+<genre>[COLOR  red][B]Assassinato do Primeiro-Ministro[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Assassinato em Middle Beach[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/m63IIeloNVndfg9T2cUECWckGwj.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Assassinato%20em%20Middle%20Beach</externallink>
+<genre>[COLOR  red][B]Assassinato em Middle Beach[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Assassino Sem Passado[/B][/COLOR]</name>
+<thumbnail>http://lxls.mx:8080/images/d09f5dbcaf1a100487e09f3f06fe9e3c.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Assassino%20Sem%20Passado</externallink>
+<genre>[COLOR  red][B]Assassino Sem Passado[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Assedio[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/kwfVmhSiCm5W5A4pvLvmQH7gfjl.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Assedio</externallink>
+<genre>[COLOR  red][B]Assedio[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Ataque dos Titas[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/5r1aUs6bG4wHOzxQZfRxWye8B2m.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Ataque%20dos%20Titas</externallink>
+<genre>[COLOR  red][B]Ataque dos Titas[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Até o Fim Flamengo Campeão da Libertadores[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300None</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Até%20o%20Fim%20Flamengo%20Campeão%20da%20Libertadores</externallink>
+<genre>[COLOR  red][B]Até o Fim Flamengo Campeão da Libertadores[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Atlanta[/B][/COLOR]</name>
+<thumbnail>http://lxls.mx:8080/images/cfaca334f1d32cdfc9d6864974c1025c.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Atlanta</externallink>
+<genre>[COLOR  red][B]Atlanta[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Atlântida[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/8J7xx0VNcScLZKgDKBtoZuCYPhT.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Atlântida</externallink>
+<genre>[COLOR  red][B]Atlântida[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Atypical[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/FKrRmDJ8O8VVuejr94eQOcpFAn.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Atypical</externallink>
+<genre>[COLOR  red][B]Atypical[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Austin & Ally[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/yCnArNVGoIr8XD4XkmhcvPyPeWZ.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Austin%20&%20Ally</externallink>
+<genre>[COLOR  red][B]Austin & Ally[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Avatar A Lenda de Aang[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/pnjTozlZofM413r9o12QST8fzfp.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Avatar%20A%20Lenda%20de%20Aang</externallink>
+<genre>[COLOR  red][B]Avatar A Lenda de Aang[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]Avenue 5[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w300/7GcLfNhAWPlh0oVPqiN2eld7X2a.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/Avenue%205</externallink>
+<genre>[COLOR  red][B]Avenue 5[/B][/COLOR]</genre>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR White][B]NOMEDASERIE[/B][/COLOR]</name>
+<thumbnail>THUMBNAIL1</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/sraa/LINKSERIE.m3u</externallink>
+<genre>[COLOR  red][B]NOMEDASERIE[/B][/COLOR]</genre>
+</channel>
