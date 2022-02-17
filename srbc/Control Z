@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S01 E01" tvg-logo="http://lxls.mx:8080/images/b31f64b246914eaa4c576c19843de64b.jpg" group-title="Séries | Netflix",Control Z S01 E01
+http://lxls.mx:80/series/994153115/101217/154026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S01 E02" tvg-logo="http://lxls.mx:8080/images/b31f64b246914eaa4c576c19843de64b.jpg" group-title="Séries | Netflix",Control Z S01 E02
+http://lxls.mx:80/series/994153115/101217/154023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S01 E03" tvg-logo="http://lxls.mx:8080/images/b31f64b246914eaa4c576c19843de64b.jpg" group-title="Séries | Netflix",Control Z S01 E03
+http://lxls.mx:80/series/994153115/101217/154021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S01 E04" tvg-logo="http://lxls.mx:8080/images/b31f64b246914eaa4c576c19843de64b.jpg" group-title="Séries | Netflix",Control Z S01 E04
+http://lxls.mx:80/series/994153115/101217/154019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S01 E05" tvg-logo="http://lxls.mx:8080/images/b31f64b246914eaa4c576c19843de64b.jpg" group-title="Séries | Netflix",Control Z S01 E05
+http://lxls.mx:80/series/994153115/101217/154016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S01 E06" tvg-logo="http://lxls.mx:8080/images/b31f64b246914eaa4c576c19843de64b.jpg" group-title="Séries | Netflix",Control Z S01 E06
+http://lxls.mx:80/series/994153115/101217/154014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/pFM9UYbU3vi2V4sJkCmeqqaJEPz.jpg" group-title="Séries | Netflix",Control Z S01 E07
+http://lxls.mx:80/series/994153115/101217/154011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/egzGHQC6OQmMfKmdCI6nhAxsNbQ.jpg" group-title="Séries | Netflix",Control Z S01 E08
+http://lxls.mx:80/series/994153115/101217/154009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S02 E01" tvg-logo="http://lxls.mx:8080/images/b31f64b246914eaa4c576c19843de64b.jpg" group-title="Séries | Netflix",Control Z S02 E01
+http://lxls.mx:80/series/994153115/101217/154006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9sYnHIjuDPzTuhKYrxFS6YpmL1w.jpg" group-title="Séries | Netflix",Control Z S02 E02
+http://lxls.mx:80/series/994153115/101217/154004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/dbJq5yWW0FUXJUrQCtDDcyjjFaS.jpg" group-title="Séries | Netflix",Control Z S02 E03
+http://lxls.mx:80/series/994153115/101217/154002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S02 E04" tvg-logo="http://lxls.mx:8080/images/b31f64b246914eaa4c576c19843de64b.jpg" group-title="Séries | Netflix",Control Z S02 E04
+http://lxls.mx:80/series/994153115/101217/154000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/Ardbx3R3TlZZFOdwgwG8wuYYnLV.jpg" group-title="Séries | Netflix",Control Z S02 E05
+http://lxls.mx:80/series/994153115/101217/153998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S02 E06" tvg-logo="http://lxls.mx:8080/images/b31f64b246914eaa4c576c19843de64b.jpg" group-title="Séries | Netflix",Control Z S02 E06
+http://lxls.mx:80/series/994153115/101217/153996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S02 E07" tvg-logo="http://lxls.mx:8080/images/b31f64b246914eaa4c576c19843de64b.jpg" group-title="Séries | Netflix",Control Z S02 E07
+http://lxls.mx:80/series/994153115/101217/153993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Control Z S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/vmXuazOqkPuM7gapL2ffwttMTbx.jpg" group-title="Séries | Netflix",Control Z S02 E08
+http://lxls.mx:80/series/994153115/101217/153991.mp4

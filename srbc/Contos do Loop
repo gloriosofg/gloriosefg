@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Loop S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/auUQcD9wRI8YIN3oKfTXeGWbI4Q.jpg" group-title="Séries | Amazon Prime",Contos do Loop S01 E01
+http://lxls.mx:80/series/994153115/101217/206110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Loop S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/pUPUMAxanN0N9B9HcrSItrVbzDO.jpg" group-title="Séries | Amazon Prime",Contos do Loop S01 E02
+http://lxls.mx:80/series/994153115/101217/206109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Loop S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/vtz7CzR3v1ZbOseQFEemxEYWyeL.jpg" group-title="Séries | Amazon Prime",Contos do Loop S01 E03
+http://lxls.mx:80/series/994153115/101217/206108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Loop S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8bCBkCiBnHgLeVelOlZHYFrVWA9.jpg" group-title="Séries | Amazon Prime",Contos do Loop S01 E04
+http://lxls.mx:80/series/994153115/101217/206107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Loop S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/2JMJP9yQSmhVmzfTaxgDtQn9Cis.jpg" group-title="Séries | Amazon Prime",Contos do Loop S01 E05
+http://lxls.mx:80/series/994153115/101217/206106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Loop S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/gqUnPraSrHSaqER3i6CZDdEseHs.jpg" group-title="Séries | Amazon Prime",Contos do Loop S01 E06
+http://lxls.mx:80/series/994153115/101217/206105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Loop S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/l45DS7pmO2AX5VhdUhib5RLjNUc.jpg" group-title="Séries | Amazon Prime",Contos do Loop S01 E07
+http://lxls.mx:80/series/994153115/101217/206104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Loop S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/h9ruc4rXCJEbgFxHAou7PtMG8iX.jpg" group-title="Séries | Amazon Prime",Contos do Loop S01 E08
+http://lxls.mx:80/series/994153115/101217/206103.mp4

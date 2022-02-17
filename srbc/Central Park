@@ -1,0 +1,39 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/xK2jJmcBsOuANPndTnVxw39IzXZ.jpg" group-title="Pasta Temporária",Central Park S01 E01
+http://lxls.mx:80/series/994153115/101217/156909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E02" tvg-logo="http://lxls.mx:8080/images/dd323f9af4d5bf441b632714b917c71f.jpg" group-title="Pasta Temporária",Central Park S01 E02
+http://lxls.mx:80/series/994153115/101217/156908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/4CCXfauEJadIwYYN4K4kHm5anIo.jpg" group-title="Pasta Temporária",Central Park S01 E03
+http://lxls.mx:80/series/994153115/101217/156905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/kq7A964B40kWDs9red7vIm6MnuU.jpg" group-title="Pasta Temporária",Central Park S01 E04
+http://lxls.mx:80/series/994153115/101217/156903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E05" tvg-logo="http://lxls.mx:8080/images/dd323f9af4d5bf441b632714b917c71f.jpg" group-title="Pasta Temporária",Central Park S01 E05
+http://lxls.mx:80/series/994153115/101217/156900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/wXprgFgwnWlR7ICL0uJX4Jn7Iqe.jpg" group-title="Pasta Temporária",Central Park S01 E06
+http://lxls.mx:80/series/994153115/101217/156897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/cx9Tz4YPHdzSNQZ1RbBnhUYpQRK.jpg" group-title="Pasta Temporária",Central Park S01 E07
+http://lxls.mx:80/series/994153115/101217/156896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/zCaUER2H3T9t7EzlBrlCGZyL3Ib.jpg" group-title="Pasta Temporária",Central Park S01 E08
+http://lxls.mx:80/series/994153115/101217/156893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/aYPy1CagwxolCsde7UhSzxM6jyR.jpg" group-title="Pasta Temporária",Central Park S01 E09
+http://lxls.mx:80/series/994153115/101217/156891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/nmHj3TetuTJt89vquPpoJe1MnbV.jpg" group-title="Pasta Temporária",Central Park S01 E10
+http://lxls.mx:80/series/994153115/101217/156889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S02 E01" tvg-logo="http://lxls.mx:8080/images/dd323f9af4d5bf441b632714b917c71f.jpg" group-title="Pasta Temporária",Central Park S02 E01
+http://lxls.mx:80/series/994153115/101217/146640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S02 E02" tvg-logo="http://lxls.mx:8080/images/dd323f9af4d5bf441b632714b917c71f.jpg" group-title="Pasta Temporária",Central Park S02 E02
+http://lxls.mx:80/series/994153115/101217/146639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/7xmTihRBmMbCX08yGrMO9UWMZP2.jpg" group-title="Pasta Temporária",Central Park S02 E03
+http://lxls.mx:80/series/994153115/101217/146638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/pUBNrfS9UvlsL5PfbGelcZ0vZhI.jpg" group-title="Pasta Temporária",Central Park S02 E04
+http://lxls.mx:80/series/994153115/101217/146637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S02 E05" tvg-logo="http://lxls.mx:8080/images/dd323f9af4d5bf441b632714b917c71f.jpg" group-title="Pasta Temporária",Central Park S02 E05
+http://lxls.mx:80/series/994153115/101217/146636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/rzG25LkcA8PIZWLn4HUvkPSdSdU.jpg" group-title="Pasta Temporária",Central Park S02 E06
+http://lxls.mx:80/series/994153115/101217/146635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S02 E07" tvg-logo="http://lxls.mx:8080/images/dd323f9af4d5bf441b632714b917c71f.jpg" group-title="Pasta Temporária",Central Park S02 E07
+http://lxls.mx:80/series/994153115/101217/146634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Park S02 E08" tvg-logo="http://lxls.mx:8080/images/dd323f9af4d5bf441b632714b917c71f.jpg" group-title="Pasta Temporária",Central Park S02 E08
+http://lxls.mx:80/series/994153115/101217/146633.mp4

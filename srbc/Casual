@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Casual S01 E01" tvg-logo="http://lxls.mx:8080/images/124cab0add37925624bd8335a6f1bcdb.jpg" group-title="Séries | Globoplay",Casual S01 E01
+http://lxls.mx:80/series/994153115/101217/180523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casual S01 E02" tvg-logo="http://lxls.mx:8080/images/124cab0add37925624bd8335a6f1bcdb.jpg" group-title="Séries | Globoplay",Casual S01 E02
+http://lxls.mx:80/series/994153115/101217/180522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casual S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/aC5wVQ9uBVau7O7dPa9Ga0mgCIq.jpg" group-title="Séries | Globoplay",Casual S01 E03
+http://lxls.mx:80/series/994153115/101217/180521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casual S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/wv5i3y9ACQVHl7P3W26zwlPLKve.jpg" group-title="Séries | Globoplay",Casual S01 E04
+http://lxls.mx:80/series/994153115/101217/180520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casual S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/4WJegEjG1i4FsHd5X5gaPlkdrrH.jpg" group-title="Séries | Globoplay",Casual S01 E05
+http://lxls.mx:80/series/994153115/101217/180519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casual S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/goVaywgFyzUF7tfBVFpISGBz48y.jpg" group-title="Séries | Globoplay",Casual S01 E06
+http://lxls.mx:80/series/994153115/101217/180518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casual S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/2hfX5yELhCBNAvnUHcgmDVf9QOr.jpg" group-title="Séries | Globoplay",Casual S01 E07
+http://lxls.mx:80/series/994153115/101217/180517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casual S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/qOO2Io51xgzC58Pq1YU4qZ93vwe.jpg" group-title="Séries | Globoplay",Casual S01 E08
+http://lxls.mx:80/series/994153115/101217/180516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casual S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/szTe6sAqJQdypb5G5ai7HGtI0Sv.jpg" group-title="Séries | Globoplay",Casual S01 E09
+http://lxls.mx:80/series/994153115/101217/180515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casual S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/3s4Y2x5uIznYBElKqxn1KA4JJzW.jpg" group-title="Séries | Globoplay",Casual S01 E10
+http://lxls.mx:80/series/994153115/101217/180514.mp4

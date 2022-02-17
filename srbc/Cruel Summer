@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Cruel Summer S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/skO3eP0JFqVrMzcuVvJ245FVbT2.jpg" group-title="Séries | Amazon Prime",Cruel Summer S01 E01
+http://lxls.mx:80/series/994153115/101217/152881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruel Summer S01 E02" tvg-logo="http://lxls.mx:8080/images/c09c659d3a5371a39d4e866d2590b568.jpg" group-title="Séries | Amazon Prime",Cruel Summer S01 E02
+http://lxls.mx:80/series/994153115/101217/152879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruel Summer S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/p0B4ny3Hx3oIkvm95x3Kohsxysm.jpg" group-title="Séries | Amazon Prime",Cruel Summer S01 E03
+http://lxls.mx:80/series/994153115/101217/152876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruel Summer S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/sbFFpH0o6rfJd31ObnizHSiuyJZ.jpg" group-title="Séries | Amazon Prime",Cruel Summer S01 E04
+http://lxls.mx:80/series/994153115/101217/152874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruel Summer S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/16RfELpUHknZcwhbTf06UrpdN4z.jpg" group-title="Séries | Amazon Prime",Cruel Summer S01 E05
+http://lxls.mx:80/series/994153115/101217/152871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruel Summer S01 E06" tvg-logo="http://lxls.mx:8080/images/c09c659d3a5371a39d4e866d2590b568.jpg" group-title="Séries | Amazon Prime",Cruel Summer S01 E06
+http://lxls.mx:80/series/994153115/101217/152869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruel Summer S01 E07" tvg-logo="http://lxls.mx:8080/images/c09c659d3a5371a39d4e866d2590b568.jpg" group-title="Séries | Amazon Prime",Cruel Summer S01 E07
+http://lxls.mx:80/series/994153115/101217/152866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruel Summer S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/9U7pKChQv8vsbpjnmtnXJ2t8Y9o.jpg" group-title="Séries | Amazon Prime",Cruel Summer S01 E08
+http://lxls.mx:80/series/994153115/101217/152863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruel Summer S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/cMOsQGJzPQOViZf8eZ9oGMHF14x.jpg" group-title="Séries | Amazon Prime",Cruel Summer S01 E09
+http://lxls.mx:80/series/994153115/101217/152861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruel Summer S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/nyk6OHTLN7iQ6JfObfQJGRaBPy0.jpg" group-title="Séries | Amazon Prime",Cruel Summer S01 E10
+http://lxls.mx:80/series/994153115/101217/152858.mp4

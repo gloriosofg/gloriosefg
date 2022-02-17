@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Criminal  Espanha S01 E01" tvg-logo="http://lxls.mx:8080/images/1f2b0489acca37f67ab108719657f7f1.jpg" group-title="Séries | Netflix",Criminal  Espanha S01 E01
+http://lxls.mx:80/series/994153115/101217/212390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminal  Espanha S01 E02" tvg-logo="http://lxls.mx:8080/images/1f2b0489acca37f67ab108719657f7f1.jpg" group-title="Séries | Netflix",Criminal  Espanha S01 E02
+http://lxls.mx:80/series/994153115/101217/212389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminal  Espanha S01 E03" tvg-logo="http://lxls.mx:8080/images/1f2b0489acca37f67ab108719657f7f1.jpg" group-title="Séries | Netflix",Criminal  Espanha S01 E03
+http://lxls.mx:80/series/994153115/101217/212388.mp4

@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/thaMHLz5l6TVL8R4EzaBkjn2EZA.jpg" group-title="Séries | HBO Max",Chernobyl S01 E01
+http://lxls.mx:80/series/994153115/101217/216131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kVsUEtOOYeLRmABVuZztl4k9onO.jpg" group-title="Séries | HBO Max",Chernobyl S01 E02
+http://lxls.mx:80/series/994153115/101217/216130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/f3AgIEfGWWO3qNoxymagUqCBaE8.jpg" group-title="Séries | HBO Max",Chernobyl S01 E03
+http://lxls.mx:80/series/994153115/101217/215989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/xV2eVT4ejGhVn9OIMCo4uBOhmCC.jpg" group-title="Séries | HBO Max",Chernobyl S01 E04
+http://lxls.mx:80/series/994153115/101217/215804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/mgXm2Y6SOFDHtD5thi2LmS7uQBj.jpg" group-title="Séries | HBO Max",Chernobyl S01 E05
+http://lxls.mx:80/series/994153115/101217/215722.mp4

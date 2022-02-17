@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Curon S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rMFz1rAd3rQPWUOdeQrN86Nrt2C.jpg" group-title="Séries | Netflix",Curon S01 E01
+http://lxls.mx:80/series/994153115/101217/189725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curon S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/3vGctbz1XEarmt6UNkK8V2oicV8.jpg" group-title="Séries | Netflix",Curon S01 E02
+http://lxls.mx:80/series/994153115/101217/189724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curon S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/3YPz2oOtXA7ShlEXyN8wEke3eKU.jpg" group-title="Séries | Netflix",Curon S01 E03
+http://lxls.mx:80/series/994153115/101217/189723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curon S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/9XXl6gfq0zOYfK9eZwCUjsPHq6W.jpg" group-title="Séries | Netflix",Curon S01 E04
+http://lxls.mx:80/series/994153115/101217/189722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curon S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/jA4hsMetco92S1sSRkhMfrY9H77.jpg" group-title="Séries | Netflix",Curon S01 E05
+http://lxls.mx:80/series/994153115/101217/189721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curon S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/9SOWGnG04PW41cBg4OcgFYRk3se.jpg" group-title="Séries | Netflix",Curon S01 E06
+http://lxls.mx:80/series/994153115/101217/189720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curon S01 E07" tvg-logo="http://lxls.mx:8080/images/3b35ddcdec8475f61f51c60a35b02cc2.jpg" group-title="Séries | Netflix",Curon S01 E07
+http://lxls.mx:80/series/994153115/101217/189719.mp4

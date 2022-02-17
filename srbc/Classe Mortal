@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Classe Mortal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/fFYNixeaetlBvMC4uEAveYMgkw8.jpg" group-title="Séries | Globoplay",Classe Mortal S01 E01
+http://lxls.mx:80/series/994153115/101217/206005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Classe Mortal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/yRaXNuG5oEobphyzu7wPuSRVHJe.jpg" group-title="Séries | Globoplay",Classe Mortal S01 E02
+http://lxls.mx:80/series/994153115/101217/206004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Classe Mortal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/62IEn6AEAy0PL8DU2cG9qXE4g6t.jpg" group-title="Séries | Globoplay",Classe Mortal S01 E03
+http://lxls.mx:80/series/994153115/101217/206003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Classe Mortal S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/lkzT1KC59xGawT4A70qWLSBniPE.jpg" group-title="Séries | Globoplay",Classe Mortal S01 E04
+http://lxls.mx:80/series/994153115/101217/206002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Classe Mortal S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/j31hvUMVua8S44XASNffcBbg4GA.jpg" group-title="Séries | Globoplay",Classe Mortal S01 E05
+http://lxls.mx:80/series/994153115/101217/206001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Classe Mortal S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/aGAgV9hDbYvgaqt3feAWh0uMGis.jpg" group-title="Séries | Globoplay",Classe Mortal S01 E06
+http://lxls.mx:80/series/994153115/101217/206000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Classe Mortal S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/bSxuskxkjHJLlwQQupKVCJ9eBXs.jpg" group-title="Séries | Globoplay",Classe Mortal S01 E07
+http://lxls.mx:80/series/994153115/101217/205999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Classe Mortal S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/4keREQwcDz1Is5yEXZb7cbEtY1N.jpg" group-title="Séries | Globoplay",Classe Mortal S01 E08
+http://lxls.mx:80/series/994153115/101217/205998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Classe Mortal S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/vFRwykd75dDaw8FNxE5o3EmCXwX.jpg" group-title="Séries | Globoplay",Classe Mortal S01 E09
+http://lxls.mx:80/series/994153115/101217/205997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Classe Mortal S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/gMvu5BK95OxeGCAb7fF9T6Ahv53.jpg" group-title="Séries | Globoplay",Classe Mortal S01 E10
+http://lxls.mx:80/series/994153115/101217/205996.mp4

@@ -1,0 +1,27 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Clique S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ob5qjlxH8gqK7HUCa0AD726bxkC.jpg" group-title="Séries | Globoplay",Clique S01 E01
+http://lxls.mx:80/series/994153115/101217/210782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clique S01 E02" tvg-logo="http://lxls.mx:8080/images/5a268900974a82c01dc38425f02c4a82.jpg" group-title="Séries | Globoplay",Clique S01 E02
+http://lxls.mx:80/series/994153115/101217/210781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clique S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/9Du1EBOxxCbWEe7ziYmoAYdbA9a.jpg" group-title="Séries | Globoplay",Clique S01 E03
+http://lxls.mx:80/series/994153115/101217/210780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clique S01 E04" tvg-logo="http://lxls.mx:8080/images/5a268900974a82c01dc38425f02c4a82.jpg" group-title="Séries | Globoplay",Clique S01 E04
+http://lxls.mx:80/series/994153115/101217/210779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clique S01 E05" tvg-logo="http://lxls.mx:8080/images/5a268900974a82c01dc38425f02c4a82.jpg" group-title="Séries | Globoplay",Clique S01 E05
+http://lxls.mx:80/series/994153115/101217/210778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clique S01 E06" tvg-logo="http://lxls.mx:8080/images/5a268900974a82c01dc38425f02c4a82.jpg" group-title="Séries | Globoplay",Clique S01 E06
+http://lxls.mx:80/series/994153115/101217/210777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clique S02 E01" tvg-logo="http://lxls.mx:8080/images/5a268900974a82c01dc38425f02c4a82.jpg" group-title="Séries | Globoplay",Clique S02 E01
+http://lxls.mx:80/series/994153115/101217/210488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clique S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/vzmXU9jptmG7auyqlQyR8wPrhWy.jpg" group-title="Séries | Globoplay",Clique S02 E02
+http://lxls.mx:80/series/994153115/101217/210487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clique S02 E03" tvg-logo="http://lxls.mx:8080/images/5a268900974a82c01dc38425f02c4a82.jpg" group-title="Séries | Globoplay",Clique S02 E03
+http://lxls.mx:80/series/994153115/101217/210486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clique S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/2uQueFBRCfvePeZDvtUPf4kRfXT.jpg" group-title="Séries | Globoplay",Clique S02 E04
+http://lxls.mx:80/series/994153115/101217/210485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clique S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/2euqLEnXmD3j28lWnyCNeQ9xxx9.jpg" group-title="Séries | Globoplay",Clique S02 E05
+http://lxls.mx:80/series/994153115/101217/210484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clique S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/rkzjMYc6q3l7GL03GQ5YgnYvYpW.jpg" group-title="Séries | Globoplay",Clique S02 E06
+http://lxls.mx:80/series/994153115/101217/210483.mp4

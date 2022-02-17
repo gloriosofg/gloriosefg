@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Cozinhando com Paris Hilton S01 E01" tvg-logo="http://lxls.mx:8080/images/552d573a52e9e4c631c056fc5028baf8.jpg" group-title="Séries | Netflix",Cozinhando com Paris Hilton S01 E01
+http://lxls.mx:80/series/994153115/101217/153987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cozinhando com Paris Hilton S01 E02" tvg-logo="http://lxls.mx:8080/images/552d573a52e9e4c631c056fc5028baf8.jpg" group-title="Séries | Netflix",Cozinhando com Paris Hilton S01 E02
+http://lxls.mx:80/series/994153115/101217/153984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cozinhando com Paris Hilton S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/1XiGOfSIzrA759qHkA09C6MzWOK.jpg" group-title="Séries | Netflix",Cozinhando com Paris Hilton S01 E03
+http://lxls.mx:80/series/994153115/101217/153982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cozinhando com Paris Hilton S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/fyueeKexpODqXOfLB2TQhxMPldv.jpg" group-title="Séries | Netflix",Cozinhando com Paris Hilton S01 E04
+http://lxls.mx:80/series/994153115/101217/153980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cozinhando com Paris Hilton S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/9bxBaELJZxcwQt7snmPCvATV63Z.jpg" group-title="Séries | Netflix",Cozinhando com Paris Hilton S01 E05
+http://lxls.mx:80/series/994153115/101217/153978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cozinhando com Paris Hilton S01 E06" tvg-logo="http://lxls.mx:8080/images/552d573a52e9e4c631c056fc5028baf8.jpg" group-title="Séries | Netflix",Cozinhando com Paris Hilton S01 E06
+http://lxls.mx:80/series/994153115/101217/153976.mp4

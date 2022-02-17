@@ -1,0 +1,29 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/4vOjGWWuAKpGf1snaAPoxzNKgOq.jpg" group-title="Séries | Netflix",Coisa Mais Linda S01 E01
+http://lxls.mx:80/series/994153115/101217/212403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S01 E02" tvg-logo="http://lxls.mx:8080/images/ece6c5407913c7031eca9710c70edb51.jpg" group-title="Séries | Netflix",Coisa Mais Linda S01 E02
+http://lxls.mx:80/series/994153115/101217/212402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S01 E03" tvg-logo="http://lxls.mx:8080/images/ece6c5407913c7031eca9710c70edb51.jpg" group-title="Séries | Netflix",Coisa Mais Linda S01 E03
+http://lxls.mx:80/series/994153115/101217/212401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S01 E04" tvg-logo="http://lxls.mx:8080/images/ece6c5407913c7031eca9710c70edb51.jpg" group-title="Séries | Netflix",Coisa Mais Linda S01 E04
+http://lxls.mx:80/series/994153115/101217/212400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S01 E05" tvg-logo="http://lxls.mx:8080/images/ece6c5407913c7031eca9710c70edb51.jpg" group-title="Séries | Netflix",Coisa Mais Linda S01 E05
+http://lxls.mx:80/series/994153115/101217/212399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S01 E06" tvg-logo="http://lxls.mx:8080/images/ece6c5407913c7031eca9710c70edb51.jpg" group-title="Séries | Netflix",Coisa Mais Linda S01 E06
+http://lxls.mx:80/series/994153115/101217/212398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S01 E07" tvg-logo="http://lxls.mx:8080/images/ece6c5407913c7031eca9710c70edb51.jpg" group-title="Séries | Netflix",Coisa Mais Linda S01 E07
+http://lxls.mx:80/series/994153115/101217/212397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S02 E01" tvg-logo="http://lxls.mx:8080/images/ece6c5407913c7031eca9710c70edb51.jpg" group-title="Séries | Netflix",Coisa Mais Linda S02 E01
+http://lxls.mx:80/series/994153115/101217/202692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S02 E02" tvg-logo="http://lxls.mx:8080/images/ece6c5407913c7031eca9710c70edb51.jpg" group-title="Séries | Netflix",Coisa Mais Linda S02 E02
+http://lxls.mx:80/series/994153115/101217/202691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S02 E03" tvg-logo="http://lxls.mx:8080/images/ece6c5407913c7031eca9710c70edb51.jpg" group-title="Séries | Netflix",Coisa Mais Linda S02 E03
+http://lxls.mx:80/series/994153115/101217/202690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S02 E04" tvg-logo="http://lxls.mx:8080/images/ece6c5407913c7031eca9710c70edb51.jpg" group-title="Séries | Netflix",Coisa Mais Linda S02 E04
+http://lxls.mx:80/series/994153115/101217/202689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S02 E05" tvg-logo="http://lxls.mx:8080/images/ece6c5407913c7031eca9710c70edb51.jpg" group-title="Séries | Netflix",Coisa Mais Linda S02 E05
+http://lxls.mx:80/series/994153115/101217/202688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coisa Mais Linda S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/rd2zo4olrsC9BZyBR4RKycx6HTM.jpg" group-title="Séries | Netflix",Coisa Mais Linda S02 E06
+http://lxls.mx:80/series/994153115/101217/202687.mp4

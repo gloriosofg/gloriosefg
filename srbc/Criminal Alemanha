@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Alemanha S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/paTGJLYwF0OteNrhhpv4MmhQnqP.jpg" group-title="Séries | Netflix",Criminal Alemanha S01 E01
+http://lxls.mx:80/series/994153115/101217/212393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Alemanha S01 E02" tvg-logo="http://lxls.mx:8080/images/300b732e49615b705a9989c08e26565a.jpg" group-title="Séries | Netflix",Criminal Alemanha S01 E02
+http://lxls.mx:80/series/994153115/101217/212392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminal Alemanha S01 E03" tvg-logo="http://lxls.mx:8080/images/300b732e49615b705a9989c08e26565a.jpg" group-title="Séries | Netflix",Criminal Alemanha S01 E03
+http://lxls.mx:80/series/994153115/101217/212391.mp4

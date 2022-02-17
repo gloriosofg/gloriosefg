@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E01" tvg-logo="http://lxls.mx:8080/images/dcc420d8e165ac2f7d63c6ea96a60fad.jpg" group-title="Séries | Netflix",Coletivo Terror S01 E01
+http://lxls.mx:80/series/994153115/101217/206980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/mml5jSVuromXQ60UaWOPbcITdMR.jpg" group-title="Séries | Netflix",Coletivo Terror S01 E02
+http://lxls.mx:80/series/994153115/101217/206979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/7I1SN5LEDiOeQZGxBrrbnbsfKff.jpg" group-title="Séries | Netflix",Coletivo Terror S01 E03
+http://lxls.mx:80/series/994153115/101217/206978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E04" tvg-logo="http://lxls.mx:8080/images/dcc420d8e165ac2f7d63c6ea96a60fad.jpg" group-title="Séries | Netflix",Coletivo Terror S01 E04
+http://lxls.mx:80/series/994153115/101217/206977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/btHJ05NfdFqXTTgxLSU73HZhIcs.jpg" group-title="Séries | Netflix",Coletivo Terror S01 E05
+http://lxls.mx:80/series/994153115/101217/206976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coletivo Terror S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/cxwjXhvVgOCTwMEoQ0KnbgUIu09.jpg" group-title="Séries | Netflix",Coletivo Terror S01 E06
+http://lxls.mx:80/series/994153115/101217/206975.mp4

@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop S01 E01" tvg-logo="http://lxls.mx:8080/images/d5c20a53ce4d6a8578fff32240d64a16.jpg" group-title="Séries | Netflix",Cowboy Bebop S01 E01
+http://lxls.mx:80/series/994153115/101217/142855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/u4kv86ktto5tkiA5o4zubV5jROX.jpg" group-title="Séries | Netflix",Cowboy Bebop S01 E02
+http://lxls.mx:80/series/994153115/101217/142854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/97x7RgRtyC2TPr8ngIGL5Pj7SMA.jpg" group-title="Séries | Netflix",Cowboy Bebop S01 E03
+http://lxls.mx:80/series/994153115/101217/142853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/49K0ljHV0tXCiMih7cyf7u5huPF.jpg" group-title="Séries | Netflix",Cowboy Bebop S01 E04
+http://lxls.mx:80/series/994153115/101217/142852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/4J29udWoHMKg9EqlUVCrvv3OL2J.jpg" group-title="Séries | Netflix",Cowboy Bebop S01 E05
+http://lxls.mx:80/series/994153115/101217/142851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/aPxX0yCS40b0Rh67QBa1q1hQpkd.jpg" group-title="Séries | Netflix",Cowboy Bebop S01 E06
+http://lxls.mx:80/series/994153115/101217/142850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/bgvz51A4QzHomoJuDqtapjrx4xn.jpg" group-title="Séries | Netflix",Cowboy Bebop S01 E07
+http://lxls.mx:80/series/994153115/101217/142849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/88O5Tg6nwrlhQbkWKpVAvOy6xCC.jpg" group-title="Séries | Netflix",Cowboy Bebop S01 E08
+http://lxls.mx:80/series/994153115/101217/142848.mp4

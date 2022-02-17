@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Círculo de Fogo The Black S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/4lhW00mchRpJ12e8hu43PDHpvr3.jpg" group-title="Séries | Netflix",Círculo de Fogo The Black S01 E01
+http://lxls.mx:80/series/994153115/101217/174516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Círculo de Fogo The Black S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/7kV8PaGEX5G39xWPKXKAxCrZuRL.jpg" group-title="Séries | Netflix",Círculo de Fogo The Black S01 E02
+http://lxls.mx:80/series/994153115/101217/174515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Círculo de Fogo The Black S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/sGvwlJgKSxqaUesEdq59ji6dVAX.jpg" group-title="Séries | Netflix",Círculo de Fogo The Black S01 E03
+http://lxls.mx:80/series/994153115/101217/174514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Círculo de Fogo The Black S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/3nzyjO2e0qWePL0AWHYdMkq88bG.jpg" group-title="Séries | Netflix",Círculo de Fogo The Black S01 E04
+http://lxls.mx:80/series/994153115/101217/174513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Círculo de Fogo The Black S01 E05" tvg-logo="http://lxls.mx:8080/images/b1cd09fee3573b495a6b55b172c6dd82.jpg" group-title="Séries | Netflix",Círculo de Fogo The Black S01 E05
+http://lxls.mx:80/series/994153115/101217/174512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Círculo de Fogo The Black S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/mPzZzJgsLZAKwlnlsgJEgwNVISI.jpg" group-title="Séries | Netflix",Círculo de Fogo The Black S01 E06
+http://lxls.mx:80/series/994153115/101217/174511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Círculo de Fogo The Black S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/iyyqi2o0U2gYu0fujAyUUSdjPSv.jpg" group-title="Séries | Netflix",Círculo de Fogo The Black S01 E07
+http://lxls.mx:80/series/994153115/101217/174510.mp4

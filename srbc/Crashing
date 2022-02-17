@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/kRbFuIvWpnO2zEwobHPv0XAd0cO.jpg" group-title="Séries | Netflix",Crashing S01 E01
+http://lxls.mx:80/series/994153115/101217/179823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/fcg9TMceNNLlV5LsVBjTUaZtTH8.jpg" group-title="Séries | Netflix",Crashing S01 E02
+http://lxls.mx:80/series/994153115/101217/179822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/AeUQsLiZE0Rm8iE15WbmPGlfRXh.jpg" group-title="Séries | Netflix",Crashing S01 E03
+http://lxls.mx:80/series/994153115/101217/179821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dKsPMZGQ7haCjul52Ve1KtsOyRa.jpg" group-title="Séries | Netflix",Crashing S01 E04
+http://lxls.mx:80/series/994153115/101217/179820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/nKFhBOq3HXAfdhhV4wNUjtKQlMn.jpg" group-title="Séries | Netflix",Crashing S01 E05
+http://lxls.mx:80/series/994153115/101217/179819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/h2FhOUXGAbISkBj0oK1Lle6h6FL.jpg" group-title="Séries | Netflix",Crashing S01 E06
+http://lxls.mx:80/series/994153115/101217/179818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S01 E07" tvg-logo="http://lxls.mx:8080/images/5840ca2eb83fc03e57f4ccf7b0ba385b.jpg" group-title="Séries | Netflix",Crashing S01 E07
+http://lxls.mx:80/series/994153115/101217/179817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S01 E08" tvg-logo="http://lxls.mx:8080/images/5840ca2eb83fc03e57f4ccf7b0ba385b.jpg" group-title="Séries | Netflix",Crashing S01 E08
+http://lxls.mx:80/series/994153115/101217/179816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S02 E01" tvg-logo="http://lxls.mx:8080/images/5840ca2eb83fc03e57f4ccf7b0ba385b.jpg" group-title="Séries | Netflix",Crashing S02 E01
+http://lxls.mx:80/series/994153115/101217/178955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S02 E02" tvg-logo="http://lxls.mx:8080/images/5840ca2eb83fc03e57f4ccf7b0ba385b.jpg" group-title="Séries | Netflix",Crashing S02 E02
+http://lxls.mx:80/series/994153115/101217/178954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S02 E03" tvg-logo="http://lxls.mx:8080/images/5840ca2eb83fc03e57f4ccf7b0ba385b.jpg" group-title="Séries | Netflix",Crashing S02 E03
+http://lxls.mx:80/series/994153115/101217/178953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S02 E04" tvg-logo="http://lxls.mx:8080/images/5840ca2eb83fc03e57f4ccf7b0ba385b.jpg" group-title="Séries | Netflix",Crashing S02 E04
+http://lxls.mx:80/series/994153115/101217/178952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S02 E05" tvg-logo="http://lxls.mx:8080/images/5840ca2eb83fc03e57f4ccf7b0ba385b.jpg" group-title="Séries | Netflix",Crashing S02 E05
+http://lxls.mx:80/series/994153115/101217/178951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S02 E06" tvg-logo="http://lxls.mx:8080/images/5840ca2eb83fc03e57f4ccf7b0ba385b.jpg" group-title="Séries | Netflix",Crashing S02 E06
+http://lxls.mx:80/series/994153115/101217/178950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S02 E07" tvg-logo="http://lxls.mx:8080/images/5840ca2eb83fc03e57f4ccf7b0ba385b.jpg" group-title="Séries | Netflix",Crashing S02 E07
+http://lxls.mx:80/series/994153115/101217/178949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crashing S02 E08" tvg-logo="http://lxls.mx:8080/images/5840ca2eb83fc03e57f4ccf7b0ba385b.jpg" group-title="Séries | Netflix",Crashing S02 E08
+http://lxls.mx:80/series/994153115/101217/178948.mp4

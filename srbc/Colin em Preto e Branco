@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Colin em Preto e Branco S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/sIlFFhwLB4FYk57J6lGTzqS9jJ5.jpg" group-title="Séries | Netflix",Colin em Preto e Branco S01 E01
+http://lxls.mx:80/series/994153115/101217/144379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colin em Preto e Branco S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/hzR7g22zvo7Mma6qsU9XwBG5I9G.jpg" group-title="Séries | Netflix",Colin em Preto e Branco S01 E02
+http://lxls.mx:80/series/994153115/101217/144378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colin em Preto e Branco S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/zvEuWFAg52OHvsDttulGCNPvntg.jpg" group-title="Séries | Netflix",Colin em Preto e Branco S01 E03
+http://lxls.mx:80/series/994153115/101217/144377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colin em Preto e Branco S01 E04" tvg-logo="http://lxls.mx:8080/images/fb170bfb4d0f879c3a0157915edae25d.jpg" group-title="Séries | Netflix",Colin em Preto e Branco S01 E04
+http://lxls.mx:80/series/994153115/101217/144376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colin em Preto e Branco S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/xtvyaxRp2l6wkV87XFIiQyr8QjP.jpg" group-title="Séries | Netflix",Colin em Preto e Branco S01 E05
+http://lxls.mx:80/series/994153115/101217/144375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colin em Preto e Branco S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/yQudw9X6Ko59DgSb42bFoYtoQzg.jpg" group-title="Séries | Netflix",Colin em Preto e Branco S01 E06
+http://lxls.mx:80/series/994153115/101217/144374.mp4

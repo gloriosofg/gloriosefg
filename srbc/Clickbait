@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Clickbait S01 E01" tvg-logo="http://lxls.mx:8080/images/cdf3f376ec3ee3804f4e49e3c43650e2.jpg" group-title="Séries | Netflix",Clickbait S01 E01
+http://lxls.mx:80/series/994153115/101217/151245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clickbait S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/A22srNnR5Va86JeE3UZAFqHVL7z.jpg" group-title="Séries | Netflix",Clickbait S01 E02
+http://lxls.mx:80/series/994153115/101217/151242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clickbait S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/n8FY71LkuIPdAVbEEeHcXsrvnax.jpg" group-title="Séries | Netflix",Clickbait S01 E03
+http://lxls.mx:80/series/994153115/101217/151240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clickbait S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dNIljOCJur1sLkr6zLRurWC2iYX.jpg" group-title="Séries | Netflix",Clickbait S01 E04
+http://lxls.mx:80/series/994153115/101217/151237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clickbait S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/jFTw96EccbRZXY1rcIaPzJzB49q.jpg" group-title="Séries | Netflix",Clickbait S01 E05
+http://lxls.mx:80/series/994153115/101217/151235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clickbait S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/a3Z2DXJroPK2CLZfBcqTSWPrszJ.jpg" group-title="Séries | Netflix",Clickbait S01 E06
+http://lxls.mx:80/series/994153115/101217/151232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clickbait S01 E07" tvg-logo="http://lxls.mx:8080/images/cdf3f376ec3ee3804f4e49e3c43650e2.jpg" group-title="Séries | Netflix",Clickbait S01 E07
+http://lxls.mx:80/series/994153115/101217/151230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clickbait S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/uEVKiECFWs4SiHO0alZUkS3WVbL.jpg" group-title="Séries | Netflix",Clickbait S01 E08
+http://lxls.mx:80/series/994153115/101217/151227.mp4

@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Catherine the Great S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/nrAb5pKPlsT5XwgTIGVVY6Puyl6.jpg" group-title="Séries | HBO Max",Catherine the Great S01 E01
+http://lxls.mx:80/series/994153115/101217/158428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catherine the Great S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/pzOb2mv5g8M8ogY49ADD46Mv4SG.jpg" group-title="Séries | HBO Max",Catherine the Great S01 E02
+http://lxls.mx:80/series/994153115/101217/158425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catherine the Great S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/46s4SGUB0eGNNZNjIktgGPpbAVt.jpg" group-title="Séries | HBO Max",Catherine the Great S01 E03
+http://lxls.mx:80/series/994153115/101217/158424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catherine the Great S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/1tqvc1p9QmnBBanPuxxdWOl4GL.jpg" group-title="Séries | HBO Max",Catherine the Great S01 E04
+http://lxls.mx:80/series/994153115/101217/158422.mp4

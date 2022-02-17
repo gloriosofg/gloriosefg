@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Criminal UK S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/4F6uD8X33rvruOWWBGoFwEXnF2Z.jpg" group-title="Séries | Netflix",Criminal UK S01 E01
+http://lxls.mx:80/series/994153115/101217/212387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminal UK S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/qkOncddoDP6gV0cM5pdbwtVhYyd.jpg" group-title="Séries | Netflix",Criminal UK S01 E02
+http://lxls.mx:80/series/994153115/101217/212386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminal UK S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/usmKGVwqeSfOLpiLUYW9XbaLhw4.jpg" group-title="Séries | Netflix",Criminal UK S01 E03
+http://lxls.mx:80/series/994153115/101217/212385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminal UK S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/1WbGqpwAK7sRED3I69wcSHP4BG2.jpg" group-title="Séries | Netflix",Criminal UK S02 E01
+http://lxls.mx:80/series/994153115/101217/187788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminal UK S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4Wi0W7twYLcKcNuNj3Pfxn0SaMC.jpg" group-title="Séries | Netflix",Criminal UK S02 E02
+http://lxls.mx:80/series/994153115/101217/187787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminal UK S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/wZuYFsyLkMoj1siuqVtBI1c6FhL.jpg" group-title="Séries | Netflix",Criminal UK S02 E03
+http://lxls.mx:80/series/994153115/101217/187786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminal UK S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8w7hbN0GBOBkOnFYknxQgAPm2KZ.jpg" group-title="Séries | Netflix",Criminal UK S02 E04
+http://lxls.mx:80/series/994153115/101217/187785.mp4
