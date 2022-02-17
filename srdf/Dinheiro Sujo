@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Dinheiro Sujo S01 E01" tvg-logo="http://lxls.mx:8080/images/5513c8b221e1eef7c604fbf20012083e.jpg" group-title="Séries | Netflix",Dinheiro Sujo S01 E01
+http://lxls.mx:80/series/994153115/101217/210083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinheiro Sujo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/hAhFJdZccUELy7HrI0Qx0jNSEyk.jpg" group-title="Séries | Netflix",Dinheiro Sujo S01 E02
+http://lxls.mx:80/series/994153115/101217/210082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinheiro Sujo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/3RUDehGmbuecN2E8Oc2CsY8wAEv.jpg" group-title="Séries | Netflix",Dinheiro Sujo S01 E03
+http://lxls.mx:80/series/994153115/101217/210081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinheiro Sujo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/z8Pt9zZFya8ag2YnE2SvodUraga.jpg" group-title="Séries | Netflix",Dinheiro Sujo S01 E04
+http://lxls.mx:80/series/994153115/101217/210080.mp4

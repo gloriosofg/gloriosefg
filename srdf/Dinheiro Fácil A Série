@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Dinheiro Fácil A Série S01 E01" tvg-logo="http://lxls.mx:8080/images/c42811fead3bb1f33ff1edb0559f97b8.jpg" group-title="Séries | Netflix",Dinheiro Fácil A Série S01 E01
+http://lxls.mx:80/series/994153115/101217/172225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinheiro Fácil A Série S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4rb3gGctKdch0xIWqRIhoqKiWxY.jpg" group-title="Séries | Netflix",Dinheiro Fácil A Série S01 E02
+http://lxls.mx:80/series/994153115/101217/172224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinheiro Fácil A Série S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/oIEfw5jOLSsJw0BtqICUKSgD9AM.jpg" group-title="Séries | Netflix",Dinheiro Fácil A Série S01 E03
+http://lxls.mx:80/series/994153115/101217/172223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinheiro Fácil A Série S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/rqsHUt1mT4Jp5poZumTr25nf6bg.jpg" group-title="Séries | Netflix",Dinheiro Fácil A Série S01 E04
+http://lxls.mx:80/series/994153115/101217/172222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinheiro Fácil A Série S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3de4Xgkcmcb0romOCPUPUyyyJKi.jpg" group-title="Séries | Netflix",Dinheiro Fácil A Série S01 E05
+http://lxls.mx:80/series/994153115/101217/172221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dinheiro Fácil A Série S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/61TFrfkO3qrpSvFSgO1KnnzJV9g.jpg" group-title="Séries | Netflix",Dinheiro Fácil A Série S01 E06
+http://lxls.mx:80/series/994153115/101217/172220.mp4

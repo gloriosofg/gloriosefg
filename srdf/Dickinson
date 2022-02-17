@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg" group-title="Séries | Comédia",Dickinson S01 E01
+http://lxls.mx:80/series/994153115/101217/212364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/pFnFG9eQPW63UvAkqBdB9R5HwEY.jpg" group-title="Séries | Comédia",Dickinson S01 E02
+http://lxls.mx:80/series/994153115/101217/212363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ddt7OhlteFsF4NScjO4xllwzezm.jpg" group-title="Séries | Comédia",Dickinson S01 E03
+http://lxls.mx:80/series/994153115/101217/212362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/i4CoFHp4cnZW7HoqE685qJRFh3N.jpg" group-title="Séries | Comédia",Dickinson S01 E04
+http://lxls.mx:80/series/994153115/101217/212361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/rLQofMXq2hSankbCbMdFo5LcnYi.jpg" group-title="Séries | Comédia",Dickinson S01 E05
+http://lxls.mx:80/series/994153115/101217/212360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg" group-title="Séries | Comédia",Dickinson S01 E06
+http://lxls.mx:80/series/994153115/101217/212359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg" group-title="Séries | Comédia",Dickinson S01 E07
+http://lxls.mx:80/series/994153115/101217/212358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg" group-title="Séries | Comédia",Dickinson S01 E08
+http://lxls.mx:80/series/994153115/101217/212357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/p4gZ6aHTgJrAQUvDwwCmrqVbI2n.jpg" group-title="Séries | Comédia",Dickinson S01 E09
+http://lxls.mx:80/series/994153115/101217/212356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dickinson S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg" group-title="Séries | Comédia",Dickinson S01 E10
+http://lxls.mx:80/series/994153115/101217/212355.mp4

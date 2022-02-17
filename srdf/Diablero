@@ -1,0 +1,31 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/wMzlRaiwd8Wrz6BvxmcK7We8kIM.jpg" group-title="Séries | Netflix",Diablero S01 E01
+http://lxls.mx:80/series/994153115/101217/208577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S01 E02" tvg-logo="http://lxls.mx:8080/images/09172991b63c1f249faaadd4092f77a8.jpg" group-title="Séries | Netflix",Diablero S01 E02
+http://lxls.mx:80/series/994153115/101217/208576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/A1TU2IiMtkdaukrfa0si8R25MXf.jpg" group-title="Séries | Netflix",Diablero S01 E03
+http://lxls.mx:80/series/994153115/101217/208575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S01 E04" tvg-logo="http://lxls.mx:8080/images/09172991b63c1f249faaadd4092f77a8.jpg" group-title="Séries | Netflix",Diablero S01 E04
+http://lxls.mx:80/series/994153115/101217/208574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/h93UhD43U1AfPBrvCYNQ7KTNNtH.jpg" group-title="Séries | Netflix",Diablero S01 E05
+http://lxls.mx:80/series/994153115/101217/208573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S01 E06" tvg-logo="http://lxls.mx:8080/images/09172991b63c1f249faaadd4092f77a8.jpg" group-title="Séries | Netflix",Diablero S01 E06
+http://lxls.mx:80/series/994153115/101217/208572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S01 E07" tvg-logo="http://lxls.mx:8080/images/09172991b63c1f249faaadd4092f77a8.jpg" group-title="Séries | Netflix",Diablero S01 E07
+http://lxls.mx:80/series/994153115/101217/208571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/b9JAtzGdzaHtUX3kmSJyUsK5cf7.jpg" group-title="Séries | Netflix",Diablero S01 E08
+http://lxls.mx:80/series/994153115/101217/208570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S02 E01" tvg-logo="http://lxls.mx:8080/images/09172991b63c1f249faaadd4092f77a8.jpg" group-title="Séries | Netflix",Diablero S02 E01
+http://lxls.mx:80/series/994153115/101217/208569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S02 E02" tvg-logo="http://lxls.mx:8080/images/09172991b63c1f249faaadd4092f77a8.jpg" group-title="Séries | Netflix",Diablero S02 E02
+http://lxls.mx:80/series/994153115/101217/208568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S02 E03" tvg-logo="http://lxls.mx:8080/images/09172991b63c1f249faaadd4092f77a8.jpg" group-title="Séries | Netflix",Diablero S02 E03
+http://lxls.mx:80/series/994153115/101217/208567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S02 E04" tvg-logo="http://lxls.mx:8080/images/09172991b63c1f249faaadd4092f77a8.jpg" group-title="Séries | Netflix",Diablero S02 E04
+http://lxls.mx:80/series/994153115/101217/208566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S02 E05" tvg-logo="http://lxls.mx:8080/images/09172991b63c1f249faaadd4092f77a8.jpg" group-title="Séries | Netflix",Diablero S02 E05
+http://lxls.mx:80/series/994153115/101217/208565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diablero S02 E06" tvg-logo="http://lxls.mx:8080/images/09172991b63c1f249faaadd4092f77a8.jpg" group-title="Séries | Netflix",Diablero S02 E06
+http://lxls.mx:80/series/994153115/101217/208564.mp4

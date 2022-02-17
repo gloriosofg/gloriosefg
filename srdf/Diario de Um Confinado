@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Diario de Um Confinado S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/sbQvvvOjDYDiqfsvr7ZQSfLdsbx.jpg" group-title="Séries | Globoplay",Diario de Um Confinado S01 E01
+http://lxls.mx:80/series/994153115/101217/203777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diario de Um Confinado S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Diario de Um Confinado S01 E02
+http://lxls.mx:80/series/994153115/101217/203776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diario de Um Confinado S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Diario de Um Confinado S01 E03
+http://lxls.mx:80/series/994153115/101217/203775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diario de Um Confinado S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Diario de Um Confinado S01 E04
+http://lxls.mx:80/series/994153115/101217/203774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diario de Um Confinado S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Diario de Um Confinado S01 E05
+http://lxls.mx:80/series/994153115/101217/203773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diario de Um Confinado S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Diario de Um Confinado S01 E06
+http://lxls.mx:80/series/994153115/101217/203772.mp4

@@ -1,0 +1,69 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3S9fxmcY8aGZjVDsoluY4pb8J5R.jpg" group-title="Séries | Globoplay", Einstein S01 E01
+http://lxls.mx:80/series/994153115/101217/190654.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/x2ov5Bab3XoVI2CMkGEwcxrD8gG.jpg" group-title="Séries | Globoplay", Einstein S01 E02
+http://lxls.mx:80/series/994153115/101217/190653.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/vEpWVtfHkJNMn18nRo3i3Zq9DkV.jpg" group-title="Séries | Globoplay", Einstein S01 E03
+http://lxls.mx:80/series/994153115/101217/190652.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/nIz8xyhjsSw0RtXD1vmLe4skxrk.jpg" group-title="Séries | Globoplay", Einstein S01 E04
+http://lxls.mx:80/series/994153115/101217/190651.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/yTP9lqG9vwrbvOPOWgo5oAV894N.jpg" group-title="Séries | Globoplay", Einstein S01 E05
+http://lxls.mx:80/series/994153115/101217/190650.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/4PabG53eb4m7USwuIZlglS8xckJ.jpg" group-title="Séries | Globoplay", Einstein S01 E06
+http://lxls.mx:80/series/994153115/101217/190649.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/e97hPG5jTdi6HAscZnRwnV5cei6.jpg" group-title="Séries | Globoplay", Einstein S01 E07
+http://lxls.mx:80/series/994153115/101217/190648.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/sQVXFHpjZmwtFnLYSgS4qBJJQ3T.jpg" group-title="Séries | Globoplay", Einstein S01 E08
+http://lxls.mx:80/series/994153115/101217/190647.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/n03TroPJURKtcNFnEYAUCGBkIGy.jpg" group-title="Séries | Globoplay", Einstein S01 E09
+http://lxls.mx:80/series/994153115/101217/190646.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/qlvL3kJjiOEolk2gwVpWNVJ1Js0.jpg" group-title="Séries | Globoplay", Einstein S01 E10
+http://lxls.mx:80/series/994153115/101217/190645.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S01 E11" tvg-logo="http://lxls.mx:8080/images/9163caa81081c13ca097d6f402466ed2.jpg" group-title="Séries | Globoplay", Einstein S01 E11
+http://lxls.mx:80/series/994153115/101217/190644.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/nZeGXmtcqvTTW07rP3pU5S0EQPY.jpg" group-title="Séries | Globoplay", Einstein S02 E01
+http://lxls.mx:80/series/994153115/101217/190643.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/och4j0hIrQWwPHIs0UAHtBM1Fnz.jpg" group-title="Séries | Globoplay", Einstein S02 E02
+http://lxls.mx:80/series/994153115/101217/190642.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/22htNYYYM0DjwaY2b2FqMnjzVwo.jpg" group-title="Séries | Globoplay", Einstein S02 E03
+http://lxls.mx:80/series/994153115/101217/190641.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/69ybqMVJ7YOkakTKNcGI96cYl4X.jpg" group-title="Séries | Globoplay", Einstein S02 E04
+http://lxls.mx:80/series/994153115/101217/190640.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/jaNrvZFmsaIc2t8BvH2GUFtFDAt.jpg" group-title="Séries | Globoplay", Einstein S02 E05
+http://lxls.mx:80/series/994153115/101217/190639.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay", Einstein S02 E06
+http://lxls.mx:80/series/994153115/101217/190638.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/faHcdLDb83azp8cpDNAXtOCTrUd.jpg" group-title="Séries | Globoplay", Einstein S02 E07
+http://lxls.mx:80/series/994153115/101217/190637.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay", Einstein S02 E08
+http://lxls.mx:80/series/994153115/101217/190636.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/sQBK9OpLyRTEtp91rmKOZHHdEt4.jpg" group-title="Séries | Globoplay", Einstein S02 E09
+http://lxls.mx:80/series/994153115/101217/190635.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/mH15DJbA34FCpSEHKcuWzMlqEvw.jpg" group-title="Séries | Globoplay", Einstein S02 E10
+http://lxls.mx:80/series/994153115/101217/190634.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/i6TDoHsloojvglsEK2FrSax246L.jpg" group-title="Séries | Globoplay", Einstein S03 E01
+http://lxls.mx:80/series/994153115/101217/190633.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay", Einstein S03 E02
+http://lxls.mx:80/series/994153115/101217/190632.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/b72wc2dNlLnYVCKxOfd2iZbeXPV.jpg" group-title="Séries | Globoplay", Einstein S03 E03
+http://lxls.mx:80/series/994153115/101217/190631.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ti0lqWGtH9XUwBL7RBgkfn5SRaL.jpg" group-title="Séries | Globoplay", Einstein S03 E04
+http://lxls.mx:80/series/994153115/101217/190630.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ub3w0jzVAjxBOpDfJyw2QWBZ23c.jpg" group-title="Séries | Globoplay", Einstein S03 E05
+http://lxls.mx:80/series/994153115/101217/190629.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/j84vBQcAklTEkVrb8E0bJcVEnfJ.jpg" group-title="Séries | Globoplay", Einstein S03 E06
+http://lxls.mx:80/series/994153115/101217/190628.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/3kI9rV91cVGSyA8vYktvedHnnfl.jpg" group-title="Séries | Globoplay", Einstein S03 E07
+http://lxls.mx:80/series/994153115/101217/190627.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/tFDSt4wwCJmFms2hmzWF5ufCKq8.jpg" group-title="Séries | Globoplay", Einstein S03 E08
+http://lxls.mx:80/series/994153115/101217/190626.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S03 E09" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay", Einstein S03 E09
+http://lxls.mx:80/series/994153115/101217/190625.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/uxFJnvtIfthziDEb2gpYR6HnLzq.jpg" group-title="Séries | Globoplay", Einstein S03 E10
+http://lxls.mx:80/series/994153115/101217/190624.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S03 E11" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay", Einstein S03 E11
+http://lxls.mx:80/series/994153115/101217/190623.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Einstein S03 E12" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay", Einstein S03 E12
+http://lxls.mx:80/series/994153115/101217/190622.mp4

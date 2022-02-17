@@ -1,0 +1,43 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/e9fXVbc2DvDHUMKYrTRTeMwolK0.jpg" group-title="Séries | Netflix",Disjointed S01 E01
+http://lxls.mx:80/series/994153115/101217/213092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E02" tvg-logo="http://lxls.mx:8080/images/db7346e1a161ca1847b054fbdeea44bd.jpg" group-title="Séries | Netflix",Disjointed S01 E02
+http://lxls.mx:80/series/994153115/101217/213091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/fwvjqTZ6pRs2bh4lX5SUUjKFT5A.jpg" group-title="Séries | Netflix",Disjointed S01 E03
+http://lxls.mx:80/series/994153115/101217/213090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/5wyVzazFnk92i6lsTWJs60kKu35.jpg" group-title="Séries | Netflix",Disjointed S01 E04
+http://lxls.mx:80/series/994153115/101217/213089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/uwgXGpsR6FcPAYJUC2x0rKoYO9c.jpg" group-title="Séries | Netflix",Disjointed S01 E05
+http://lxls.mx:80/series/994153115/101217/213088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/qPTJjsX4Pl34CcojJcHxL7xu9Z8.jpg" group-title="Séries | Netflix",Disjointed S01 E06
+http://lxls.mx:80/series/994153115/101217/213087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/cjauYvqnTcOtN66DuaqV2FivxYe.jpg" group-title="Séries | Netflix",Disjointed S01 E07
+http://lxls.mx:80/series/994153115/101217/213086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/xRtVCUkQIz7M1yosD2hejwxOhBe.jpg" group-title="Séries | Netflix",Disjointed S01 E08
+http://lxls.mx:80/series/994153115/101217/213085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/vP0qkQhrCj0CkUKCiWF6nltl5eu.jpg" group-title="Séries | Netflix",Disjointed S01 E09
+http://lxls.mx:80/series/994153115/101217/213084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/fwt2AXXEl2pa9xf8pZNwJqG4lge.jpg" group-title="Séries | Netflix",Disjointed S01 E10
+http://lxls.mx:80/series/994153115/101217/213083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/kSzkXADD6EyGB7ZwY7RDJ8Qs1oo.jpg" group-title="Séries | Netflix",Disjointed S01 E11
+http://lxls.mx:80/series/994153115/101217/213082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",Disjointed S01 E12
+http://lxls.mx:80/series/994153115/101217/213081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",Disjointed S01 E13
+http://lxls.mx:80/series/994153115/101217/213080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E14" tvg-logo="http://lxls.mx:8080/images/db7346e1a161ca1847b054fbdeea44bd.jpg" group-title="Séries | Netflix",Disjointed S01 E14
+http://lxls.mx:80/series/994153115/101217/213079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",Disjointed S01 E15
+http://lxls.mx:80/series/994153115/101217/213078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",Disjointed S01 E16
+http://lxls.mx:80/series/994153115/101217/213077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",Disjointed S01 E17
+http://lxls.mx:80/series/994153115/101217/213076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",Disjointed S01 E18
+http://lxls.mx:80/series/994153115/101217/213075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E19" tvg-logo="http://lxls.mx:8080/images/db7346e1a161ca1847b054fbdeea44bd.jpg" group-title="Séries | Netflix",Disjointed S01 E19
+http://lxls.mx:80/series/994153115/101217/213074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disjointed S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",Disjointed S01 E20
+http://lxls.mx:80/series/994153115/101217/213073.mp4

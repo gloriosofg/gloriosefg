@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Devils S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/64kLzqBbxpPW3MGgY6KLmE7KSGh.jpg" group-title="Séries | Globoplay",Devils S01 E01
+http://lxls.mx:80/series/994153115/101217/186162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devils S01 E02" tvg-logo="http://lxls.mx:8080/images/57ad17b5e69eed3d0d74205027d5965e.jpg" group-title="Séries | Globoplay",Devils S01 E02
+http://lxls.mx:80/series/994153115/101217/183909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devils S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/dqErFB7KLNKAKdfylactz3yzqok.jpg" group-title="Séries | Globoplay",Devils S01 E03
+http://lxls.mx:80/series/994153115/101217/183908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devils S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/luroQWuXXQChBV8JCmKCXDO9ncT.jpg" group-title="Séries | Globoplay",Devils S01 E04
+http://lxls.mx:80/series/994153115/101217/181587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devils S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/SfRduSBZvcwoWrNp8DGpgW3MRv.jpg" group-title="Séries | Globoplay",Devils S01 E05
+http://lxls.mx:80/series/994153115/101217/180938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devils S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/uwWGqNxguAluVjpnwvfjXuksIg7.jpg" group-title="Séries | Globoplay",Devils S01 E06
+http://lxls.mx:80/series/994153115/101217/180937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devils S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/4X53tuk8vp5ilv2f0n6x0dPmTz6.jpg" group-title="Séries | Globoplay",Devils S01 E07
+http://lxls.mx:80/series/994153115/101217/180814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devils S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/9eKJEEXwkTF8a5TEPN0GYXuViXR.jpg" group-title="Séries | Globoplay",Devils S01 E08
+http://lxls.mx:80/series/994153115/101217/180813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devils S01 E09" tvg-logo="http://lxls.mx:8080/images/57ad17b5e69eed3d0d74205027d5965e.jpg" group-title="Séries | Globoplay",Devils S01 E09
+http://lxls.mx:80/series/994153115/101217/180169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devils S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/3cKUbuiHJXIfRwBOldEUPvEkOwC.jpg" group-title="Séries | Globoplay",Devils S01 E10
+http://lxls.mx:80/series/994153115/101217/180168.mp4

@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Desaparecido para Sempre S01 E01" tvg-logo="http://lxls.mx:8080/images/1312bcb49d3dbbc95380a2cfd6365c20.jpg" group-title="Séries | Netflix",Desaparecido para Sempre S01 E01
+http://lxls.mx:80/series/994153115/101217/152272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desaparecido para Sempre S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/1ejB9zaOEdXY1dshiTdRNNIzU5J.jpg" group-title="Séries | Netflix",Desaparecido para Sempre S01 E02
+http://lxls.mx:80/series/994153115/101217/152270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desaparecido para Sempre S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/i2Kz6HeP29o3d519VOIkZ8Z4S7A.jpg" group-title="Séries | Netflix",Desaparecido para Sempre S01 E03
+http://lxls.mx:80/series/994153115/101217/152268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desaparecido para Sempre S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/2tHVqFVBOkDqjPqMUImNqDIGLUL.jpg" group-title="Séries | Netflix",Desaparecido para Sempre S01 E04
+http://lxls.mx:80/series/994153115/101217/152265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desaparecido para Sempre S01 E05" tvg-logo="http://lxls.mx:8080/images/1312bcb49d3dbbc95380a2cfd6365c20.jpg" group-title="Séries | Netflix",Desaparecido para Sempre S01 E05
+http://lxls.mx:80/series/994153115/101217/152263.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Departure A Investigação S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ozkRY0dSpWMK6C28kL2V3PAHD3r.jpg" group-title="Séries | Globoplay",Departure A Investigação S01 E01
+http://lxls.mx:80/series/994153115/101217/166106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Departure A Investigação S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/sQJCYnJTHawhAeMXIPEzJpSdQjt.jpg" group-title="Séries | Globoplay",Departure A Investigação S01 E02
+http://lxls.mx:80/series/994153115/101217/166105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Departure A Investigação S01 E03" tvg-logo="http://lxls.mx:8080/images/2c53832e14b8b9793c3ad53d4e95ce42.jpg" group-title="Séries | Globoplay",Departure A Investigação S01 E03
+http://lxls.mx:80/series/994153115/101217/166104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Departure A Investigação S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/zBwqFEMkehKdBzm0nBry9g3Gv1S.jpg" group-title="Séries | Globoplay",Departure A Investigação S01 E04
+http://lxls.mx:80/series/994153115/101217/166103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Departure A Investigação S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/x772jkigLq7c6ejyS3kabWFaLb7.jpg" group-title="Séries | Globoplay",Departure A Investigação S01 E05
+http://lxls.mx:80/series/994153115/101217/166102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Departure A Investigação S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/44Bd524MjAPFyiIIB7VFwyvR33H.jpg" group-title="Séries | Globoplay",Departure A Investigação S01 E06
+http://lxls.mx:80/series/994153115/101217/166101.mp4

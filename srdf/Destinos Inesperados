@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Destinos Inesperados S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rGioPgqdwGsBqCBcYLAHnjCQZpm.jpg" group-title="Séries | Disney+",Destinos Inesperados S01 E01
+http://lxls.mx:80/series/994153115/101217/180487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destinos Inesperados S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4nW2rpLIlMDYJiunMjSVeXbV4Ci.jpg" group-title="Séries | Disney+",Destinos Inesperados S01 E02
+http://lxls.mx:80/series/994153115/101217/180486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destinos Inesperados S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/67qvWK1DcBPVe8zadLmRBmd4MDO.jpg" group-title="Séries | Disney+",Destinos Inesperados S01 E03
+http://lxls.mx:80/series/994153115/101217/180485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destinos Inesperados S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/zXmJVXNTeIckMPH84n4vV1tWhmo.jpg" group-title="Séries | Disney+",Destinos Inesperados S01 E04
+http://lxls.mx:80/series/994153115/101217/180484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destinos Inesperados S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/lZEnMPlACHbEhfzPnXl9qoaYpKV.jpg" group-title="Séries | Disney+",Destinos Inesperados S01 E05
+http://lxls.mx:80/series/994153115/101217/180483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destinos Inesperados S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/xwfbkAoICKtkmG6YOhtdSIe0Nvb.jpg" group-title="Séries | Disney+",Destinos Inesperados S01 E06
+http://lxls.mx:80/series/994153115/101217/180482.mp4

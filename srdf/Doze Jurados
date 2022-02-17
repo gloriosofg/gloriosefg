@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Doze Jurados S01 E01" tvg-logo="http://lxls.mx:8080/images/734cbf4d564a916393cb9a80c41990f6.jpg" group-title="Séries | Netflix",Doze Jurados S01 E01
+http://lxls.mx:80/series/994153115/101217/192175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doze Jurados S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/6z6VFUgP2jRPzmPejkf3sLly1ev.jpg" group-title="Séries | Netflix",Doze Jurados S01 E02
+http://lxls.mx:80/series/994153115/101217/192174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doze Jurados S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/xag2WjYCpGXtmWHCbnusF0mIUlW.jpg" group-title="Séries | Netflix",Doze Jurados S01 E03
+http://lxls.mx:80/series/994153115/101217/192173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doze Jurados S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/nrVR22lxNMVzUHRUj3wBgW6ps8C.jpg" group-title="Séries | Netflix",Doze Jurados S01 E04
+http://lxls.mx:80/series/994153115/101217/192172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doze Jurados S01 E05" tvg-logo="http://lxls.mx:8080/images/734cbf4d564a916393cb9a80c41990f6.jpg" group-title="Séries | Netflix",Doze Jurados S01 E05
+http://lxls.mx:80/series/994153115/101217/192171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doze Jurados S01 E06" tvg-logo="http://lxls.mx:8080/images/734cbf4d564a916393cb9a80c41990f6.jpg" group-title="Séries | Netflix",Doze Jurados S01 E06
+http://lxls.mx:80/series/994153115/101217/192170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doze Jurados S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/dGmt8jQ0dWpM4qS2KiNmyQzF18I.jpg" group-title="Séries | Netflix",Doze Jurados S01 E07
+http://lxls.mx:80/series/994153115/101217/192169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doze Jurados S01 E08" tvg-logo="http://lxls.mx:8080/images/734cbf4d564a916393cb9a80c41990f6.jpg" group-title="Séries | Netflix",Doze Jurados S01 E08
+http://lxls.mx:80/series/994153115/101217/192168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doze Jurados S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/AnvwtwRpz6hua7c3YqxOQ3rDdlu.jpg" group-title="Séries | Netflix",Doze Jurados S01 E09
+http://lxls.mx:80/series/994153115/101217/192167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doze Jurados S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/hhLqZYPm971tAo9buXQdxJXft5V.jpg" group-title="Séries | Netflix",Doze Jurados S01 E10
+http://lxls.mx:80/series/994153115/101217/192166.mp4

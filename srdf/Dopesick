@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Dopesick S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3NZlgalDbq1vjPa8pC5mj4UQRr3.jpg" group-title="Séries | Star+",Dopesick S01 E01
+http://lxls.mx:80/series/994153115/101217/140160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dopesick S01 E02" tvg-logo="http://lxls.mx:8080/images/14bfa28ec1bf0d59997a549266b76a85.jpg" group-title="Séries | Star+",Dopesick S01 E02
+http://lxls.mx:80/series/994153115/101217/140159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dopesick S01 E03" tvg-logo="http://lxls.mx:8080/images/14bfa28ec1bf0d59997a549266b76a85.jpg" group-title="Séries | Star+",Dopesick S01 E03
+http://lxls.mx:80/series/994153115/101217/140158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dopesick S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/5GHqObCDh2sAetwxRjQoC4o2yd8.jpg" group-title="Séries | Star+",Dopesick S01 E04
+http://lxls.mx:80/series/994153115/101217/140157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dopesick S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/dnfpZudATzp3ZeP6GF4iUfr71Jd.jpg" group-title="Séries | Star+",Dopesick S01 E05
+http://lxls.mx:80/series/994153115/101217/140156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dopesick S01 E06" tvg-logo="http://lxls.mx:8080/images/14bfa28ec1bf0d59997a549266b76a85.jpg" group-title="Séries | Star+",Dopesick S01 E06
+http://lxls.mx:80/series/994153115/101217/140155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dopesick S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/gauWgbzQWjV57vyIs6DNdWCsFKC.jpg" group-title="Séries | Star+",Dopesick S01 E07
+http://lxls.mx:80/series/994153115/101217/140154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dopesick S01 E08" tvg-logo="http://lxls.mx:8080/images/14bfa28ec1bf0d59997a549266b76a85.jpg" group-title="Séries | Star+",Dopesick S01 E08
+http://lxls.mx:80/series/994153115/101217/140153.mp4
