@@ -1,0 +1,27 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Fleabag S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/vlFDprUHK2yNBDsbIXsFNP8ludv.jpg" group-title="Séries | Amazon Prime",Fleabag S01 E01
+http://lxls.mx:80/series/994153115/101217/210502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fleabag S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/yQoj0DSvLFsL1rHojlg8NGoFdrS.jpg" group-title="Séries | Amazon Prime",Fleabag S01 E02
+http://lxls.mx:80/series/994153115/101217/210501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fleabag S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/7uo4YNnYcAoCrGkND5YyeFqUGTY.jpg" group-title="Séries | Amazon Prime",Fleabag S01 E03
+http://lxls.mx:80/series/994153115/101217/210500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fleabag S01 E04" tvg-logo="http://lxls.mx:8080/images/c6bcc9d2eec359a719d06bdc825b8569.jpg" group-title="Séries | Amazon Prime",Fleabag S01 E04
+http://lxls.mx:80/series/994153115/101217/210499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fleabag S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/AmijSCBSw13HcYVrER0gl006cs4.jpg" group-title="Séries | Amazon Prime",Fleabag S01 E05
+http://lxls.mx:80/series/994153115/101217/210498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fleabag S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/2Aw8Cr7JHtQKOhvr7D7ltuu22sJ.jpg" group-title="Séries | Amazon Prime",Fleabag S01 E06
+http://lxls.mx:80/series/994153115/101217/210497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fleabag S02 E01" tvg-logo="http://lxls.mx:8080/images/c6bcc9d2eec359a719d06bdc825b8569.jpg" group-title="Séries | Amazon Prime",Fleabag S02 E01
+http://lxls.mx:80/series/994153115/101217/149378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fleabag S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ucMyzjoAsXCjGWIdz5RUXVa4Suz.jpg" group-title="Séries | Amazon Prime",Fleabag S02 E02
+http://lxls.mx:80/series/994153115/101217/149375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fleabag S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/61y2hImrdTduoW6oNHqYhPSruYH.jpg" group-title="Séries | Amazon Prime",Fleabag S02 E03
+http://lxls.mx:80/series/994153115/101217/149373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fleabag S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/S3i8zSaqhszv7Rs52QXsnfpebp.jpg" group-title="Séries | Amazon Prime",Fleabag S02 E04
+http://lxls.mx:80/series/994153115/101217/149370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fleabag S02 E05" tvg-logo="http://lxls.mx:8080/images/c6bcc9d2eec359a719d06bdc825b8569.jpg" group-title="Séries | Amazon Prime",Fleabag S02 E05
+http://lxls.mx:80/series/994153115/101217/149368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fleabag S02 E06" tvg-logo="http://lxls.mx:8080/images/c6bcc9d2eec359a719d06bdc825b8569.jpg" group-title="Séries | Amazon Prime",Fleabag S02 E06
+http://lxls.mx:80/series/994153115/101217/149365.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Flack S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ajH7FH3bxYwj4lOlcSnYg9FD8SV.jpg" group-title="Séries | Amazon Prime",Flack S01 E01
+http://lxls.mx:80/series/994153115/101217/203735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flack S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/rxBGq8AOEitqy3kKKZLenVAxncF.jpg" group-title="Séries | Amazon Prime",Flack S01 E02
+http://lxls.mx:80/series/994153115/101217/203734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flack S01 E03" tvg-logo="http://lxls.mx:8080/images/d4cd25c3542a360b68ee55f3db495390.jpg" group-title="Séries | Amazon Prime",Flack S01 E03
+http://lxls.mx:80/series/994153115/101217/203733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flack S01 E04" tvg-logo="http://lxls.mx:8080/images/d4cd25c3542a360b68ee55f3db495390.jpg" group-title="Séries | Amazon Prime",Flack S01 E04
+http://lxls.mx:80/series/994153115/101217/203732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flack S01 E05" tvg-logo="http://lxls.mx:8080/images/d4cd25c3542a360b68ee55f3db495390.jpg" group-title="Séries | Amazon Prime",Flack S01 E05
+http://lxls.mx:80/series/994153115/101217/203731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flack S01 E06" tvg-logo="http://lxls.mx:8080/images/d4cd25c3542a360b68ee55f3db495390.jpg" group-title="Séries | Amazon Prime",Flack S01 E06
+http://lxls.mx:80/series/994153115/101217/203730.mp4

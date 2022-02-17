@@ -1,0 +1,39 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S01 E01
+http://lxls.mx:80/series/994153115/101217/219284.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S01 E02
+http://lxls.mx:80/series/994153115/101217/219283.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S01 E03
+http://lxls.mx:80/series/994153115/101217/219282.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S01 E04
+http://lxls.mx:80/series/994153115/101217/219281.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S01 E05
+http://lxls.mx:80/series/994153115/101217/219280.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S01 E06
+http://lxls.mx:80/series/994153115/101217/219279.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S02 E01
+http://lxls.mx:80/series/994153115/101217/204685.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S02 E02
+http://lxls.mx:80/series/994153115/101217/204684.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S02 E03
+http://lxls.mx:80/series/994153115/101217/204683.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S02 E04
+http://lxls.mx:80/series/994153115/101217/204682.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S02 E05
+http://lxls.mx:80/series/994153115/101217/204681.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S02 E06
+http://lxls.mx:80/series/994153115/101217/204680.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S03 E01
+http://lxls.mx:80/series/994153115/101217/167051.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S03 E02
+http://lxls.mx:80/series/994153115/101217/167050.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S03 E03
+http://lxls.mx:80/series/994153115/101217/167049.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S03 E04
+http://lxls.mx:80/series/994153115/101217/167048.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S03 E05
+http://lxls.mx:80/series/994153115/101217/167047.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Vi S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix", Eu Vi S03 E06
+http://lxls.mx:80/series/994153115/101217/167046.mp4

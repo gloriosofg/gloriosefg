@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Freud S01 E01" tvg-logo="http://lxls.mx:8080/images/4bc55087316c82d2a0b0dc59162a1d60.jpg" group-title="Séries | Netflix",Freud S01 E01
+http://lxls.mx:80/series/994153115/101217/206839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freud S01 E02" tvg-logo="http://lxls.mx:8080/images/4bc55087316c82d2a0b0dc59162a1d60.jpg" group-title="Séries | Netflix",Freud S01 E02
+http://lxls.mx:80/series/994153115/101217/206838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freud S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/pJqLcBI3JuRudbmhmAQgVsFcFpU.jpg" group-title="Séries | Netflix",Freud S01 E03
+http://lxls.mx:80/series/994153115/101217/206837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freud S01 E04" tvg-logo="http://lxls.mx:8080/images/4bc55087316c82d2a0b0dc59162a1d60.jpg" group-title="Séries | Netflix",Freud S01 E04
+http://lxls.mx:80/series/994153115/101217/206836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freud S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8a125TjwlRKANkTdE9OirwIYUFk.jpg" group-title="Séries | Netflix",Freud S01 E05
+http://lxls.mx:80/series/994153115/101217/206835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freud S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/l1amOiRybnCUgL4HZ9raWqfWU3V.jpg" group-title="Séries | Netflix",Freud S01 E06
+http://lxls.mx:80/series/994153115/101217/206834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freud S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/c49XcUaqacKHzagb2G5ggNMJqzP.jpg" group-title="Séries | Netflix",Freud S01 E07
+http://lxls.mx:80/series/994153115/101217/206833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freud S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/xCSn5KSgLCeflSyh6XB4tRx0CEn.jpg" group-title="Séries | Netflix",Freud S01 E08
+http://lxls.mx:80/series/994153115/101217/206832.mp4

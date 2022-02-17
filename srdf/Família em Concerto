@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Família em Concerto S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iF4t8sfEztlZfxRNidGz4z4wTOo.jpg" group-title="Séries | Netflix",Família em Concerto S01 E01
+http://lxls.mx:80/series/994153115/101217/173219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família em Concerto S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/iLnIOho0WB24yfr3XQxisDuOkLH.jpg" group-title="Séries | Netflix",Família em Concerto S01 E02
+http://lxls.mx:80/series/994153115/101217/173218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família em Concerto S01 E03" tvg-logo="http://lxls.mx:8080/images/197383e89cb3531048f871cdb354efb2.jpg" group-title="Séries | Netflix",Família em Concerto S01 E03
+http://lxls.mx:80/series/994153115/101217/173217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família em Concerto S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/6UFgCtXq7cD50fwLncQ45N9Yxch.jpg" group-title="Séries | Netflix",Família em Concerto S01 E04
+http://lxls.mx:80/series/994153115/101217/173216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família em Concerto S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/aUliVtZrQXkoxOsZXNrrvaKq2oV.jpg" group-title="Séries | Netflix",Família em Concerto S01 E05
+http://lxls.mx:80/series/994153115/101217/173215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família em Concerto S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/gkthP3LDKz6QyRtjddJghBk6K7.jpg" group-title="Séries | Netflix",Família em Concerto S01 E06
+http://lxls.mx:80/series/994153115/101217/173214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família em Concerto S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/qHtSJk7JdJdWH0lRQb8xwVhSV4Y.jpg" group-title="Séries | Netflix",Família em Concerto S01 E07
+http://lxls.mx:80/series/994153115/101217/173213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família em Concerto S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/omxvgQyv2HIZgZAzbnDt1V0sMm2.jpg" group-title="Séries | Netflix",Família em Concerto S01 E08
+http://lxls.mx:80/series/994153115/101217/173212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família em Concerto S01 E09" tvg-logo="http://lxls.mx:8080/images/197383e89cb3531048f871cdb354efb2.jpg" group-title="Séries | Netflix",Família em Concerto S01 E09
+http://lxls.mx:80/series/994153115/101217/173211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família em Concerto S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/sM9hYdFj3bnMAJ0YepFiWeEvBJi.jpg" group-title="Séries | Netflix",Família em Concerto S01 E10
+http://lxls.mx:80/series/994153115/101217/173210.mp4

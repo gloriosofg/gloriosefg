@@ -1,0 +1,49 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/fUzkaM8JjmMhu4GqczFNjZYY3w5.jpg" group-title="Séries | Netflix",For Life S01 E01
+http://lxls.mx:80/series/994153115/101217/174668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E02" tvg-logo="http://lxls.mx:8080/images/2ac324bdbaa77d94bcdbe50fa69272c3.jpg" group-title="Séries | Netflix",For Life S01 E02
+http://lxls.mx:80/series/994153115/101217/174667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E03" tvg-logo="http://lxls.mx:8080/images/2ac324bdbaa77d94bcdbe50fa69272c3.jpg" group-title="Séries | Netflix",For Life S01 E03
+http://lxls.mx:80/series/994153115/101217/174666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E04" tvg-logo="http://lxls.mx:8080/images/2ac324bdbaa77d94bcdbe50fa69272c3.jpg" group-title="Séries | Netflix",For Life S01 E04
+http://lxls.mx:80/series/994153115/101217/174665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3XZZFIRIz5eF90wtRSMKM60FCKP.jpg" group-title="Séries | Netflix",For Life S01 E05
+http://lxls.mx:80/series/994153115/101217/174664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/oJhmz8hXQyjHvf2vnBDYROLyynF.jpg" group-title="Séries | Netflix",For Life S01 E06
+http://lxls.mx:80/series/994153115/101217/174663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/iSO4xXp75einoc0LNKhX7v2mqL5.jpg" group-title="Séries | Netflix",For Life S01 E07
+http://lxls.mx:80/series/994153115/101217/174662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/uCeblztqmf8EoBS07uFjZLbxp3q.jpg" group-title="Séries | Netflix",For Life S01 E08
+http://lxls.mx:80/series/994153115/101217/174661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/8Gx6nXY5SvnKB0vxz5O5HQtYg6y.jpg" group-title="Séries | Netflix",For Life S01 E09
+http://lxls.mx:80/series/994153115/101217/174660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/1nIpTHaRaYEvzTghxthS4rflpnH.jpg" group-title="Séries | Netflix",For Life S01 E10
+http://lxls.mx:80/series/994153115/101217/174659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/7lLz3T9EPU4ikCKcml45coQSbHq.jpg" group-title="Séries | Netflix",For Life S01 E11
+http://lxls.mx:80/series/994153115/101217/174658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/dO0eNQTdCkALZklqLZuFWG5ZA3l.jpg" group-title="Séries | Netflix",For Life S01 E12
+http://lxls.mx:80/series/994153115/101217/174657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/6OK7Ou1w7c0NZkxPTzezIbOZ5rM.jpg" group-title="Séries | Netflix",For Life S01 E13
+http://lxls.mx:80/series/994153115/101217/174656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S02 E01" tvg-logo="http://lxls.mx:8080/images/2ac324bdbaa77d94bcdbe50fa69272c3.jpg" group-title="Séries | Netflix",For Life S02 E01
+http://lxls.mx:80/series/994153115/101217/170041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S02 E02" tvg-logo="http://lxls.mx:8080/images/2ac324bdbaa77d94bcdbe50fa69272c3.jpg" group-title="Séries | Netflix",For Life S02 E02
+http://lxls.mx:80/series/994153115/101217/170040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S02 E03" tvg-logo="http://lxls.mx:8080/images/2ac324bdbaa77d94bcdbe50fa69272c3.jpg" group-title="Séries | Netflix",For Life S02 E03
+http://lxls.mx:80/series/994153115/101217/170039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/fNu6FvUeJbXJKnaq1frYZq2gNEB.jpg" group-title="Séries | Netflix",For Life S02 E04
+http://lxls.mx:80/series/994153115/101217/170038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/2kx3Rv0dSAXYmWpMO5UJfHDWbQ.jpg" group-title="Séries | Netflix",For Life S02 E05
+http://lxls.mx:80/series/994153115/101217/170037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S02 E06" tvg-logo="http://lxls.mx:8080/images/2ac324bdbaa77d94bcdbe50fa69272c3.jpg" group-title="Séries | Netflix",For Life S02 E06
+http://lxls.mx:80/series/994153115/101217/170036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S02 E07" tvg-logo="http://lxls.mx:8080/images/2ac324bdbaa77d94bcdbe50fa69272c3.jpg" group-title="Séries | Netflix",For Life S02 E07
+http://lxls.mx:80/series/994153115/101217/170035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/vpTmwMrmkEfN1tsoA1H6lPl38oq.jpg" group-title="Séries | Netflix",For Life S02 E08
+http://lxls.mx:80/series/994153115/101217/170034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/3teApq0jaB9NGVoZZs0mdX471Uz.jpg" group-title="Séries | Netflix",For Life S02 E09
+http://lxls.mx:80/series/994153115/101217/170033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="For Life S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/8pqyB8ZyXfH38ZC4fO2X1WOeOw2.jpg" group-title="Séries | Netflix",For Life S02 E10
+http://lxls.mx:80/series/994153115/101217/170032.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name=" Eu, a Vó e a Boi S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/yl3556wpD2BErLdouvPCogDrly8.jpg" group-title="Séries | Globoplay", Eu, a Vó e a Boi S01 E01
+http://lxls.mx:80/series/994153115/101217/206974.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu, a Vó e a Boi S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/bHkTntKwAYzOYBRHdN4hZQbHlwL.jpg" group-title="Séries | Globoplay", Eu, a Vó e a Boi S01 E02
+http://lxls.mx:80/series/994153115/101217/206973.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu, a Vó e a Boi S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ftRfLurdR2pZsXlYgsItQTVdPT4.jpg" group-title="Séries | Globoplay", Eu, a Vó e a Boi S01 E03
+http://lxls.mx:80/series/994153115/101217/206972.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu, a Vó e a Boi S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/wWU5NTAHr6XhvTMpMobFcX3Q2oV.jpg" group-title="Séries | Globoplay", Eu, a Vó e a Boi S01 E04
+http://lxls.mx:80/series/994153115/101217/206971.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu, a Vó e a Boi S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/atHRmdqOOHQPgHtZruxGqqBuuG5.jpg" group-title="Séries | Globoplay", Eu, a Vó e a Boi S01 E05
+http://lxls.mx:80/series/994153115/101217/206970.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu, a Vó e a Boi S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/h8ThTYcwr0oG8lOxJ6EnWOSifyG.jpg" group-title="Séries | Globoplay", Eu, a Vó e a Boi S01 E06
+http://lxls.mx:80/series/994153115/101217/206969.mp4

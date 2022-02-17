@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Elfos S01 E01" tvg-logo="http://lxls.mx:8080/images/c8f497624eea86ca800fb206a5e69594.jpg" group-title="Séries | Netflix",Elfos S01 E01
+http://lxls.mx:80/series/994153115/101217/141503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elfos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/rs3gvS7hBi6gRmLiVJhQHHd6gwT.jpg" group-title="Séries | Netflix",Elfos S01 E02
+http://lxls.mx:80/series/994153115/101217/141502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elfos S01 E03" tvg-logo="http://lxls.mx:8080/images/c8f497624eea86ca800fb206a5e69594.jpg" group-title="Séries | Netflix",Elfos S01 E03
+http://lxls.mx:80/series/994153115/101217/141501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elfos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/nvb7FU2yK6V8erg3pTSMBChZhsT.jpg" group-title="Séries | Netflix",Elfos S01 E04
+http://lxls.mx:80/series/994153115/101217/141500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elfos S01 E05" tvg-logo="http://lxls.mx:8080/images/c8f497624eea86ca800fb206a5e69594.jpg" group-title="Séries | Netflix",Elfos S01 E05
+http://lxls.mx:80/series/994153115/101217/141499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elfos S01 E06" tvg-logo="http://lxls.mx:8080/images/c8f497624eea86ca800fb206a5e69594.jpg" group-title="Séries | Netflix",Elfos S01 E06
+http://lxls.mx:80/series/994153115/101217/141498.mp4

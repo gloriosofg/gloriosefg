@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Família Upshaw S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/g6o1QExkoaHfSCRhj9XLP39UWfV.jpg" group-title="Séries | Netflix",Família Upshaw S01 E01
+http://lxls.mx:80/series/994153115/101217/168235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Upshaw S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/dNYT8XaHdeSeaPZCXMZ536oTwPx.jpg" group-title="Séries | Netflix",Família Upshaw S01 E02
+http://lxls.mx:80/series/994153115/101217/168234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Upshaw S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/1nylL8gGBHnCzxtDrwqhqsbfKsM.jpg" group-title="Séries | Netflix",Família Upshaw S01 E03
+http://lxls.mx:80/series/994153115/101217/168233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Upshaw S01 E04" tvg-logo="http://lxls.mx:8080/images/6afee909bd1703e765eff0985eb71a04.jpg" group-title="Séries | Netflix",Família Upshaw S01 E04
+http://lxls.mx:80/series/994153115/101217/168232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Upshaw S01 E05" tvg-logo="http://lxls.mx:8080/images/6afee909bd1703e765eff0985eb71a04.jpg" group-title="Séries | Netflix",Família Upshaw S01 E05
+http://lxls.mx:80/series/994153115/101217/168231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Upshaw S01 E06" tvg-logo="http://lxls.mx:8080/images/6afee909bd1703e765eff0985eb71a04.jpg" group-title="Séries | Netflix",Família Upshaw S01 E06
+http://lxls.mx:80/series/994153115/101217/168230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Upshaw S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/ciH1BF3rlOHNHhOQP1p3IklS7gW.jpg" group-title="Séries | Netflix",Família Upshaw S01 E07
+http://lxls.mx:80/series/994153115/101217/168229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Upshaw S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/jyCBJqG4y5y0WPG5Z2FTbVThEgx.jpg" group-title="Séries | Netflix",Família Upshaw S01 E08
+http://lxls.mx:80/series/994153115/101217/168228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Upshaw S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/3Vlruv730a2SzVlm5DJ3nrVyYLF.jpg" group-title="Séries | Netflix",Família Upshaw S01 E09
+http://lxls.mx:80/series/994153115/101217/168227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Upshaw S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/sFdbeV77p1tcpa6KxS7p8diOnGu.jpg" group-title="Séries | Netflix",Família Upshaw S01 E10
+http://lxls.mx:80/series/994153115/101217/168226.mp4

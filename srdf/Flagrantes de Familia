@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Flagrantes de Familia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/zSrSxQmq7AN6w8tj6asLIxigrSS.jpg" group-title="Séries | Netflix",Flagrantes de Familia S01 E01
+http://lxls.mx:80/series/994153115/101217/215163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flagrantes de Familia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4hoTbaNvGTrKbor2wylvB1HMzIU.jpg" group-title="Séries | Netflix",Flagrantes de Familia S01 E02
+http://lxls.mx:80/series/994153115/101217/215162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flagrantes de Familia S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ay99913GEFJcsPni19evojr2Azs.jpg" group-title="Séries | Netflix",Flagrantes de Familia S01 E03
+http://lxls.mx:80/series/994153115/101217/215161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flagrantes de Familia S01 E04" tvg-logo="http://lxls.mx:8080/images/e8739a7177ce195b76b9d14bb4d0e1b7.jpg" group-title="Séries | Netflix",Flagrantes de Familia S01 E04
+http://lxls.mx:80/series/994153115/101217/215160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flagrantes de Familia S01 E05" tvg-logo="http://lxls.mx:8080/images/e8739a7177ce195b76b9d14bb4d0e1b7.jpg" group-title="Séries | Netflix",Flagrantes de Familia S01 E05
+http://lxls.mx:80/series/994153115/101217/215159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flagrantes de Familia S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/uFbEPcBgF8rQirOeCIaGK8rWdDk.jpg" group-title="Séries | Netflix",Flagrantes de Familia S01 E06
+http://lxls.mx:80/series/994153115/101217/215158.mp4

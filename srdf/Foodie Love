@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Foodie Love S01 E01" tvg-logo="http://lxls.mx:8080/images/3346b311bf996ca9269e0794326663ad.jpg" group-title="Séries | HBO Max",Foodie Love S01 E01
+http://lxls.mx:80/series/994153115/101217/172336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Foodie Love S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/2M3BmOwpvBdIrWVuGbu8BdzPvq9.jpg" group-title="Séries | HBO Max",Foodie Love S01 E02
+http://lxls.mx:80/series/994153115/101217/172335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Foodie Love S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/s2t5LllCeIKYXO00f121wgObaJn.jpg" group-title="Séries | HBO Max",Foodie Love S01 E03
+http://lxls.mx:80/series/994153115/101217/172334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Foodie Love S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ne3L2cXvUS41Lb0L8U7kqTWKFZQ.jpg" group-title="Séries | HBO Max",Foodie Love S01 E04
+http://lxls.mx:80/series/994153115/101217/172333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Foodie Love S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/xNqWOrXGTyMVm5Dfvhlu2Uushs4.jpg" group-title="Séries | HBO Max",Foodie Love S01 E05
+http://lxls.mx:80/series/994153115/101217/172332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Foodie Love S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/6lhsjSvfYPY1vjDhJBAGOWf8bnp.jpg" group-title="Séries | HBO Max",Foodie Love S01 E06
+http://lxls.mx:80/series/994153115/101217/172331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Foodie Love S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/8P9oUH9H4DrGIa3nDYkQyfTtY8s.jpg" group-title="Séries | HBO Max",Foodie Love S01 E07
+http://lxls.mx:80/series/994153115/101217/172330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Foodie Love S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/xgShGUf2eb0i9q6JIi80k789Oki.jpg" group-title="Séries | HBO Max",Foodie Love S01 E08
+http://lxls.mx:80/series/994153115/101217/172329.mp4

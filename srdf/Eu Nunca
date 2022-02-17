@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Nunca... S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eb8E9obzQwJqkcYPGY4gSCqPR74.jpg" group-title="Séries | Netflix", Eu Nunca... S01 E01
+http://lxls.mx:80/series/994153115/101217/204991.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Nunca... S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/1cnzPpCjX31Ft5qfx4V2OGRxs4y.jpg" group-title="Séries | Netflix", Eu Nunca... S01 E02
+http://lxls.mx:80/series/994153115/101217/204990.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Nunca... S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/eMNEKKOZ1IRfV235KLNlurAyIfy.jpg" group-title="Séries | Netflix", Eu Nunca... S01 E03
+http://lxls.mx:80/series/994153115/101217/204989.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Nunca... S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/zfOtFQLUWuDNhXMTy1vtqlWebaH.jpg" group-title="Séries | Netflix", Eu Nunca... S01 E04
+http://lxls.mx:80/series/994153115/101217/204988.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Nunca... S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/asRv0TIDPiWOmBhSkyUKCwENxFl.jpg" group-title="Séries | Netflix", Eu Nunca... S01 E05
+http://lxls.mx:80/series/994153115/101217/204987.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Nunca... S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/sdL8VIn4bwlToZfd8mLZolNSfY8.jpg" group-title="Séries | Netflix", Eu Nunca... S01 E06
+http://lxls.mx:80/series/994153115/101217/204986.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Nunca... S01 E07" tvg-logo="http://lxls.mx:8080/images/0f8ae96f9aca0fc998fcd72dcd893d84.jpg" group-title="Séries | Netflix", Eu Nunca... S01 E07
+http://lxls.mx:80/series/994153115/101217/204985.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Nunca... S01 E08" tvg-logo="http://lxls.mx:8080/images/0f8ae96f9aca0fc998fcd72dcd893d84.jpg" group-title="Séries | Netflix", Eu Nunca... S01 E08
+http://lxls.mx:80/series/994153115/101217/204984.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Nunca... S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/tHkCjO28UnHJKwPXFpGSyfdobRD.jpg" group-title="Séries | Netflix", Eu Nunca... S01 E09
+http://lxls.mx:80/series/994153115/101217/204983.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Eu Nunca... S01 E10" tvg-logo="http://lxls.mx:8080/images/0f8ae96f9aca0fc998fcd72dcd893d84.jpg" group-title="Séries | Netflix", Eu Nunca... S01 E10
+http://lxls.mx:80/series/994153115/101217/204982.mp4

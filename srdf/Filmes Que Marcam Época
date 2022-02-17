@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Que Marcam Época S01 E01" tvg-logo="http://lxls.mx:8080/images/9f894aee5b459a74e204290c8aed8985.jpg" group-title="Séries | Netflix",Filmes Que Marcam Época S01 E01
+http://lxls.mx:80/series/994153115/101217/211801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Que Marcam Época S01 E02" tvg-logo="http://lxls.mx:8080/images/9f894aee5b459a74e204290c8aed8985.jpg" group-title="Séries | Netflix",Filmes Que Marcam Época S01 E02
+http://lxls.mx:80/series/994153115/101217/211800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Que Marcam Época S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/iWPg4WWJaTvraAohrkqM35StTrJ.jpg" group-title="Séries | Netflix",Filmes Que Marcam Época S01 E03
+http://lxls.mx:80/series/994153115/101217/211799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filmes Que Marcam Época S01 E04" tvg-logo="http://lxls.mx:8080/images/9f894aee5b459a74e204290c8aed8985.jpg" group-title="Séries | Netflix",Filmes Que Marcam Época S01 E04
+http://lxls.mx:80/series/994153115/101217/211798.mp4

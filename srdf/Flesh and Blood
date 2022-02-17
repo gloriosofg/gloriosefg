@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Flesh and Blood S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/nHTrT9V8xj69WA3eaonVfxWyAKR.jpg" group-title="Séries | Globoplay",Flesh and Blood S01 E01
+http://lxls.mx:80/series/994153115/101217/171562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flesh and Blood S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/6cJaiSWJNz0z18gDWBQrHd9b0U0.jpg" group-title="Séries | Globoplay",Flesh and Blood S01 E02
+http://lxls.mx:80/series/994153115/101217/171561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flesh and Blood S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/pQfmbh6yM31BITVZ3h34UPEh0gp.jpg" group-title="Séries | Globoplay",Flesh and Blood S01 E03
+http://lxls.mx:80/series/994153115/101217/171560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flesh and Blood S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dwdJBxrpitEYUzZSw72RBsTfu36.jpg" group-title="Séries | Globoplay",Flesh and Blood S01 E04
+http://lxls.mx:80/series/994153115/101217/171559.mp4

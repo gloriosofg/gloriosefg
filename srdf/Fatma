@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Fatma S01 E01" tvg-logo="http://lxls.mx:8080/images/2cf2151002d70d0ef1d9d79481632975.jpg" group-title="Séries | Netflix",Fatma S01 E01
+http://lxls.mx:80/series/994153115/101217/170024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fatma S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/fWwLBAHaEe07UOpiECI3ru7QtI3.jpg" group-title="Séries | Netflix",Fatma S01 E02
+http://lxls.mx:80/series/994153115/101217/170023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fatma S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/nJwhUy9ZFRcr29j1KmiQIFL85sH.jpg" group-title="Séries | Netflix",Fatma S01 E03
+http://lxls.mx:80/series/994153115/101217/170022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fatma S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/eksqjv1dFILtZ5oGOG4yy9LoTXf.jpg" group-title="Séries | Netflix",Fatma S01 E04
+http://lxls.mx:80/series/994153115/101217/170021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fatma S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/vEEF0txYEtMazvZIZsMv4JDcV1K.jpg" group-title="Séries | Netflix",Fatma S01 E05
+http://lxls.mx:80/series/994153115/101217/170020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fatma S01 E06" tvg-logo="http://lxls.mx:8080/images/2cf2151002d70d0ef1d9d79481632975.jpg" group-title="Séries | Netflix",Fatma S01 E06
+http://lxls.mx:80/series/994153115/101217/170019.mp4

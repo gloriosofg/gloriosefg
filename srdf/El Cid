@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name=" El Cid S01 E01" tvg-logo="http://lxls.mx:8080/images/713dc159116329f18b7facd47111a72c.jpg" group-title="Séries | Amazon Prime", El Cid S01 E01
+http://lxls.mx:80/series/994153115/101217/163239.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" El Cid S01 E02" tvg-logo="http://lxls.mx:8080/images/713dc159116329f18b7facd47111a72c.jpg" group-title="Séries | Amazon Prime", El Cid S01 E02
+http://lxls.mx:80/series/994153115/101217/163236.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" El Cid S01 E03" tvg-logo="http://lxls.mx:8080/images/713dc159116329f18b7facd47111a72c.jpg" group-title="Séries | Amazon Prime", El Cid S01 E03
+http://lxls.mx:80/series/994153115/101217/163234.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" El Cid S01 E04" tvg-logo="http://lxls.mx:8080/images/713dc159116329f18b7facd47111a72c.jpg" group-title="Séries | Amazon Prime", El Cid S01 E04
+http://lxls.mx:80/series/994153115/101217/163231.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" El Cid S01 E05" tvg-logo="http://lxls.mx:8080/images/713dc159116329f18b7facd47111a72c.jpg" group-title="Séries | Amazon Prime", El Cid S01 E05
+http://lxls.mx:80/series/994153115/101217/163229.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" El Cid S02 E01" tvg-logo="http://lxls.mx:8080/images/713dc159116329f18b7facd47111a72c.jpg" group-title="Séries | Amazon Prime", El Cid S02 E01
+http://lxls.mx:80/series/994153115/101217/163227.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" El Cid S02 E02" tvg-logo="http://lxls.mx:8080/images/713dc159116329f18b7facd47111a72c.jpg" group-title="Séries | Amazon Prime", El Cid S02 E02
+http://lxls.mx:80/series/994153115/101217/163225.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" El Cid S02 E03" tvg-logo="http://lxls.mx:8080/images/713dc159116329f18b7facd47111a72c.jpg" group-title="Séries | Amazon Prime", El Cid S02 E03
+http://lxls.mx:80/series/994153115/101217/163222.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" El Cid S02 E04" tvg-logo="http://lxls.mx:8080/images/713dc159116329f18b7facd47111a72c.jpg" group-title="Séries | Amazon Prime", El Cid S02 E04
+http://lxls.mx:80/series/994153115/101217/163220.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" El Cid S02 E05" tvg-logo="http://lxls.mx:8080/images/713dc159116329f18b7facd47111a72c.jpg" group-title="Séries | Amazon Prime", El Cid S02 E05
+http://lxls.mx:80/series/994153115/101217/163219.mp4

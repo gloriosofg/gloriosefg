@@ -1,0 +1,63 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7vOvmdFbI80zosaNFN42Gr7d8ru.jpg" group-title="Séries | Netflix",Fargo S01 E01
+http://lxls.mx:80/series/994153115/101217/182015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/uyx73uayBocWSWwJZKqIPb4mfy4.jpg" group-title="Séries | Netflix",Fargo S01 E02
+http://lxls.mx:80/series/994153115/101217/182014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/269IUdtuzqCfRWOHxgkPX24Oj6h.jpg" group-title="Séries | Netflix",Fargo S01 E03
+http://lxls.mx:80/series/994153115/101217/182013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/medpgSsX9bc0aeW8ujDbWTPC25x.jpg" group-title="Séries | Netflix",Fargo S01 E04
+http://lxls.mx:80/series/994153115/101217/182012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5Imr1XNwYOcqLp8wULIzJtF9Y1B.jpg" group-title="Séries | Netflix",Fargo S01 E05
+http://lxls.mx:80/series/994153115/101217/182011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/H3JU0CreR995r2gQkOv5OP49H0.jpg" group-title="Séries | Netflix",Fargo S01 E06
+http://lxls.mx:80/series/994153115/101217/182010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/6QQQwwNpEHR8xrCX4T59oKMXrZA.jpg" group-title="Séries | Netflix",Fargo S01 E07
+http://lxls.mx:80/series/994153115/101217/182009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/z0dQrylb9iFxu0ImB4ibCtIjcW7.jpg" group-title="Séries | Netflix",Fargo S01 E08
+http://lxls.mx:80/series/994153115/101217/182008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/xIAN4BBuBGcATok05XGKIdsAUpR.jpg" group-title="Séries | Netflix",Fargo S01 E09
+http://lxls.mx:80/series/994153115/101217/182007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/kMAfFXXi5GpmXo4V7pJ8SXleU2o.jpg" group-title="Séries | Netflix",Fargo S01 E10
+http://lxls.mx:80/series/994153115/101217/182006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/f5GAKBnvFOYs1kpPm12GX67dlmN.jpg" group-title="Séries | Netflix",Fargo S02 E01
+http://lxls.mx:80/series/994153115/101217/182005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/lr6INd2kO3lT4UHi9Rpx0QRJy7B.jpg" group-title="Séries | Netflix",Fargo S02 E02
+http://lxls.mx:80/series/994153115/101217/182004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/AbDD6X7bPY6ssO0L2WtwnzgLob3.jpg" group-title="Séries | Netflix",Fargo S02 E03
+http://lxls.mx:80/series/994153115/101217/182003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S02 E04" tvg-logo="http://lxls.mx:8080/images/45a50e6d76f389a4e13380c5cfecbe3c.jpg" group-title="Séries | Netflix",Fargo S02 E04
+http://lxls.mx:80/series/994153115/101217/182002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S02 E05" tvg-logo="http://lxls.mx:8080/images/45a50e6d76f389a4e13380c5cfecbe3c.jpg" group-title="Séries | Netflix",Fargo S02 E05
+http://lxls.mx:80/series/994153115/101217/182001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/f39zcWNYeRzs4akIHoDX3tVsrCY.jpg" group-title="Séries | Netflix",Fargo S02 E06
+http://lxls.mx:80/series/994153115/101217/182000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S02 E07" tvg-logo="http://lxls.mx:8080/images/45a50e6d76f389a4e13380c5cfecbe3c.jpg" group-title="Séries | Netflix",Fargo S02 E07
+http://lxls.mx:80/series/994153115/101217/181999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/wuZqErsa5pS5oSP1guS3nlqqbfl.jpg" group-title="Séries | Netflix",Fargo S02 E08
+http://lxls.mx:80/series/994153115/101217/181998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/qoWv82WUK0f6eDLqQgujChscKsi.jpg" group-title="Séries | Netflix",Fargo S02 E09
+http://lxls.mx:80/series/994153115/101217/181997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/h6sSCMixDZh4lBLxR9zZCmgE1JH.jpg" group-title="Séries | Netflix",Fargo S02 E10
+http://lxls.mx:80/series/994153115/101217/181996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/phouc6q1IZTxUlClr7CNnxaF9Xw.jpg" group-title="Séries | Netflix",Fargo S03 E01
+http://lxls.mx:80/series/994153115/101217/181995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/1NqbChQ7sSXQvo0WKHS7bHKwv2o.jpg" group-title="Séries | Netflix",Fargo S03 E02
+http://lxls.mx:80/series/994153115/101217/181994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/q38okovZVSEsabPddeH2dFplpJE.jpg" group-title="Séries | Netflix",Fargo S03 E03
+http://lxls.mx:80/series/994153115/101217/181993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/2o7A2iP8m72tSkMz26BXUwH50ZF.jpg" group-title="Séries | Netflix",Fargo S03 E04
+http://lxls.mx:80/series/994153115/101217/181992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/1KGKMJXfIlwkVjBV3TBrPkRuuqy.jpg" group-title="Séries | Netflix",Fargo S03 E05
+http://lxls.mx:80/series/994153115/101217/181991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/5ZfK6DrqbZ4B98zBEGbY4M0C0lK.jpg" group-title="Séries | Netflix",Fargo S03 E06
+http://lxls.mx:80/series/994153115/101217/181990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/yaf1iDx4AW0CDx9RnjD8E6mvw71.jpg" group-title="Séries | Netflix",Fargo S03 E07
+http://lxls.mx:80/series/994153115/101217/181989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/AmXD9mAHJpX8NQK6u446FLjrOp8.jpg" group-title="Séries | Netflix",Fargo S03 E08
+http://lxls.mx:80/series/994153115/101217/181988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E09" tvg-logo="https://image.tmdb.org/t/p/w300/1Uh1j9R2lLJf6D0DrV3N0OYD1Et.jpg" group-title="Séries | Netflix",Fargo S03 E09
+http://lxls.mx:80/series/994153115/101217/181987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fargo S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/24APQdCi8Q2xJzC9rutUh1kSvIl.jpg" group-title="Séries | Netflix",Fargo S03 E10
+http://lxls.mx:80/series/994153115/101217/181986.mp4

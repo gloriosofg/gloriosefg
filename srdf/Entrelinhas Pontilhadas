@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name=" Entrelinhas Pontilhadas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/lFyhFLQiekxP13Ed3uZA08qPOXU.jpg" group-title="Séries | Netflix", Entrelinhas Pontilhadas S01 E01
+http://lxls.mx:80/series/994153115/101217/142837.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Entrelinhas Pontilhadas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ppqhG5RCAVYyqU9oFWqzd1j9tqE.jpg" group-title="Séries | Netflix", Entrelinhas Pontilhadas S01 E02
+http://lxls.mx:80/series/994153115/101217/142836.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Entrelinhas Pontilhadas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/Ag71X8jaGLj2D6LOnasEIntAU3g.jpg" group-title="Séries | Netflix", Entrelinhas Pontilhadas S01 E03
+http://lxls.mx:80/series/994153115/101217/142835.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Entrelinhas Pontilhadas S01 E04" tvg-logo="http://lxls.mx:8080/images/4c3cb87c4656a13dfb161c7e31bb249b.jpg" group-title="Séries | Netflix", Entrelinhas Pontilhadas S01 E04
+http://lxls.mx:80/series/994153115/101217/142834.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Entrelinhas Pontilhadas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/zXNqCRNGRO28VHxj9bSjr7Qg0EY.jpg" group-title="Séries | Netflix", Entrelinhas Pontilhadas S01 E05
+http://lxls.mx:80/series/994153115/101217/142833.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" Entrelinhas Pontilhadas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/tL650OFzISVrERyYIYsftR7yZbM.jpg" group-title="Séries | Netflix", Entrelinhas Pontilhadas S01 E06
+http://lxls.mx:80/series/994153115/101217/142832.mp4

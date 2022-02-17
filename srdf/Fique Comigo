@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Fique Comigo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/hTfPZPAawxizNt6gDeJbT0O5uEP.jpg" group-title="Séries | Netflix",Fique Comigo S01 E01
+http://lxls.mx:80/series/994153115/101217/224226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fique Comigo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/yxHczqcL2RsV9hR0zcxlgrpJ02P.jpg" group-title="Séries | Netflix",Fique Comigo S01 E02
+http://lxls.mx:80/series/994153115/101217/224225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fique Comigo S01 E03" tvg-logo="http://lxls.mx:8080/images/3cf42019b805df376bc388a00c32ac86.jpg" group-title="Séries | Netflix",Fique Comigo S01 E03
+http://lxls.mx:80/series/994153115/101217/224224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fique Comigo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cZagb1Z3EOQxVFoig2iKfbm1cPz.jpg" group-title="Séries | Netflix",Fique Comigo S01 E04
+http://lxls.mx:80/series/994153115/101217/224223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fique Comigo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/2qraOWpIgjPSsqPGECtfQgaROlf.jpg" group-title="Séries | Netflix",Fique Comigo S01 E05
+http://lxls.mx:80/series/994153115/101217/224222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fique Comigo S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/2QbqtpXgix9FLpEAUSrJQ7aQ7yP.jpg" group-title="Séries | Netflix",Fique Comigo S01 E06
+http://lxls.mx:80/series/994153115/101217/224221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fique Comigo S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/c9mArjdPwd53jHU4Hr5d6oSqzef.jpg" group-title="Séries | Netflix",Fique Comigo S01 E07
+http://lxls.mx:80/series/994153115/101217/224220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fique Comigo S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/fE5AmT12RkATsLCgBfgRd4IjCvc.jpg" group-title="Séries | Netflix",Fique Comigo S01 E08
+http://lxls.mx:80/series/994153115/101217/224219.mp4

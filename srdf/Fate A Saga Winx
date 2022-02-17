@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Fate A Saga Winx S01 E01" tvg-logo="http://lxls.mx:8080/images/f9c292c9aea7b4dfb662ca89a3ac16cb.jpg" group-title="Séries | Netflix",Fate A Saga Winx S01 E01
+http://lxls.mx:80/series/994153115/101217/178393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fate A Saga Winx S01 E02" tvg-logo="http://lxls.mx:8080/images/f9c292c9aea7b4dfb662ca89a3ac16cb.jpg" group-title="Séries | Netflix",Fate A Saga Winx S01 E02
+http://lxls.mx:80/series/994153115/101217/178392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fate A Saga Winx S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/cvk67IEtzTVVqnM5BGF3Zb9gvYS.jpg" group-title="Séries | Netflix",Fate A Saga Winx S01 E03
+http://lxls.mx:80/series/994153115/101217/178391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fate A Saga Winx S01 E04" tvg-logo="http://lxls.mx:8080/images/f9c292c9aea7b4dfb662ca89a3ac16cb.jpg" group-title="Séries | Netflix",Fate A Saga Winx S01 E04
+http://lxls.mx:80/series/994153115/101217/178390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fate A Saga Winx S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/y13DC3FbBqDx6mSoOu9QwWhAHB5.jpg" group-title="Séries | Netflix",Fate A Saga Winx S01 E05
+http://lxls.mx:80/series/994153115/101217/178389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fate A Saga Winx S01 E06" tvg-logo="http://lxls.mx:8080/images/f9c292c9aea7b4dfb662ca89a3ac16cb.jpg" group-title="Séries | Netflix",Fate A Saga Winx S01 E06
+http://lxls.mx:80/series/994153115/101217/178388.mp4
