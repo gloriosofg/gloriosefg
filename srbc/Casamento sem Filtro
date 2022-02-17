@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Casamento sem Filtro S01 E01" tvg-logo="http://lxls.mx:8080/images/fe8eb5ca2647b3c9b4d1514a26dffb06.jpg" group-title="Séries | Netflix",Casamento sem Filtro S01 E01
+http://lxls.mx:80/series/994153115/101217/172217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento sem Filtro S01 E02" tvg-logo="http://lxls.mx:8080/images/fe8eb5ca2647b3c9b4d1514a26dffb06.jpg" group-title="Séries | Netflix",Casamento sem Filtro S01 E02
+http://lxls.mx:80/series/994153115/101217/172216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento sem Filtro S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/zyDv4CG8OFTfMSpKkhzvOWBq1ac.jpg" group-title="Séries | Netflix",Casamento sem Filtro S01 E03
+http://lxls.mx:80/series/994153115/101217/172215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento sem Filtro S01 E04" tvg-logo="http://lxls.mx:8080/images/fe8eb5ca2647b3c9b4d1514a26dffb06.jpg" group-title="Séries | Netflix",Casamento sem Filtro S01 E04
+http://lxls.mx:80/series/994153115/101217/172214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento sem Filtro S01 E05" tvg-logo="http://lxls.mx:8080/images/fe8eb5ca2647b3c9b4d1514a26dffb06.jpg" group-title="Séries | Netflix",Casamento sem Filtro S01 E05
+http://lxls.mx:80/series/994153115/101217/172213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casamento sem Filtro S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/9vuB2jIAcNMDOA62qdWzw6icvRf.jpg" group-title="Séries | Netflix",Casamento sem Filtro S01 E06
+http://lxls.mx:80/series/994153115/101217/172212.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Belgravia S01 E01" tvg-logo="http://lxls.mx:8080/images/47b6bcb7dc44cad6c5c57fed1654c145.jpg" group-title="Séries | Globoplay",Belgravia S01 E01
+http://lxls.mx:80/series/994153115/101217/152107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belgravia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/5020leHS8JciqMztrUmuDWdQvRF.jpg" group-title="Séries | Globoplay",Belgravia S01 E02
+http://lxls.mx:80/series/994153115/101217/152105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belgravia S01 E03" tvg-logo="http://lxls.mx:8080/images/47b6bcb7dc44cad6c5c57fed1654c145.jpg" group-title="Séries | Globoplay",Belgravia S01 E03
+http://lxls.mx:80/series/994153115/101217/152102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belgravia S01 E04" tvg-logo="http://lxls.mx:8080/images/47b6bcb7dc44cad6c5c57fed1654c145.jpg" group-title="Séries | Globoplay",Belgravia S01 E04
+http://lxls.mx:80/series/994153115/101217/152101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belgravia S01 E05" tvg-logo="http://lxls.mx:8080/images/47b6bcb7dc44cad6c5c57fed1654c145.jpg" group-title="Séries | Globoplay",Belgravia S01 E05
+http://lxls.mx:80/series/994153115/101217/152099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belgravia S01 E06" tvg-logo="http://lxls.mx:8080/images/47b6bcb7dc44cad6c5c57fed1654c145.jpg" group-title="Séries | Globoplay",Belgravia S01 E06
+http://lxls.mx:80/series/994153115/101217/152097.mp4

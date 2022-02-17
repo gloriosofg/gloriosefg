@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Black Narcissus S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8ybp36auUIQ9j4PDUGMmKwMT1IT.jpg" group-title="Séries | Star+",Black Narcissus S01 E01
+http://lxls.mx:80/series/994153115/101217/174671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Narcissus S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/qAVFGnEcFPDupnDVEwTbuoFXJUY.jpg" group-title="Séries | Star+",Black Narcissus S01 E02
+http://lxls.mx:80/series/994153115/101217/174670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Narcissus S01 E03" tvg-logo="http://lxls.mx:8080/images/11a87badd2cbd7c00558467e5b40e59e.jpg" group-title="Séries | Star+",Black Narcissus S01 E03
+http://lxls.mx:80/series/994153115/101217/174669.mp4

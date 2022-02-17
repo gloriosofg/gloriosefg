@@ -1,0 +1,39 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Baby S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/hJsBPoG5OtxfzAc7WydbnSuV9Pe.jpg" group-title="Séries | Netflix",Baby S01 E01
+http://lxls.mx:80/series/994153115/101217/212461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/xCpJTD3PwhyLIETsmUQvqyvp9Yb.jpg" group-title="Séries | Netflix",Baby S01 E02
+http://lxls.mx:80/series/994153115/101217/212460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/k4SL22VNwM5XuZE6lc3nlxYgaYn.jpg" group-title="Séries | Netflix",Baby S01 E03
+http://lxls.mx:80/series/994153115/101217/212459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/1mqAaX3Z0QOd83k70qDcig7dt0P.jpg" group-title="Séries | Netflix",Baby S01 E04
+http://lxls.mx:80/series/994153115/101217/212458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/9KZE3fImeyT4gqS8uILEyLjS0Vj.jpg" group-title="Séries | Netflix",Baby S01 E05
+http://lxls.mx:80/series/994153115/101217/212457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/8mYUsdWW5BWHp8xRT7fwCBI7RN8.jpg" group-title="Séries | Netflix",Baby S01 E06
+http://lxls.mx:80/series/994153115/101217/212456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/pR5KQnG22LXDZMx0QYGt6Jnxuxt.jpg" group-title="Séries | Netflix",Baby S02 E01
+http://lxls.mx:80/series/994153115/101217/212442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/wyIgYzazrpOnLeO2engmESQdeki.jpg" group-title="Séries | Netflix",Baby S02 E02
+http://lxls.mx:80/series/994153115/101217/212441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/1ew4uVnsVGH51a5gYIo6b3OhBnq.jpg" group-title="Séries | Netflix",Baby S02 E03
+http://lxls.mx:80/series/994153115/101217/212440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/kDTYcaWZLX5rCwuMacAD22iy0z8.jpg" group-title="Séries | Netflix",Baby S02 E04
+http://lxls.mx:80/series/994153115/101217/212439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/4AueKpt4RAii2uGHkPY5wbsz6LE.jpg" group-title="Séries | Netflix",Baby S02 E05
+http://lxls.mx:80/series/994153115/101217/212438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/oLgg4MTYoaB9dChXntl3gqkCnyp.jpg" group-title="Séries | Netflix",Baby S02 E06
+http://lxls.mx:80/series/994153115/101217/212437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3beFhrlwFElADns3B2jtuEl8rhn.jpg" group-title="Séries | Netflix",Baby S03 E01
+http://lxls.mx:80/series/994153115/101217/187794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S03 E02" tvg-logo="http://lxls.mx:8080/images/58b371da97e6faf3837d5b1d7c6e1196.jpg" group-title="Séries | Netflix",Baby S03 E02
+http://lxls.mx:80/series/994153115/101217/187793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/tix6M526RU4Y2LTzLd7KUiof6JQ.jpg" group-title="Séries | Netflix",Baby S03 E03
+http://lxls.mx:80/series/994153115/101217/187792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/t1OQkotJpVEY77qKGLrL827ZI10.jpg" group-title="Séries | Netflix",Baby S03 E04
+http://lxls.mx:80/series/994153115/101217/187791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/pieaMwMO92J4oRqumFSRIMFBFGW.jpg" group-title="Séries | Netflix",Baby S03 E05
+http://lxls.mx:80/series/994153115/101217/187790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/ukvWDCL0dnXEcS3xqmhLiYhRc7D.jpg" group-title="Séries | Netflix",Baby S03 E06
+http://lxls.mx:80/series/994153115/101217/187789.mp4

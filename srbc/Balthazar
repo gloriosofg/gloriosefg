@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Balthazar S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/yJ2bKmQq4IOKOu5HTXreUrjZSz3.jpg" group-title="Séries | Globoplay",Balthazar S01 E01
+http://lxls.mx:80/series/994153115/101217/140886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balthazar S01 E02" tvg-logo="http://lxls.mx:8080/images/4ae1f49b544b6f1fb21b6c89a9635f8e.jpg" group-title="Séries | Globoplay",Balthazar S01 E02
+http://lxls.mx:80/series/994153115/101217/140885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balthazar S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/sSc8qMo5Sq5yRouHrieH9ixqt93.jpg" group-title="Séries | Globoplay",Balthazar S01 E03
+http://lxls.mx:80/series/994153115/101217/140884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balthazar S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/kUz4bLi8AHjLuhiyNKuwaoYfDKs.jpg" group-title="Séries | Globoplay",Balthazar S01 E04
+http://lxls.mx:80/series/994153115/101217/140883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balthazar S01 E05" tvg-logo="http://lxls.mx:8080/images/4ae1f49b544b6f1fb21b6c89a9635f8e.jpg" group-title="Séries | Globoplay",Balthazar S01 E05
+http://lxls.mx:80/series/994153115/101217/140882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Balthazar S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/khnvW3gP99LKXIIwO2UqxsX23x2.jpg" group-title="Séries | Globoplay",Balthazar S01 E06
+http://lxls.mx:80/series/994153115/101217/140881.mp4

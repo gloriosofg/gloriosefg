@@ -1,0 +1,29 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/oSomOlrlpOzYQZKpzxYyVj7y9r2.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E01
+http://lxls.mx:80/series/994153115/101217/212455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9Bpyqv6EhlXJ9hPwRH0WgOGlPHP.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E02
+http://lxls.mx:80/series/994153115/101217/212454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E03" tvg-logo="http://lxls.mx:8080/images/286cc15b2db0f12f2ddaa067a2687504.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E03
+http://lxls.mx:80/series/994153115/101217/212453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E04" tvg-logo="http://lxls.mx:8080/images/286cc15b2db0f12f2ddaa067a2687504.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E04
+http://lxls.mx:80/series/994153115/101217/212452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/gSbEMkSIKVg7EtGiQOdUJeHl1PH.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E05
+http://lxls.mx:80/series/994153115/101217/212451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/vrDLwKxJoKHSt97Uyaxj6mGhNIp.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E06
+http://lxls.mx:80/series/994153115/101217/212450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/h27TRKvvAZdAgCs3F27pMnCKFdE.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E07
+http://lxls.mx:80/series/994153115/101217/212449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/7lUVwFT29uQcocHV0NTPcsLMjif.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E08
+http://lxls.mx:80/series/994153115/101217/212448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E09" tvg-logo="http://lxls.mx:8080/images/286cc15b2db0f12f2ddaa067a2687504.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E09
+http://lxls.mx:80/series/994153115/101217/212447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/srNgJpcY5VyUlyuJxBSiX6FOxoP.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E10
+http://lxls.mx:80/series/994153115/101217/212446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/rZeBlUEWveZfpQ7TPQ2pvXyE0Ka.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E11
+http://lxls.mx:80/series/994153115/101217/212445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/pMaWombZXqxzQdSkEVzBgx6uTwk.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E12
+http://lxls.mx:80/series/994153115/101217/212444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brigada Costa del Sol S01 E13" tvg-logo="http://lxls.mx:8080/images/286cc15b2db0f12f2ddaa067a2687504.jpg" group-title="Séries | Netflix",Brigada Costa del Sol S01 E13
+http://lxls.mx:80/series/994153115/101217/212443.mp4

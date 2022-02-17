@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8p8ucGgZT9nvMP6rPOC9KDj1KT9.jpg" group-title="Séries | Netflix",Black Summer S01 E01
+http://lxls.mx:80/series/994153115/101217/165024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/20DinuAoPSTjzgIVikz4H5IcERj.jpg" group-title="Séries | Netflix",Black Summer S01 E02
+http://lxls.mx:80/series/994153115/101217/165023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/h1W9nNEaBMXRSa4a4AIyuAGRqs1.jpg" group-title="Séries | Netflix",Black Summer S01 E03
+http://lxls.mx:80/series/994153115/101217/165022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/m5pzjrJcF9B5XPU26nApl3XpI8F.jpg" group-title="Séries | Netflix",Black Summer S01 E04
+http://lxls.mx:80/series/994153115/101217/165021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/i43WCZSIxoqqlN6E1fhkLovybVd.jpg" group-title="Séries | Netflix",Black Summer S01 E05
+http://lxls.mx:80/series/994153115/101217/165020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/aMVLv9p1c4L3BvjFFQ3K9ttYQXj.jpg" group-title="Séries | Netflix",Black Summer S01 E06
+http://lxls.mx:80/series/994153115/101217/165019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/lJcS0gGhGVZwThJcjy89WPQrwCk.jpg" group-title="Séries | Netflix",Black Summer S01 E07
+http://lxls.mx:80/series/994153115/101217/165018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/lIoVuGcTMvo5WV2qhn7FO0WgozG.jpg" group-title="Séries | Netflix",Black Summer S01 E08
+http://lxls.mx:80/series/994153115/101217/165017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S02 E01" tvg-logo="http://lxls.mx:8080/imageS-A638c968408a2cf905cf43c1a721eecf.jpg" group-title="Séries | Netflix",Black Summer S02 E01
+http://lxls.mx:80/series/994153115/101217/165016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S02 E02" tvg-logo="http://lxls.mx:8080/imageS-A638c968408a2cf905cf43c1a721eecf.jpg" group-title="Séries | Netflix",Black Summer S02 E02
+http://lxls.mx:80/series/994153115/101217/165015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/tRwA7WX2kvF0jfyel0RahiWd52y.jpg" group-title="Séries | Netflix",Black Summer S02 E03
+http://lxls.mx:80/series/994153115/101217/165014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/aMvCBxm9tEYQQkSJaHMg2ekUUDb.jpg" group-title="Séries | Netflix",Black Summer S02 E04
+http://lxls.mx:80/series/994153115/101217/165013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/etC0Z7tjmcn4YMdzbuNDMs2ps8N.jpg" group-title="Séries | Netflix",Black Summer S02 E05
+http://lxls.mx:80/series/994153115/101217/165012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/kU05YJQHfGHzFCt00uiz22d5Pmz.jpg" group-title="Séries | Netflix",Black Summer S02 E06
+http://lxls.mx:80/series/994153115/101217/165011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/p4YD3Mh7omU0NDtQhJo3xyRGPdt.jpg" group-title="Séries | Netflix",Black Summer S02 E07
+http://lxls.mx:80/series/994153115/101217/165010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Summer S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/gOsEzdPNVFr3N5I3ObbPIIpaLYK.jpg" group-title="Séries | Netflix",Black Summer S02 E08
+http://lxls.mx:80/series/994153115/101217/165009.mp4

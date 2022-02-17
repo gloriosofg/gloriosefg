@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Rei S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/1pb70YWUKnngm9EmrMyAjIL3UtB.jpg" group-title="Séries | Netflix",Carta ao Rei S01 E01
+http://lxls.mx:80/series/994153115/101217/206851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Rei S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/6L2eGOGwUuqkvP8jK2hoY96NQPp.jpg" group-title="Séries | Netflix",Carta ao Rei S01 E02
+http://lxls.mx:80/series/994153115/101217/206850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Rei S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/8hUsZTpogja6CA7bQHPEdNJGRmA.jpg" group-title="Séries | Netflix",Carta ao Rei S01 E03
+http://lxls.mx:80/series/994153115/101217/206849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Rei S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/9JSUh0ZwvDuWZiGNEnXayz4s23i.jpg" group-title="Séries | Netflix",Carta ao Rei S01 E04
+http://lxls.mx:80/series/994153115/101217/206848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Rei S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/kqxs8P9IVTm7HWiBXVzqOVly4lg.jpg" group-title="Séries | Netflix",Carta ao Rei S01 E05
+http://lxls.mx:80/series/994153115/101217/206847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Rei S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/hsQjOjYXlczsrvnC3pXsGGVgBHV.jpg" group-title="Séries | Netflix",Carta ao Rei S01 E06
+http://lxls.mx:80/series/994153115/101217/206846.mp4

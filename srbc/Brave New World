@@ -1,0 +1,21 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Brave New World S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/jGNAtktoZkLDSTPLGrwuotA9Tca.jpg" group-title="Séries | Globoplay",Brave New World S01 E01
+http://lxls.mx:80/series/994153115/101217/191010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brave New World S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4fjwKr2Eaj8owhVSFRh05nvXL4z.jpg" group-title="Séries | Globoplay",Brave New World S01 E02
+http://lxls.mx:80/series/994153115/101217/191009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brave New World S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/wd8PiWn0kL70KspFnPu1ZSobeFo.jpg" group-title="Séries | Globoplay",Brave New World S01 E03
+http://lxls.mx:80/series/994153115/101217/191008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brave New World S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/5BLdNfK8LaHmbyKbuFacJ80b2Zc.jpg" group-title="Séries | Globoplay",Brave New World S01 E04
+http://lxls.mx:80/series/994153115/101217/191007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brave New World S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/9xiDT1BZGn2hoKVHfxqA9NdZuJb.jpg" group-title="Séries | Globoplay",Brave New World S01 E05
+http://lxls.mx:80/series/994153115/101217/191006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brave New World S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/6aW9NHVSNbufyJwJsdahwvIg46g.jpg" group-title="Séries | Globoplay",Brave New World S01 E06
+http://lxls.mx:80/series/994153115/101217/191005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brave New World S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/90Vt1UoRzDOtGEv3s9bp1b8JeNK.jpg" group-title="Séries | Globoplay",Brave New World S01 E07
+http://lxls.mx:80/series/994153115/101217/190818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brave New World S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/bzB9XpCdpKdgUlgiswBEooV6v31.jpg" group-title="Séries | Globoplay",Brave New World S01 E08
+http://lxls.mx:80/series/994153115/101217/190817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brave New World S01 E09" tvg-logo="http://lxls.mx:8080/images/f7362935026d15837de0270318ec7bbd.jpg" group-title="Séries | Globoplay",Brave New World S01 E09
+http://lxls.mx:80/series/994153115/101217/190816.mp4

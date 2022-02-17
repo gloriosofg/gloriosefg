@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Barra Bravas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ig7OyyMMUlZLc7z2TaP3lQr5DLC.jpg" group-title="Séries | Netflix",Barra Bravas S01 E01
+http://lxls.mx:80/series/994153115/101217/208642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barra Bravas S01 E02" tvg-logo="http://lxls.mx:8080/images/2a7447700e03d069a087aa9e64ff610f.jpg" group-title="Séries | Netflix",Barra Bravas S01 E02
+http://lxls.mx:80/series/994153115/101217/208641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barra Bravas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/nagViR1hldH3YFnwrWDbKoRtVFt.jpg" group-title="Séries | Netflix",Barra Bravas S01 E03
+http://lxls.mx:80/series/994153115/101217/208640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barra Bravas S01 E04" tvg-logo="http://lxls.mx:8080/images/2a7447700e03d069a087aa9e64ff610f.jpg" group-title="Séries | Netflix",Barra Bravas S01 E04
+http://lxls.mx:80/series/994153115/101217/208639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barra Bravas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/4dD265Bx5kIVTKD4DF43pYYHYNK.jpg" group-title="Séries | Netflix",Barra Bravas S01 E05
+http://lxls.mx:80/series/994153115/101217/208638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barra Bravas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/566r1srW2gmOzHhyXOpPicI4EiQ.jpg" group-title="Séries | Netflix",Barra Bravas S01 E06
+http://lxls.mx:80/series/994153115/101217/208637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barra Bravas S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/7qVSYgQAsTNoS9O1Yz8hITCBTCD.jpg" group-title="Séries | Netflix",Barra Bravas S01 E07
+http://lxls.mx:80/series/994153115/101217/208636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barra Bravas S01 E08" tvg-logo="http://lxls.mx:8080/images/2a7447700e03d069a087aa9e64ff610f.jpg" group-title="Séries | Netflix",Barra Bravas S01 E08
+http://lxls.mx:80/series/994153115/101217/208635.mp4

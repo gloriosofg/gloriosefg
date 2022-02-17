@@ -1,0 +1,31 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/qXxaHCX771O8BkF0Ce5Xw116kZq.jpg" group-title="Séries | Netflix",Bad Blood S01 E01
+http://lxls.mx:80/series/994153115/101217/215779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/8Gd4K4n7rDJ8ctwHrhiJSGcYw5Y.jpg" group-title="Séries | Netflix",Bad Blood S01 E02
+http://lxls.mx:80/series/994153115/101217/215778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S01 E03" tvg-logo="http://lxls.mx:8080/images/1bc30d15f5f8fe2a58a9c724b606fdfd.jpg" group-title="Séries | Netflix",Bad Blood S01 E03
+http://lxls.mx:80/series/994153115/101217/215777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ouIn9grw6wNxe2eJKjG4jLVGkT6.jpg" group-title="Séries | Netflix",Bad Blood S01 E04
+http://lxls.mx:80/series/994153115/101217/215776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/cmkcsIvrOlaY7i5ypwB3HwLLYxG.jpg" group-title="Séries | Netflix",Bad Blood S01 E05
+http://lxls.mx:80/series/994153115/101217/215775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/8KNBjR8WnJOXBrMuR2tpUbUXt1w.jpg" group-title="Séries | Netflix",Bad Blood S01 E06
+http://lxls.mx:80/series/994153115/101217/215774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/2gtOAOaFT8eII1sJXbacTfbJDIv.jpg" group-title="Séries | Netflix",Bad Blood S02 E01
+http://lxls.mx:80/series/994153115/101217/215773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ksIhpzKHGtLCIN7UxEsLqBn3Eam.jpg" group-title="Séries | Netflix",Bad Blood S02 E02
+http://lxls.mx:80/series/994153115/101217/215772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ylxqrobFJzAw8n6CKrpnNtX3hi3.jpg" group-title="Séries | Netflix",Bad Blood S02 E03
+http://lxls.mx:80/series/994153115/101217/215771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/byZqtMpHBXTUatzS22N8Jgh2wL8.jpg" group-title="Séries | Netflix",Bad Blood S02 E04
+http://lxls.mx:80/series/994153115/101217/215770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/egHh4wtqUkoRENFY4o4p6y4pDzI.jpg" group-title="Séries | Netflix",Bad Blood S02 E05
+http://lxls.mx:80/series/994153115/101217/215769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S02 E06" tvg-logo="http://lxls.mx:8080/images/1bc30d15f5f8fe2a58a9c724b606fdfd.jpg" group-title="Séries | Netflix",Bad Blood S02 E06
+http://lxls.mx:80/series/994153115/101217/215768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/a27Jw76xY26KFTYPBfjuA7a8mgi.jpg" group-title="Séries | Netflix",Bad Blood S02 E07
+http://lxls.mx:80/series/994153115/101217/215767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Blood S02 E08" tvg-logo="http://lxls.mx:8080/images/1bc30d15f5f8fe2a58a9c724b606fdfd.jpg" group-title="Séries | Netflix",Bad Blood S02 E08
+http://lxls.mx:80/series/994153115/101217/215766.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Bemvindos à Terra S01 E01" tvg-logo="http://lxls.mx:8080/images/dc9eed3badb7d9f13e9f5fe228f103c0.jpg" group-title="Séries | Disney+",Bemvindos à Terra S01 E01
+http://lxls.mx:80/series/994153115/101217/140880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bemvindos à Terra S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ay7BASMAUIHupDLONifNjq10nZw.jpg" group-title="Séries | Disney+",Bemvindos à Terra S01 E02
+http://lxls.mx:80/series/994153115/101217/140879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bemvindos à Terra S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/s3zyHFpUXgv7mPplG8WccNT5yRG.jpg" group-title="Séries | Disney+",Bemvindos à Terra S01 E03
+http://lxls.mx:80/series/994153115/101217/140878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bemvindos à Terra S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/qwzp5D5i3sodgXWQAKCxG4L7CfB.jpg" group-title="Séries | Disney+",Bemvindos à Terra S01 E04
+http://lxls.mx:80/series/994153115/101217/140877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bemvindos à Terra S01 E05" tvg-logo="http://lxls.mx:8080/images/dc9eed3badb7d9f13e9f5fe228f103c0.jpg" group-title="Séries | Disney+",Bemvindos à Terra S01 E05
+http://lxls.mx:80/series/994153115/101217/140876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bemvindos à Terra S01 E06" tvg-logo="http://lxls.mx:8080/images/dc9eed3badb7d9f13e9f5fe228f103c0.jpg" group-title="Séries | Disney+",Bemvindos à Terra S01 E06
+http://lxls.mx:80/series/994153115/101217/140875.mp4

@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7pVRfmAvXIbLnnuA8suZXWqafOW.jpg" group-title="Séries | Globoplay",Babylon Berlin S01 E01
+http://lxls.mx:80/series/994153115/101217/203955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S01 E02" tvg-logo="http://lxls.mx:8080/images/b5665bf2eb19675d2edea26adec2d18a.jpg" group-title="Séries | Globoplay",Babylon Berlin S01 E02
+http://lxls.mx:80/series/994153115/101217/203954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/mNoPDRVcdsdGNahUaKI24ibl1Bz.jpg" group-title="Séries | Globoplay",Babylon Berlin S01 E03
+http://lxls.mx:80/series/994153115/101217/203953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/h8hPmZEgXfkY2j5h6SnJ7v8FJ6O.jpg" group-title="Séries | Globoplay",Babylon Berlin S01 E04
+http://lxls.mx:80/series/994153115/101217/203952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/u8FsfwPopvsPMcvMwysy2htTRMT.jpg" group-title="Séries | Globoplay",Babylon Berlin S01 E05
+http://lxls.mx:80/series/994153115/101217/203951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/mPbgMBtSL5YdEsOO7a02Pupo7SC.jpg" group-title="Séries | Globoplay",Babylon Berlin S01 E06
+http://lxls.mx:80/series/994153115/101217/203950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/gMoxLHO9n9DOWh3wja9HI0RNIN8.jpg" group-title="Séries | Globoplay",Babylon Berlin S01 E07
+http://lxls.mx:80/series/994153115/101217/203949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/8pk4Doc6l35kfANCNRRJz3gZNFy.jpg" group-title="Séries | Globoplay",Babylon Berlin S01 E08
+http://lxls.mx:80/series/994153115/101217/203948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ixPx8rhC0VRiQI7499pUrXz7V3b.jpg" group-title="Séries | Globoplay",Babylon Berlin S02 E01
+http://lxls.mx:80/series/994153115/101217/203947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/cVQcu0tBxc0GGamZ8vFyhKSVv6q.jpg" group-title="Séries | Globoplay",Babylon Berlin S02 E02
+http://lxls.mx:80/series/994153115/101217/203946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/h2eeJXhajzk9bWwvcwQe1RrRolF.jpg" group-title="Séries | Globoplay",Babylon Berlin S02 E03
+http://lxls.mx:80/series/994153115/101217/203945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/jiHGSQM5ey4GHDv06LWci7IxwJX.jpg" group-title="Séries | Globoplay",Babylon Berlin S02 E04
+http://lxls.mx:80/series/994153115/101217/203944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/zkrcBKEfaFlMkUkJVyUGFhiVBS4.jpg" group-title="Séries | Globoplay",Babylon Berlin S02 E05
+http://lxls.mx:80/series/994153115/101217/203943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/sPOkymwisrAlVjFe83XzD6jMLBI.jpg" group-title="Séries | Globoplay",Babylon Berlin S02 E06
+http://lxls.mx:80/series/994153115/101217/203942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/s8FwU7guLaZq2FryGdqTMGwsQb1.jpg" group-title="Séries | Globoplay",Babylon Berlin S02 E07
+http://lxls.mx:80/series/994153115/101217/203941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babylon Berlin S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/cNBEHGS53jCmoB9YNzFa07MAPv8.jpg" group-title="Séries | Globoplay",Babylon Berlin S02 E08
+http://lxls.mx:80/series/994153115/101217/203940.mp4
