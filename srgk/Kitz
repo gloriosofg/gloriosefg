@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Kitz S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/r88sF4INWSiadthqydFXo9Yo92V.jpg" group-title="Séries | Netflix",Kitz S01 E01
+http://lxls.mx:80/series/994153115/101217/224200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kitz S01 E02" tvg-logo="http://lxls.mx:8080/images/b1048fc4e227aca224c03dfa3d8be575.jpg" group-title="Séries | Netflix",Kitz S01 E02
+http://lxls.mx:80/series/994153115/101217/224199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kitz S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/mCFbpwxosItGqovvEV1VP9hTsGY.jpg" group-title="Séries | Netflix",Kitz S01 E03
+http://lxls.mx:80/series/994153115/101217/224198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kitz S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cnEgqlSqmggZB38y60wkqLPCNaC.jpg" group-title="Séries | Netflix",Kitz S01 E04
+http://lxls.mx:80/series/994153115/101217/224197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kitz S01 E05" tvg-logo="http://lxls.mx:8080/images/b1048fc4e227aca224c03dfa3d8be575.jpg" group-title="Séries | Netflix",Kitz S01 E05
+http://lxls.mx:80/series/994153115/101217/224196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kitz S01 E06" tvg-logo="http://lxls.mx:8080/images/b1048fc4e227aca224c03dfa3d8be575.jpg" group-title="Séries | Netflix",Kitz S01 E06
+http://lxls.mx:80/series/994153115/101217/224195.mp4

@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Japao Submerso S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/5fgu9Rxri2VwbTd3qgXD480En0f.jpg" group-title="Séries | Netflix",Japao Submerso S01 E01
+http://lxls.mx:80/series/994153115/101217/191057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Japao Submerso S01 E02" tvg-logo="http://lxls.mx:8080/images/db1af41a7bfabd3fad1476537f7f7864.jpg" group-title="Séries | Netflix",Japao Submerso S01 E02
+http://lxls.mx:80/series/994153115/101217/191056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Japao Submerso S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/jsPo0i3cj2X88n3g4oR1bTvwXCx.jpg" group-title="Séries | Netflix",Japao Submerso S01 E03
+http://lxls.mx:80/series/994153115/101217/191055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Japao Submerso S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dfpwpd5jdWkocBOnuTnkjHnEotY.jpg" group-title="Séries | Netflix",Japao Submerso S01 E04
+http://lxls.mx:80/series/994153115/101217/191054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Japao Submerso S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/widjxeFVK9MpeYFyegA59eoTeyq.jpg" group-title="Séries | Netflix",Japao Submerso S01 E05
+http://lxls.mx:80/series/994153115/101217/191053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Japao Submerso S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/kVgMLei9YMBRVvwckcyU3nNLOse.jpg" group-title="Séries | Netflix",Japao Submerso S01 E06
+http://lxls.mx:80/series/994153115/101217/191052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Japao Submerso S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/o5FNP9hRMhxfmSMqGURjfWl9cmo.jpg" group-title="Séries | Netflix",Japao Submerso S01 E07
+http://lxls.mx:80/series/994153115/101217/191051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Japao Submerso S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/i9MmnftcKR11BzEqAsuVoIxY7v.jpg" group-title="Séries | Netflix",Japao Submerso S01 E08
+http://lxls.mx:80/series/994153115/101217/191050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Japao Submerso S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/9VKD5LZkypVoNjJv53zwlVrAXR9.jpg" group-title="Séries | Netflix",Japao Submerso S01 E09
+http://lxls.mx:80/series/994153115/101217/191049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Japao Submerso S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/yBOXOx7kkZXYJkg1wyMTZoUr4bS.jpg" group-title="Séries | Netflix",Japao Submerso S01 E10
+http://lxls.mx:80/series/994153115/101217/191048.mp4

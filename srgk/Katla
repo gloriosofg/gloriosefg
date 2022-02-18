@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Katla S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/QHlj8DMBqXdhQ2in5SAShsjmlK.jpg" group-title="Séries | Netflix",Katla S01 E01
+http://lxls.mx:80/series/994153115/101217/165057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Katla S01 E02" tvg-logo="http://lxls.mx:8080/images/33a973c2b5818537fe1cc1fe571eae91.jpg" group-title="Séries | Netflix",Katla S01 E02
+http://lxls.mx:80/series/994153115/101217/165056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Katla S01 E03" tvg-logo="http://lxls.mx:8080/images/33a973c2b5818537fe1cc1fe571eae91.jpg" group-title="Séries | Netflix",Katla S01 E03
+http://lxls.mx:80/series/994153115/101217/165055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Katla S01 E04" tvg-logo="http://lxls.mx:8080/images/33a973c2b5818537fe1cc1fe571eae91.jpg" group-title="Séries | Netflix",Katla S01 E04
+http://lxls.mx:80/series/994153115/101217/165054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Katla S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/1BtQl1yaMmgEWknOd20QvMLio4.jpg" group-title="Séries | Netflix",Katla S01 E05
+http://lxls.mx:80/series/994153115/101217/165053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Katla S01 E06" tvg-logo="http://lxls.mx:8080/images/33a973c2b5818537fe1cc1fe571eae91.jpg" group-title="Séries | Netflix",Katla S01 E06
+http://lxls.mx:80/series/994153115/101217/165052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Katla S01 E07" tvg-logo="http://lxls.mx:8080/images/33a973c2b5818537fe1cc1fe571eae91.jpg" group-title="Séries | Netflix",Katla S01 E07
+http://lxls.mx:80/series/994153115/101217/165051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Katla S01 E08" tvg-logo="http://lxls.mx:8080/images/33a973c2b5818537fe1cc1fe571eae91.jpg" group-title="Séries | Netflix",Katla S01 E08
+http://lxls.mx:80/series/994153115/101217/165050.mp4

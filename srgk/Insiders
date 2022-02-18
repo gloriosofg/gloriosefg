@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Insiders S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/tGnryIXHVXFSWx7pq2geuEgKAAE.jpg" group-title="Séries | Netflix",Insiders S01 E01
+http://lxls.mx:80/series/994153115/101217/146055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insiders S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/A2pKPY0oETE7W02YbCsOMeFSFl4.jpg" group-title="Séries | Netflix",Insiders S01 E02
+http://lxls.mx:80/series/994153115/101217/146054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insiders S01 E03" tvg-logo="http://lxls.mx:8080/images/94c511803145202e6a31a4742ac020ad.jpg" group-title="Séries | Netflix",Insiders S01 E03
+http://lxls.mx:80/series/994153115/101217/146053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insiders S01 E04" tvg-logo="http://lxls.mx:8080/images/94c511803145202e6a31a4742ac020ad.jpg" group-title="Séries | Netflix",Insiders S01 E04
+http://lxls.mx:80/series/994153115/101217/146052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insiders S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3qv6azuADwJEX4WtJXNUjVExCZy.jpg" group-title="Séries | Netflix",Insiders S01 E05
+http://lxls.mx:80/series/994153115/101217/146051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insiders S01 E06" tvg-logo="http://lxls.mx:8080/images/94c511803145202e6a31a4742ac020ad.jpg" group-title="Séries | Netflix",Insiders S01 E06
+http://lxls.mx:80/series/994153115/101217/146050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insiders S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/hpo0iJKr55OT8OkuhNZGRXMvnt5.jpg" group-title="Séries | Netflix",Insiders S01 E07
+http://lxls.mx:80/series/994153115/101217/146049.mp4

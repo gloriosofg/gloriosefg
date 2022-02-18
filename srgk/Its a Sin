@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Its a Sin S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eUyY0u68bgWiP3ko0jKefO5lVeI.jpg" group-title="Séries | HBO Max",Its a Sin S01 E01
+http://lxls.mx:80/series/994153115/101217/163083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Its a Sin S01 E02" tvg-logo="http://lxls.mx:8080/images/3198a36f3749d98d55f2d3965b280b2a.jpg" group-title="Séries | HBO Max",Its a Sin S01 E02
+http://lxls.mx:80/series/994153115/101217/163080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Its a Sin S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/sy3oSMzztAOaMwaimq4cQ4PFk2w.jpg" group-title="Séries | HBO Max",Its a Sin S01 E03
+http://lxls.mx:80/series/994153115/101217/163078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Its a Sin S01 E04" tvg-logo="http://lxls.mx:8080/images/3198a36f3749d98d55f2d3965b280b2a.jpg" group-title="Séries | HBO Max",Its a Sin S01 E04
+http://lxls.mx:80/series/994153115/101217/163075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Its a Sin S01 E05" tvg-logo="http://lxls.mx:8080/images/3198a36f3749d98d55f2d3965b280b2a.jpg" group-title="Séries | HBO Max",Its a Sin S01 E05
+http://lxls.mx:80/series/994153115/101217/163072.mp4

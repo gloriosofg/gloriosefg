@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Hyperdrive S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8TEDK1gUppGzS8qJ3RS7s35v0nZ.jpg" group-title="Séries | Netflix",Hyperdrive S01 E01
+http://lxls.mx:80/series/994153115/101217/213238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hyperdrive S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/5pQcK6dkrUZsfdUz8xMCX93bL0H.jpg" group-title="Séries | Netflix",Hyperdrive S01 E02
+http://lxls.mx:80/series/994153115/101217/213237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hyperdrive S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ys7apLKAGQhJUfeTwgVEPmcGeeq.jpg" group-title="Séries | Netflix",Hyperdrive S01 E03
+http://lxls.mx:80/series/994153115/101217/213236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hyperdrive S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/s3Pc6f76HtuhxfpbUUoVKf5bm4z.jpg" group-title="Séries | Netflix",Hyperdrive S01 E04
+http://lxls.mx:80/series/994153115/101217/213235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hyperdrive S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/isyRCqw1LKFU2KinZmFRKoNh7TA.jpg" group-title="Séries | Netflix",Hyperdrive S01 E05
+http://lxls.mx:80/series/994153115/101217/213234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hyperdrive S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/7EYJ84J0ZNu6SG7bWPRJ3f9xEIZ.jpg" group-title="Séries | Netflix",Hyperdrive S01 E06
+http://lxls.mx:80/series/994153115/101217/213233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hyperdrive S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/Aae58369T2c7qOBH5cdH54s1GS6.jpg" group-title="Séries | Netflix",Hyperdrive S01 E07
+http://lxls.mx:80/series/994153115/101217/213232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hyperdrive S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/r60nJypbStjModXdWxYgl1b91Ym.jpg" group-title="Séries | Netflix",Hyperdrive S01 E08
+http://lxls.mx:80/series/994153115/101217/213231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hyperdrive S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/2tntfVOkqey3QwBF47BuYZKyfCm.jpg" group-title="Séries | Netflix",Hyperdrive S01 E09
+http://lxls.mx:80/series/994153115/101217/213230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hyperdrive S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/gpxo3VBmFYaCgOLMywmjzTIG8Bb.jpg" group-title="Séries | Netflix",Hyperdrive S01 E10
+http://lxls.mx:80/series/994153115/101217/213229.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Intelligence S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eIbGRASwFOMUfoZgopU8RYHAkVK.jpg" group-title="Séries | Ação & Ficção",Intelligence S01 E01
+http://lxls.mx:80/series/994153115/101217/191047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intelligence S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/v1gViYBi6aisuEmkN1DPySI715S.jpg" group-title="Séries | Ação & Ficção",Intelligence S01 E02
+http://lxls.mx:80/series/994153115/101217/191046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intelligence S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWO3w2isgxBarZEH4vE4qbrpqTd.jpg" group-title="Séries | Ação & Ficção",Intelligence S01 E03
+http://lxls.mx:80/series/994153115/101217/191045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intelligence S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/zu0M8TG4HCU8WWGaagksAqz0jxl.jpg" group-title="Séries | Ação & Ficção",Intelligence S01 E04
+http://lxls.mx:80/series/994153115/101217/191044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intelligence S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/oUQMjxzChmUEGWT9x5Fa83H0ldB.jpg" group-title="Séries | Ação & Ficção",Intelligence S01 E05
+http://lxls.mx:80/series/994153115/101217/191043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intelligence S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/hSPHnmeFBFVIyxdB6HqLX7FuMtt.jpg" group-title="Séries | Ação & Ficção",Intelligence S01 E06
+http://lxls.mx:80/series/994153115/101217/191042.mp4

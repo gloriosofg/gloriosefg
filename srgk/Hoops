@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Hoops S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/o5fAoYp2PH6MeFYO3qFrC4OZWCF.jpg" group-title="Séries | Netflix",Hoops S01 E01
+http://lxls.mx:80/series/994153115/101217/189852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoops S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/2Y1MUUp8fJxpkIFvy3jUeLKbxc8.jpg" group-title="Séries | Netflix",Hoops S01 E02
+http://lxls.mx:80/series/994153115/101217/189851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoops S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/rAoi77sFOB344fSFB0qxD04iEWR.jpg" group-title="Séries | Netflix",Hoops S01 E03
+http://lxls.mx:80/series/994153115/101217/189850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoops S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ykzjl4jsnrdRRttcmrjCsmx2ohU.jpg" group-title="Séries | Netflix",Hoops S01 E04
+http://lxls.mx:80/series/994153115/101217/189849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoops S01 E05" tvg-logo="http://lxls.mx:8080/images/1cc19c09fffeaee6f2ff7d30ee119063.jpg" group-title="Séries | Netflix",Hoops S01 E05
+http://lxls.mx:80/series/994153115/101217/189848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoops S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/fW3ua66cX7iYq2Skn3NgnC2kTZQ.jpg" group-title="Séries | Netflix",Hoops S01 E06
+http://lxls.mx:80/series/994153115/101217/189847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoops S01 E07" tvg-logo="http://lxls.mx:8080/images/1cc19c09fffeaee6f2ff7d30ee119063.jpg" group-title="Séries | Netflix",Hoops S01 E07
+http://lxls.mx:80/series/994153115/101217/189846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoops S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/bn22eFj4TsygfRUEVRJamFeOlTD.jpg" group-title="Séries | Netflix",Hoops S01 E08
+http://lxls.mx:80/series/994153115/101217/189845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoops S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/pzQL6DvT3NZFi2vGwCaOBOPvxW4.jpg" group-title="Séries | Netflix",Hoops S01 E09
+http://lxls.mx:80/series/994153115/101217/189844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hoops S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/rHXxNZauFUfxE6CjAdYUhtCtqG6.jpg" group-title="Séries | Netflix",Hoops S01 E10
+http://lxls.mx:80/series/994153115/101217/189843.mp4

@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Japão de Norte a Sul S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/AghUqxzGyzoeQXBnVQyRZBQSwl2.jpg" group-title="Séries | Disney+",Japão de Norte a Sul S01 E01
+http://lxls.mx:80/series/994153115/101217/179960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Japão de Norte a Sul S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/iPkacmQqkrf0MXre2WWr2modLMu.jpg" group-title="Séries | Disney+",Japão de Norte a Sul S01 E02
+http://lxls.mx:80/series/994153115/101217/179959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Japão de Norte a Sul S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/2evhuEsQAFtHePL4R9OWkH4uGhC.jpg" group-title="Séries | Disney+",Japão de Norte a Sul S01 E03
+http://lxls.mx:80/series/994153115/101217/179958.mp4

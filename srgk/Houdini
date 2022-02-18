@@ -1,0 +1,7 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Houdini S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/5xebcymBtuIhigE1Q1P8R1cSUxn.jpg" group-title="Séries | Amazon Prime",Houdini S01 E01
+http://lxls.mx:80/series/994153115/101217/173340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Houdini S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/eQeGaIkTCDH9bjveO35u113vwcJ.jpg" group-title="Séries | Amazon Prime",Houdini S01 E02
+http://lxls.mx:80/series/994153115/101217/173339.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Intervenção Canina S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eArZkhbvwAhneGixTMxn6XwiCvz.jpg" group-title="Séries | Netflix",Intervenção Canina S01 E01
+http://lxls.mx:80/series/994153115/101217/176307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intervenção Canina S01 E02" tvg-logo="http://lxls.mx:8080/images/067c2a28019e1d3e904066e419080e92.jpg" group-title="Séries | Netflix",Intervenção Canina S01 E02
+http://lxls.mx:80/series/994153115/101217/176306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intervenção Canina S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/r4GSH3BFtev1HvnAkhfCpLOHHjU.jpg" group-title="Séries | Netflix",Intervenção Canina S01 E03
+http://lxls.mx:80/series/994153115/101217/176305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intervenção Canina S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/xVsr8788neHlFp4roffA5qFN7HJ.jpg" group-title="Séries | Netflix",Intervenção Canina S01 E04
+http://lxls.mx:80/series/994153115/101217/176304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intervenção Canina S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/qtb17fbgOT67LpZQorjeuS9nwsf.jpg" group-title="Séries | Netflix",Intervenção Canina S01 E05
+http://lxls.mx:80/series/994153115/101217/176303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intervenção Canina S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/dPGFnRAQAYYrJ9fYDhV7Nxf1Szz.jpg" group-title="Séries | Netflix",Intervenção Canina S01 E06
+http://lxls.mx:80/series/994153115/101217/176302.mp4

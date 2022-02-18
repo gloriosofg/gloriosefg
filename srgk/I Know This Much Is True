@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="I Know This Much Is True S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/vsC3zvROgvMxD9e9oEPSVK6qzlz.jpg" group-title="Séries | HBO Max",I Know This Much Is True S01 E01
+http://lxls.mx:80/series/994153115/101217/178936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Know This Much Is True S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/jIokIcBhdLqeGFD0mFLeinNDWRk.jpg" group-title="Séries | HBO Max",I Know This Much Is True S01 E02
+http://lxls.mx:80/series/994153115/101217/178935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Know This Much Is True S01 E03" tvg-logo="http://lxls.mx:8080/images/428d40e532c38e75833eb42a9501f99f.jpg" group-title="Séries | HBO Max",I Know This Much Is True S01 E03
+http://lxls.mx:80/series/994153115/101217/178934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Know This Much Is True S01 E04" tvg-logo="http://lxls.mx:8080/images/428d40e532c38e75833eb42a9501f99f.jpg" group-title="Séries | HBO Max",I Know This Much Is True S01 E04
+http://lxls.mx:80/series/994153115/101217/178933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Know This Much Is True S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/zwjx4go2Uh3e8UOsdDbeuZDs9pH.jpg" group-title="Séries | HBO Max",I Know This Much Is True S01 E05
+http://lxls.mx:80/series/994153115/101217/178932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Know This Much Is True S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/f2vB6yUIA36hUplETOQh6zAP9xX.jpg" group-title="Séries | HBO Max",I Know This Much Is True S01 E06
+http://lxls.mx:80/series/994153115/101217/178931.mp4

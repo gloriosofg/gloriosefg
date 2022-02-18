@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Irmandade S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ftbUcslG9CFreUK3BaXAOyPPGxQ.jpg" group-title="Séries | Netflix",Irmandade S01 E01
+http://lxls.mx:80/series/994153115/101217/210736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmandade S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/swokihMGXPkrXcHgcHbpcdm7kXc.jpg" group-title="Séries | Netflix",Irmandade S01 E02
+http://lxls.mx:80/series/994153115/101217/210735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmandade S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ovWXJQYM4VUnMCGOq5NRMI3FkfS.jpg" group-title="Séries | Netflix",Irmandade S01 E03
+http://lxls.mx:80/series/994153115/101217/210734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmandade S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/xE50pdy0K30pqSQkTWD2RkIHN29.jpg" group-title="Séries | Netflix",Irmandade S01 E04
+http://lxls.mx:80/series/994153115/101217/210733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmandade S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/o805zAYl2qqpGmwyZXos34LzoWY.jpg" group-title="Séries | Netflix",Irmandade S01 E05
+http://lxls.mx:80/series/994153115/101217/210732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmandade S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/6p4LSkFzXjCNFiaHK8zPyIqJV0k.jpg" group-title="Séries | Netflix",Irmandade S01 E06
+http://lxls.mx:80/series/994153115/101217/210731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmandade S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/4V5w4vo3kWgYPM0pyXvfln1xmMH.jpg" group-title="Séries | Netflix",Irmandade S01 E07
+http://lxls.mx:80/series/994153115/101217/210730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irmandade S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/syhZ5DDLIv8I1UJneEhlGjQgqzh.jpg" group-title="Séries | Netflix",Irmandade S01 E08
+http://lxls.mx:80/series/994153115/101217/210729.mp4

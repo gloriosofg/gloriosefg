@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/qC7lweJkh5Uw2ce9GXNWGRAybz5.jpg" group-title="Séries | Netflix",Jaguar S01 E01
+http://lxls.mx:80/series/994153115/101217/147960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/6DpKsaVrmjZhXgczOvEfG3a0Gd8.jpg" group-title="Séries | Netflix",Jaguar S01 E02
+http://lxls.mx:80/series/994153115/101217/147959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E03" tvg-logo="http://lxls.mx:8080/imageS-Aa7090f4a27b9182b3241a059d9e485a.jpg" group-title="Séries | Netflix",Jaguar S01 E03
+http://lxls.mx:80/series/994153115/101217/147958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E04" tvg-logo="http://lxls.mx:8080/imageS-Aa7090f4a27b9182b3241a059d9e485a.jpg" group-title="Séries | Netflix",Jaguar S01 E04
+http://lxls.mx:80/series/994153115/101217/147957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/6uXOz9jVA1Ma1NsR7I5Cdo9jJbc.jpg" group-title="Séries | Netflix",Jaguar S01 E05
+http://lxls.mx:80/series/994153115/101217/147956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaguar S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/zhBOA92XkH0SLtcY1V2ex8BBy9K.jpg" group-title="Séries | Netflix",Jaguar S01 E06
+http://lxls.mx:80/series/994153115/101217/147955.mp4

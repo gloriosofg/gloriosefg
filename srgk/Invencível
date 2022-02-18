@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Invencível S01 E01" tvg-logo="http://lxls.mx:8080/images/686fbc056cd0ab6157dd7740a5cfbc27.jpg" group-title="Séries | Amazon Prime",Invencível S01 E01
+http://lxls.mx:80/series/994153115/101217/172287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invencível S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/pkxbaf98mNpxyoZAiNmJo8vHoDD.jpg" group-title="Séries | Amazon Prime",Invencível S01 E02
+http://lxls.mx:80/series/994153115/101217/172286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invencível S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/h6rJcoDs7tFjLT79RRM3q2ImAuQ.jpg" group-title="Séries | Amazon Prime",Invencível S01 E03
+http://lxls.mx:80/series/994153115/101217/172285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invencível S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/6gaE4O5tWAkUbjJlGQ8DVyG6q8h.jpg" group-title="Séries | Amazon Prime",Invencível S01 E04
+http://lxls.mx:80/series/994153115/101217/172284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invencível S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3xtSXbWOS0OfwAh7ATak07T94FD.jpg" group-title="Séries | Amazon Prime",Invencível S01 E05
+http://lxls.mx:80/series/994153115/101217/171988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invencível S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/pAo0G79EkxiYpkN3T6IDH8KRlYZ.jpg" group-title="Séries | Amazon Prime",Invencível S01 E06
+http://lxls.mx:80/series/994153115/101217/171089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invencível S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/3jBKbGy7SOOJKRqQXGiMjGrmqpA.jpg" group-title="Séries | Amazon Prime",Invencível S01 E07
+http://lxls.mx:80/series/994153115/101217/170185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invencível S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/ijDV8Z23iR5B2ftx0WggiXbfqGi.jpg" group-title="Séries | Amazon Prime",Invencível S01 E08
+http://lxls.mx:80/series/994153115/101217/169988.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="I Am the Night S01 E01" tvg-logo="http://lxls.mx:8080/images/5cda3568fb4584ee921a5bbc1c2bb10c.jpg" group-title="Séries | Terror & Suspense",I Am the Night S01 E01
+http://lxls.mx:80/series/994153115/101217/214043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Am the Night S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/qqMNQsu8ELV51Y8rYArE7290Zqh.jpg" group-title="Séries | Terror & Suspense",I Am the Night S01 E02
+http://lxls.mx:80/series/994153115/101217/214042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Am the Night S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/nIALK0333wfFysKp0Yu3i12CyIk.jpg" group-title="Séries | Terror & Suspense",I Am the Night S01 E03
+http://lxls.mx:80/series/994153115/101217/214041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Am the Night S01 E04" tvg-logo="http://lxls.mx:8080/images/5cda3568fb4584ee921a5bbc1c2bb10c.jpg" group-title="Séries | Terror & Suspense",I Am the Night S01 E04
+http://lxls.mx:80/series/994153115/101217/214040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Am the Night S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/2MnmSGOzEinri5rj5hhBPcIW2lE.jpg" group-title="Séries | Terror & Suspense",I Am the Night S01 E05
+http://lxls.mx:80/series/994153115/101217/214039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Am the Night S01 E06" tvg-logo="http://lxls.mx:8080/images/5cda3568fb4584ee921a5bbc1c2bb10c.jpg" group-title="Séries | Terror & Suspense",I Am the Night S01 E06
+http://lxls.mx:80/series/994153115/101217/214038.mp4
