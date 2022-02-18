@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Medicina do Amanhã S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/uyIVyNvbDcP41EAyfFAae1Ch5Ns.jpg" group-title="Séries | Discovery+",Medicina do Amanhã S01 E01
+http://lxls.mx:80/series/994153115/101217/140071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medicina do Amanhã S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kEd7rpL4D8BQplfjPFA3SAEC6ya.jpg" group-title="Séries | Discovery+",Medicina do Amanhã S01 E02
+http://lxls.mx:80/series/994153115/101217/140070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medicina do Amanhã S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/lLRWRhDiASEpn9SLgpnMMlAcl2w.jpg" group-title="Séries | Discovery+",Medicina do Amanhã S01 E03
+http://lxls.mx:80/series/994153115/101217/140069.mp4

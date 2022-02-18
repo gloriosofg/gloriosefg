@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Mythomaniac S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/dvYLFzztBP1UDvYsq70hlkmMSzn.jpg" group-title="Séries | Netflix",Mythomaniac S01 E01
+http://lxls.mx:80/series/994153115/101217/212008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythomaniac S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/Ak5MxeJbhgpvdDq3FDYdA3inOSs.jpg" group-title="Séries | Netflix",Mythomaniac S01 E02
+http://lxls.mx:80/series/994153115/101217/212007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythomaniac S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ohdssTiMZbpiinxnpAyhVrrzmqz.jpg" group-title="Séries | Netflix",Mythomaniac S01 E03
+http://lxls.mx:80/series/994153115/101217/212006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythomaniac S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/lO1yQKX7EYPSkeLtjAHFsqAb1dE.jpg" group-title="Séries | Netflix",Mythomaniac S01 E04
+http://lxls.mx:80/series/994153115/101217/212005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythomaniac S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/oBARmGAIZJeGu8D159yeN6JxlDb.jpg" group-title="Séries | Netflix",Mythomaniac S01 E05
+http://lxls.mx:80/series/994153115/101217/212004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mythomaniac S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/78NTUG770iBUAc3jtbt8qz9XEIP.jpg" group-title="Séries | Netflix",Mythomaniac S01 E06
+http://lxls.mx:80/series/994153115/101217/212003.mp4

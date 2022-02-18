@@ -1,0 +1,27 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Noite Adentro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/4ncrL372lwop04hkbUWMMgSaC7H.jpg" group-title="Séries | Netflix",Noite Adentro S01 E01
+http://lxls.mx:80/series/994153115/101217/148764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Adentro S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/na6fk6WculNrUPCPPQSPNjNyjvX.jpg" group-title="Séries | Netflix",Noite Adentro S01 E02
+http://lxls.mx:80/series/994153115/101217/148762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Adentro S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/wrhx29OM5lnRfjeNYk9iNwTLUTA.jpg" group-title="Séries | Netflix",Noite Adentro S01 E03
+http://lxls.mx:80/series/994153115/101217/148760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Adentro S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/kt7L0a1YGW8FpKB61end7Mh9vVg.jpg" group-title="Séries | Netflix",Noite Adentro S01 E04
+http://lxls.mx:80/series/994153115/101217/148757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Adentro S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/f1dq1QuBsNuf6pNkh2fMD15dugk.jpg" group-title="Séries | Netflix",Noite Adentro S01 E05
+http://lxls.mx:80/series/994153115/101217/148755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Adentro S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/8Thlv4CgbUqU6fbPrzyVjEia2Xo.jpg" group-title="Séries | Netflix",Noite Adentro S01 E06
+http://lxls.mx:80/series/994153115/101217/148753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Adentro S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/9KAEQyzfRwQQmtf0sVCKvRuKn9e.jpg" group-title="Séries | Netflix",Noite Adentro S02 E01
+http://lxls.mx:80/series/994153115/101217/148751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Adentro S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/3K8QT32Q7NFuoRo74EIaPSN4YA7.jpg" group-title="Séries | Netflix",Noite Adentro S02 E02
+http://lxls.mx:80/series/994153115/101217/148748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Adentro S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ebBA427Q3AlCfo139QLM4tUOijI.jpg" group-title="Séries | Netflix",Noite Adentro S02 E03
+http://lxls.mx:80/series/994153115/101217/148746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Adentro S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/9uB0SblaQCzIXQbDBhazfPaiANg.jpg" group-title="Séries | Netflix",Noite Adentro S02 E04
+http://lxls.mx:80/series/994153115/101217/148744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Adentro S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/flCGKnWqH1ulqWYyo4ZHSTXue0N.jpg" group-title="Séries | Netflix",Noite Adentro S02 E05
+http://lxls.mx:80/series/994153115/101217/148741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite Adentro S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/rIdBF5OaiWXqoC1kXak382LVl0r.jpg" group-title="Séries | Netflix",Noite Adentro S02 E06
+http://lxls.mx:80/series/994153115/101217/148740.mp4

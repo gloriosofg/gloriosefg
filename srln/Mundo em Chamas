@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Mundo em Chamas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/b2GbjId5MeCguVhFRHr4WNwqNX7.jpg" group-title="Séries | Globoplay",Mundo em Chamas S01 E01
+http://lxls.mx:80/series/994153115/101217/176154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo em Chamas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/jSQdnugs6XfFrKoQWJ3B4gl2rA4.jpg" group-title="Séries | Globoplay",Mundo em Chamas S01 E02
+http://lxls.mx:80/series/994153115/101217/176153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo em Chamas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/3TOPAPL2IW3Slt3uTsVZYMuPim2.jpg" group-title="Séries | Globoplay",Mundo em Chamas S01 E03
+http://lxls.mx:80/series/994153115/101217/176152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo em Chamas S01 E04" tvg-logo="http://lxls.mx:8080/images/cccb9d6fe4b1ef947b16284092fb6e7a.jpg" group-title="Séries | Globoplay",Mundo em Chamas S01 E04
+http://lxls.mx:80/series/994153115/101217/176151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo em Chamas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/yJhPnpRaxZumYf9lNqf6vuoGbnP.jpg" group-title="Séries | Globoplay",Mundo em Chamas S01 E05
+http://lxls.mx:80/series/994153115/101217/176150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo em Chamas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/ybWAqPChtNlIKZF4N2v6XEsGan4.jpg" group-title="Séries | Globoplay",Mundo em Chamas S01 E06
+http://lxls.mx:80/series/994153115/101217/176149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo em Chamas S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/c3Bp4Rfv53x5V5uht5OW4r0yyZJ.jpg" group-title="Séries | Globoplay",Mundo em Chamas S01 E07
+http://lxls.mx:80/series/994153115/101217/176148.mp4

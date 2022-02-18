@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Minta Comigo S01 E01" tvg-logo="http://lxls.mx:8080/images/ee378d996f595c02155b93d26e02d6a3.jpg" group-title="Séries | Globoplay",Minta Comigo S01 E01
+http://lxls.mx:80/series/994153115/101217/146859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minta Comigo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/1rjli34zvl2w4QaRT6cW93jixZU.jpg" group-title="Séries | Globoplay",Minta Comigo S01 E02
+http://lxls.mx:80/series/994153115/101217/146858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minta Comigo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/3Wq7fb6vv0nIsQTD2pN5pXF5iXq.jpg" group-title="Séries | Globoplay",Minta Comigo S01 E03
+http://lxls.mx:80/series/994153115/101217/146857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minta Comigo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/w3vR0HncJOSsYgsvCk8OZF5tmlK.jpg" group-title="Séries | Globoplay",Minta Comigo S01 E04
+http://lxls.mx:80/series/994153115/101217/146856.mp4

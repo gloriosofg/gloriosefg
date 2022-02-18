@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/lPSiXkE15YfjaCopp3RIe89wTIz.jpg" group-title="Séries | Netflix",Messiah S01 E01
+http://lxls.mx:80/series/994153115/101217/211028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/sI7E3Pu1tI4VGJcL60uVRLi2ZMW.jpg" group-title="Séries | Netflix",Messiah S01 E02
+http://lxls.mx:80/series/994153115/101217/211027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/y8jPUxXsH5C2fqlrrnTcAg2fDk0.jpg" group-title="Séries | Netflix",Messiah S01 E03
+http://lxls.mx:80/series/994153115/101217/211026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ztSGWAtBidqdESmpI3QXshTzXiE.jpg" group-title="Séries | Netflix",Messiah S01 E04
+http://lxls.mx:80/series/994153115/101217/211025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/AuiuKyl1c4itwEOesICMXfZtORk.jpg" group-title="Séries | Netflix",Messiah S01 E05
+http://lxls.mx:80/series/994153115/101217/211024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/4NQrYwZTs2f6g9Gc0bNIFPT0kGX.jpg" group-title="Séries | Netflix",Messiah S01 E06
+http://lxls.mx:80/series/994153115/101217/211023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/q5B7nqr4LUnN28saF5uxkjW7bis.jpg" group-title="Séries | Netflix",Messiah S01 E07
+http://lxls.mx:80/series/994153115/101217/211022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/jdOaglJZQCN9WkA0Wu2fpLeEamQ.jpg" group-title="Séries | Netflix",Messiah S01 E08
+http://lxls.mx:80/series/994153115/101217/211021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/fDTbuLDY0CQ3965m192FBsHk4FV.jpg" group-title="Séries | Netflix",Messiah S01 E09
+http://lxls.mx:80/series/994153115/101217/211020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Messiah S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/vBkIqyJnnXwPURvFuMxM5eInET6.jpg" group-title="Séries | Netflix",Messiah S01 E10
+http://lxls.mx:80/series/994153115/101217/211019.mp4

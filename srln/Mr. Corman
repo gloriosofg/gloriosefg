@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Corman S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54BAbjnTRUsxqyE8F8exjJ8nwpo.jpg" group-title="Séries | Comédia",Mr. Corman S01 E01
+http://lxls.mx:80/series/994153115/101217/152260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Corman S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54BAbjnTRUsxqyE8F8exjJ8nwpo.jpg" group-title="Séries | Comédia",Mr. Corman S01 E02
+http://lxls.mx:80/series/994153115/101217/152258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Corman S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/4dQimpHmCm3RamSDcnKkH8YGAzJ.jpg" group-title="Séries | Comédia",Mr. Corman S01 E03
+http://lxls.mx:80/series/994153115/101217/152256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Corman S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/kLlHg21ZoMiYGf7rmsoVLuS09TY.jpg" group-title="Séries | Comédia",Mr. Corman S01 E04
+http://lxls.mx:80/series/994153115/101217/150791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Corman S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54BAbjnTRUsxqyE8F8exjJ8nwpo.jpg" group-title="Séries | Comédia",Mr. Corman S01 E05
+http://lxls.mx:80/series/994153115/101217/150566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Corman S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54BAbjnTRUsxqyE8F8exjJ8nwpo.jpg" group-title="Séries | Comédia",Mr. Corman S01 E06
+http://lxls.mx:80/series/994153115/101217/149322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Corman S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54BAbjnTRUsxqyE8F8exjJ8nwpo.jpg" group-title="Séries | Comédia",Mr. Corman S01 E07
+http://lxls.mx:80/series/994153115/101217/149320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Corman S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/23RMjlSZ4CDAfRVK4HWXWsDq3aI.jpg" group-title="Séries | Comédia",Mr. Corman S01 E08
+http://lxls.mx:80/series/994153115/101217/148055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Corman S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54BAbjnTRUsxqyE8F8exjJ8nwpo.jpg" group-title="Séries | Comédia",Mr. Corman S01 E09
+http://lxls.mx:80/series/994153115/101217/147754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Corman S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/k2SU08y3pDhBKOKuGjMnI67nKk4.jpg" group-title="Séries | Comédia",Mr. Corman S01 E10
+http://lxls.mx:80/series/994153115/101217/147597.mp4

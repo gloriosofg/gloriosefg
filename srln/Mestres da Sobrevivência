@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Mestres da Sobrevivência S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Discovery+",Mestres da Sobrevivência S01 E01
+http://lxls.mx:80/series/994153115/101217/203494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mestres da Sobrevivência S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Discovery+",Mestres da Sobrevivência S01 E02
+http://lxls.mx:80/series/994153115/101217/203493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mestres da Sobrevivência S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Discovery+",Mestres da Sobrevivência S01 E03
+http://lxls.mx:80/series/994153115/101217/203492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mestres da Sobrevivência S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Discovery+",Mestres da Sobrevivência S01 E04
+http://lxls.mx:80/series/994153115/101217/203491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mestres da Sobrevivência S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Discovery+",Mestres da Sobrevivência S01 E05
+http://lxls.mx:80/series/994153115/101217/203490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mestres da Sobrevivência S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Discovery+",Mestres da Sobrevivência S01 E06
+http://lxls.mx:80/series/994153115/101217/203489.mp4

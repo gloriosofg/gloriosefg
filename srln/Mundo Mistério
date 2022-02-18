@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Mistério S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/hK9gKVHnXMDMvWqkTcyTWrfXDOb.jpg" group-title="Séries | Netflix",Mundo Mistério S01 E01
+http://lxls.mx:80/series/994153115/101217/190443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Mistério S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/mjiJsWcJy0cngXo8PELkUv3Nt7a.jpg" group-title="Séries | Netflix",Mundo Mistério S01 E02
+http://lxls.mx:80/series/994153115/101217/190442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Mistério S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/kXzUa7eOlu27idR9O1ms49MowiH.jpg" group-title="Séries | Netflix",Mundo Mistério S01 E03
+http://lxls.mx:80/series/994153115/101217/190441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Mistério S01 E04" tvg-logo="http://lxls.mx:8080/images/7cd9b32c48fc7ae625e3c9530f523f4e.jpg" group-title="Séries | Netflix",Mundo Mistério S01 E04
+http://lxls.mx:80/series/994153115/101217/190440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Mistério S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/dVKA6dpwQGPBomRt8zaSxB8RkPc.jpg" group-title="Séries | Netflix",Mundo Mistério S01 E05
+http://lxls.mx:80/series/994153115/101217/190439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Mistério S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/m1ro3B379HidRdK2lHctjoFuIR2.jpg" group-title="Séries | Netflix",Mundo Mistério S01 E06
+http://lxls.mx:80/series/994153115/101217/190438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Mistério S01 E07" tvg-logo="http://lxls.mx:8080/images/7cd9b32c48fc7ae625e3c9530f523f4e.jpg" group-title="Séries | Netflix",Mundo Mistério S01 E07
+http://lxls.mx:80/series/994153115/101217/190437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Mistério S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/5rDFOllxDeS0XgwVIym3f1uTr5D.jpg" group-title="Séries | Netflix",Mundo Mistério S01 E08
+http://lxls.mx:80/series/994153115/101217/190436.mp4

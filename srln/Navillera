@@ -1,0 +1,27 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Navillera S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/q8PCl0lJfcjek22KPKvPrqgmr30.jpg" group-title="Séries | Netflix",Navillera S01 E01
+http://lxls.mx:80/series/994153115/101217/142359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navillera S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/sezImWPLbz9rrUaMGGI1qgmHvpT.jpg" group-title="Séries | Netflix",Navillera S01 E02
+http://lxls.mx:80/series/994153115/101217/142358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navillera S01 E03" tvg-logo="http://lxls.mx:8080/images/3a81d22f674fa27150a1bae530c42b8b.jpg" group-title="Séries | Netflix",Navillera S01 E03
+http://lxls.mx:80/series/994153115/101217/142357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navillera S01 E04" tvg-logo="http://lxls.mx:8080/images/3a81d22f674fa27150a1bae530c42b8b.jpg" group-title="Séries | Netflix",Navillera S01 E04
+http://lxls.mx:80/series/994153115/101217/142356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navillera S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8lnUdKU1xgMEHoF5S0ro8fy5JIW.jpg" group-title="Séries | Netflix",Navillera S01 E05
+http://lxls.mx:80/series/994153115/101217/142355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navillera S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/csTEzc3cp5O7jw0uoEfJgWRPOo9.jpg" group-title="Séries | Netflix",Navillera S01 E06
+http://lxls.mx:80/series/994153115/101217/142354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navillera S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/bCWgpLufKnkcEHMLtf4qwcZHejy.jpg" group-title="Séries | Netflix",Navillera S01 E07
+http://lxls.mx:80/series/994153115/101217/142353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navillera S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/ii7Iq264tra2Lbu8sCIqi9o7M3p.jpg" group-title="Séries | Netflix",Navillera S01 E08
+http://lxls.mx:80/series/994153115/101217/142352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navillera S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/gEAFAWpMH8crAYtElRhK95384Lj.jpg" group-title="Séries | Netflix",Navillera S01 E09
+http://lxls.mx:80/series/994153115/101217/142351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navillera S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/oBumiqqlPqCx36UKy8tEIK4BVtu.jpg" group-title="Séries | Netflix",Navillera S01 E10
+http://lxls.mx:80/series/994153115/101217/142350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navillera S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/v0vXeIyaz1DTTkIzqqiuz8JjoVd.jpg" group-title="Séries | Netflix",Navillera S01 E11
+http://lxls.mx:80/series/994153115/101217/142349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Navillera S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/lAhfUInuDwyCbO1M5qIHy0y5OZC.jpg" group-title="Séries | Netflix",Navillera S01 E12
+http://lxls.mx:80/series/994153115/101217/142348.mp4

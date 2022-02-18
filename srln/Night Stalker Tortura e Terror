@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Night Stalker Tortura e Terror S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/cBdQHy7IZSeg8VLZZiPotlYOJBX.jpg" group-title="Séries | Netflix",Night Stalker Tortura e Terror S01 E01
+http://lxls.mx:80/series/994153115/101217/179200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night Stalker Tortura e Terror S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/dMDex2ArVnjFrfsxVIMBKmmf4J7.jpg" group-title="Séries | Netflix",Night Stalker Tortura e Terror S01 E02
+http://lxls.mx:80/series/994153115/101217/179199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night Stalker Tortura e Terror S01 E03" tvg-logo="http://lxls.mx:8080/images/3cf12e9b29641a36ce2a5bec6c19eaf9.jpg" group-title="Séries | Netflix",Night Stalker Tortura e Terror S01 E03
+http://lxls.mx:80/series/994153115/101217/179198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night Stalker Tortura e Terror S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/rj12VVmPly3HvERVsyPTEqKDd49.jpg" group-title="Séries | Netflix",Night Stalker Tortura e Terror S01 E04
+http://lxls.mx:80/series/994153115/101217/179197.mp4

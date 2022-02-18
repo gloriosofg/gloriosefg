@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Morte e Rouxinóis S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iPp5flsRQzo7gyvlgGZWrSq4Rd6.jpg" group-title="Séries | Globoplay",Morte e Rouxinóis S01 E01
+http://lxls.mx:80/series/994153115/101217/206943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morte e Rouxinóis S01 E02" tvg-logo="http://lxls.mx:8080/images/43dc69c2776c037bd9be3b5a48552c76.jpg" group-title="Séries | Globoplay",Morte e Rouxinóis S01 E02
+http://lxls.mx:80/series/994153115/101217/206942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morte e Rouxinóis S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/yanY0NbRbWNHNCMnnnUVeopEUiu.jpg" group-title="Séries | Globoplay",Morte e Rouxinóis S01 E03
+http://lxls.mx:80/series/994153115/101217/206941.mp4

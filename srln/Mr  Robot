@@ -1,0 +1,93 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/lNXkxjiVwWKXalBcDCpntXBBfOh.jpg" group-title="Séries | Amazon Prime",Mr  Robot S01 E01
+http://lxls.mx:80/series/994153115/101217/178212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kdHrvfNfuPlH3ktORMCXHHMV9O0.jpg" group-title="Séries | Amazon Prime",Mr  Robot S01 E02
+http://lxls.mx:80/series/994153115/101217/178211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/yx1YjsNKFyaoA8xrGbtL11KUiVV.jpg" group-title="Séries | Amazon Prime",Mr  Robot S01 E03
+http://lxls.mx:80/series/994153115/101217/178210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ciJr7FQQrQIXricMDxVrC4WbT2E.jpg" group-title="Séries | Amazon Prime",Mr  Robot S01 E04
+http://lxls.mx:80/series/994153115/101217/178209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8AWWVzfdnTKCzM96l6hnoSLwggN.jpg" group-title="Séries | Amazon Prime",Mr  Robot S01 E05
+http://lxls.mx:80/series/994153115/101217/178208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S01 E06" tvg-logo="http://lxls.mx:8080/images/e716d1cdd48f31b13204966d1e2861b1.jpg" group-title="Séries | Amazon Prime",Mr  Robot S01 E06
+http://lxls.mx:80/series/994153115/101217/178207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/bMwIG6hijqu8LCLEzprBXoFzHOB.jpg" group-title="Séries | Amazon Prime",Mr  Robot S01 E07
+http://lxls.mx:80/series/994153115/101217/178206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/bi9f0hj9T7vsv6iz3LFvjYAzd7z.jpg" group-title="Séries | Amazon Prime",Mr  Robot S01 E08
+http://lxls.mx:80/series/994153115/101217/178205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/jXL26xfJ8OMRqQwFkbFziO6sUxl.jpg" group-title="Séries | Amazon Prime",Mr  Robot S01 E09
+http://lxls.mx:80/series/994153115/101217/178204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/d7fYUtjRBiuCSLNaodHnZbb8Yvy.jpg" group-title="Séries | Amazon Prime",Mr  Robot S01 E10
+http://lxls.mx:80/series/994153115/101217/178203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/tZJEVPYBtkcYctpqVDlAyR4nNY3.jpg" group-title="Séries | Amazon Prime",Mr  Robot S02 E01
+http://lxls.mx:80/series/994153115/101217/178202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/krcZKQOF095e1FCPWQzTwrtRO0v.jpg" group-title="Séries | Amazon Prime",Mr  Robot S02 E02
+http://lxls.mx:80/series/994153115/101217/178201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/mRwwzNXB2NAC9bzdbQ2yKjibRyS.jpg" group-title="Séries | Amazon Prime",Mr  Robot S02 E03
+http://lxls.mx:80/series/994153115/101217/178200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/oV3Ck6W1FY9WRk47PK5diU8V6mA.jpg" group-title="Séries | Amazon Prime",Mr  Robot S02 E04
+http://lxls.mx:80/series/994153115/101217/178199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/yxlfZiBHYoX3QFfoMiYV2U5VuPM.jpg" group-title="Séries | Amazon Prime",Mr  Robot S02 E05
+http://lxls.mx:80/series/994153115/101217/178198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/cRHPHyhAjy6EDdg5TrMwtw1fNuc.jpg" group-title="Séries | Amazon Prime",Mr  Robot S02 E06
+http://lxls.mx:80/series/994153115/101217/178197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/xvvFhZsUqgxf2FqzJLyCNqnewaC.jpg" group-title="Séries | Amazon Prime",Mr  Robot S02 E07
+http://lxls.mx:80/series/994153115/101217/178196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/5k3qmPRX9irZMvTMuTXAY7SIbp1.jpg" group-title="Séries | Amazon Prime",Mr  Robot S02 E08
+http://lxls.mx:80/series/994153115/101217/178195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/p0i7MIpPXxM449A2hJc48AECZyR.jpg" group-title="Séries | Amazon Prime",Mr  Robot S02 E09
+http://lxls.mx:80/series/994153115/101217/178194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/eKH4AZ1PvPiUhSH0EmU8IZl9Ixq.jpg" group-title="Séries | Amazon Prime",Mr  Robot S02 E10
+http://lxls.mx:80/series/994153115/101217/178193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/sqDESd4uNyfyMlRHE51ILiC6Sf1.jpg" group-title="Séries | Amazon Prime",Mr  Robot S02 E11
+http://lxls.mx:80/series/994153115/101217/178192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/d7NrD48ezLy8jBhyQid3Xd32xS9.jpg" group-title="Séries | Amazon Prime",Mr  Robot S02 E12
+http://lxls.mx:80/series/994153115/101217/178191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/usDJ37xPdXlD8UTldfUfalooVLx.jpg" group-title="Séries | Amazon Prime",Mr  Robot S03 E01
+http://lxls.mx:80/series/994153115/101217/178190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/h8x5NmzJUbuvKkfDMIWg19k7O5.jpg" group-title="Séries | Amazon Prime",Mr  Robot S03 E02
+http://lxls.mx:80/series/994153115/101217/178189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ov7l0Hz7Z5dU8NTZD7iegf9KiQ.jpg" group-title="Séries | Amazon Prime",Mr  Robot S03 E03
+http://lxls.mx:80/series/994153115/101217/178188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S03 E04" tvg-logo="http://lxls.mx:8080/images/e716d1cdd48f31b13204966d1e2861b1.jpg" group-title="Séries | Amazon Prime",Mr  Robot S03 E04
+http://lxls.mx:80/series/994153115/101217/178187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/e6ZSWEtw37SiULhw96BBNq7iwTb.jpg" group-title="Séries | Amazon Prime",Mr  Robot S03 E05
+http://lxls.mx:80/series/994153115/101217/178186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S03 E06" tvg-logo="http://lxls.mx:8080/images/e716d1cdd48f31b13204966d1e2861b1.jpg" group-title="Séries | Amazon Prime",Mr  Robot S03 E06
+http://lxls.mx:80/series/994153115/101217/178185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/woviH0SPmWCIT0yYoh5F7LVwGNf.jpg" group-title="Séries | Amazon Prime",Mr  Robot S03 E07
+http://lxls.mx:80/series/994153115/101217/178184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S03 E08" tvg-logo="http://lxls.mx:8080/images/e716d1cdd48f31b13204966d1e2861b1.jpg" group-title="Séries | Amazon Prime",Mr  Robot S03 E08
+http://lxls.mx:80/series/994153115/101217/178183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S03 E09" tvg-logo="http://lxls.mx:8080/images/e716d1cdd48f31b13204966d1e2861b1.jpg" group-title="Séries | Amazon Prime",Mr  Robot S03 E09
+http://lxls.mx:80/series/994153115/101217/178182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S03 E10" tvg-logo="http://lxls.mx:8080/images/e716d1cdd48f31b13204966d1e2861b1.jpg" group-title="Séries | Amazon Prime",Mr  Robot S03 E10
+http://lxls.mx:80/series/994153115/101217/178181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/vJUM0FHQqqTWJLYHg4RtSfdX8qT.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E01
+http://lxls.mx:80/series/994153115/101217/178092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/xqa1ACTUa6Nrym22l9JUk63KPKs.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E02
+http://lxls.mx:80/series/994153115/101217/178091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/vZHb6H1CSXx3xKjEGXUG3mlbqCQ.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E03
+http://lxls.mx:80/series/994153115/101217/178090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/n63dv1Vn3wyyHQfe9VndArw3ipT.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E04
+http://lxls.mx:80/series/994153115/101217/178089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/npveuBuAJ59XxBa63VJVwD3h8nC.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E05
+http://lxls.mx:80/series/994153115/101217/178088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/g3E7JUyz5TmCKFZ6vsyatzZMEkD.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E06
+http://lxls.mx:80/series/994153115/101217/178087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/9ySKZj60hu9DcI5SRSEsWrLe9YG.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E07
+http://lxls.mx:80/series/994153115/101217/178086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E08" tvg-logo="https://image.tmdb.org/t/p/w300/8qBJFgUy7ilSMHcJb5qHsUwOjC9.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E08
+http://lxls.mx:80/series/994153115/101217/178085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E09" tvg-logo="https://image.tmdb.org/t/p/w300/kXjZpxhF2QgU2rnNCQeCppnHAuW.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E09
+http://lxls.mx:80/series/994153115/101217/178084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E10" tvg-logo="https://image.tmdb.org/t/p/w300/2lYw308ojuXACaSZ2l4KOIo2FFB.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E10
+http://lxls.mx:80/series/994153115/101217/178083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E11" tvg-logo="https://image.tmdb.org/t/p/w300/tfaDACXAgCQ3hJ9anRZldWzS4H8.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E11
+http://lxls.mx:80/series/994153115/101217/178082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E12" tvg-logo="https://image.tmdb.org/t/p/w300/6oQO4eAkUsP5hiTvw8eoQsQ6BGD.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E12
+http://lxls.mx:80/series/994153115/101217/178081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr  Robot S04 E13" tvg-logo="https://image.tmdb.org/t/p/w300/9StdytbybFxHW380uvODXsBPAe3.jpg" group-title="Séries | Amazon Prime",Mr  Robot S04 E13
+http://lxls.mx:80/series/994153115/101217/178080.mp4

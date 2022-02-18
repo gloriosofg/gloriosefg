@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Narcoworld Histórias do Tráfico S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gJbKbOHIrqgvEgOYGYZyG2smYea.jpg" group-title="Séries | Netflix",Narcoworld Histórias do Tráfico S01 E01
+http://lxls.mx:80/series/994153115/101217/211710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Narcoworld Histórias do Tráfico S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9263dneL4hjz80gMlbLJqSFmuLg.jpg" group-title="Séries | Netflix",Narcoworld Histórias do Tráfico S01 E02
+http://lxls.mx:80/series/994153115/101217/211709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Narcoworld Histórias do Tráfico S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/zIwJqHydkf1q2QUPEjwS8cgF632.jpg" group-title="Séries | Netflix",Narcoworld Histórias do Tráfico S01 E03
+http://lxls.mx:80/series/994153115/101217/211708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Narcoworld Histórias do Tráfico S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/7Wb7wnnHpKTsX2MWcoks1W6cTt1.jpg" group-title="Séries | Netflix",Narcoworld Histórias do Tráfico S01 E04
+http://lxls.mx:80/series/994153115/101217/211707.mp4

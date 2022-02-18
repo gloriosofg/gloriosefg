@@ -1,0 +1,109 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/zFw7B8BOkpZZqmsHvACjKfzBADS.jpg" group-title="Séries | HBO Max",Moonlight S01 E01
+http://lxls.mx:80/series/994153115/101217/161327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4IeNnHBzth2cbqWO0e0wwbQootH.jpg" group-title="Séries | HBO Max",Moonlight S01 E02
+http://lxls.mx:80/series/994153115/101217/161324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/34yLJYytyclcqwPSo8fTxoG5wsA.jpg" group-title="Séries | HBO Max",Moonlight S01 E03
+http://lxls.mx:80/series/994153115/101217/161321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ibwvJmBRDVvz7S6jwFBJJI4sxg7.jpg" group-title="Séries | HBO Max",Moonlight S01 E04
+http://lxls.mx:80/series/994153115/101217/161319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/eIfOJ5vPnjyjPpBA069NYxBUS18.jpg" group-title="Séries | HBO Max",Moonlight S01 E05
+http://lxls.mx:80/series/994153115/101217/161316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/fmqSNfkAgUtHSUT2XmoBOwQBOKT.jpg" group-title="Séries | HBO Max",Moonlight S01 E06
+http://lxls.mx:80/series/994153115/101217/161314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E01" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E01
+http://lxls.mx:80/series/994153115/101217/161311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E02" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E02
+http://lxls.mx:80/series/994153115/101217/161309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E03" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E03
+http://lxls.mx:80/series/994153115/101217/161306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E04" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E04
+http://lxls.mx:80/series/994153115/101217/161304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E05" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E05
+http://lxls.mx:80/series/994153115/101217/161301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E06" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E06
+http://lxls.mx:80/series/994153115/101217/161299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E07" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E07
+http://lxls.mx:80/series/994153115/101217/161296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E08" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E08
+http://lxls.mx:80/series/994153115/101217/161294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E09" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E09
+http://lxls.mx:80/series/994153115/101217/161291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E10" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E10
+http://lxls.mx:80/series/994153115/101217/161289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E11" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E11
+http://lxls.mx:80/series/994153115/101217/161287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E12" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E12
+http://lxls.mx:80/series/994153115/101217/161285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E13" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E13
+http://lxls.mx:80/series/994153115/101217/161282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E14" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E14
+http://lxls.mx:80/series/994153115/101217/161279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E15" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E15
+http://lxls.mx:80/series/994153115/101217/161277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E16" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E16
+http://lxls.mx:80/series/994153115/101217/161274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E17" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E17
+http://lxls.mx:80/series/994153115/101217/161272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S02 E18" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S02 E18
+http://lxls.mx:80/series/994153115/101217/161269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E01" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E01
+http://lxls.mx:80/series/994153115/101217/161267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E02" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E02
+http://lxls.mx:80/series/994153115/101217/161264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E03" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E03
+http://lxls.mx:80/series/994153115/101217/161262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E04" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E04
+http://lxls.mx:80/series/994153115/101217/161260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E05" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E05
+http://lxls.mx:80/series/994153115/101217/161258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E06" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E06
+http://lxls.mx:80/series/994153115/101217/161256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E07" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E07
+http://lxls.mx:80/series/994153115/101217/161253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E08" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E08
+http://lxls.mx:80/series/994153115/101217/161252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E09" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E09
+http://lxls.mx:80/series/994153115/101217/161249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E10" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E10
+http://lxls.mx:80/series/994153115/101217/161247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E11" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E11
+http://lxls.mx:80/series/994153115/101217/161245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E12" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E12
+http://lxls.mx:80/series/994153115/101217/161244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E13" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E13
+http://lxls.mx:80/series/994153115/101217/161241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E14" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E14
+http://lxls.mx:80/series/994153115/101217/161239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S03 E15" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S03 E15
+http://lxls.mx:80/series/994153115/101217/161236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E01" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E01
+http://lxls.mx:80/series/994153115/101217/161234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E02" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E02
+http://lxls.mx:80/series/994153115/101217/161231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E03" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E03
+http://lxls.mx:80/series/994153115/101217/161230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E04" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E04
+http://lxls.mx:80/series/994153115/101217/161228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E05" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E05
+http://lxls.mx:80/series/994153115/101217/161226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E06" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E06
+http://lxls.mx:80/series/994153115/101217/161224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E07" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E07
+http://lxls.mx:80/series/994153115/101217/161222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E08" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E08
+http://lxls.mx:80/series/994153115/101217/161220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E09" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E09
+http://lxls.mx:80/series/994153115/101217/161218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E10" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E10
+http://lxls.mx:80/series/994153115/101217/161216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E11" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E11
+http://lxls.mx:80/series/994153115/101217/161213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E12" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E12
+http://lxls.mx:80/series/994153115/101217/161210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E13" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E13
+http://lxls.mx:80/series/994153115/101217/161208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight S04 E14" tvg-logo="http://lxls.mx:8080/images/0c1b4de473db893749e6bbfd548d76e4.jpg" group-title="Séries | HBO Max",Moonlight S04 E14
+http://lxls.mx:80/series/994153115/101217/161206.mp4

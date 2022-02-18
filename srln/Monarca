@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Monarca S01 E01" tvg-logo="http://lxls.mx:8080/images/722079fc09024853e4a806a5ee16c1a5.jpg" group-title="Séries | Netflix",Monarca S01 E01
+http://lxls.mx:80/series/994153115/101217/176562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monarca S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/qXbnGfK5boVqiaVwfalJ2gHcSZW.jpg" group-title="Séries | Netflix",Monarca S01 E02
+http://lxls.mx:80/series/994153115/101217/176561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monarca S01 E03" tvg-logo="http://lxls.mx:8080/images/722079fc09024853e4a806a5ee16c1a5.jpg" group-title="Séries | Netflix",Monarca S01 E03
+http://lxls.mx:80/series/994153115/101217/176560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monarca S01 E04" tvg-logo="http://lxls.mx:8080/images/722079fc09024853e4a806a5ee16c1a5.jpg" group-title="Séries | Netflix",Monarca S01 E04
+http://lxls.mx:80/series/994153115/101217/176559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monarca S01 E05" tvg-logo="http://lxls.mx:8080/images/722079fc09024853e4a806a5ee16c1a5.jpg" group-title="Séries | Netflix",Monarca S01 E05
+http://lxls.mx:80/series/994153115/101217/176558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monarca S01 E06" tvg-logo="http://lxls.mx:8080/images/722079fc09024853e4a806a5ee16c1a5.jpg" group-title="Séries | Netflix",Monarca S01 E06
+http://lxls.mx:80/series/994153115/101217/176557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monarca S01 E07" tvg-logo="http://lxls.mx:8080/images/722079fc09024853e4a806a5ee16c1a5.jpg" group-title="Séries | Netflix",Monarca S01 E07
+http://lxls.mx:80/series/994153115/101217/176556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monarca S01 E08" tvg-logo="http://lxls.mx:8080/images/722079fc09024853e4a806a5ee16c1a5.jpg" group-title="Séries | Netflix",Monarca S01 E08
+http://lxls.mx:80/series/994153115/101217/176555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monarca S01 E09" tvg-logo="http://lxls.mx:8080/images/722079fc09024853e4a806a5ee16c1a5.jpg" group-title="Séries | Netflix",Monarca S01 E09
+http://lxls.mx:80/series/994153115/101217/176554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monarca S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/e1GNorm8ydjT0mBGV2hggVGYSL1.jpg" group-title="Séries | Netflix",Monarca S01 E10
+http://lxls.mx:80/series/994153115/101217/176553.mp4

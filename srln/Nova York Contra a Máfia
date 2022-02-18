@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Nova York Contra a Máfia S01 E01" tvg-logo="http://lxls.mx:8080/images/96335f7e5c288b7709861fe0bf7f62e0.jpg" group-title="Séries | Netflix",Nova York Contra a Máfia S01 E01
+http://lxls.mx:80/series/994153115/101217/190404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nova York Contra a Máfia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/fT2DxBknF0RkefpHxoI0m1mOdpp.jpg" group-title="Séries | Netflix",Nova York Contra a Máfia S01 E02
+http://lxls.mx:80/series/994153115/101217/190403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nova York Contra a Máfia S01 E03" tvg-logo="http://lxls.mx:8080/images/96335f7e5c288b7709861fe0bf7f62e0.jpg" group-title="Séries | Netflix",Nova York Contra a Máfia S01 E03
+http://lxls.mx:80/series/994153115/101217/190402.mp4

@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Mildred Pierce S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/uG13kxXXgoDFe1PWrzgPRh72Vcy.jpg" group-title="Séries | HBO Max",Mildred Pierce S01 E01
+http://lxls.mx:80/series/994153115/101217/180466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mildred Pierce S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/96kLnaTnNlIo14ku7IVY02Lne53.jpg" group-title="Séries | HBO Max",Mildred Pierce S01 E02
+http://lxls.mx:80/series/994153115/101217/180465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mildred Pierce S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/wL5HvKSflMYkzBZFPG3bpMD9WjP.jpg" group-title="Séries | HBO Max",Mildred Pierce S01 E03
+http://lxls.mx:80/series/994153115/101217/180464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mildred Pierce S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/lzzzAx5uWpMHFPAbhAbFSVsaLCB.jpg" group-title="Séries | HBO Max",Mildred Pierce S01 E04
+http://lxls.mx:80/series/994153115/101217/180463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mildred Pierce S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/n8FNCjRVrGMfZhP2Dh9Bz52Id71.jpg" group-title="Séries | HBO Max",Mildred Pierce S01 E05
+http://lxls.mx:80/series/994153115/101217/180462.mp4
