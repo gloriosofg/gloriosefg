@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Lexa Mostra  Esse Poder S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ePqW6ES3MO6OSZPZv96xDbbcD8y.jpg" group-title="Séries | Globoplay",Lexa Mostra  Esse Poder S01 E01
+http://lxls.mx:80/series/994153115/101217/164308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lexa Mostra  Esse Poder S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gtMO81uwab7CHlFKShFfHe6bSX5.jpg" group-title="Séries | Globoplay",Lexa Mostra  Esse Poder S01 E02
+http://lxls.mx:80/series/994153115/101217/164306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lexa Mostra  Esse Poder S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/7BCdpVKqKRYXFmwOJOzal6yN0OX.jpg" group-title="Séries | Globoplay",Lexa Mostra  Esse Poder S01 E03
+http://lxls.mx:80/series/994153115/101217/164303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lexa Mostra  Esse Poder S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/7OF8WRjmqcYsCdVynKuKaw7jsCr.jpg" group-title="Séries | Globoplay",Lexa Mostra  Esse Poder S01 E04
+http://lxls.mx:80/series/994153115/101217/164301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lexa Mostra  Esse Poder S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/votyu2j1opkvOpBqJDzAlNBjvxQ.jpg" group-title="Séries | Globoplay",Lexa Mostra  Esse Poder S01 E05
+http://lxls.mx:80/series/994153115/101217/164298.mp4

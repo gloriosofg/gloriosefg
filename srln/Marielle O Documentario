@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Marielle O Documentario S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rSzhjhWxuHChDBOwWxLKBTP1xEL.jpg" group-title="Séries | Globoplay",Marielle O Documentario S01 E01
+http://lxls.mx:80/series/994153115/101217/207070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marielle O Documentario S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ngYLdOMXLr3AzbnLXAq90enqhVs.jpg" group-title="Séries | Globoplay",Marielle O Documentario S01 E02
+http://lxls.mx:80/series/994153115/101217/207069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marielle O Documentario S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/fdWkMu6K1Y5I4mjvj3KfLFZONoE.jpg" group-title="Séries | Globoplay",Marielle O Documentario S01 E03
+http://lxls.mx:80/series/994153115/101217/207068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marielle O Documentario S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dT5GQ6cOIp9ra5hKxaMcoL6qeYh.jpg" group-title="Séries | Globoplay",Marielle O Documentario S01 E04
+http://lxls.mx:80/series/994153115/101217/207067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marielle O Documentario S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/pJcuFPBQuqcZyHXENVznQMl8420.jpg" group-title="Séries | Globoplay",Marielle O Documentario S01 E05
+http://lxls.mx:80/series/994153115/101217/207066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marielle O Documentario S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/rSzhjhWxuHChDBOwWxLKBTP1xEL.jpg" group-title="Séries | Globoplay",Marielle O Documentario S01 E06
+http://lxls.mx:80/series/994153115/101217/207065.mp4

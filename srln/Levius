@@ -1,0 +1,27 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8EFRdxi0mzWnku2Xl7xiRw682Up.jpg" group-title="Séries | Netflix",Levius S01 E01
+http://lxls.mx:80/series/994153115/101217/211998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ew2yUnnOASbuzWAyK0j9noaYks1.jpg" group-title="Séries | Netflix",Levius S01 E02
+http://lxls.mx:80/series/994153115/101217/211997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/bVVFtKWuZEzDDNSbbwQZbjEIFNE.jpg" group-title="Séries | Netflix",Levius S01 E03
+http://lxls.mx:80/series/994153115/101217/211996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/9AxD3jH4rOgGzf6KuT9PrPlHS5V.jpg" group-title="Séries | Netflix",Levius S01 E04
+http://lxls.mx:80/series/994153115/101217/211995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/23xAwAccjOZOQhak8CJX0fX9XQY.jpg" group-title="Séries | Netflix",Levius S01 E05
+http://lxls.mx:80/series/994153115/101217/211994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/zr2eAX1qn7OkizWD2DGzmLUhCRF.jpg" group-title="Séries | Netflix",Levius S01 E06
+http://lxls.mx:80/series/994153115/101217/211993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/81V3SpJggLdRE0Dv8b4VRnRPVEJ.jpg" group-title="Séries | Netflix",Levius S01 E07
+http://lxls.mx:80/series/994153115/101217/211992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/pNMuSPVMEjsBEgmbITmFOQHHtkq.jpg" group-title="Séries | Netflix",Levius S01 E08
+http://lxls.mx:80/series/994153115/101217/211991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/zCXh6l37sFEj6ZaKm9os3sPSPOA.jpg" group-title="Séries | Netflix",Levius S01 E09
+http://lxls.mx:80/series/994153115/101217/211990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/uigu9o1SIni3rDIR1i7jHDluyLt.jpg" group-title="Séries | Netflix",Levius S01 E10
+http://lxls.mx:80/series/994153115/101217/211989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/1D7MXRkYlv0MjwtGMDTPTz9zkwV.jpg" group-title="Séries | Netflix",Levius S01 E11
+http://lxls.mx:80/series/994153115/101217/211988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/uTXY92D1PS3O0DlXj2jSrzOKz8m.jpg" group-title="Séries | Netflix",Levius S01 E12
+http://lxls.mx:80/series/994153115/101217/211987.mp4

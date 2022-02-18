@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Loudermilk S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/bZTxh2wIYO4yiqOy1ONqqMsd21R.jpg" group-title="Séries | Amazon Prime",Loudermilk S01 E01
+http://lxls.mx:80/series/994153115/101217/191067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loudermilk S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/59WtauFgtFIajSEreXavqE384Nz.jpg" group-title="Séries | Amazon Prime",Loudermilk S01 E02
+http://lxls.mx:80/series/994153115/101217/191066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loudermilk S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/f8ZbjDixaSw4YXo1YfuG55XaYnz.jpg" group-title="Séries | Amazon Prime",Loudermilk S01 E03
+http://lxls.mx:80/series/994153115/101217/191065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loudermilk S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/fJ8gsddQdk9K21unGZMXmFKAZ3m.jpg" group-title="Séries | Amazon Prime",Loudermilk S01 E04
+http://lxls.mx:80/series/994153115/101217/191064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loudermilk S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/qtr3aLOvZTZimcJBh3hrTZtqJGS.jpg" group-title="Séries | Amazon Prime",Loudermilk S01 E05
+http://lxls.mx:80/series/994153115/101217/191063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loudermilk S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/xesAOpoo9yZ8f4rWbiVpJ3DKEUc.jpg" group-title="Séries | Amazon Prime",Loudermilk S01 E06
+http://lxls.mx:80/series/994153115/101217/191062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loudermilk S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/7CozKZEzUJlnWUcVGvw62AFQgLM.jpg" group-title="Séries | Amazon Prime",Loudermilk S01 E07
+http://lxls.mx:80/series/994153115/101217/191061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loudermilk S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/r26CykM1oejEkjtXg5KgvUiRmdd.jpg" group-title="Séries | Amazon Prime",Loudermilk S01 E08
+http://lxls.mx:80/series/994153115/101217/191060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loudermilk S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/j5mxDZxX32CDGGZKQlQn6g7tid0.jpg" group-title="Séries | Amazon Prime",Loudermilk S01 E09
+http://lxls.mx:80/series/994153115/101217/191059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loudermilk S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/gVNRZBT0VILwGQwNg0PrGXr850K.jpg" group-title="Séries | Amazon Prime",Loudermilk S01 E10
+http://lxls.mx:80/series/994153115/101217/191058.mp4

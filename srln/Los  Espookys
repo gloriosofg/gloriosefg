@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Los  Espookys S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/dsiimgeyEYlMVZi7jNbhFFJRBdW.jpg" group-title="Séries | HBO Max",Los  Espookys S01 E01
+http://lxls.mx:80/series/994153115/101217/215272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los  Espookys S01 E02" tvg-logo="http://lxls.mx:8080/images/4efbed4c68f33b16a86ce7e2239ff481.jpg" group-title="Séries | HBO Max",Los  Espookys S01 E02
+http://lxls.mx:80/series/994153115/101217/215271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los  Espookys S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/aQJ7YodsgZ0eDhO43ZRdv8yeuez.jpg" group-title="Séries | HBO Max",Los  Espookys S01 E03
+http://lxls.mx:80/series/994153115/101217/215270.mp4

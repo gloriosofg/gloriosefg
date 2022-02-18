@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Little Birds S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/tVmtXSLY8aPpJ3cdo63fguCoiKQ.jpg" group-title="Séries | Amazon Prime",Little Birds S01 E01
+http://lxls.mx:80/series/994153115/101217/173237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Birds S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ymUyw6suzdfnuT4HFGM7v8YL5RW.jpg" group-title="Séries | Amazon Prime",Little Birds S01 E02
+http://lxls.mx:80/series/994153115/101217/173236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Birds S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/dORdhdfdoCaPEWx7H4KFxncwZEH.jpg" group-title="Séries | Amazon Prime",Little Birds S01 E03
+http://lxls.mx:80/series/994153115/101217/173235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Birds S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/2nPxMVpiDiuYmjfAZfKPR5qRDR1.jpg" group-title="Séries | Amazon Prime",Little Birds S01 E04
+http://lxls.mx:80/series/994153115/101217/173234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Birds S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/xVegsUvPAA4zcUGswgPVUsPAtbr.jpg" group-title="Séries | Amazon Prime",Little Birds S01 E05
+http://lxls.mx:80/series/994153115/101217/173233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Birds S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/djVBYiavpFL9LidNRQ120uluzqZ.jpg" group-title="Séries | Amazon Prime",Little Birds S01 E06
+http://lxls.mx:80/series/994153115/101217/173232.mp4

@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Love in the Time of Corona S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gPR7RhBZKVJ5O1B5KPSBDgoCHH6.jpg" group-title="Séries | Star+",Love in the Time of Corona S01 E01
+http://lxls.mx:80/series/994153115/101217/151845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love in the Time of Corona S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/e6EqGtel0aLaxyyEdX0oy0OEbLI.jpg" group-title="Séries | Star+",Love in the Time of Corona S01 E02
+http://lxls.mx:80/series/994153115/101217/151842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love in the Time of Corona S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/7oc81zceO1Ue7uqyanGSAFTphT5.jpg" group-title="Séries | Star+",Love in the Time of Corona S01 E03
+http://lxls.mx:80/series/994153115/101217/151840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love in the Time of Corona S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/wPpWgnrrSsQt9vWxOeFo7wiFZ6W.jpg" group-title="Séries | Star+",Love in the Time of Corona S01 E04
+http://lxls.mx:80/series/994153115/101217/151838.mp4

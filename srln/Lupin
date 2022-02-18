@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E01" tvg-logo="http://lxls.mx:8080/images/958672a631400ba89c33a1588767d6aa.jpg" group-title="Séries | Netflix",Lupin S01 E01
+http://lxls.mx:80/series/994153115/101217/164960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/71i63q3dtI3iSaEifHS72AvRbsl.jpg" group-title="Séries | Netflix",Lupin S01 E02
+http://lxls.mx:80/series/994153115/101217/164959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/7VcD2tQw5epoBmc8JyNGpVniV8X.jpg" group-title="Séries | Netflix",Lupin S01 E03
+http://lxls.mx:80/series/994153115/101217/164958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E04" tvg-logo="http://lxls.mx:8080/images/958672a631400ba89c33a1588767d6aa.jpg" group-title="Séries | Netflix",Lupin S01 E04
+http://lxls.mx:80/series/994153115/101217/164957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S01 E05" tvg-logo="http://lxls.mx:8080/images/958672a631400ba89c33a1588767d6aa.jpg" group-title="Séries | Netflix",Lupin S01 E05
+http://lxls.mx:80/series/994153115/101217/164956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S02 E01" tvg-logo="http://lxls.mx:8080/images/958672a631400ba89c33a1588767d6aa.jpg" group-title="Séries | Netflix",Lupin S02 E01
+http://lxls.mx:80/series/994153115/101217/164955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S02 E02" tvg-logo="http://lxls.mx:8080/images/958672a631400ba89c33a1588767d6aa.jpg" group-title="Séries | Netflix",Lupin S02 E02
+http://lxls.mx:80/series/994153115/101217/164954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S02 E03" tvg-logo="http://lxls.mx:8080/images/958672a631400ba89c33a1588767d6aa.jpg" group-title="Séries | Netflix",Lupin S02 E03
+http://lxls.mx:80/series/994153115/101217/164953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S02 E04" tvg-logo="http://lxls.mx:8080/images/958672a631400ba89c33a1588767d6aa.jpg" group-title="Séries | Netflix",Lupin S02 E04
+http://lxls.mx:80/series/994153115/101217/164952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin S02 E05" tvg-logo="http://lxls.mx:8080/images/958672a631400ba89c33a1588767d6aa.jpg" group-title="Séries | Netflix",Lupin S02 E05
+http://lxls.mx:80/series/994153115/101217/164951.mp4

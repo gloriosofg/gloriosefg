@@ -1,0 +1,31 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/bDBXo2CbWbOOROjHe0ISseYwr86.jpg" group-title="Séries | Netflix",Love Alarm S01 E01
+http://lxls.mx:80/series/994153115/101217/213288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gVG3ZIa4YZ4G83y7e3Hk6Fm4TfJ.jpg" group-title="Séries | Netflix",Love Alarm S01 E02
+http://lxls.mx:80/series/994153115/101217/213287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/8tEV7lWf938uHLW52YoGHUaEOdi.jpg" group-title="Séries | Netflix",Love Alarm S01 E03
+http://lxls.mx:80/series/994153115/101217/213286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/is10w1JBS22WQer4ESd5q4dVWbo.jpg" group-title="Séries | Netflix",Love Alarm S01 E04
+http://lxls.mx:80/series/994153115/101217/213285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/yrmkGrvJpkL1FPh4vPyi28nB1kt.jpg" group-title="Séries | Netflix",Love Alarm S01 E05
+http://lxls.mx:80/series/994153115/101217/213284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/uLSmeqPGPAifUTZkHbA2DRC5Z3V.jpg" group-title="Séries | Netflix",Love Alarm S01 E06
+http://lxls.mx:80/series/994153115/101217/213283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/yY8nV4t6oQw6nxLIXW7ar9L2egD.jpg" group-title="Séries | Netflix",Love Alarm S01 E07
+http://lxls.mx:80/series/994153115/101217/213282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/smXQEwBGWYILzSTSnvFMjxkMVii.jpg" group-title="Séries | Netflix",Love Alarm S01 E08
+http://lxls.mx:80/series/994153115/101217/213281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S02 E01" tvg-logo="http://lxls.mx:8080/images/15eb3e84a6f7686201c5fe5e75f7faad.jpg" group-title="Séries | Netflix",Love Alarm S02 E01
+http://lxls.mx:80/series/994153115/101217/174152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/stLzMO5kwfXPpAnQI2tHCXRQbZF.jpg" group-title="Séries | Netflix",Love Alarm S02 E02
+http://lxls.mx:80/series/994153115/101217/174151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/45A9ZiVjhLNbieZ6wCYAsDcbwQy.jpg" group-title="Séries | Netflix",Love Alarm S02 E03
+http://lxls.mx:80/series/994153115/101217/174150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/c2XdmbGSHSvbBKO4OiMO1lBjTAg.jpg" group-title="Séries | Netflix",Love Alarm S02 E04
+http://lxls.mx:80/series/994153115/101217/174149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S02 E05" tvg-logo="http://lxls.mx:8080/images/15eb3e84a6f7686201c5fe5e75f7faad.jpg" group-title="Séries | Netflix",Love Alarm S02 E05
+http://lxls.mx:80/series/994153115/101217/174148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Alarm S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/zSJGQymCl9rI1p2kLAhMA29ucfZ.jpg" group-title="Séries | Netflix",Love Alarm S02 E06
+http://lxls.mx:80/series/994153115/101217/174147.mp4

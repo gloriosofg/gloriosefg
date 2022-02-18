@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/hxJHbQ43gp4x6xjb8ZEQ0zwCX2t.jpg" group-title="Séries | Netflix",Love 101 S01 E01
+http://lxls.mx:80/series/994153115/101217/205021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/6R4Av4QikPVU5d662kWw359qMUY.jpg" group-title="Séries | Netflix",Love 101 S01 E02
+http://lxls.mx:80/series/994153115/101217/205020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/gJ5llQYXd5LKaf8IhsbAIuufe7w.jpg" group-title="Séries | Netflix",Love 101 S01 E03
+http://lxls.mx:80/series/994153115/101217/205019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/mqZSJqWJL0ywGNo9Kci5VSnWDkG.jpg" group-title="Séries | Netflix",Love 101 S01 E04
+http://lxls.mx:80/series/994153115/101217/205018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S01 E05" tvg-logo="http://lxls.mx:8080/images/09b1ca1f36f4b0deaa2e5b258aaa223f.jpg" group-title="Séries | Netflix",Love 101 S01 E05
+http://lxls.mx:80/series/994153115/101217/205017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/jtAW7fj9ZvXTwkX6uG5B2PTatAV.jpg" group-title="Séries | Netflix",Love 101 S01 E06
+http://lxls.mx:80/series/994153115/101217/205016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/vjn19xQA52tglVSStYgnI3avsdv.jpg" group-title="Séries | Netflix",Love 101 S01 E07
+http://lxls.mx:80/series/994153115/101217/205015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S01 E08" tvg-logo="http://lxls.mx:8080/images/09b1ca1f36f4b0deaa2e5b258aaa223f.jpg" group-title="Séries | Netflix",Love 101 S01 E08
+http://lxls.mx:80/series/994153115/101217/205014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mLEljGuWsx4AX8hkrY3GcNvPFdv.jpg" group-title="Séries | Netflix",Love 101 S02 E01
+http://lxls.mx:80/series/994153115/101217/147607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/5Rm1hjeBvSTxlbU8arOzQzbOLq4.jpg" group-title="Séries | Netflix",Love 101 S02 E02
+http://lxls.mx:80/series/994153115/101217/147606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/onvOnCZlKgX0DBZ21isx96sI1U.jpg" group-title="Séries | Netflix",Love 101 S02 E03
+http://lxls.mx:80/series/994153115/101217/147605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dIVtTxhEgDLvw3BaavRcsMhZ6Lf.jpg" group-title="Séries | Netflix",Love 101 S02 E04
+http://lxls.mx:80/series/994153115/101217/147604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/u3Yg4O3IMEGfCDjJvE0hZhf05Mx.jpg" group-title="Séries | Netflix",Love 101 S02 E05
+http://lxls.mx:80/series/994153115/101217/147603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/tDXSncEYVZ4fnUM3ojJ08tDRMSL.jpg" group-title="Séries | Netflix",Love 101 S02 E06
+http://lxls.mx:80/series/994153115/101217/147602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/UNr4so8ljt7KftldERVotCFEEj.jpg" group-title="Séries | Netflix",Love 101 S02 E07
+http://lxls.mx:80/series/994153115/101217/147601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love 101 S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/gBepzKsrYvvKWYzR6RbUrz9Ep0T.jpg" group-title="Séries | Netflix",Love 101 S02 E08
+http://lxls.mx:80/series/994153115/101217/147600.mp4

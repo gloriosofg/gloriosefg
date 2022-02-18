@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Luna Park S01 E01" tvg-logo="http://lxls.mx:8080/images/d5481ce74eaf588d0acadf85ac477095.jpg" group-title="Séries | Netflix",Luna Park S01 E01
+http://lxls.mx:80/series/994153115/101217/147702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luna Park S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/o6XthLlUg5nS2LNRup3eI7Yt7Z2.jpg" group-title="Séries | Netflix",Luna Park S01 E02
+http://lxls.mx:80/series/994153115/101217/147701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luna Park S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5atkc7RsQnVKmhXtzRqufyzTzYK.jpg" group-title="Séries | Netflix",Luna Park S01 E03
+http://lxls.mx:80/series/994153115/101217/147700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luna Park S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/AcBb0tKcVLMeJyQ71d2WmGOof0T.jpg" group-title="Séries | Netflix",Luna Park S01 E04
+http://lxls.mx:80/series/994153115/101217/147699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luna Park S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8765qNdwOXqWxCcPWPOis7tasfi.jpg" group-title="Séries | Netflix",Luna Park S01 E05
+http://lxls.mx:80/series/994153115/101217/147698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luna Park S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/lNqV0KKJ2Sh9M7t5zLuGOUob5KK.jpg" group-title="Séries | Netflix",Luna Park S01 E06
+http://lxls.mx:80/series/994153115/101217/147697.mp4

@@ -1,0 +1,21 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7nlIJTtXl24Yk10kjqWi4p92F0h.jpg" group-title="Séries | Comédia",Little Voice S01 E01
+http://lxls.mx:80/series/994153115/101217/192150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E02" tvg-logo="http://lxls.mx:8080/images/4cb6db9c931dbafb3a3442667bf4b6e7.jpg" group-title="Séries | Comédia",Little Voice S01 E02
+http://lxls.mx:80/series/994153115/101217/192149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/naJw9cnkhG76HQwOe5rfDDzirQr.jpg" group-title="Séries | Comédia",Little Voice S01 E03
+http://lxls.mx:80/series/994153115/101217/192148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E04" tvg-logo="http://lxls.mx:8080/images/4cb6db9c931dbafb3a3442667bf4b6e7.jpg" group-title="Séries | Comédia",Little Voice S01 E04
+http://lxls.mx:80/series/994153115/101217/190775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/zdsL6UVdxIZVeX4geMBE4Nb8nGI.jpg" group-title="Séries | Comédia",Little Voice S01 E05
+http://lxls.mx:80/series/994153115/101217/190774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/xVQ0aXVNzBatTVN9OmUezfjP0N6.jpg" group-title="Séries | Comédia",Little Voice S01 E06
+http://lxls.mx:80/series/994153115/101217/190741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/q0SDvNrEs6A67waobIlApmpyG8t.jpg" group-title="Séries | Comédia",Little Voice S01 E07
+http://lxls.mx:80/series/994153115/101217/190740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/4fEmltBUL5FF3sVwzYW5ZmlGIFS.jpg" group-title="Séries | Comédia",Little Voice S01 E08
+http://lxls.mx:80/series/994153115/101217/189423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Voice S01 E09" tvg-logo="http://lxls.mx:8080/images/4cb6db9c931dbafb3a3442667bf4b6e7.jpg" group-title="Séries | Comédia",Little Voice S01 E09
+http://lxls.mx:80/series/994153115/101217/189422.mp4

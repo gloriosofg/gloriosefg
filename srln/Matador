@@ -1,0 +1,29 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E01" tvg-logo="http://lxls.mx:8080/images/be665f594ce9db3deef9e6d0f33e9bf9.jpg" group-title="Séries | Globoplay",Matador S01 E01
+http://lxls.mx:80/series/994153115/101217/211897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E02" tvg-logo="http://lxls.mx:8080/images/be665f594ce9db3deef9e6d0f33e9bf9.jpg" group-title="Séries | Globoplay",Matador S01 E02
+http://lxls.mx:80/series/994153115/101217/211896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E03" tvg-logo="http://lxls.mx:8080/images/be665f594ce9db3deef9e6d0f33e9bf9.jpg" group-title="Séries | Globoplay",Matador S01 E03
+http://lxls.mx:80/series/994153115/101217/211895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E04" tvg-logo="http://lxls.mx:8080/images/be665f594ce9db3deef9e6d0f33e9bf9.jpg" group-title="Séries | Globoplay",Matador S01 E04
+http://lxls.mx:80/series/994153115/101217/211894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E05" tvg-logo="http://lxls.mx:8080/images/be665f594ce9db3deef9e6d0f33e9bf9.jpg" group-title="Séries | Globoplay",Matador S01 E05
+http://lxls.mx:80/series/994153115/101217/211893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E06" tvg-logo="http://lxls.mx:8080/images/be665f594ce9db3deef9e6d0f33e9bf9.jpg" group-title="Séries | Globoplay",Matador S01 E06
+http://lxls.mx:80/series/994153115/101217/211892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E07" tvg-logo="http://lxls.mx:8080/images/be665f594ce9db3deef9e6d0f33e9bf9.jpg" group-title="Séries | Globoplay",Matador S01 E07
+http://lxls.mx:80/series/994153115/101217/211891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E08" tvg-logo="http://lxls.mx:8080/images/be665f594ce9db3deef9e6d0f33e9bf9.jpg" group-title="Séries | Globoplay",Matador S01 E08
+http://lxls.mx:80/series/994153115/101217/211890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E09" tvg-logo="http://lxls.mx:8080/images/be665f594ce9db3deef9e6d0f33e9bf9.jpg" group-title="Séries | Globoplay",Matador S01 E09
+http://lxls.mx:80/series/994153115/101217/211889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/tK1o4joSl9bwsSao6JULn8MJ4cp.jpg" group-title="Séries | Globoplay",Matador S01 E10
+http://lxls.mx:80/series/994153115/101217/211888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/puEERY5vQdU2vFpSrygkNMG1LXM.jpg" group-title="Séries | Globoplay",Matador S01 E11
+http://lxls.mx:80/series/994153115/101217/211887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/uehssy1HhQIi8qrjAnhSUXuRo0B.jpg" group-title="Séries | Globoplay",Matador S01 E12
+http://lxls.mx:80/series/994153115/101217/211886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Matador S01 E13
+http://lxls.mx:80/series/994153115/101217/211885.mp4
