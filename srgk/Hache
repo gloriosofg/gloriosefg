@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/k49ONKhDaBRdhh9pX9GSr9EcTJU.jpg" group-title="Séries | Netflix",Hache S01 E01
+http://lxls.mx:80/series/994153115/101217/177344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/hv3tdgwykNKoWWslxA5qAOiENjH.jpg" group-title="Séries | Netflix",Hache S01 E02
+http://lxls.mx:80/series/994153115/101217/177343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/dgXfQnSu8KeOnmQwc7QzjX2vg1X.jpg" group-title="Séries | Netflix",Hache S01 E03
+http://lxls.mx:80/series/994153115/101217/177342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/1wnCleZyMGEcgz8Y5GYT9e3PE8Z.jpg" group-title="Séries | Netflix",Hache S01 E04
+http://lxls.mx:80/series/994153115/101217/177341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/c0Jt1qThUIYq0XmMnLKse4Qivxv.jpg" group-title="Séries | Netflix",Hache S01 E05
+http://lxls.mx:80/series/994153115/101217/177340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/fPjZkg8cFeiaYpHuoFhIG6tIwKZ.jpg" group-title="Séries | Netflix",Hache S01 E06
+http://lxls.mx:80/series/994153115/101217/177339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/gAzYIAlIQFJLG38yr3Oq39FNhtN.jpg" group-title="Séries | Netflix",Hache S01 E07
+http://lxls.mx:80/series/994153115/101217/177338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hache S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/8JE5HUZZjyPSBwz3dvlgZB2HEq6.jpg" group-title="Séries | Netflix",Hache S01 E08
+http://lxls.mx:80/series/994153115/101217/177337.mp4

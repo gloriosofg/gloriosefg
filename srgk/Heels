@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Heels S01 E01" tvg-logo="http://lxls.mx:8080/images/8b74d523c229dbade33ed514f2790da8.jpg" group-title="Séries | Amazon Prime",Heels S01 E01
+http://lxls.mx:80/series/994153115/101217/151877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heels S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/jGmdcgvow0to33RDc0GAfcynAsv.jpg" group-title="Séries | Amazon Prime",Heels S01 E02
+http://lxls.mx:80/series/994153115/101217/150821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heels S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/btyfj6nxLNdg8fJx5PBmCjk9FXy.jpg" group-title="Séries | Amazon Prime",Heels S01 E03
+http://lxls.mx:80/series/994153115/101217/150594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heels S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/exLXt6Su6QPlXJfpNgXBYBWO2A5.jpg" group-title="Séries | Amazon Prime",Heels S01 E04
+http://lxls.mx:80/series/994153115/101217/149357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heels S01 E05" tvg-logo="http://lxls.mx:8080/images/8b74d523c229dbade33ed514f2790da8.jpg" group-title="Séries | Amazon Prime",Heels S01 E05
+http://lxls.mx:80/series/994153115/101217/148059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heels S01 E06" tvg-logo="http://lxls.mx:8080/images/8b74d523c229dbade33ed514f2790da8.jpg" group-title="Séries | Amazon Prime",Heels S01 E06
+http://lxls.mx:80/series/994153115/101217/147804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heels S01 E07" tvg-logo="http://lxls.mx:8080/images/8b74d523c229dbade33ed514f2790da8.jpg" group-title="Séries | Amazon Prime",Heels S01 E07
+http://lxls.mx:80/series/994153115/101217/147502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heels S01 E08" tvg-logo="http://lxls.mx:8080/images/8b74d523c229dbade33ed514f2790da8.jpg" group-title="Séries | Amazon Prime",Heels S01 E08
+http://lxls.mx:80/series/994153115/101217/146655.mp4

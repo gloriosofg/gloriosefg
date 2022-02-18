@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Halston S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8aIKrOEeN85XH4CumVVskIXbOE1.jpg" group-title="Séries | Netflix",Halston S01 E01
+http://lxls.mx:80/series/994153115/101217/168085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halston S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/80WOJp4UdS86kFET6ARlgC4Hh34.jpg" group-title="Séries | Netflix",Halston S01 E02
+http://lxls.mx:80/series/994153115/101217/168084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halston S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5yVUcWRjrfnyJDEvvyhVUrdMNNF.jpg" group-title="Séries | Netflix",Halston S01 E03
+http://lxls.mx:80/series/994153115/101217/168083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halston S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/y7LPcROYVpOZ82r5KqRQkKiWQbY.jpg" group-title="Séries | Netflix",Halston S01 E04
+http://lxls.mx:80/series/994153115/101217/168082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halston S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/k0kenkxaiprzN9WpDL9wYNirQPF.jpg" group-title="Séries | Netflix",Halston S01 E05
+http://lxls.mx:80/series/994153115/101217/168081.mp4

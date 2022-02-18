@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Histórias Maravilhosas S01 E01" tvg-logo="http://lxls.mx:8080/images/f86ad740efa1935f763026eab88078cd.jpg" group-title="Séries | Ação & Ficção",Histórias Maravilhosas S01 E01
+http://lxls.mx:80/series/994153115/101217/207774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Histórias Maravilhosas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/k0gEbaxdpzjlv5OsH40U2mFm1Zq.jpg" group-title="Séries | Ação & Ficção",Histórias Maravilhosas S01 E02
+http://lxls.mx:80/series/994153115/101217/205971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Histórias Maravilhosas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/hPlNA7Zi6qE2DXqm3VwLRsLTSvK.jpg" group-title="Séries | Ação & Ficção",Histórias Maravilhosas S01 E03
+http://lxls.mx:80/series/994153115/101217/205970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Histórias Maravilhosas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evcvXE6BP8fT8UoWsyiTBvxqyrL.jpg" group-title="Séries | Ação & Ficção",Histórias Maravilhosas S01 E04
+http://lxls.mx:80/series/994153115/101217/205969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Histórias Maravilhosas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/68UQNy5uApEcWlX9Rt4qx96LI85.jpg" group-title="Séries | Ação & Ficção",Histórias Maravilhosas S01 E05
+http://lxls.mx:80/series/994153115/101217/205968.mp4

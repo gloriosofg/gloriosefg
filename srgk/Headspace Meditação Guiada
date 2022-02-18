@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Headspace Meditação Guiada S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/xCM1IQs7MJn3oHI7WsTGEt3rxcI.jpg" group-title="Séries | Netflix",Headspace Meditação Guiada S01 E01
+http://lxls.mx:80/series/994153115/101217/179815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace Meditação Guiada S01 E02" tvg-logo="http://lxls.mx:8080/images/0c521a7f025025a574ea955bbb27f809.jpg" group-title="Séries | Netflix",Headspace Meditação Guiada S01 E02
+http://lxls.mx:80/series/994153115/101217/179814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace Meditação Guiada S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/qhYQmfw4IWiAglCtESvB609PDYr.jpg" group-title="Séries | Netflix",Headspace Meditação Guiada S01 E03
+http://lxls.mx:80/series/994153115/101217/179813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace Meditação Guiada S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/lvse5iaL8Jd7AL64FHwHnUu6uBl.jpg" group-title="Séries | Netflix",Headspace Meditação Guiada S01 E04
+http://lxls.mx:80/series/994153115/101217/179812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace Meditação Guiada S01 E05" tvg-logo="http://lxls.mx:8080/images/0c521a7f025025a574ea955bbb27f809.jpg" group-title="Séries | Netflix",Headspace Meditação Guiada S01 E05
+http://lxls.mx:80/series/994153115/101217/179811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace Meditação Guiada S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/7fAkXBvcLOsQqWfJvW2g8U8WshD.jpg" group-title="Séries | Netflix",Headspace Meditação Guiada S01 E06
+http://lxls.mx:80/series/994153115/101217/179810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace Meditação Guiada S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/5RZvy8XRmjeMELQ1YbQLz273I20.jpg" group-title="Séries | Netflix",Headspace Meditação Guiada S01 E07
+http://lxls.mx:80/series/994153115/101217/179809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace Meditação Guiada S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/qgbigbiYOG9WVZWSAJQKEVcW9Dk.jpg" group-title="Séries | Netflix",Headspace Meditação Guiada S01 E08
+http://lxls.mx:80/series/994153115/101217/179808.mp4

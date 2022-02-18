@@ -1,0 +1,43 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gsaQhdtItIP0fXMmIUvWW8Zdz3y.jpg" group-title="Séries | Star+",Harrow S01 E01
+http://lxls.mx:80/series/994153115/101217/175357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/yCix2aqK49Ha8CU5OQULRIcpi8v.jpg" group-title="Séries | Star+",Harrow S01 E02
+http://lxls.mx:80/series/994153115/101217/175356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/gSMgfvqZcUzKSu3TvAH1MNg9OMA.jpg" group-title="Séries | Star+",Harrow S01 E03
+http://lxls.mx:80/series/994153115/101217/175355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/xtufle8728otnoiRw1lZoVElwET.jpg" group-title="Séries | Star+",Harrow S01 E04
+http://lxls.mx:80/series/994153115/101217/175354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/aqzBA5p9Hg1eRQE6rUlYv3NRCdx.jpg" group-title="Séries | Star+",Harrow S01 E05
+http://lxls.mx:80/series/994153115/101217/175353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/m3Z6DMAvcaTUXGT6TRJHmtKuOLW.jpg" group-title="Séries | Star+",Harrow S01 E06
+http://lxls.mx:80/series/994153115/101217/165365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/cvTOJomgEy4QVh05GUc4A2d3AGI.jpg" group-title="Séries | Star+",Harrow S01 E07
+http://lxls.mx:80/series/994153115/101217/165364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/rscCtFG0Wobx5Rxa4E2Ms8D4kwC.jpg" group-title="Séries | Star+",Harrow S01 E08
+http://lxls.mx:80/series/994153115/101217/165363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/nK0JSMclW0WmwQSMqADkZMKkAgr.jpg" group-title="Séries | Star+",Harrow S01 E09
+http://lxls.mx:80/series/994153115/101217/165362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/vLZ92czZYMtgsb3zLBARraZegWj.jpg" group-title="Séries | Star+",Harrow S01 E10
+http://lxls.mx:80/series/994153115/101217/165361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/9aTBKMwYQ7BjvyYBoJ64jHbAUob.jpg" group-title="Séries | Star+",Harrow S02 E01
+http://lxls.mx:80/series/994153115/101217/165360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/qUoeJH2K0lNawW6QgaCnOmvxhQU.jpg" group-title="Séries | Star+",Harrow S02 E02
+http://lxls.mx:80/series/994153115/101217/165359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/eKDrkenPaUW8AFM5vnHcOqW2Sz7.jpg" group-title="Séries | Star+",Harrow S02 E03
+http://lxls.mx:80/series/994153115/101217/165358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/s9bIeuDP65CpHuQu0fY8tAmz4c.jpg" group-title="Séries | Star+",Harrow S02 E04
+http://lxls.mx:80/series/994153115/101217/165357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/cX75ZeLaiC85uXp3p3LxQIpbaTj.jpg" group-title="Séries | Star+",Harrow S02 E05
+http://lxls.mx:80/series/994153115/101217/165356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/z65W3RvXKj6WYGTrv1EkD52c5gX.jpg" group-title="Séries | Star+",Harrow S02 E06
+http://lxls.mx:80/series/994153115/101217/165355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/jfNPpUIxLRTFfpzlJ6ptzCfA7fd.jpg" group-title="Séries | Star+",Harrow S02 E07
+http://lxls.mx:80/series/994153115/101217/165354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/imhZDkK2ILj7YRlusLCA4jQi5QV.jpg" group-title="Séries | Star+",Harrow S02 E08
+http://lxls.mx:80/series/994153115/101217/165353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/gZGu8VTU9vMNA3nS3xEzJbQpZ9v.jpg" group-title="Séries | Star+",Harrow S02 E09
+http://lxls.mx:80/series/994153115/101217/165352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harrow S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/bLidaaVEY5vswhxiNuHNy9FWIID.jpg" group-title="Séries | Star+",Harrow S02 E10
+http://lxls.mx:80/series/994153115/101217/165351.mp4

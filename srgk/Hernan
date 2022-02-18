@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Hernan S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3KLYOovFbyLLJaM3I5v5IeD59Ay.jpg" group-title="Séries | Amazon Prime",Hernan S01 E01
+http://lxls.mx:80/series/994153115/101217/204620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hernan S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/72oAn4WYqOK9YPDqmcR7pJp6ats.jpg" group-title="Séries | Amazon Prime",Hernan S01 E02
+http://lxls.mx:80/series/994153115/101217/204619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hernan S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/zPFR1wl1WpTUT6LFzrxn7VDVUxK.jpg" group-title="Séries | Amazon Prime",Hernan S01 E03
+http://lxls.mx:80/series/994153115/101217/204618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hernan S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/pLRGvHlHAgOjkv1WejnVJHcTPAc.jpg" group-title="Séries | Amazon Prime",Hernan S01 E04
+http://lxls.mx:80/series/994153115/101217/204617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hernan S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/foO2FCs74dmXLE4ROmU4rXNxzyT.jpg" group-title="Séries | Amazon Prime",Hernan S01 E05
+http://lxls.mx:80/series/994153115/101217/204616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hernan S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/lUbiYi2OubunzdxgOUQBRGM8O9q.jpg" group-title="Séries | Amazon Prime",Hernan S01 E06
+http://lxls.mx:80/series/994153115/101217/204615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hernan S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/tWdpf1SF2wBhtTZWYyuWcZdmZjk.jpg" group-title="Séries | Amazon Prime",Hernan S01 E07
+http://lxls.mx:80/series/994153115/101217/204614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hernan S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/huCYOTw8K3qqLwWKmSRK3mHghCq.jpg" group-title="Séries | Amazon Prime",Hernan S01 E08
+http://lxls.mx:80/series/994153115/101217/204613.mp4

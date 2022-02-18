@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Good Omens S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7MRg1d8hx5omdKDAIyFvgRguF4L.jpg" group-title="Séries | Amazon Prime",Good Omens S01 E01
+http://lxls.mx:80/series/994153115/101217/215803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Good Omens S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/7Mu0yVBkw0GXVcVSqvl7jLZVqW1.jpg" group-title="Séries | Amazon Prime",Good Omens S01 E02
+http://lxls.mx:80/series/994153115/101217/215802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Good Omens S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/d6YPPVtv91XrKmko3ETdlla3tix.jpg" group-title="Séries | Amazon Prime",Good Omens S01 E03
+http://lxls.mx:80/series/994153115/101217/215801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Good Omens S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/5849b7h54TY79qypymqQdrUutOx.jpg" group-title="Séries | Amazon Prime",Good Omens S01 E04
+http://lxls.mx:80/series/994153115/101217/215800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Good Omens S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/tT6vIe119FhyOOjC3iBDQG9npsz.jpg" group-title="Séries | Amazon Prime",Good Omens S01 E05
+http://lxls.mx:80/series/994153115/101217/215799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Good Omens S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/vPIiGD3wGBrfW8HRZm86hgj2Bv6.jpg" group-title="Séries | Amazon Prime",Good Omens S01 E06
+http://lxls.mx:80/series/994153115/101217/215798.mp4

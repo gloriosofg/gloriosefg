@@ -1,0 +1,51 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S01 E01" tvg-logo="http://lxls.mx:8080/images/b203fa5d827c7ce3876b08501e28bacb.jpg" group-title="Séries | Star+",Harlots S01 E01
+http://lxls.mx:80/series/994153115/101217/205045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S01 E02" tvg-logo="http://lxls.mx:8080/images/b203fa5d827c7ce3876b08501e28bacb.jpg" group-title="Séries | Star+",Harlots S01 E02
+http://lxls.mx:80/series/994153115/101217/205044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S01 E03" tvg-logo="http://lxls.mx:8080/images/b203fa5d827c7ce3876b08501e28bacb.jpg" group-title="Séries | Star+",Harlots S01 E03
+http://lxls.mx:80/series/994153115/101217/205043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/pCnJHxcR4Ty4bAs2sosKQgYDuNA.jpg" group-title="Séries | Star+",Harlots S01 E04
+http://lxls.mx:80/series/994153115/101217/205042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S01 E05" tvg-logo="http://lxls.mx:8080/images/b203fa5d827c7ce3876b08501e28bacb.jpg" group-title="Séries | Star+",Harlots S01 E05
+http://lxls.mx:80/series/994153115/101217/205041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S01 E06" tvg-logo="http://lxls.mx:8080/images/b203fa5d827c7ce3876b08501e28bacb.jpg" group-title="Séries | Star+",Harlots S01 E06
+http://lxls.mx:80/series/994153115/101217/205040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S01 E07" tvg-logo="http://lxls.mx:8080/images/b203fa5d827c7ce3876b08501e28bacb.jpg" group-title="Séries | Star+",Harlots S01 E07
+http://lxls.mx:80/series/994153115/101217/205039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S01 E08" tvg-logo="http://lxls.mx:8080/images/b203fa5d827c7ce3876b08501e28bacb.jpg" group-title="Séries | Star+",Harlots S01 E08
+http://lxls.mx:80/series/994153115/101217/205038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/zTrtVjqRn16DqlgHgWEk3wwqOHk.jpg" group-title="Séries | Star+",Harlots S02 E01
+http://lxls.mx:80/series/994153115/101217/205037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/6RAtw6lrxT9FJHYnGsu3CrPTwKH.jpg" group-title="Séries | Star+",Harlots S02 E02
+http://lxls.mx:80/series/994153115/101217/205036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/14Gxxo9ZfUgELiKO7HdyFW5U6oo.jpg" group-title="Séries | Star+",Harlots S02 E03
+http://lxls.mx:80/series/994153115/101217/205035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/65l57IQL7DEnzkclu0sAhb9yLld.jpg" group-title="Séries | Star+",Harlots S02 E04
+http://lxls.mx:80/series/994153115/101217/205034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/hBfX1UNDXGq2HTwLXgplFLqikoN.jpg" group-title="Séries | Star+",Harlots S02 E05
+http://lxls.mx:80/series/994153115/101217/205033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/4yLfyKPChjkyD3Mzworuj7gZvg1.jpg" group-title="Séries | Star+",Harlots S02 E06
+http://lxls.mx:80/series/994153115/101217/205032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S02 E07" tvg-logo="http://lxls.mx:8080/images/b203fa5d827c7ce3876b08501e28bacb.jpg" group-title="Séries | Star+",Harlots S02 E07
+http://lxls.mx:80/series/994153115/101217/205031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/smBInbuAZvirASjI3nlSdfZz1ps.jpg" group-title="Séries | Star+",Harlots S02 E08
+http://lxls.mx:80/series/994153115/101217/205030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/15b9seK2gjxe6mT8jY42BuCny5d.jpg" group-title="Séries | Star+",Harlots S03 E01
+http://lxls.mx:80/series/994153115/101217/205029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S03 E02" tvg-logo="http://lxls.mx:8080/images/b203fa5d827c7ce3876b08501e28bacb.jpg" group-title="Séries | Star+",Harlots S03 E02
+http://lxls.mx:80/series/994153115/101217/205028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S03 E03" tvg-logo="http://lxls.mx:8080/images/b203fa5d827c7ce3876b08501e28bacb.jpg" group-title="Séries | Star+",Harlots S03 E03
+http://lxls.mx:80/series/994153115/101217/205027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/qhSJByy4B9AJmFKSogDOWmtEsye.jpg" group-title="Séries | Star+",Harlots S03 E04
+http://lxls.mx:80/series/994153115/101217/205026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S03 E05" tvg-logo="http://lxls.mx:8080/images/b203fa5d827c7ce3876b08501e28bacb.jpg" group-title="Séries | Star+",Harlots S03 E05
+http://lxls.mx:80/series/994153115/101217/205025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S03 E06" tvg-logo="http://lxls.mx:8080/images/b203fa5d827c7ce3876b08501e28bacb.jpg" group-title="Séries | Star+",Harlots S03 E06
+http://lxls.mx:80/series/994153115/101217/205024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/rT1ttp1o9622JiRIk12r9FJWeNn.jpg" group-title="Séries | Star+",Harlots S03 E07
+http://lxls.mx:80/series/994153115/101217/205023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlots S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/2ajswX07DdNQaRQYoHoDFauS3OP.jpg" group-title="Séries | Star+",Harlots S03 E08
+http://lxls.mx:80/series/994153115/101217/205022.mp4

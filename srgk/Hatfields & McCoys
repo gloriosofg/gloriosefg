@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Hatfields & McCoys S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/UIPixDNnSF4UdCTrTWokLdwVjN.jpg" group-title="Séries | Drama",Hatfields & McCoys S01 E01
+http://lxls.mx:80/series/994153115/101217/190483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hatfields & McCoys S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/hh922sLnIwQIxxZdZ6klgqvbGqv.jpg" group-title="Séries | Drama",Hatfields & McCoys S01 E02
+http://lxls.mx:80/series/994153115/101217/190482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hatfields & McCoys S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/1moBriW80waNBg6Sa2JoCmduEVD.jpg" group-title="Séries | Drama",Hatfields & McCoys S01 E03
+http://lxls.mx:80/series/994153115/101217/190481.mp4

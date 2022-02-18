@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Harlem S01 E01" tvg-logo="http://lxls.mx:8080/images/069e7efabb843bf0bdbc3c7f6a21ec62.jpg" group-title="Séries | Amazon Prime",Harlem S01 E01
+http://lxls.mx:80/series/994153115/101217/141104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlem S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/noLxJA88yoMdYM64m5hsh1TBUme.jpg" group-title="Séries | Amazon Prime",Harlem S01 E02
+http://lxls.mx:80/series/994153115/101217/141103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlem S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/jTJtpaG38PZhTEsVz09B5sjiAy1.jpg" group-title="Séries | Amazon Prime",Harlem S01 E03
+http://lxls.mx:80/series/994153115/101217/141102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlem S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/xSXQxEvcxpBtl8myjubdSAxYK6Z.jpg" group-title="Séries | Amazon Prime",Harlem S01 E04
+http://lxls.mx:80/series/994153115/101217/141101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlem S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/qsFlMAcGHUmN7YYcb2DB83H662V.jpg" group-title="Séries | Amazon Prime",Harlem S01 E05
+http://lxls.mx:80/series/994153115/101217/141100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlem S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/jQOA2bErmevT8HjOyMY18mRApgY.jpg" group-title="Séries | Amazon Prime",Harlem S01 E06
+http://lxls.mx:80/series/994153115/101217/141099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlem S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/l7JgChZ81y06qMb8JZtzYExRGyi.jpg" group-title="Séries | Amazon Prime",Harlem S01 E07
+http://lxls.mx:80/series/994153115/101217/141098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlem S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/plU0enNNkG3LywH2kdZNmVmSVXY.jpg" group-title="Séries | Amazon Prime",Harlem S01 E08
+http://lxls.mx:80/series/994153115/101217/141097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlem S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/oSZV6WYKb4toFB7yqFHhMXTl2dD.jpg" group-title="Séries | Amazon Prime",Harlem S01 E09
+http://lxls.mx:80/series/994153115/101217/141096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harlem S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/jRxfvIVjtGz1uOswzqZk9Xn6gh3.jpg" group-title="Séries | Amazon Prime",Harlem S01 E10
+http://lxls.mx:80/series/994153115/101217/141095.mp4

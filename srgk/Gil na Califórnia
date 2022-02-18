@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Gil na Califórnia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Gil na Califórnia S01 E01
+http://lxls.mx:80/series/994153115/101217/140866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gil na Califórnia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Gil na Califórnia S01 E02
+http://lxls.mx:80/series/994153115/101217/140865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gil na Califórnia S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Gil na Califórnia S01 E03
+http://lxls.mx:80/series/994153115/101217/140864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gil na Califórnia S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Gil na Califórnia S01 E04
+http://lxls.mx:80/series/994153115/101217/140863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gil na Califórnia S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Gil na Califórnia S01 E05
+http://lxls.mx:80/series/994153115/101217/140862.mp4

@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="High Fidelity S01 E01" tvg-logo="http://lxls.mx:8080/images/6fad8f47c883acb49f5fa7110fff08f1.jpg" group-title="Séries | Star+",High Fidelity S01 E01
+http://lxls.mx:80/series/994153115/101217/187838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Fidelity S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/txwni0lZ2Qo2CHXZgcI8pgyld6W.jpg" group-title="Séries | Star+",High Fidelity S01 E02
+http://lxls.mx:80/series/994153115/101217/187837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Fidelity S01 E03" tvg-logo="http://lxls.mx:8080/images/6fad8f47c883acb49f5fa7110fff08f1.jpg" group-title="Séries | Star+",High Fidelity S01 E03
+http://lxls.mx:80/series/994153115/101217/186248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Fidelity S01 E04" tvg-logo="http://lxls.mx:8080/images/6fad8f47c883acb49f5fa7110fff08f1.jpg" group-title="Séries | Star+",High Fidelity S01 E04
+http://lxls.mx:80/series/994153115/101217/186247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Fidelity S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/hRQkxFJiotrHxBehoeW909VLlFl.jpg" group-title="Séries | Star+",High Fidelity S01 E05
+http://lxls.mx:80/series/994153115/101217/185796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Fidelity S01 E06" tvg-logo="http://lxls.mx:8080/images/6fad8f47c883acb49f5fa7110fff08f1.jpg" group-title="Séries | Star+",High Fidelity S01 E06
+http://lxls.mx:80/series/994153115/101217/184899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Fidelity S01 E07" tvg-logo="http://lxls.mx:8080/images/6fad8f47c883acb49f5fa7110fff08f1.jpg" group-title="Séries | Star+",High Fidelity S01 E07
+http://lxls.mx:80/series/994153115/101217/182177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Fidelity S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/h3FrWwcK72Mf5cUZ5haxVnJUzoL.jpg" group-title="Séries | Star+",High Fidelity S01 E08
+http://lxls.mx:80/series/994153115/101217/180934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Fidelity S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/gDf8uOQntrLlyjTFfUAlHMXhld.jpg" group-title="Séries | Star+",High Fidelity S01 E09
+http://lxls.mx:80/series/994153115/101217/180933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Fidelity S01 E10" tvg-logo="http://lxls.mx:8080/images/6fad8f47c883acb49f5fa7110fff08f1.jpg" group-title="Séries | Star+",High Fidelity S01 E10
+http://lxls.mx:80/series/994153115/101217/180812.mp4

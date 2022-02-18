@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="High Score S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/27QAqVZjsojPJV1IIueGKWGlN7I.jpg" group-title="Séries | Netflix",High Score S01 E01
+http://lxls.mx:80/series/994153115/101217/189842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Score S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/w82tOS2lzEyGgctuoXMmWTPcbwa.jpg" group-title="Séries | Netflix",High Score S01 E02
+http://lxls.mx:80/series/994153115/101217/189841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Score S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/9EScOCMpXGFiTcuQDefLas7E6ld.jpg" group-title="Séries | Netflix",High Score S01 E03
+http://lxls.mx:80/series/994153115/101217/189840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Score S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/5W3SHJbwDNWP1eyPxn98UOZ0rpV.jpg" group-title="Séries | Netflix",High Score S01 E04
+http://lxls.mx:80/series/994153115/101217/189839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Score S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/A7i6aiZphBL0bxjxuZB201k2VSs.jpg" group-title="Séries | Netflix",High Score S01 E05
+http://lxls.mx:80/series/994153115/101217/189838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Score S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/2OlK6Tq4fFSsWaEUnpkenGsydgE.jpg" group-title="Séries | Netflix",High Score S01 E06
+http://lxls.mx:80/series/994153115/101217/189837.mp4

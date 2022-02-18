@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Godless S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/hR4BRavJd9OuTtUSneE0tJJGKLY.jpg" group-title="Séries | Netflix",Godless S01 E01
+http://lxls.mx:80/series/994153115/101217/219420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godless S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/j4hhML0IS2qaGsz5XbTlrz1dy24.jpg" group-title="Séries | Netflix",Godless S01 E02
+http://lxls.mx:80/series/994153115/101217/219419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godless S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/hN6bcOnlEeNXC8rEWSWaTQvCPHM.jpg" group-title="Séries | Netflix",Godless S01 E03
+http://lxls.mx:80/series/994153115/101217/219418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godless S01 E04" tvg-logo="http://lxls.mx:8080/images/899a548936f7874ba2c4584f65407ca1.jpg" group-title="Séries | Netflix",Godless S01 E04
+http://lxls.mx:80/series/994153115/101217/219417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godless S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/66Ulx9C6SMGgsugi38ZOAF0WGA7.jpg" group-title="Séries | Netflix",Godless S01 E05
+http://lxls.mx:80/series/994153115/101217/219416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godless S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/xRc7sS4kK0HRpq9aiDInCAtki5S.jpg" group-title="Séries | Netflix",Godless S01 E06
+http://lxls.mx:80/series/994153115/101217/219415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godless S01 E07" tvg-logo="http://lxls.mx:8080/images/899a548936f7874ba2c4584f65407ca1.jpg" group-title="Séries | Netflix",Godless S01 E07
+http://lxls.mx:80/series/994153115/101217/219414.mp4

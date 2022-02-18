@@ -1,0 +1,21 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Gangues de Londres S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/2fr9hhYXvZ1uAQHYre9xGvtLXN4.jpg" group-title="Séries | Amazon Prime",Gangues de Londres S01 E01
+http://lxls.mx:80/series/994153115/101217/180454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gangues de Londres S01 E02" tvg-logo="http://lxls.mx:8080/images/cdee0e791d9b1f4feee396a9a812d8fd.jpg" group-title="Séries | Amazon Prime",Gangues de Londres S01 E02
+http://lxls.mx:80/series/994153115/101217/180453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gangues de Londres S01 E03" tvg-logo="http://lxls.mx:8080/images/cdee0e791d9b1f4feee396a9a812d8fd.jpg" group-title="Séries | Amazon Prime",Gangues de Londres S01 E03
+http://lxls.mx:80/series/994153115/101217/180156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gangues de Londres S01 E04" tvg-logo="http://lxls.mx:8080/images/cdee0e791d9b1f4feee396a9a812d8fd.jpg" group-title="Séries | Amazon Prime",Gangues de Londres S01 E04
+http://lxls.mx:80/series/994153115/101217/180155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gangues de Londres S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3NhtGpPLojcYAUMNOuANakpk233.jpg" group-title="Séries | Amazon Prime",Gangues de Londres S01 E05
+http://lxls.mx:80/series/994153115/101217/180083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gangues de Londres S01 E06" tvg-logo="http://lxls.mx:8080/images/cdee0e791d9b1f4feee396a9a812d8fd.jpg" group-title="Séries | Amazon Prime",Gangues de Londres S01 E06
+http://lxls.mx:80/series/994153115/101217/179932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gangues de Londres S01 E07" tvg-logo="http://lxls.mx:8080/images/cdee0e791d9b1f4feee396a9a812d8fd.jpg" group-title="Séries | Amazon Prime",Gangues de Londres S01 E07
+http://lxls.mx:80/series/994153115/101217/179931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gangues de Londres S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/o8hTTH6L5jNiP0tQOaikI9BAHMb.jpg" group-title="Séries | Amazon Prime",Gangues de Londres S01 E08
+http://lxls.mx:80/series/994153115/101217/179720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gangues de Londres S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/zUmksPTzkPG2M0yBJD3tfm8T8yp.jpg" group-title="Séries | Amazon Prime",Gangues de Londres S01 E09
+http://lxls.mx:80/series/994153115/101217/178937.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Gente Ansiosa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/6TGwAlX1OoQoPPJ2mUZccqR3uV0.jpg" group-title="Séries | Netflix",Gente Ansiosa S01 E01
+http://lxls.mx:80/series/994153115/101217/224218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gente Ansiosa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/5mhvVE1xur6h3Snk8gmCPYD758X.jpg" group-title="Séries | Netflix",Gente Ansiosa S01 E02
+http://lxls.mx:80/series/994153115/101217/224217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gente Ansiosa S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/2MyJI8myaV0rV8F7PIfxdawJvV1.jpg" group-title="Séries | Netflix",Gente Ansiosa S01 E03
+http://lxls.mx:80/series/994153115/101217/224216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gente Ansiosa S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/sMWjKURmAwwvpsHF9uf9poyr70s.jpg" group-title="Séries | Netflix",Gente Ansiosa S01 E04
+http://lxls.mx:80/series/994153115/101217/224215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gente Ansiosa S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3tL6vjZopUBa6WxY7aP2914YBPB.jpg" group-title="Séries | Netflix",Gente Ansiosa S01 E05
+http://lxls.mx:80/series/994153115/101217/224214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gente Ansiosa S01 E06" tvg-logo="http://lxls.mx:8080/images/9a47c36d0fe9023a5659b5c4711731ff.jpg" group-title="Séries | Netflix",Gente Ansiosa S01 E06
+http://lxls.mx:80/series/994153115/101217/224213.mp4

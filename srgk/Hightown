@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S01 E01" tvg-logo="http://lxls.mx:8080/images/2e02eaa6a3f03a9bd0b87840a8a559e5.jpg" group-title="Séries | Amazon Prime",Hightown S01 E01
+http://lxls.mx:80/series/994153115/101217/190480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/iSilEhUWCk1X0Hu79u72ff2qViL.jpg" group-title="Séries | Amazon Prime",Hightown S01 E02
+http://lxls.mx:80/series/994153115/101217/190479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/nnGpg3MWbXMGze2gzfPQVHzo7sr.jpg" group-title="Séries | Amazon Prime",Hightown S01 E03
+http://lxls.mx:80/series/994153115/101217/190478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/rIpIWJByKrkXXAETLLwv2fQzXwV.jpg" group-title="Séries | Amazon Prime",Hightown S01 E04
+http://lxls.mx:80/series/994153115/101217/190477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/qOuuD48DkCyj2q6GrnDie7HZd30.jpg" group-title="Séries | Amazon Prime",Hightown S01 E05
+http://lxls.mx:80/series/994153115/101217/190476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/8NgiCb0u6nMdox5vdWAJ2ycILaf.jpg" group-title="Séries | Amazon Prime",Hightown S01 E06
+http://lxls.mx:80/series/994153115/101217/190475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/kgNip1ehsIclpCd9sFiS3j7bOSf.jpg" group-title="Séries | Amazon Prime",Hightown S01 E07
+http://lxls.mx:80/series/994153115/101217/190474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/o21KcKBWq57TEQN6DpqJJsUdYNj.jpg" group-title="Séries | Amazon Prime",Hightown S01 E08
+http://lxls.mx:80/series/994153115/101217/190473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/tisDX3QwNuOi1rFVaQaGwH7QfTx.jpg" group-title="Séries | Amazon Prime",Hightown S02 E01
+http://lxls.mx:80/series/994153115/101217/145542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S02 E02" tvg-logo="http://lxls.mx:8080/images/2e02eaa6a3f03a9bd0b87840a8a559e5.jpg" group-title="Séries | Amazon Prime",Hightown S02 E02
+http://lxls.mx:80/series/994153115/101217/145541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/s8WErNwzxzJJrrA7ZK2dYnUpnul.jpg" group-title="Séries | Amazon Prime",Hightown S02 E03
+http://lxls.mx:80/series/994153115/101217/144032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/kHzA4XDdYr7J0OzK4QUaBWACKhz.jpg" group-title="Séries | Amazon Prime",Hightown S02 E04
+http://lxls.mx:80/series/994153115/101217/144031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/fCVJyWp96JUh6ml5P4MQ9rIcZdP.jpg" group-title="Séries | Amazon Prime",Hightown S02 E05
+http://lxls.mx:80/series/994153115/101217/142540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/gFzSdSmF1ng0J2baleiCV3c1H0o.jpg" group-title="Séries | Amazon Prime",Hightown S02 E06
+http://lxls.mx:80/series/994153115/101217/141658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S02 E07" tvg-logo="http://lxls.mx:8080/images/2e02eaa6a3f03a9bd0b87840a8a559e5.jpg" group-title="Séries | Amazon Prime",Hightown S02 E07
+http://lxls.mx:80/series/994153115/101217/141030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hightown S02 E08" tvg-logo="http://lxls.mx:8080/images/2e02eaa6a3f03a9bd0b87840a8a559e5.jpg" group-title="Séries | Amazon Prime",Hightown S02 E08
+http://lxls.mx:80/series/994153115/101217/140236.mp4

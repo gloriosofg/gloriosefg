@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/pxpUjTPj8HLuSTjKEIQBtK9fd3G.jpg" group-title="Séries | Amazon Prime",Hanna S01 E01
+http://lxls.mx:80/series/994153115/101217/174509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9ez8w5kmuIrXHtF9va7Kkk3RagB.jpg" group-title="Séries | Amazon Prime",Hanna S01 E02
+http://lxls.mx:80/series/994153115/101217/174508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/6br33VonYKPwpLY51v0ZTOrOXLF.jpg" group-title="Séries | Amazon Prime",Hanna S01 E03
+http://lxls.mx:80/series/994153115/101217/174507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/oVmqb5H3EJA3nctHRVesLAZ4RBC.jpg" group-title="Séries | Amazon Prime",Hanna S01 E04
+http://lxls.mx:80/series/994153115/101217/174506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/rqkkM6dBefVrAJzTph3XADxTnnV.jpg" group-title="Séries | Amazon Prime",Hanna S01 E05
+http://lxls.mx:80/series/994153115/101217/174505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/kmERe69Uzvr256jsVPoUZJtVzzQ.jpg" group-title="Séries | Amazon Prime",Hanna S01 E06
+http://lxls.mx:80/series/994153115/101217/174504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/vmXi3kZsflizpeEFdtfl8DdS1V6.jpg" group-title="Séries | Amazon Prime",Hanna S01 E07
+http://lxls.mx:80/series/994153115/101217/174503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/xBnQVtDyO3wDDbaMnLJokLRuU0C.jpg" group-title="Séries | Amazon Prime",Hanna S01 E08
+http://lxls.mx:80/series/994153115/101217/174502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/f2zzaj4SQDxGwIhFJ2Vm7aZOFZ4.jpg" group-title="Séries | Amazon Prime",Hanna S02 E01
+http://lxls.mx:80/series/994153115/101217/174501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/bfTIgF9hAXCpIbY2qwBhrautN5b.jpg" group-title="Séries | Amazon Prime",Hanna S02 E02
+http://lxls.mx:80/series/994153115/101217/174500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S02 E03" tvg-logo="http://lxls.mx:8080/images/646501c7c6a1db164ab6234ca7f128b2.jpg" group-title="Séries | Amazon Prime",Hanna S02 E03
+http://lxls.mx:80/series/994153115/101217/174499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S02 E04" tvg-logo="http://lxls.mx:8080/images/646501c7c6a1db164ab6234ca7f128b2.jpg" group-title="Séries | Amazon Prime",Hanna S02 E04
+http://lxls.mx:80/series/994153115/101217/174498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/1kAaIuzGwvsJT3zahZeg0GSZGVN.jpg" group-title="Séries | Amazon Prime",Hanna S02 E05
+http://lxls.mx:80/series/994153115/101217/174497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S02 E06" tvg-logo="http://lxls.mx:8080/images/646501c7c6a1db164ab6234ca7f128b2.jpg" group-title="Séries | Amazon Prime",Hanna S02 E06
+http://lxls.mx:80/series/994153115/101217/174496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S02 E07" tvg-logo="http://lxls.mx:8080/images/646501c7c6a1db164ab6234ca7f128b2.jpg" group-title="Séries | Amazon Prime",Hanna S02 E07
+http://lxls.mx:80/series/994153115/101217/174495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanna S02 E08" tvg-logo="http://lxls.mx:8080/images/646501c7c6a1db164ab6234ca7f128b2.jpg" group-title="Séries | Amazon Prime",Hanna S02 E08
+http://lxls.mx:80/series/994153115/101217/174494.mp4

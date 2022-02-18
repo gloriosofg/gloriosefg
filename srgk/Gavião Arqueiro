@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Gavião Arqueiro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/AwCNTaG7VPVwaBRSZkvQUMEfyuZ.jpg" group-title="Séries | Disney+",Gavião Arqueiro S01 E01
+http://lxls.mx:80/series/994153115/101217/142439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gavião Arqueiro S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/v6DjX5jATXUpkILMFMEOR61PWr5.jpg" group-title="Séries | Disney+",Gavião Arqueiro S01 E02
+http://lxls.mx:80/series/994153115/101217/142438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gavião Arqueiro S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/4JIxm0YFv0d8nMEwmMBrOOs2H0k.jpg" group-title="Séries | Disney+",Gavião Arqueiro S01 E03
+http://lxls.mx:80/series/994153115/101217/141682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gavião Arqueiro S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/3K3CPASP9NhbxPwkSvCskRpmzTL.jpg" group-title="Séries | Disney+",Gavião Arqueiro S01 E04
+http://lxls.mx:80/series/994153115/101217/141031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gavião Arqueiro S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/oaDRxEaBGVFqYyc4ycbyLRstZ1F.jpg" group-title="Séries | Disney+",Gavião Arqueiro S01 E05
+http://lxls.mx:80/series/994153115/101217/140239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gavião Arqueiro S01 E06" tvg-logo="http://lxls.mx:8080/images/462b64f5b4e88c0ea17055366ab388f0.jpg" group-title="Séries | Disney+",Gavião Arqueiro S01 E06
+http://lxls.mx:80/series/994153115/101217/140238.mp4

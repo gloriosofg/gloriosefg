@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Hacks S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eDJ1wkQE3iNMaw72wW9smVY9saP.jpg" group-title="Séries | HBO Max",Hacks S01 E01
+http://lxls.mx:80/series/994153115/101217/163900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacks S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/2lIBtfccGGVwgQVfB9zGOfYzlnR.jpg" group-title="Séries | HBO Max",Hacks S01 E02
+http://lxls.mx:80/series/994153115/101217/163897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacks S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/myWY3Vq6QptkZPSM5G5XNWO1Vi.jpg" group-title="Séries | HBO Max",Hacks S01 E03
+http://lxls.mx:80/series/994153115/101217/163895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacks S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/6UlDBk8uoUGN33bvYF9tdsNmWjL.jpg" group-title="Séries | HBO Max",Hacks S01 E04
+http://lxls.mx:80/series/994153115/101217/163892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacks S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/iYDcWFqTV8GtpnPfWjn3zzBKzCo.jpg" group-title="Séries | HBO Max",Hacks S01 E05
+http://lxls.mx:80/series/994153115/101217/163890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacks S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/7IZFCEYDVy3DeuYYtUzSlR0nm32.jpg" group-title="Séries | HBO Max",Hacks S01 E06
+http://lxls.mx:80/series/994153115/101217/163887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacks S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/8y1ny8OZAU1AISOPdjp4kOClprB.jpg" group-title="Séries | HBO Max",Hacks S01 E07
+http://lxls.mx:80/series/994153115/101217/163885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacks S01 E08" tvg-logo="http://lxls.mx:8080/images/7656ef0822ad570f59f7e1bd2014813f.jpg" group-title="Séries | HBO Max",Hacks S01 E08
+http://lxls.mx:80/series/994153115/101217/163882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacks S01 E09" tvg-logo="http://lxls.mx:8080/images/7656ef0822ad570f59f7e1bd2014813f.jpg" group-title="Séries | HBO Max",Hacks S01 E09
+http://lxls.mx:80/series/994153115/101217/163880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacks S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/wK3D2l4vHI4IZPpKAJ0w3IAoJjm.jpg" group-title="Séries | HBO Max",Hacks S01 E10
+http://lxls.mx:80/series/994153115/101217/163877.mp4

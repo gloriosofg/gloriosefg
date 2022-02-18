@@ -1,0 +1,21 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Grand Army S01 E01" tvg-logo="http://lxls.mx:8080/images/d8b07821df9352ea42c202956b3b1a92.jpg" group-title="Séries | Netflix",Grand Army S01 E01
+http://lxls.mx:80/series/994153115/101217/184754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grand Army S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/f0hmCK4iQFAbTfv2hno7IpOC0rI.jpg" group-title="Séries | Netflix",Grand Army S01 E02
+http://lxls.mx:80/series/994153115/101217/184753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grand Army S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/b0Qmqgso5K7UyN3GE1PR6ztF8YF.jpg" group-title="Séries | Netflix",Grand Army S01 E03
+http://lxls.mx:80/series/994153115/101217/184752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grand Army S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/pmcYBtr7NDugDqwZxLbMeGhAZZT.jpg" group-title="Séries | Netflix",Grand Army S01 E04
+http://lxls.mx:80/series/994153115/101217/184751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grand Army S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/6gGslY4rmhBWW0WX6OX4nRVLReV.jpg" group-title="Séries | Netflix",Grand Army S01 E05
+http://lxls.mx:80/series/994153115/101217/184750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grand Army S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/hIty6fxoYiA2CZhyBz8iv3VqCIQ.jpg" group-title="Séries | Netflix",Grand Army S01 E06
+http://lxls.mx:80/series/994153115/101217/184749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grand Army S01 E07" tvg-logo="http://lxls.mx:8080/images/d8b07821df9352ea42c202956b3b1a92.jpg" group-title="Séries | Netflix",Grand Army S01 E07
+http://lxls.mx:80/series/994153115/101217/184748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grand Army S01 E08" tvg-logo="http://lxls.mx:8080/images/d8b07821df9352ea42c202956b3b1a92.jpg" group-title="Séries | Netflix",Grand Army S01 E08
+http://lxls.mx:80/series/994153115/101217/184747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grand Army S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/a1wieSNtd0lCgQVvHWtx3L5Au68.jpg" group-title="Séries | Netflix",Grand Army S01 E09
+http://lxls.mx:80/series/994153115/101217/184746.mp4

@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Headspace  Guia para Dormir Melhor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mHetWKfqDWgOxB5nEKSOrKkJx3u.jpg" group-title="Séries | Netflix",Headspace  Guia para Dormir Melhor S01 E01
+http://lxls.mx:80/series/994153115/101217/170129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace  Guia para Dormir Melhor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/zUsVh86MYohxy3xE4C6brTBbaCO.jpg" group-title="Séries | Netflix",Headspace  Guia para Dormir Melhor S01 E02
+http://lxls.mx:80/series/994153115/101217/170128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace  Guia para Dormir Melhor S01 E03" tvg-logo="http://lxls.mx:8080/images/b12826d4a6d286a78c18891bed257e61.jpg" group-title="Séries | Netflix",Headspace  Guia para Dormir Melhor S01 E03
+http://lxls.mx:80/series/994153115/101217/170127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace  Guia para Dormir Melhor S01 E04" tvg-logo="http://lxls.mx:8080/images/b12826d4a6d286a78c18891bed257e61.jpg" group-title="Séries | Netflix",Headspace  Guia para Dormir Melhor S01 E04
+http://lxls.mx:80/series/994153115/101217/170126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace  Guia para Dormir Melhor S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/jS7NWExAGzJiSgNE9QQvDXL55LU.jpg" group-title="Séries | Netflix",Headspace  Guia para Dormir Melhor S01 E05
+http://lxls.mx:80/series/994153115/101217/170125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace  Guia para Dormir Melhor S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/qez8ZDM8mgIo3YgIL0YABmA6dzf.jpg" group-title="Séries | Netflix",Headspace  Guia para Dormir Melhor S01 E06
+http://lxls.mx:80/series/994153115/101217/170124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Headspace  Guia para Dormir Melhor S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/4UwPN4cYQIYpnKLOWJq34ZVTZhB.jpg" group-title="Séries | Netflix",Headspace  Guia para Dormir Melhor S01 E07
+http://lxls.mx:80/series/994153115/101217/170123.mp4

@@ -1,0 +1,63 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Glow S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mKR8junGzk8b5QowTmpYEOFyIuU.jpg" group-title="Séries | Netflix",Glow S01 E01
+http://lxls.mx:80/series/994153115/101217/213632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/sea4OjR37frSDlMsakmvF67tv7p.jpg" group-title="Séries | Netflix",Glow S01 E02
+http://lxls.mx:80/series/994153115/101217/213631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/nPLtH7Dz3NEknSONsjViaE2V5kF.jpg" group-title="Séries | Netflix",Glow S01 E03
+http://lxls.mx:80/series/994153115/101217/213630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/y28TiguJf4h5is62lUE6buNV2jI.jpg" group-title="Séries | Netflix",Glow S01 E04
+http://lxls.mx:80/series/994153115/101217/213629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/joH5Ha2ajDRcFl6tSOXWh5Kq1YD.jpg" group-title="Séries | Netflix",Glow S01 E05
+http://lxls.mx:80/series/994153115/101217/213628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S01 E06" tvg-logo="http://lxls.mx:8080/images/337cf9f665b7c3c041a84209014164b7.jpg" group-title="Séries | Netflix",Glow S01 E06
+http://lxls.mx:80/series/994153115/101217/213627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/1m1lglbKqZYC9FIAwQ2QlnTYWtb.jpg" group-title="Séries | Netflix",Glow S01 E07
+http://lxls.mx:80/series/994153115/101217/213626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/xWZpu9gbGu1ryNt3EnPGpnQjWQh.jpg" group-title="Séries | Netflix",Glow S01 E08
+http://lxls.mx:80/series/994153115/101217/213625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/hTlSSLB2L3id2ozPM8G4lw5fOSL.jpg" group-title="Séries | Netflix",Glow S01 E09
+http://lxls.mx:80/series/994153115/101217/213624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/kqvP52sLnEKQjtxGe445EXoc4lX.jpg" group-title="Séries | Netflix",Glow S01 E10
+http://lxls.mx:80/series/994153115/101217/213623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iM3xYoj3uCMWsc51Ap1JusrjVDe.jpg" group-title="Séries | Netflix",Glow S02 E01
+http://lxls.mx:80/series/994153115/101217/213622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/riQJ5aXZq9kPhMCdy6NZZBiXP0F.jpg" group-title="Séries | Netflix",Glow S02 E02
+http://lxls.mx:80/series/994153115/101217/213621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/8ocO06adVKiwBsWGH3yQmUW4AxK.jpg" group-title="Séries | Netflix",Glow S02 E03
+http://lxls.mx:80/series/994153115/101217/213620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S02 E04" tvg-logo="http://lxls.mx:8080/images/337cf9f665b7c3c041a84209014164b7.jpg" group-title="Séries | Netflix",Glow S02 E04
+http://lxls.mx:80/series/994153115/101217/213619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/mUaMUOyAQwd3gT3oPDtjVTornmK.jpg" group-title="Séries | Netflix",Glow S02 E05
+http://lxls.mx:80/series/994153115/101217/213618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/25UsQQ7QD0vl2zNYJzPyJFDmWmf.jpg" group-title="Séries | Netflix",Glow S02 E06
+http://lxls.mx:80/series/994153115/101217/213617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/3kmJMYQZ1fB6YfCi4b0jGQLoSoh.jpg" group-title="Séries | Netflix",Glow S02 E07
+http://lxls.mx:80/series/994153115/101217/213616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S02 E08" tvg-logo="http://lxls.mx:8080/images/337cf9f665b7c3c041a84209014164b7.jpg" group-title="Séries | Netflix",Glow S02 E08
+http://lxls.mx:80/series/994153115/101217/213615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/ovSXQfcRLGFO3h9s9U44gRxfBRL.jpg" group-title="Séries | Netflix",Glow S02 E09
+http://lxls.mx:80/series/994153115/101217/213614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/41ZDEjYyucuUVKQxRJLxIVQ0wUo.jpg" group-title="Séries | Netflix",Glow S02 E10
+http://lxls.mx:80/series/994153115/101217/213613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/kdmcdULr5RHdjBLzlXvne3efw56.jpg" group-title="Séries | Netflix",Glow S03 E01
+http://lxls.mx:80/series/994153115/101217/213612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/fopKlQZv8T7O63OiHobNBB1L45s.jpg" group-title="Séries | Netflix",Glow S03 E02
+http://lxls.mx:80/series/994153115/101217/213611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/pIq9PRWPIMqobcK8FIHvRWSrzYQ.jpg" group-title="Séries | Netflix",Glow S03 E03
+http://lxls.mx:80/series/994153115/101217/213610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/axANuoSFAJWam7GPd0dXWqg4zFx.jpg" group-title="Séries | Netflix",Glow S03 E04
+http://lxls.mx:80/series/994153115/101217/213609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S03 E05" tvg-logo="http://lxls.mx:8080/images/337cf9f665b7c3c041a84209014164b7.jpg" group-title="Séries | Netflix",Glow S03 E05
+http://lxls.mx:80/series/994153115/101217/213608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/moQF0s7ERAAVS23lc19eJiDT8eD.jpg" group-title="Séries | Netflix",Glow S03 E06
+http://lxls.mx:80/series/994153115/101217/213607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/imul1qjuwHp1Y3KdnCN2Tm9s872.jpg" group-title="Séries | Netflix",Glow S03 E07
+http://lxls.mx:80/series/994153115/101217/213606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/dW51suVeryaLReLWaM8vqAerzsJ.jpg" group-title="Séries | Netflix",Glow S03 E08
+http://lxls.mx:80/series/994153115/101217/213605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S03 E09" tvg-logo="https://image.tmdb.org/t/p/w300/1IDuNIeKqu7ck4Mtut0N93kRFvb.jpg" group-title="Séries | Netflix",Glow S03 E09
+http://lxls.mx:80/series/994153115/101217/213604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glow S03 E10" tvg-logo="http://lxls.mx:8080/images/337cf9f665b7c3c041a84209014164b7.jpg" group-title="Séries | Netflix",Glow S03 E10
+http://lxls.mx:80/series/994153115/101217/213603.mp4

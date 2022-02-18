@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Giri-Haji S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/16bZAkwBhkSwvzh3ITtdBhD8ONJ.jpg" group-title="Séries | Netflix",Giri-Haji S01 E01
+http://lxls.mx:80/series/994153115/101217/210790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giri-Haji S01 E02" tvg-logo="http://lxls.mx:8080/images/82384a5ce71cac204159ffd340d47677.jpg" group-title="Séries | Netflix",Giri-Haji S01 E02
+http://lxls.mx:80/series/994153115/101217/210789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giri-Haji S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/pNxC19GSHAbCXJncijs55N5b2CS.jpg" group-title="Séries | Netflix",Giri-Haji S01 E03
+http://lxls.mx:80/series/994153115/101217/210788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giri-Haji S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/cCEBudLIlBsMJeajf6S5Ti2AnrC.jpg" group-title="Séries | Netflix",Giri-Haji S01 E04
+http://lxls.mx:80/series/994153115/101217/210787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giri-Haji S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/lkHXSgNo5pxOS2DSWeES6p0XcvV.jpg" group-title="Séries | Netflix",Giri-Haji S01 E05
+http://lxls.mx:80/series/994153115/101217/210786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giri-Haji S01 E06" tvg-logo="http://lxls.mx:8080/images/82384a5ce71cac204159ffd340d47677.jpg" group-title="Séries | Netflix",Giri-Haji S01 E06
+http://lxls.mx:80/series/994153115/101217/210785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giri-Haji S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/rMZQnXEX8sXiBZW8jporAtJyiDT.jpg" group-title="Séries | Netflix",Giri-Haji S01 E07
+http://lxls.mx:80/series/994153115/101217/210784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giri-Haji S01 E08" tvg-logo="http://lxls.mx:8080/images/82384a5ce71cac204159ffd340d47677.jpg" group-title="Séries | Netflix",Giri-Haji S01 E08
+http://lxls.mx:80/series/994153115/101217/210783.mp4

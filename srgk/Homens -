@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Comédia",Homens - S01 E01
+http://lxls.mx:80/series/994153115/101217/213541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Comédia",Homens - S01 E02
+http://lxls.mx:80/series/994153115/101217/213540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Comédia",Homens - S01 E03
+http://lxls.mx:80/series/994153115/101217/213539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S01 E04" tvg-logo="http://lxls.mx:8080/images/3ac8a1cdf0327c4679320a104a58bb45.jpg" group-title="Séries | Comédia",Homens - S01 E04
+http://lxls.mx:80/series/994153115/101217/213538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S01 E05" tvg-logo="http://lxls.mx:8080/images/3ac8a1cdf0327c4679320a104a58bb45.jpg" group-title="Séries | Comédia",Homens - S01 E05
+http://lxls.mx:80/series/994153115/101217/213537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S01 E06" tvg-logo="http://lxls.mx:8080/images/3ac8a1cdf0327c4679320a104a58bb45.jpg" group-title="Séries | Comédia",Homens - S01 E06
+http://lxls.mx:80/series/994153115/101217/213536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S01 E07" tvg-logo="http://lxls.mx:8080/images/3ac8a1cdf0327c4679320a104a58bb45.jpg" group-title="Séries | Comédia",Homens - S01 E07
+http://lxls.mx:80/series/994153115/101217/213535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S01 E08" tvg-logo="http://lxls.mx:8080/images/3ac8a1cdf0327c4679320a104a58bb45.jpg" group-title="Séries | Comédia",Homens - S01 E08
+http://lxls.mx:80/series/994153115/101217/213534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Comédia",Homens - S02 E01
+http://lxls.mx:80/series/994153115/101217/205278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S02 E02" tvg-logo="http://lxls.mx:8080/images/3ac8a1cdf0327c4679320a104a58bb45.jpg" group-title="Séries | Comédia",Homens - S02 E02
+http://lxls.mx:80/series/994153115/101217/205277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Comédia",Homens - S02 E03
+http://lxls.mx:80/series/994153115/101217/205276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S02 E04" tvg-logo="http://lxls.mx:8080/images/3ac8a1cdf0327c4679320a104a58bb45.jpg" group-title="Séries | Comédia",Homens - S02 E04
+http://lxls.mx:80/series/994153115/101217/205275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Comédia",Homens - S02 E05
+http://lxls.mx:80/series/994153115/101217/205274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S02 E06" tvg-logo="http://lxls.mx:8080/images/3ac8a1cdf0327c4679320a104a58bb45.jpg" group-title="Séries | Comédia",Homens - S02 E06
+http://lxls.mx:80/series/994153115/101217/205273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S02 E07" tvg-logo="http://lxls.mx:8080/images/3ac8a1cdf0327c4679320a104a58bb45.jpg" group-title="Séries | Comédia",Homens - S02 E07
+http://lxls.mx:80/series/994153115/101217/205272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens - S02 E08" tvg-logo="http://lxls.mx:8080/images/3ac8a1cdf0327c4679320a104a58bb45.jpg" group-title="Séries | Comédia",Homens - S02 E08
+http://lxls.mx:80/series/994153115/101217/205271.mp4
