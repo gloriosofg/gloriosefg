@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Poesia que Transforma S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mhvTwejzt3WOMxrP2T4ebvMDMMY.jpg" group-title="Séries | Globoplay",Poesia que Transforma S01 E01
+http://lxls.mx:80/series/994153115/101217/140012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poesia que Transforma S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/eZNW42YoS9byZ75cmZGifoDSeR2.jpg" group-title="Séries | Globoplay",Poesia que Transforma S01 E02
+http://lxls.mx:80/series/994153115/101217/140011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poesia que Transforma S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/tQRTZTz21cE58sR8T1KWV11RJKe.jpg" group-title="Séries | Globoplay",Poesia que Transforma S01 E03
+http://lxls.mx:80/series/994153115/101217/140010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poesia que Transforma S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/jszNDJwJfUzgv9Zj69doFknVIQv.jpg" group-title="Séries | Globoplay",Poesia que Transforma S01 E04
+http://lxls.mx:80/series/994153115/101217/140009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poesia que Transforma S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/yMNvMhfz4jkljtw45gGIZZQ9CR9.jpg" group-title="Séries | Globoplay",Poesia que Transforma S01 E05
+http://lxls.mx:80/series/994153115/101217/140008.mp4

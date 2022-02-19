@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Pico Da Neblina S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/laBFDjk1Sg1q6JImjYL4ZXB82Ok.jpg" group-title="Séries | HBO Max",Pico Da Neblina S01 E01
+http://lxls.mx:80/series/994153115/101217/167069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pico Da Neblina S01 E02" tvg-logo="http://lxls.mx:8080/images/5cfd99641f90c91e8c1a83e64a9aaacb.jpg" group-title="Séries | HBO Max",Pico Da Neblina S01 E02
+http://lxls.mx:80/series/994153115/101217/167068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pico Da Neblina S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/oJeKl2Eqc0QchFf7OLexBh0BxUu.jpg" group-title="Séries | HBO Max",Pico Da Neblina S01 E03
+http://lxls.mx:80/series/994153115/101217/167067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pico Da Neblina S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/iKOYkMbbPi5b01cBKMREP1t05CF.jpg" group-title="Séries | HBO Max",Pico Da Neblina S01 E04
+http://lxls.mx:80/series/994153115/101217/167066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pico Da Neblina S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8zJ1svTMo2A4vLxPHlTW5sXZX55.jpg" group-title="Séries | HBO Max",Pico Da Neblina S01 E05
+http://lxls.mx:80/series/994153115/101217/167065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pico Da Neblina S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/wNOUlOLIZ9LD0pjHmMj1g3MbvWf.jpg" group-title="Séries | HBO Max",Pico Da Neblina S01 E06
+http://lxls.mx:80/series/994153115/101217/167064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pico Da Neblina S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/z9n3ghMMqUzMqFIXyyJ8pYsMlJz.jpg" group-title="Séries | HBO Max",Pico Da Neblina S01 E07
+http://lxls.mx:80/series/994153115/101217/167063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pico Da Neblina S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/bJr8YA21Zg9GIfz0Z3WKW6qWMc6.jpg" group-title="Séries | HBO Max",Pico Da Neblina S01 E08
+http://lxls.mx:80/series/994153115/101217/167062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pico Da Neblina S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/116dER2syfO0bVwYmFz9dCkwUmr.jpg" group-title="Séries | HBO Max",Pico Da Neblina S01 E09
+http://lxls.mx:80/series/994153115/101217/167061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pico Da Neblina S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/7e1OeorndiVfHgCbWp7UQwwYFbQ.jpg" group-title="Séries | HBO Max",Pico Da Neblina S01 E10
+http://lxls.mx:80/series/994153115/101217/167060.mp4

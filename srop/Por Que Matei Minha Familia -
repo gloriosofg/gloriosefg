@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Por Que Matei Minha Familia - S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gDiWjeW2YTBIK0eFTBx8wlWdxUv.jpg" group-title="Séries | Netflix",Por Que Matei Minha Familia - S01 E01
+http://lxls.mx:80/series/994153115/101217/144299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Que Matei Minha Familia - S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/hAxmtOBNXaN56bBrLbvf3YgMFtr.jpg" group-title="Séries | Netflix",Por Que Matei Minha Familia - S01 E02
+http://lxls.mx:80/series/994153115/101217/144298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Que Matei Minha Familia - S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/61yWCDfUmBgDychCiBsz6mHl8Ef.jpg" group-title="Séries | Netflix",Por Que Matei Minha Familia - S01 E03
+http://lxls.mx:80/series/994153115/101217/144297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Que Matei Minha Familia - S01 E04" tvg-logo="http://lxls.mx:8080/images/79ce748170690535a8196dcbe18d76e6.jpg" group-title="Séries | Netflix",Por Que Matei Minha Familia - S01 E04
+http://lxls.mx:80/series/994153115/101217/144296.mp4
