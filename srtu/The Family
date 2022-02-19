@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Family S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3VTqyxEHAA01sa7HpoXntBYdYJR.jpg" group-title="Séries | Netflix",The Family S01 E01
+http://lxls.mx:80/series/994153115/101217/213665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Family S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/uTrsgMjXCSURsHSsr7bY9N0IlBo.jpg" group-title="Séries | Netflix",The Family S01 E02
+http://lxls.mx:80/series/994153115/101217/213664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Family S01 E03" tvg-logo="http://lxls.mx:8080/images/76ec415def05ff12350d5f05cd73727c.jpg" group-title="Séries | Netflix",The Family S01 E03
+http://lxls.mx:80/series/994153115/101217/213663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Family S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/n3NAg8C559ANeXhyo4usWvpCeMw.jpg" group-title="Séries | Netflix",The Family S01 E04
+http://lxls.mx:80/series/994153115/101217/213662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Family S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5dbd1In64HlnOrOfDpC696YshRa.jpg" group-title="Séries | Netflix",The Family S01 E05
+http://lxls.mx:80/series/994153115/101217/213661.mp4

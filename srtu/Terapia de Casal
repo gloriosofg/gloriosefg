@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Terapia de Casal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7xPqUGk170EVLgrK3XagLiBaFKp.jpg" group-title="Séries | Globoplay",Terapia de Casal S01 E01
+http://lxls.mx:80/series/994153115/101217/172446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terapia de Casal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Terapia de Casal S01 E02
+http://lxls.mx:80/series/994153115/101217/172445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terapia de Casal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Terapia de Casal S01 E03
+http://lxls.mx:80/series/994153115/101217/172444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terapia de Casal S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Terapia de Casal S01 E04
+http://lxls.mx:80/series/994153115/101217/172443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terapia de Casal S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Terapia de Casal S01 E05
+http://lxls.mx:80/series/994153115/101217/172442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terapia de Casal S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Terapia de Casal S01 E06
+http://lxls.mx:80/series/994153115/101217/172441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terapia de Casal S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Terapia de Casal S01 E07
+http://lxls.mx:80/series/994153115/101217/172440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terapia de Casal S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Terapia de Casal S01 E08
+http://lxls.mx:80/series/994153115/101217/172439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terapia de Casal S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Terapia de Casal S01 E09
+http://lxls.mx:80/series/994153115/101217/172438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terapia de Casal S01 E10" tvg-logo="http://lxls.mx:8080/images/6ea5cf3edde93a02aeab39bda0f8c321.jpg" group-title="Séries | Globoplay",Terapia de Casal S01 E10
+http://lxls.mx:80/series/994153115/101217/172437.mp4

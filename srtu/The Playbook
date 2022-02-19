@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Playbook S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",The Playbook S01 E01
+http://lxls.mx:80/series/994153115/101217/187526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Playbook S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",The Playbook S01 E02
+http://lxls.mx:80/series/994153115/101217/187525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Playbook S01 E03" tvg-logo="http://lxls.mx:8080/images/ccf9b3b9802defcab5094106a5be3628.jpg" group-title="Séries | Netflix",The Playbook S01 E03
+http://lxls.mx:80/series/994153115/101217/187524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Playbook S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",The Playbook S01 E04
+http://lxls.mx:80/series/994153115/101217/187523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Playbook S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",The Playbook S01 E05
+http://lxls.mx:80/series/994153115/101217/187522.mp4

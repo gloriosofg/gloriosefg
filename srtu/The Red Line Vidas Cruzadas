@@ -1,0 +1,7 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Red Line Vidas Cruzadas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eof1Uld1TEyRoiWTOaxZHJzQIru.jpg" group-title="Séries | Globoplay",The Red Line Vidas Cruzadas S01 E01
+http://lxls.mx:80/series/994153115/101217/202761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Red Line Vidas Cruzadas S01 E02" tvg-logo="http://lxls.mx:8080/images/c8d9cc54423e3acacea857246c8b6ec9.jpg" group-title="Séries | Globoplay",The Red Line Vidas Cruzadas S01 E02
+http://lxls.mx:80/series/994153115/101217/202760.mp4

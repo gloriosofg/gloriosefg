@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Act S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iBkcfInREDMZFLCa0Nyzo9cAjEP.jpg" group-title="Séries | Amazon Prime",The Act S01 E01
+http://lxls.mx:80/series/994153115/101217/212176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Act S01 E02" tvg-logo="http://lxls.mx:8080/images/b1bf9be210d8baa8e576ad96d3985507.jpg" group-title="Séries | Amazon Prime",The Act S01 E02
+http://lxls.mx:80/series/994153115/101217/212175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Act S01 E03" tvg-logo="http://lxls.mx:8080/images/b1bf9be210d8baa8e576ad96d3985507.jpg" group-title="Séries | Amazon Prime",The Act S01 E03
+http://lxls.mx:80/series/994153115/101217/212174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Act S01 E04" tvg-logo="http://lxls.mx:8080/images/b1bf9be210d8baa8e576ad96d3985507.jpg" group-title="Séries | Amazon Prime",The Act S01 E04
+http://lxls.mx:80/series/994153115/101217/212173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Act S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/1ZTio5vhfJfNiPDDsYkViGvoxXh.jpg" group-title="Séries | Amazon Prime",The Act S01 E05
+http://lxls.mx:80/series/994153115/101217/212172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Act S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/pRHjOQntIludJj4CirEZLN4GPQ8.jpg" group-title="Séries | Amazon Prime",The Act S01 E06
+http://lxls.mx:80/series/994153115/101217/212171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Act S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/m2WLSYvJSWc9sK98bwsQKJ5oTEk.jpg" group-title="Séries | Amazon Prime",The Act S01 E07
+http://lxls.mx:80/series/994153115/101217/212170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Act S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/9rM7Za9h5wVntBsN8itkMv9izUV.jpg" group-title="Séries | Amazon Prime",The Act S01 E08
+http://lxls.mx:80/series/994153115/101217/212169.mp4

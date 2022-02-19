@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Hot Zone S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rUrvzgdT5hPrjWVLAn7v7lKmyaV.jpg" group-title="Séries | Star+",The Hot Zone S01 E01
+http://lxls.mx:80/series/994153115/101217/215754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hot Zone S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/h3m5jRrsWDt3WRPvQ3mpvcZbooh.jpg" group-title="Séries | Star+",The Hot Zone S01 E02
+http://lxls.mx:80/series/994153115/101217/215753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hot Zone S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/6Sake589vK5MJw2REXWSUyGRsXq.jpg" group-title="Séries | Star+",The Hot Zone S01 E03
+http://lxls.mx:80/series/994153115/101217/215752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hot Zone S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8RW9shggZ0qOR0jGfApnPOPTdJg.jpg" group-title="Séries | Star+",The Hot Zone S01 E04
+http://lxls.mx:80/series/994153115/101217/215751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hot Zone S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/uH2VtVvZehrABy4Z8n7ltB0Ttuf.jpg" group-title="Séries | Star+",The Hot Zone S01 E05
+http://lxls.mx:80/series/994153115/101217/215750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hot Zone S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/oSC5P2MkDsxn83nSbXQZRf7s2yA.jpg" group-title="Séries | Star+",The Hot Zone S01 E06
+http://lxls.mx:80/series/994153115/101217/215749.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Tattoo Fail S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/qWwXeHw39gRBtAczZK17LaMOeQ4.jpg" group-title="Séries | Netflix",Tattoo Fail S01 E01
+http://lxls.mx:80/series/994153115/101217/157870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tattoo Fail S01 E02" tvg-logo="http://lxls.mx:8080/images/6fe65fd939fbd1c7320bd2faad3e8717.jpg" group-title="Séries | Netflix",Tattoo Fail S01 E02
+http://lxls.mx:80/series/994153115/101217/157868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tattoo Fail S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/733MjGtFsKY0NaAG3AiznBjTS9L.jpg" group-title="Séries | Netflix",Tattoo Fail S01 E03
+http://lxls.mx:80/series/994153115/101217/157866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tattoo Fail S01 E04" tvg-logo="http://lxls.mx:8080/images/6fe65fd939fbd1c7320bd2faad3e8717.jpg" group-title="Séries | Netflix",Tattoo Fail S01 E04
+http://lxls.mx:80/series/994153115/101217/157863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tattoo Fail S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/r9Txj4GPt1LIGm6CfzaDyr0j1WN.jpg" group-title="Séries | Netflix",Tattoo Fail S01 E05
+http://lxls.mx:80/series/994153115/101217/157861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tattoo Fail S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/enwcAERbImSMs2al3rRdz3SGTkT.jpg" group-title="Séries | Netflix",Tattoo Fail S01 E06
+http://lxls.mx:80/series/994153115/101217/157859.mp4

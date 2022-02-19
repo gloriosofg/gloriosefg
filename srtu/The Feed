@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Feed S01 E01" tvg-logo="http://lxls.mx:8080/images/20a5ecd50c7586ab69102473c911cb5f.jpg" group-title="Séries | Amazon Prime",The Feed S01 E01
+http://lxls.mx:80/series/994153115/101217/212168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Feed S01 E02" tvg-logo="http://lxls.mx:8080/images/20a5ecd50c7586ab69102473c911cb5f.jpg" group-title="Séries | Amazon Prime",The Feed S01 E02
+http://lxls.mx:80/series/994153115/101217/212167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Feed S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/nrYAD9FZ8zwFYsVduc4YqrhxD0l.jpg" group-title="Séries | Amazon Prime",The Feed S01 E03
+http://lxls.mx:80/series/994153115/101217/212166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Feed S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/njus9I03l3z3egXxBSvUNBGIIvx.jpg" group-title="Séries | Amazon Prime",The Feed S01 E04
+http://lxls.mx:80/series/994153115/101217/212165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Feed S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/myRRPnppwAw3XRpu9Pjy9zrk2CR.jpg" group-title="Séries | Amazon Prime",The Feed S01 E05
+http://lxls.mx:80/series/994153115/101217/212164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Feed S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/qXg1z2uRs5dHEhp9gGf5BwXvS0O.jpg" group-title="Séries | Amazon Prime",The Feed S01 E06
+http://lxls.mx:80/series/994153115/101217/212163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Feed S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/c3kDc5jgsn4Eq6UKeyWu1NDaaNR.jpg" group-title="Séries | Amazon Prime",The Feed S01 E07
+http://lxls.mx:80/series/994153115/101217/212162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Feed S01 E08" tvg-logo="http://lxls.mx:8080/images/20a5ecd50c7586ab69102473c911cb5f.jpg" group-title="Séries | Amazon Prime",The Feed S01 E08
+http://lxls.mx:80/series/994153115/101217/212161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Feed S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/3J5avnggh83fztOw6aEZh7GIRSu.jpg" group-title="Séries | Amazon Prime",The Feed S01 E09
+http://lxls.mx:80/series/994153115/101217/212160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Feed S01 E10" tvg-logo="http://lxls.mx:8080/images/20a5ecd50c7586ab69102473c911cb5f.jpg" group-title="Séries | Amazon Prime",The Feed S01 E10
+http://lxls.mx:80/series/994153115/101217/212159.mp4

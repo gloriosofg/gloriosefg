@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Lady and the Dale S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/fPInQYWmpiBGGUauPGOazPdlqkU.jpg" group-title="Séries | HBO Max",The Lady and the Dale S01 E01
+http://lxls.mx:80/series/994153115/101217/178114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lady and the Dale S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9rrhEt7R6aLcZiHZIbSDGhE1fmg.jpg" group-title="Séries | HBO Max",The Lady and the Dale S01 E02
+http://lxls.mx:80/series/994153115/101217/176099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lady and the Dale S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/8AXXmSx5pCdEsGRTRX9vQuGqrO5.jpg" group-title="Séries | HBO Max",The Lady and the Dale S01 E03
+http://lxls.mx:80/series/994153115/101217/176098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lady and the Dale S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ojo6aO4j0gA1MSgqB3yFT1utDqC.jpg" group-title="Séries | HBO Max",The Lady and the Dale S01 E04
+http://lxls.mx:80/series/994153115/101217/176097.mp4

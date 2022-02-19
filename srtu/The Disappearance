@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Disappearance S01 E01" tvg-logo="http://lxls.mx:8080/images/642f9edd90f4ec058ce181240c3a23ff.jpg" group-title="Séries | Drama",The Disappearance S01 E01
+http://lxls.mx:80/series/994153115/101217/177911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Disappearance S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/fDD9kC37m3dULk0WRJlhynpmjcX.jpg" group-title="Séries | Drama",The Disappearance S01 E02
+http://lxls.mx:80/series/994153115/101217/177910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Disappearance S01 E03" tvg-logo="http://lxls.mx:8080/images/642f9edd90f4ec058ce181240c3a23ff.jpg" group-title="Séries | Drama",The Disappearance S01 E03
+http://lxls.mx:80/series/994153115/101217/177909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Disappearance S01 E04" tvg-logo="http://lxls.mx:8080/images/642f9edd90f4ec058ce181240c3a23ff.jpg" group-title="Séries | Drama",The Disappearance S01 E04
+http://lxls.mx:80/series/994153115/101217/177908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Disappearance S01 E05" tvg-logo="http://lxls.mx:8080/images/642f9edd90f4ec058ce181240c3a23ff.jpg" group-title="Séries | Drama",The Disappearance S01 E05
+http://lxls.mx:80/series/994153115/101217/177907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Disappearance S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/AlIWNKp1xj4Q1buPvZuBnYAgRe8.jpg" group-title="Séries | Drama",The Disappearance S01 E06
+http://lxls.mx:80/series/994153115/101217/177906.mp4

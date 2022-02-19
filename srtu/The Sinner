@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rFWFbuNVvMzB0bHTtY3SPi1ljVw.jpg" group-title="Séries | Netflix",The Sinner S01 E01
+http://lxls.mx:80/series/994153115/101217/223073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/6XmOnExx6tFVJ0Nutps0DUmropo.jpg" group-title="Séries | Netflix",The Sinner S01 E02
+http://lxls.mx:80/series/994153115/101217/223072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/6Au5pQ9UOqRcXlQC3jWM788O6Ar.jpg" group-title="Séries | Netflix",The Sinner S01 E03
+http://lxls.mx:80/series/994153115/101217/223071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/AhmehNDdYfi7sS2uh4ou25YXWc9.jpg" group-title="Séries | Netflix",The Sinner S01 E04
+http://lxls.mx:80/series/994153115/101217/223070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/s92iLTGfVgUGKLqzXMm2cy3f7uF.jpg" group-title="Séries | Netflix",The Sinner S01 E05
+http://lxls.mx:80/series/994153115/101217/223069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/kZ0tICVKPuHo9wi2mBngPcB34s2.jpg" group-title="Séries | Netflix",The Sinner S01 E06
+http://lxls.mx:80/series/994153115/101217/223068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/4Udj2giPewHvCWVfUbEOm4ORTw6.jpg" group-title="Séries | Netflix",The Sinner S01 E07
+http://lxls.mx:80/series/994153115/101217/223067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/jtyxNxLPF1sTDGrkfsiE11L7M87.jpg" group-title="Séries | Netflix",The Sinner S01 E08
+http://lxls.mx:80/series/994153115/101217/223066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/1YUWoFEigdjTueQGTnYUyLdb4wE.jpg" group-title="Séries | Netflix",The Sinner S02 E01
+http://lxls.mx:80/series/994153115/101217/223065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/x177PgpjHwUetomYrIGR22uwjCz.jpg" group-title="Séries | Netflix",The Sinner S02 E02
+http://lxls.mx:80/series/994153115/101217/223064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/pGLqB9aEQGRlHq5FoopkVqObGs8.jpg" group-title="Séries | Netflix",The Sinner S02 E03
+http://lxls.mx:80/series/994153115/101217/223063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/hakjuXPW6T1g3D2yjQ0fMX9UYgD.jpg" group-title="Séries | Netflix",The Sinner S02 E04
+http://lxls.mx:80/series/994153115/101217/223062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8Wq6GGQcyWWuCy2oDYXF95B1NB7.jpg" group-title="Séries | Netflix",The Sinner S02 E05
+http://lxls.mx:80/series/994153115/101217/223061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/avJlkF4Dx4FROor8VnDfGQ0wJg0.jpg" group-title="Séries | Netflix",The Sinner S02 E06
+http://lxls.mx:80/series/994153115/101217/223060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/AnmUPC91BDp9gALxtze9gXizFgw.jpg" group-title="Séries | Netflix",The Sinner S02 E07
+http://lxls.mx:80/series/994153115/101217/223059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sinner S02 E08" tvg-logo="http://lxls.mx:8080/images/1d2ceea78bc01090e50e53eb470c4f10.jpg" group-title="Séries | Netflix",The Sinner S02 E08
+http://lxls.mx:80/series/994153115/101217/223058.mp4

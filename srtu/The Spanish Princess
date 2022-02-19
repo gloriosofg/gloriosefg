@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rKsGIPBusneDfPRGsZqThRjiv2g.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S01 E01
+http://lxls.mx:80/series/994153115/101217/202759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/hOmdiDEznRmjcmfHN8VOerlk17O.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S01 E02
+http://lxls.mx:80/series/994153115/101217/202758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/m1I54pRWIdjar9W9loXotDC6Njr.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S01 E03
+http://lxls.mx:80/series/994153115/101217/202757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/6J6ks0MnY0g0b5p4eXHpQShromm.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S01 E04
+http://lxls.mx:80/series/994153115/101217/202756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/s3NBzeClRnXsyJzpcoFwZ5yBvu5.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S01 E05
+http://lxls.mx:80/series/994153115/101217/202755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/xSNXfBvG9wBnhmn83OWz8RLl9mn.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S01 E06
+http://lxls.mx:80/series/994153115/101217/202754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/10lTwcODbGOJx5unDdBypCOs7z2.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S01 E07
+http://lxls.mx:80/series/994153115/101217/202753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/toVD7QHEUM9JXz5Ed5F8m7Y9VrW.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S01 E08
+http://lxls.mx:80/series/994153115/101217/202752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/t5WoF1eoOmdK06aWhzS8YYzpdDE.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S02 E01
+http://lxls.mx:80/series/994153115/101217/183903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S02 E02" tvg-logo="http://lxls.mx:8080/images/368531fb3176ff65a1f883836a9200d8.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S02 E02
+http://lxls.mx:80/series/994153115/101217/183902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/hlTNYFxKBMuPjlXZldYFLzKhrft.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S02 E03
+http://lxls.mx:80/series/994153115/101217/181464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/3VyBuFHIK8ZgPYxq6Pg8NR5vIno.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S02 E04
+http://lxls.mx:80/series/994153115/101217/180913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/l6OA8mblWri3YCHxfXIzORBcBUm.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S02 E05
+http://lxls.mx:80/series/994153115/101217/180912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/mEKmlj9cbMfLxRXpGbCQRiDOvr0.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S02 E06
+http://lxls.mx:80/series/994153115/101217/180796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/yh2OzuCDi6j3iMHQJnVkrOvEhL.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S02 E07
+http://lxls.mx:80/series/994153115/101217/180795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Spanish Princess S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/2EzfKtfNJFEtGYABPBeKiHAXfGv.jpg" group-title="Séries | Amazon Prime",The Spanish Princess S02 E08
+http://lxls.mx:80/series/994153115/101217/180445.mp4

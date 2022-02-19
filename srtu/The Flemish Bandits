@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Flemish Bandits S01 E01" tvg-logo="http://lxls.mx:8080/images/c199729717d26d5992d6fec6a08fe198.jpg" group-title="Séries | Netflix",The Flemish Bandits S01 E01
+http://lxls.mx:80/series/994153115/101217/213052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flemish Bandits S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/hq9MKfml8tYRM7Y4OJ2wYIng6QM.jpg" group-title="Séries | Netflix",The Flemish Bandits S01 E02
+http://lxls.mx:80/series/994153115/101217/213051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flemish Bandits S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/odrmqGJyzja5pIhGyOpbYUSgSPW.jpg" group-title="Séries | Netflix",The Flemish Bandits S01 E03
+http://lxls.mx:80/series/994153115/101217/213050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flemish Bandits S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/hfGKbcRSm931O0wS7dH6EH6Ykp1.jpg" group-title="Séries | Netflix",The Flemish Bandits S01 E04
+http://lxls.mx:80/series/994153115/101217/213049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flemish Bandits S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/fdyQsfg4GxUxqoo0bi5mvsJrdS2.jpg" group-title="Séries | Netflix",The Flemish Bandits S01 E05
+http://lxls.mx:80/series/994153115/101217/213048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flemish Bandits S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/52FSgtrbhpWAJC5hnXOHZQ1NYoy.jpg" group-title="Séries | Netflix",The Flemish Bandits S01 E06
+http://lxls.mx:80/series/994153115/101217/213047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flemish Bandits S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/wgqaUdTLlgLO8R7rd5qemFEEWbN.jpg" group-title="Séries | Netflix",The Flemish Bandits S01 E07
+http://lxls.mx:80/series/994153115/101217/213046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flemish Bandits S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/to4NBoVNWiML33sWfsYFFlyOnP6.jpg" group-title="Séries | Netflix",The Flemish Bandits S01 E08
+http://lxls.mx:80/series/994153115/101217/213045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flemish Bandits S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/aCLFRzFa5opbVK12hVOkw8fheBd.jpg" group-title="Séries | Netflix",The Flemish Bandits S01 E09
+http://lxls.mx:80/series/994153115/101217/213044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flemish Bandits S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/lR5kjaTC5gs22WOgPPt2f3h7ajh.jpg" group-title="Séries | Netflix",The Flemish Bandits S01 E10
+http://lxls.mx:80/series/994153115/101217/213043.mp4

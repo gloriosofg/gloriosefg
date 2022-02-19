@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Chosen S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/cnZpv1i6DGcpANb4QhnLAXoNDdG.jpg" group-title="Séries | Globoplay",The Chosen S01 E01
+http://lxls.mx:80/series/994153115/101217/181004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Chosen S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9gWIUxJzn12XAH7fhnv0ldkPRLG.jpg" group-title="Séries | Globoplay",The Chosen S01 E02
+http://lxls.mx:80/series/994153115/101217/181003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Chosen S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/mil3FRj9B6VAYJ9dNLPwdRX40N2.jpg" group-title="Séries | Globoplay",The Chosen S01 E03
+http://lxls.mx:80/series/994153115/101217/181002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Chosen S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/yGjn2PYrTWwQPezqFXFxTaHxqZr.jpg" group-title="Séries | Globoplay",The Chosen S01 E04
+http://lxls.mx:80/series/994153115/101217/181001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Chosen S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/90xa35HibP2cibu7XcgJetRA7Ku.jpg" group-title="Séries | Globoplay",The Chosen S01 E05
+http://lxls.mx:80/series/994153115/101217/181000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Chosen S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/iH84OMZfSXNvsSPdK84jnF3M9QX.jpg" group-title="Séries | Globoplay",The Chosen S01 E06
+http://lxls.mx:80/series/994153115/101217/180999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Chosen S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/endRXmg12QtiuoB4O70LzZLXNMi.jpg" group-title="Séries | Globoplay",The Chosen S01 E07
+http://lxls.mx:80/series/994153115/101217/180998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Chosen S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/yKKvoNLrYTnJqPAUUxU9xhVD0sH.jpg" group-title="Séries | Globoplay",The Chosen S01 E08
+http://lxls.mx:80/series/994153115/101217/180997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Chosen S01 E09" tvg-logo="http://lxls.mx:8080/images/42a3230c1d292610e7d4eb49e9e59548.jpg" group-title="Séries | Globoplay",The Chosen S01 E09
+http://lxls.mx:80/series/994153115/101217/180996.mp4

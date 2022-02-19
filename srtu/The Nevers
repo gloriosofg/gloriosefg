@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Nevers S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/wOPYtqkwYQPgNpYRhiedfgYKBVB.jpg" group-title="Séries | HBO Max",The Nevers S01 E01
+http://lxls.mx:80/series/994153115/101217/171781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Nevers S01 E02" tvg-logo="http://lxls.mx:8080/images/329bd15d0a9ee6624d9ec2e52c6628ed.jpg" group-title="Séries | HBO Max",The Nevers S01 E02
+http://lxls.mx:80/series/994153115/101217/170177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Nevers S01 E03" tvg-logo="http://lxls.mx:8080/images/329bd15d0a9ee6624d9ec2e52c6628ed.jpg" group-title="Séries | HBO Max",The Nevers S01 E03
+http://lxls.mx:80/series/994153115/101217/169434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Nevers S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/2ZCdytRdk7OeeyZT37TxbP1yO4r.jpg" group-title="Séries | HBO Max",The Nevers S01 E04
+http://lxls.mx:80/series/994153115/101217/169433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Nevers S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/9v4jWujq3fNZUYqDqGXPIHaZxcy.jpg" group-title="Séries | HBO Max",The Nevers S01 E05
+http://lxls.mx:80/series/994153115/101217/168236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Nevers S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/zHyxONvzlG3D6ANrcIQXhzoidWt.jpg" group-title="Séries | HBO Max",The Nevers S01 E06
+http://lxls.mx:80/series/994153115/101217/167331.mp4

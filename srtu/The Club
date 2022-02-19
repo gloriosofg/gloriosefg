@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Club S01 E01" tvg-logo="http://lxls.mx:8080/images/861c747d11f1f482a0f252b61bff90f5.jpg" group-title="Séries | Netflix",The Club S01 E01
+http://lxls.mx:80/series/994153115/101217/143904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Club S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/yco4ny3KYFNa61fl3LHq3iFWZs.jpg" group-title="Séries | Netflix",The Club S01 E02
+http://lxls.mx:80/series/994153115/101217/143903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Club S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/plka9A4Xhq8vjy0uB7kD5x0NtJS.jpg" group-title="Séries | Netflix",The Club S01 E03
+http://lxls.mx:80/series/994153115/101217/143902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Club S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ueCgFpmDgwaHj9SgIbT049bWHGc.jpg" group-title="Séries | Netflix",The Club S01 E04
+http://lxls.mx:80/series/994153115/101217/143901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Club S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/bJXAA0KHcxIyHD2xbcUbeLmXetH.jpg" group-title="Séries | Netflix",The Club S01 E05
+http://lxls.mx:80/series/994153115/101217/143900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Club S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/3bYCdVkCBI4WtfZfIwsZ3a3liqD.jpg" group-title="Séries | Netflix",The Club S01 E06
+http://lxls.mx:80/series/994153115/101217/143899.mp4

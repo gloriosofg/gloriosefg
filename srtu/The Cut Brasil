@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Cut Brasil S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8InF4F3NJ4kzObvJpsdZJqTHyop.jpg" group-title="Séries | HBO Max",The Cut Brasil S01 E01
+http://lxls.mx:80/series/994153115/101217/139970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Cut Brasil S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/dmRIOEFuI22yzpmo6aOpx2gdr16.jpg" group-title="Séries | HBO Max",The Cut Brasil S01 E02
+http://lxls.mx:80/series/994153115/101217/139969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Cut Brasil S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ox8ucqdbrXfekT6G9bDrG4ueegM.jpg" group-title="Séries | HBO Max",The Cut Brasil S01 E03
+http://lxls.mx:80/series/994153115/101217/139968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Cut Brasil S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | HBO Max",The Cut Brasil S01 E04
+http://lxls.mx:80/series/994153115/101217/139967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Cut Brasil S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | HBO Max",The Cut Brasil S01 E05
+http://lxls.mx:80/series/994153115/101217/139966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Cut Brasil S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | HBO Max",The Cut Brasil S01 E06
+http://lxls.mx:80/series/994153115/101217/139965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Cut Brasil S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | HBO Max",The Cut Brasil S01 E07
+http://lxls.mx:80/series/994153115/101217/139964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Cut Brasil S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | HBO Max",The Cut Brasil S01 E08
+http://lxls.mx:80/series/994153115/101217/139963.mp4

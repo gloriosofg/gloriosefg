@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Romeo Section S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/yXc1iriBvUGl5fB6H8ImBMRcdnd.jpg" group-title="Séries | Ação & Ficção",The Romeo Section S01 E01
+http://lxls.mx:80/series/994153115/101217/190008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Romeo Section S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/h8E8Md5wjP3LtcWqk7rtI7uq9Sh.jpg" group-title="Séries | Ação & Ficção",The Romeo Section S01 E02
+http://lxls.mx:80/series/994153115/101217/190007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Romeo Section S01 E03" tvg-logo="http://lxls.mx:8080/images/0b3dae4b2d8eb67f86c7afda734ee516.jpg" group-title="Séries | Ação & Ficção",The Romeo Section S01 E03
+http://lxls.mx:80/series/994153115/101217/190006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Romeo Section S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/m4MvLw1gfP340AMm9ZFjK2mWwcY.jpg" group-title="Séries | Ação & Ficção",The Romeo Section S01 E04
+http://lxls.mx:80/series/994153115/101217/190005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Romeo Section S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/xLwETq6H3QiyusZX9HHrgj8QUeS.jpg" group-title="Séries | Ação & Ficção",The Romeo Section S01 E05
+http://lxls.mx:80/series/994153115/101217/190004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Romeo Section S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/2ld3ACPkbVuxK0O0ZaCVxEsj5g6.jpg" group-title="Séries | Ação & Ficção",The Romeo Section S01 E06
+http://lxls.mx:80/series/994153115/101217/190003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Romeo Section S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/5hh3SqaIczVfrYn9O7TNxRxEife.jpg" group-title="Séries | Ação & Ficção",The Romeo Section S01 E07
+http://lxls.mx:80/series/994153115/101217/190002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Romeo Section S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/vYzOJLXVs54qfrkcRDufneQNT9e.jpg" group-title="Séries | Ação & Ficção",The Romeo Section S01 E08
+http://lxls.mx:80/series/994153115/101217/190001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Romeo Section S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/pcKNWKrWUFZ89TtJdZwMNwvOXbG.jpg" group-title="Séries | Ação & Ficção",The Romeo Section S01 E09
+http://lxls.mx:80/series/994153115/101217/190000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Romeo Section S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/dUePKRm3mU9ENasXKiyUBiqqr5g.jpg" group-title="Séries | Ação & Ficção",The Romeo Section S01 E10
+http://lxls.mx:80/series/994153115/101217/189999.mp4

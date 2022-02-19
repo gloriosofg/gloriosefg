@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Oath S01 E01" tvg-logo="http://lxls.mx:8080/images/e4f06096465cd3dba887019fa49a236f.jpg" group-title="Séries | Globoplay",The Oath S01 E01
+http://lxls.mx:80/series/994153115/101217/205821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Oath S01 E02" tvg-logo="http://lxls.mx:8080/images/e4f06096465cd3dba887019fa49a236f.jpg" group-title="Séries | Globoplay",The Oath S01 E02
+http://lxls.mx:80/series/994153115/101217/205820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Oath S01 E03" tvg-logo="http://lxls.mx:8080/images/e4f06096465cd3dba887019fa49a236f.jpg" group-title="Séries | Globoplay",The Oath S01 E03
+http://lxls.mx:80/series/994153115/101217/205819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Oath S01 E04" tvg-logo="http://lxls.mx:8080/images/e4f06096465cd3dba887019fa49a236f.jpg" group-title="Séries | Globoplay",The Oath S01 E04
+http://lxls.mx:80/series/994153115/101217/205818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Oath S01 E05" tvg-logo="http://lxls.mx:8080/images/e4f06096465cd3dba887019fa49a236f.jpg" group-title="Séries | Globoplay",The Oath S01 E05
+http://lxls.mx:80/series/994153115/101217/205817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Oath S01 E06" tvg-logo="http://lxls.mx:8080/images/e4f06096465cd3dba887019fa49a236f.jpg" group-title="Séries | Globoplay",The Oath S01 E06
+http://lxls.mx:80/series/994153115/101217/205816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Oath S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/vYeuTCdEf9uiIWMOczG7Re8XSMr.jpg" group-title="Séries | Globoplay",The Oath S01 E07
+http://lxls.mx:80/series/994153115/101217/205815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Oath S01 E08" tvg-logo="http://lxls.mx:8080/images/e4f06096465cd3dba887019fa49a236f.jpg" group-title="Séries | Globoplay",The Oath S01 E08
+http://lxls.mx:80/series/994153115/101217/205814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Oath S01 E09" tvg-logo="http://lxls.mx:8080/images/e4f06096465cd3dba887019fa49a236f.jpg" group-title="Séries | Globoplay",The Oath S01 E09
+http://lxls.mx:80/series/994153115/101217/205813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Oath S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/rATKe0WAdwLplx7eAOxZkprP2G.jpg" group-title="Séries | Globoplay",The Oath S01 E10
+http://lxls.mx:80/series/994153115/101217/205812.mp4

@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Returned S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/nt212kJvFvUCuDeOO4E5UqRsG37.jpg" group-title="Séries | Netflix",The Returned S01 E01
+http://lxls.mx:80/series/994153115/101217/175577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Returned S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/nKCrw5qLgmXKbXxZ28eVtIAzL0l.jpg" group-title="Séries | Netflix",The Returned S01 E02
+http://lxls.mx:80/series/994153115/101217/175576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Returned S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/dDLkBeJhfoNEqoqzDKbfZPYFuW7.jpg" group-title="Séries | Netflix",The Returned S01 E03
+http://lxls.mx:80/series/994153115/101217/175575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Returned S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/gD4fSzszy71Nv8KeoZYd1mLhKJw.jpg" group-title="Séries | Netflix",The Returned S01 E04
+http://lxls.mx:80/series/994153115/101217/175574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Returned S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/AeuxI0ddzTY6PRYq3V73AkEHFjx.jpg" group-title="Séries | Netflix",The Returned S01 E05
+http://lxls.mx:80/series/994153115/101217/175573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Returned S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/1iglKOvzpPETcrLwkSAtYhh54Ba.jpg" group-title="Séries | Netflix",The Returned S01 E06
+http://lxls.mx:80/series/994153115/101217/175572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Returned S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/hWGjo5D3hJTKJp68moREujbfExB.jpg" group-title="Séries | Netflix",The Returned S01 E07
+http://lxls.mx:80/series/994153115/101217/175571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Returned S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/cwJp67ZkFx1aJjABH43f9we5NGI.jpg" group-title="Séries | Netflix",The Returned S01 E08
+http://lxls.mx:80/series/994153115/101217/175570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Returned S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/cdCMs2GzhTT9xYMqAWM86ZcYYnD.jpg" group-title="Séries | Netflix",The Returned S01 E09
+http://lxls.mx:80/series/994153115/101217/175569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Returned S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/hlvrlVBaYRbzFMQLtF6DkcNIwry.jpg" group-title="Séries | Netflix",The Returned S01 E10
+http://lxls.mx:80/series/994153115/101217/175568.mp4

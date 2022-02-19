@@ -1,0 +1,27 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Brasil S01 E01" tvg-logo="http://lxls.mx:8080/images/136c3c51770b0b6f1de5a8d1882d4ca5.jpg" group-title="Séries | Netflix",The Circle Brasil S01 E01
+http://lxls.mx:80/series/994153115/101217/207111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Brasil S01 E02" tvg-logo="http://lxls.mx:8080/images/136c3c51770b0b6f1de5a8d1882d4ca5.jpg" group-title="Séries | Netflix",The Circle Brasil S01 E02
+http://lxls.mx:80/series/994153115/101217/207110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Brasil S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/1Aa5eLSZo4pb8s0AyWugxlerre.jpg" group-title="Séries | Netflix",The Circle Brasil S01 E03
+http://lxls.mx:80/series/994153115/101217/207109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Brasil S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/1Aa5eLSZo4pb8s0AyWugxlerre.jpg" group-title="Séries | Netflix",The Circle Brasil S01 E04
+http://lxls.mx:80/series/994153115/101217/207108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Brasil S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",The Circle Brasil S01 E05
+http://lxls.mx:80/series/994153115/101217/206894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Brasil S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",The Circle Brasil S01 E06
+http://lxls.mx:80/series/994153115/101217/206893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Brasil S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",The Circle Brasil S01 E07
+http://lxls.mx:80/series/994153115/101217/206892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Brasil S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",The Circle Brasil S01 E08
+http://lxls.mx:80/series/994153115/101217/206891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Brasil S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",The Circle Brasil S01 E09
+http://lxls.mx:80/series/994153115/101217/206715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Brasil S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",The Circle Brasil S01 E10
+http://lxls.mx:80/series/994153115/101217/206714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Brasil S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",The Circle Brasil S01 E11
+http://lxls.mx:80/series/994153115/101217/206713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Circle Brasil S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",The Circle Brasil S01 E12
+http://lxls.mx:80/series/994153115/101217/206712.mp4
