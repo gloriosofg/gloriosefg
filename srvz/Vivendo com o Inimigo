@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Vivendo com o Inimigo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3z2854maJWAE0obYaJkJlBS8m0l.jpg" group-title="Séries | Discovery+",Vivendo com o Inimigo S01 E01
+http://lxls.mx:80/series/994153115/101217/142696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivendo com o Inimigo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kcIo9ozbpbBTA2UeNmtMMhajepS.jpg" group-title="Séries | Discovery+",Vivendo com o Inimigo S01 E02
+http://lxls.mx:80/series/994153115/101217/142695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivendo com o Inimigo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5NPzoFUzE2iQvbWhIR11Ah8Qooz.jpg" group-title="Séries | Discovery+",Vivendo com o Inimigo S01 E03
+http://lxls.mx:80/series/994153115/101217/142694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivendo com o Inimigo S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/r7uE2yNAGLwFLoZTeZOeoZ0sFGn.jpg" group-title="Séries | Discovery+",Vivendo com o Inimigo S01 E04
+http://lxls.mx:80/series/994153115/101217/142693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivendo com o Inimigo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/zM6jIT19bqkFL45FH1Yle46h5CQ.jpg" group-title="Séries | Discovery+",Vivendo com o Inimigo S01 E05
+http://lxls.mx:80/series/994153115/101217/142692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vivendo com o Inimigo S01 E06" tvg-logo="http://lxls.mx:8080/images/f804424ba652862bd99d4bd33d76eacd.jpg" group-title="Séries | Discovery+",Vivendo com o Inimigo S01 E06
+http://lxls.mx:80/series/994153115/101217/142691.mp4

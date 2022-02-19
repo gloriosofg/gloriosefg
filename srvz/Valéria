@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/yC1pDIdxsi2dYiygGqGqSnFrFRw.jpg" group-title="Séries | Netflix",Valéria S01 E01
+http://lxls.mx:80/series/994153115/101217/163511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/3Jrg6L40hfb8j8iJ7UMrT4yTwAR.jpg" group-title="Séries | Netflix",Valéria S01 E02
+http://lxls.mx:80/series/994153115/101217/163509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/mtvu7rU3lGJhIXuoQkg3SiSjQvJ.jpg" group-title="Séries | Netflix",Valéria S01 E03
+http://lxls.mx:80/series/994153115/101217/163506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/yUVPWwiRLbS6FZygb2rzrQoEsmY.jpg" group-title="Séries | Netflix",Valéria S01 E04
+http://lxls.mx:80/series/994153115/101217/163505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/nVzwRPpK6e2LPeN1C65iA7HVHcs.jpg" group-title="Séries | Netflix",Valéria S01 E05
+http://lxls.mx:80/series/994153115/101217/163502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/jMVyDTbJ7up0d9D0TFACCA9UDiH.jpg" group-title="Séries | Netflix",Valéria S01 E06
+http://lxls.mx:80/series/994153115/101217/163500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/9brAlgdZnOWKaCUrJuUDY2oE2x2.jpg" group-title="Séries | Netflix",Valéria S01 E07
+http://lxls.mx:80/series/994153115/101217/163498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/lDA0Q9wk1X2udALpr8xeupZpOYP.jpg" group-title="Séries | Netflix",Valéria S01 E08
+http://lxls.mx:80/series/994153115/101217/163495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/wkQ8HppFVv83e2zqQsOJEuYBAMv.jpg" group-title="Séries | Netflix",Valéria S02 E01
+http://lxls.mx:80/series/994153115/101217/151555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/lefZez6aV7f0LXdjbgzOkxNPm8B.jpg" group-title="Séries | Netflix",Valéria S02 E02
+http://lxls.mx:80/series/994153115/101217/151553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/eukBTvWoIvbbSEwXbwTR2Y5hGRQ.jpg" group-title="Séries | Netflix",Valéria S02 E03
+http://lxls.mx:80/series/994153115/101217/151550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/3jLLeAW6aA9a2FaNTkrBOX2d0fz.jpg" group-title="Séries | Netflix",Valéria S02 E04
+http://lxls.mx:80/series/994153115/101217/151548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/lq39UOsyX6Jl7OxfEYbqaL5305d.jpg" group-title="Séries | Netflix",Valéria S02 E05
+http://lxls.mx:80/series/994153115/101217/151545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/iD6LWipuqpYEhnjrvfiOMbRw5GC.jpg" group-title="Séries | Netflix",Valéria S02 E06
+http://lxls.mx:80/series/994153115/101217/151542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/2gZbQrGELVCKMUsLrdLe8Hv7TOM.jpg" group-title="Séries | Netflix",Valéria S02 E07
+http://lxls.mx:80/series/994153115/101217/151540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valéria S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/z1Y27A3t3XymTw0ThK86lSHG79e.jpg" group-title="Séries | Netflix",Valéria S02 E08
+http://lxls.mx:80/series/994153115/101217/151537.mp4

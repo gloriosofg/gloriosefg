@@ -1,0 +1,21 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E01" tvg-logo="http://lxls.mx:8080/images/8b348d2443fc3b9ae519f5623bb6ed29.jpg" group-title="Séries | Disney+",WandaVision S01 E01
+http://lxls.mx:80/series/994153115/101217/179066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/3KZQbfi6SE5rTA5ysh8FvOMBuUN.jpg" group-title="Séries | Disney+",WandaVision S01 E02
+http://lxls.mx:80/series/994153115/101217/179065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/zT55iSCAWsKJOpEc6s989lgok65.jpg" group-title="Séries | Disney+",WandaVision S01 E03
+http://lxls.mx:80/series/994153115/101217/178498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/n05kPjsO1LBRiTeGmJY6u68pfYO.jpg" group-title="Séries | Disney+",WandaVision S01 E04
+http://lxls.mx:80/series/994153115/101217/178269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8b3iZ1JldI9dzoz3FWeRBc4hfdM.jpg" group-title="Séries | Disney+",WandaVision S01 E05
+http://lxls.mx:80/series/994153115/101217/177930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/uNB7e6JjmFBOzuVp2duZ4pNwvmm.jpg" group-title="Séries | Disney+",WandaVision S01 E06
+http://lxls.mx:80/series/994153115/101217/177456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/6cvuOffBsrKNZSSsci4QMcuAZEM.jpg" group-title="Séries | Disney+",WandaVision S01 E07
+http://lxls.mx:80/series/994153115/101217/176571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/jNXfApR7P5XlUSYZfHxRDHkjYwo.jpg" group-title="Séries | Disney+",WandaVision S01 E08
+http://lxls.mx:80/series/994153115/101217/176256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/8OIqCs8UUiG1ifmrAcn29A7tL4T.jpg" group-title="Séries | Disney+",WandaVision S01 E09
+http://lxls.mx:80/series/994153115/101217/175825.mp4

@@ -1,0 +1,39 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/nxDXoylewD42egYTzhYgfeq3lQU.jpg" group-title="Séries | Globoplay",Walker S01 E01
+http://lxls.mx:80/series/994153115/101217/150678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/1uLIzI32Eo2adoT8Ywcqf7T5j6d.jpg" group-title="Séries | Globoplay",Walker S01 E02
+http://lxls.mx:80/series/994153115/101217/150675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E03" tvg-logo="http://lxls.mx:8080/images/1ce51b27a13188197ba8e36221c212f8.jpg" group-title="Séries | Globoplay",Walker S01 E03
+http://lxls.mx:80/series/994153115/101217/150673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/n4lIFeeKOIvqtZDI1XfaKNtADDO.jpg" group-title="Séries | Globoplay",Walker S01 E04
+http://lxls.mx:80/series/994153115/101217/150670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/2KBeNqssk62YuN3p6dxjCIIcRnk.jpg" group-title="Séries | Globoplay",Walker S01 E05
+http://lxls.mx:80/series/994153115/101217/150668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E06" tvg-logo="http://lxls.mx:8080/images/1ce51b27a13188197ba8e36221c212f8.jpg" group-title="Séries | Globoplay",Walker S01 E06
+http://lxls.mx:80/series/994153115/101217/150665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E07" tvg-logo="http://lxls.mx:8080/images/1ce51b27a13188197ba8e36221c212f8.jpg" group-title="Séries | Globoplay",Walker S01 E07
+http://lxls.mx:80/series/994153115/101217/150662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E08" tvg-logo="http://lxls.mx:8080/images/1ce51b27a13188197ba8e36221c212f8.jpg" group-title="Séries | Globoplay",Walker S01 E08
+http://lxls.mx:80/series/994153115/101217/150660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E09" tvg-logo="http://lxls.mx:8080/images/1ce51b27a13188197ba8e36221c212f8.jpg" group-title="Séries | Globoplay",Walker S01 E09
+http://lxls.mx:80/series/994153115/101217/150657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/pVSOhzed2lUg8osZBYdudn2SXf7.jpg" group-title="Séries | Globoplay",Walker S01 E10
+http://lxls.mx:80/series/994153115/101217/150655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/5W0o0LYlyQwsN6BKpkYa5MPCdWX.jpg" group-title="Séries | Globoplay",Walker S01 E11
+http://lxls.mx:80/series/994153115/101217/150652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/6gibGV22rx3avJVHLK9aRrLHtG9.jpg" group-title="Séries | Globoplay",Walker S01 E12
+http://lxls.mx:80/series/994153115/101217/150650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E13" tvg-logo="http://lxls.mx:8080/images/1ce51b27a13188197ba8e36221c212f8.jpg" group-title="Séries | Globoplay",Walker S01 E13
+http://lxls.mx:80/series/994153115/101217/150647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/A9T9JgNEdP3igvO5iDRJmfrTMyW.jpg" group-title="Séries | Globoplay",Walker S01 E14
+http://lxls.mx:80/series/994153115/101217/150645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E15" tvg-logo="http://lxls.mx:8080/images/1ce51b27a13188197ba8e36221c212f8.jpg" group-title="Séries | Globoplay",Walker S01 E15
+http://lxls.mx:80/series/994153115/101217/150642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E16" tvg-logo="http://lxls.mx:8080/images/1ce51b27a13188197ba8e36221c212f8.jpg" group-title="Séries | Globoplay",Walker S01 E16
+http://lxls.mx:80/series/994153115/101217/150640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E17" tvg-logo="http://lxls.mx:8080/images/1ce51b27a13188197ba8e36221c212f8.jpg" group-title="Séries | Globoplay",Walker S01 E17
+http://lxls.mx:80/series/994153115/101217/150637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walker S01 E18" tvg-logo="http://lxls.mx:8080/images/1ce51b27a13188197ba8e36221c212f8.jpg" group-title="Séries | Globoplay",Walker S01 E18
+http://lxls.mx:80/series/994153115/101217/150634.mp4

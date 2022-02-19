@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Young Royals S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8jUsbIeb7W42ZKfahVJVdheZnHP.jpg" group-title="Séries | Netflix",Young Royals S01 E01
+http://lxls.mx:80/series/994153115/101217/158623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Young Royals S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/77rvxHF7M1VVts8IOwn3uvfgj1j.jpg" group-title="Séries | Netflix",Young Royals S01 E02
+http://lxls.mx:80/series/994153115/101217/158621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Young Royals S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ymMgG4E9TM10Eq9MoOnNC40TBLd.jpg" group-title="Séries | Netflix",Young Royals S01 E03
+http://lxls.mx:80/series/994153115/101217/158619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Young Royals S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/7h0dpR3bWzL1cPFFlHgl34dM1Po.jpg" group-title="Séries | Netflix",Young Royals S01 E04
+http://lxls.mx:80/series/994153115/101217/158616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Young Royals S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8b3Ny3Xp3PspImPdndNjXDpyfgw.jpg" group-title="Séries | Netflix",Young Royals S01 E05
+http://lxls.mx:80/series/994153115/101217/158613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Young Royals S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/2JqU37vNsr9BHHD8nCUiROO1Ixu.jpg" group-title="Séries | Netflix",Young Royals S01 E06
+http://lxls.mx:80/series/994153115/101217/158611.mp4

@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Welcome to Utmark S01 E01" tvg-logo="http://lxls.mx:8080/images/c7967a21c98aca808893090ee9d056ac.jpg" group-title="Séries | HBO Max",Welcome to Utmark S01 E01
+http://lxls.mx:80/series/994153115/101217/145832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Welcome to Utmark S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/7OptnGrNwF6u2kfIL3ON7nhMxag.jpg" group-title="Séries | HBO Max",Welcome to Utmark S01 E02
+http://lxls.mx:80/series/994153115/101217/145831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Welcome to Utmark S01 E03" tvg-logo="http://lxls.mx:8080/images/c7967a21c98aca808893090ee9d056ac.jpg" group-title="Séries | HBO Max",Welcome to Utmark S01 E03
+http://lxls.mx:80/series/994153115/101217/145830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Welcome to Utmark S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/gkz3WT6KzEPspBKhcDWmmmxq6it.jpg" group-title="Séries | HBO Max",Welcome to Utmark S01 E04
+http://lxls.mx:80/series/994153115/101217/145829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Welcome to Utmark S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/tD4Gll60xvx7Hold7VL0BULzMKj.jpg" group-title="Séries | HBO Max",Welcome to Utmark S01 E05
+http://lxls.mx:80/series/994153115/101217/145828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Welcome to Utmark S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/3bul0lKHHEWNpBzogJpGT2jt9xu.jpg" group-title="Séries | HBO Max",Welcome to Utmark S01 E06
+http://lxls.mx:80/series/994153115/101217/145827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Welcome to Utmark S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/ZZJHRbC2Dsv4mozmQieByKiuVO.jpg" group-title="Séries | HBO Max",Welcome to Utmark S01 E07
+http://lxls.mx:80/series/994153115/101217/145826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Welcome to Utmark S01 E08" tvg-logo="http://lxls.mx:8080/images/c7967a21c98aca808893090ee9d056ac.jpg" group-title="Séries | HBO Max",Welcome to Utmark S01 E08
+http://lxls.mx:80/series/994153115/101217/145825.mp4

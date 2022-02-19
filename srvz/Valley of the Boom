@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Valley of the Boom S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/qCrWkXBgZ3Kfz0GpOojzz5yPlkV.jpg" group-title="Séries | Documentários",Valley of the Boom S01 E01
+http://lxls.mx:80/series/994153115/101217/215222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valley of the Boom S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/2D7YNTz5AKsyvKXB0uc5XmMmatu.jpg" group-title="Séries | Documentários",Valley of the Boom S01 E02
+http://lxls.mx:80/series/994153115/101217/215221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valley of the Boom S01 E03" tvg-logo="http://lxls.mx:8080/images/de102f31d3ced45fedade1744b88a158.jpg" group-title="Séries | Documentários",Valley of the Boom S01 E03
+http://lxls.mx:80/series/994153115/101217/215220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valley of the Boom S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/vCEZO8DpHgIfTeNtlg0UaE0SSej.jpg" group-title="Séries | Documentários",Valley of the Boom S01 E04
+http://lxls.mx:80/series/994153115/101217/215219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valley of the Boom S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/iWoYM5GyX1sOdBBh8cdtUBeIZVS.jpg" group-title="Séries | Documentários",Valley of the Boom S01 E05
+http://lxls.mx:80/series/994153115/101217/215218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valley of the Boom S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/y93jKO9cognyVfXqNASf7I5Mlbh.jpg" group-title="Séries | Documentários",Valley of the Boom S01 E06
+http://lxls.mx:80/series/994153115/101217/215217.mp4

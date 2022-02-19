@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="White Lines S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/zKftCQS43ddSpuPwdh3Tbw71vaw.jpg" group-title="Séries | Netflix",White Lines S01 E01
+http://lxls.mx:80/series/994153115/101217/204180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Lines S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/CHS75bhUy0KknhZscsh1nMK5VN.jpg" group-title="Séries | Netflix",White Lines S01 E02
+http://lxls.mx:80/series/994153115/101217/204179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Lines S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/qb6xmUX17ZAI7256spaFaW9p1vj.jpg" group-title="Séries | Netflix",White Lines S01 E03
+http://lxls.mx:80/series/994153115/101217/204178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Lines S01 E04" tvg-logo="http://lxls.mx:8080/images/3006949fd23d6e9e0cf1e251038cc40a.jpg" group-title="Séries | Netflix",White Lines S01 E04
+http://lxls.mx:80/series/994153115/101217/204177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Lines S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/qvOtkSEiPvjcaWme18yb6QaQBye.jpg" group-title="Séries | Netflix",White Lines S01 E05
+http://lxls.mx:80/series/994153115/101217/204176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Lines S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/o5qvJps5RvMSUouAcaFAwVr5Bid.jpg" group-title="Séries | Netflix",White Lines S01 E06
+http://lxls.mx:80/series/994153115/101217/204175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Lines S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/uO3X7G5vnPVUbEHN4PkCKqrEikm.jpg" group-title="Séries | Netflix",White Lines S01 E07
+http://lxls.mx:80/series/994153115/101217/204174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Lines S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/d0sdgvyuwBs8yxCy20dj4bWJ0Ym.jpg" group-title="Séries | Netflix",White Lines S01 E08
+http://lxls.mx:80/series/994153115/101217/204173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Lines S01 E09" tvg-logo="http://lxls.mx:8080/images/3006949fd23d6e9e0cf1e251038cc40a.jpg" group-title="Séries | Netflix",White Lines S01 E09
+http://lxls.mx:80/series/994153115/101217/204172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Lines S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/jIsRwVq1RL41GZV06mPVaJj68iy.jpg" group-title="Séries | Netflix",White Lines S01 E10
+http://lxls.mx:80/series/994153115/101217/204171.mp4
