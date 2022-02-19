@@ -1,0 +1,29 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/zYwuoopSYaZUHRweTnuRExXynZE.jpg" group-title="Séries | Netflix",Toy Boy S01 E01
+http://lxls.mx:80/series/994153115/101217/208009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/scCxLKSXd1VrTQRd1wbJ8FiTjGD.jpg" group-title="Séries | Netflix",Toy Boy S01 E02
+http://lxls.mx:80/series/994153115/101217/208008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/99zxsDdotsXvgIMXKSxurA5kQIT.jpg" group-title="Séries | Netflix",Toy Boy S01 E03
+http://lxls.mx:80/series/994153115/101217/208007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dikoxiewQ6rHP4RdfdQUWWqe979.jpg" group-title="Séries | Netflix",Toy Boy S01 E04
+http://lxls.mx:80/series/994153115/101217/208006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E05" tvg-logo="http://lxls.mx:8080/images/775a38b96eb8b1fdcb905cb8ad4e5173.jpg" group-title="Séries | Netflix",Toy Boy S01 E05
+http://lxls.mx:80/series/994153115/101217/208005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E06" tvg-logo="http://lxls.mx:8080/images/775a38b96eb8b1fdcb905cb8ad4e5173.jpg" group-title="Séries | Netflix",Toy Boy S01 E06
+http://lxls.mx:80/series/994153115/101217/208004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E07" tvg-logo="http://lxls.mx:8080/images/775a38b96eb8b1fdcb905cb8ad4e5173.jpg" group-title="Séries | Netflix",Toy Boy S01 E07
+http://lxls.mx:80/series/994153115/101217/208003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E08" tvg-logo="http://lxls.mx:8080/images/775a38b96eb8b1fdcb905cb8ad4e5173.jpg" group-title="Séries | Netflix",Toy Boy S01 E08
+http://lxls.mx:80/series/994153115/101217/208002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E09" tvg-logo="http://lxls.mx:8080/images/775a38b96eb8b1fdcb905cb8ad4e5173.jpg" group-title="Séries | Netflix",Toy Boy S01 E09
+http://lxls.mx:80/series/994153115/101217/208001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E10" tvg-logo="http://lxls.mx:8080/images/775a38b96eb8b1fdcb905cb8ad4e5173.jpg" group-title="Séries | Netflix",Toy Boy S01 E10
+http://lxls.mx:80/series/994153115/101217/208000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/apdAc11y07bkJ6T6ONUMOpUruTv.jpg" group-title="Séries | Netflix",Toy Boy S01 E11
+http://lxls.mx:80/series/994153115/101217/207999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E12" tvg-logo="http://lxls.mx:8080/images/775a38b96eb8b1fdcb905cb8ad4e5173.jpg" group-title="Séries | Netflix",Toy Boy S01 E12
+http://lxls.mx:80/series/994153115/101217/207998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Boy S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/4SYXYQHyaS6gWdxPtGxrFWkEDVd.jpg" group-title="Séries | Netflix",Toy Boy S01 E13
+http://lxls.mx:80/series/994153115/101217/207997.mp4

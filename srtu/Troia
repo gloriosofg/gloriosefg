@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Troia S01 E01" tvg-logo="http://lxls.mx:8080/images/fa2f8eb136ea3f09addb8ff834441ae7.jpg" group-title="Séries | Netflix",Troia S01 E01
+http://lxls.mx:80/series/994153115/101217/223328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troia S01 E02" tvg-logo="http://lxls.mx:8080/images/fa2f8eb136ea3f09addb8ff834441ae7.jpg" group-title="Séries | Netflix",Troia S01 E02
+http://lxls.mx:80/series/994153115/101217/223327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troia S01 E03" tvg-logo="http://lxls.mx:8080/images/fa2f8eb136ea3f09addb8ff834441ae7.jpg" group-title="Séries | Netflix",Troia S01 E03
+http://lxls.mx:80/series/994153115/101217/223326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troia S01 E04" tvg-logo="http://lxls.mx:8080/images/fa2f8eb136ea3f09addb8ff834441ae7.jpg" group-title="Séries | Netflix",Troia S01 E04
+http://lxls.mx:80/series/994153115/101217/223325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troia S01 E05" tvg-logo="http://lxls.mx:8080/images/fa2f8eb136ea3f09addb8ff834441ae7.jpg" group-title="Séries | Netflix",Troia S01 E05
+http://lxls.mx:80/series/994153115/101217/223324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troia S01 E06" tvg-logo="http://lxls.mx:8080/images/fa2f8eb136ea3f09addb8ff834441ae7.jpg" group-title="Séries | Netflix",Troia S01 E06
+http://lxls.mx:80/series/994153115/101217/223323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troia S01 E07" tvg-logo="http://lxls.mx:8080/images/fa2f8eb136ea3f09addb8ff834441ae7.jpg" group-title="Séries | Netflix",Troia S01 E07
+http://lxls.mx:80/series/994153115/101217/223322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troia S01 E08" tvg-logo="http://lxls.mx:8080/images/fa2f8eb136ea3f09addb8ff834441ae7.jpg" group-title="Séries | Netflix",Troia S01 E08
+http://lxls.mx:80/series/994153115/101217/223321.mp4

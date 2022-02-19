@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Um Planeta Perfeito S01 E01" tvg-logo="http://lxls.mx:8080/images/0dca0f3da0ecf103a75c5ee15fd7928d.jpg" group-title="Séries | Discovery+",Um Planeta Perfeito S01 E01
+http://lxls.mx:80/series/994153115/101217/143201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Planeta Perfeito S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kYY9vP7Kp7XNZonzKJbvWxvAqyw.jpg" group-title="Séries | Discovery+",Um Planeta Perfeito S01 E02
+http://lxls.mx:80/series/994153115/101217/143200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Planeta Perfeito S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/8VntFUlyjbBf1Q0k5GZEoqXLcYZ.jpg" group-title="Séries | Discovery+",Um Planeta Perfeito S01 E03
+http://lxls.mx:80/series/994153115/101217/143199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Planeta Perfeito S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/19XObQpj50yWHM0LJ541vWG6iWR.jpg" group-title="Séries | Discovery+",Um Planeta Perfeito S01 E04
+http://lxls.mx:80/series/994153115/101217/143198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Planeta Perfeito S01 E05" tvg-logo="http://lxls.mx:8080/images/0dca0f3da0ecf103a75c5ee15fd7928d.jpg" group-title="Séries | Discovery+",Um Planeta Perfeito S01 E05
+http://lxls.mx:80/series/994153115/101217/143197.mp4

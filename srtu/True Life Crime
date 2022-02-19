@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="True Life Crime S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",True Life Crime S01 E01
+http://lxls.mx:80/series/994153115/101217/145987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="True Life Crime S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",True Life Crime S01 E02
+http://lxls.mx:80/series/994153115/101217/145986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="True Life Crime S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",True Life Crime S01 E03
+http://lxls.mx:80/series/994153115/101217/145985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="True Life Crime S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",True Life Crime S01 E04
+http://lxls.mx:80/series/994153115/101217/145984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="True Life Crime S01 E05" tvg-logo="http://lxls.mx:8080/images/54f32f0b3e04ed3a78f72eb29fc4452f.jpg" group-title="Séries | Amazon Prime",True Life Crime S01 E05
+http://lxls.mx:80/series/994153115/101217/145983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="True Life Crime S01 E06" tvg-logo="http://lxls.mx:8080/images/54f32f0b3e04ed3a78f72eb29fc4452f.jpg" group-title="Séries | Amazon Prime",True Life Crime S01 E06
+http://lxls.mx:80/series/994153115/101217/145982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="True Life Crime S01 E07" tvg-logo="http://lxls.mx:8080/images/54f32f0b3e04ed3a78f72eb29fc4452f.jpg" group-title="Séries | Amazon Prime",True Life Crime S01 E07
+http://lxls.mx:80/series/994153115/101217/145981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="True Life Crime S01 E08" tvg-logo="http://lxls.mx:8080/images/54f32f0b3e04ed3a78f72eb29fc4452f.jpg" group-title="Séries | Amazon Prime",True Life Crime S01 E08
+http://lxls.mx:80/series/994153115/101217/145980.mp4

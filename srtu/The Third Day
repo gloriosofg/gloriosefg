@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Third Day S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/fOhcF4tn3sV3s1RzzSGNRmVFESe.jpg" group-title="Séries | HBO Max",The Third Day S01 E01
+http://lxls.mx:80/series/994153115/101217/187802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Third Day S01 E02" tvg-logo="http://lxls.mx:8080/images/c24d9092ca4c8d1e6f1ecc5e94e9db54.jpg" group-title="Séries | HBO Max",The Third Day S01 E02
+http://lxls.mx:80/series/994153115/101217/186290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Third Day S01 E03" tvg-logo="http://lxls.mx:8080/images/c24d9092ca4c8d1e6f1ecc5e94e9db54.jpg" group-title="Séries | HBO Max",The Third Day S01 E03
+http://lxls.mx:80/series/994153115/101217/186289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Third Day S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/9dIll4QrrekJDjZbgnIaop77FvY.jpg" group-title="Séries | HBO Max",The Third Day S01 E04
+http://lxls.mx:80/series/994153115/101217/186288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Third Day S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3nHqwIwGIQxOv4atN35gwAsSjk.jpg" group-title="Séries | HBO Max",The Third Day S01 E05
+http://lxls.mx:80/series/994153115/101217/183899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Third Day S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/rtc5W20OEVim2nKnVEP3yviRIWK.jpg" group-title="Séries | HBO Max",The Third Day S01 E06
+http://lxls.mx:80/series/994153115/101217/183898.mp4

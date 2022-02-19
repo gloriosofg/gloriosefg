@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The White Lotus S01 E01" tvg-logo="http://lxls.mx:8080/images/919296485d5a287619cf3718d31bc74b.jpg" group-title="Séries | HBO Max",The White Lotus S01 E01
+http://lxls.mx:80/series/994153115/101217/159816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The White Lotus S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ymAXambGXJn3gYVllPMqR3g3ahU.jpg" group-title="Séries | HBO Max",The White Lotus S01 E02
+http://lxls.mx:80/series/994153115/101217/159814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The White Lotus S01 E03" tvg-logo="http://lxls.mx:8080/images/919296485d5a287619cf3718d31bc74b.jpg" group-title="Séries | HBO Max",The White Lotus S01 E03
+http://lxls.mx:80/series/994153115/101217/159811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The White Lotus S01 E04" tvg-logo="http://lxls.mx:8080/images/919296485d5a287619cf3718d31bc74b.jpg" group-title="Séries | HBO Max",The White Lotus S01 E04
+http://lxls.mx:80/series/994153115/101217/154985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The White Lotus S01 E05" tvg-logo="http://lxls.mx:8080/images/919296485d5a287619cf3718d31bc74b.jpg" group-title="Séries | HBO Max",The White Lotus S01 E05
+http://lxls.mx:80/series/994153115/101217/152302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The White Lotus S01 E06" tvg-logo="http://lxls.mx:8080/images/919296485d5a287619cf3718d31bc74b.jpg" group-title="Séries | HBO Max",The White Lotus S01 E06
+http://lxls.mx:80/series/994153115/101217/151586.mp4

@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/o28WB1afDS68zAkVrhd3ZC4OGeF.jpg" group-title="Séries | Comédia",Trying S01 E01
+http://lxls.mx:80/series/994153115/101217/166123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/wgMGKuSh24nrmA9NgG0rTM5yYEB.jpg" group-title="Séries | Comédia",Trying S01 E02
+http://lxls.mx:80/series/994153115/101217/166122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRMpyWmKinhFQe83iTIk828INuE.jpg" group-title="Séries | Comédia",Trying S01 E03
+http://lxls.mx:80/series/994153115/101217/166121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/oTVCtV39hebXJbAUHMSV3mD3KM5.jpg" group-title="Séries | Comédia",Trying S01 E04
+http://lxls.mx:80/series/994153115/101217/166120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRMpyWmKinhFQe83iTIk828INuE.jpg" group-title="Séries | Comédia",Trying S01 E05
+http://lxls.mx:80/series/994153115/101217/166119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/eAyyJ8G192jHj7bBy9n9N3H9k0B.jpg" group-title="Séries | Comédia",Trying S01 E06
+http://lxls.mx:80/series/994153115/101217/166118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/zUWfAvG8I4QbQ6U0lugygdns29j.jpg" group-title="Séries | Comédia",Trying S01 E07
+http://lxls.mx:80/series/994153115/101217/166117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRMpyWmKinhFQe83iTIk828INuE.jpg" group-title="Séries | Comédia",Trying S01 E08
+http://lxls.mx:80/series/994153115/101217/166116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/wdUKUvI66snhQ50QbagrsMIht8v.jpg" group-title="Séries | Comédia",Trying S02 E01
+http://lxls.mx:80/series/994153115/101217/151581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/2bs4Wn2hhEJk9Cb8LBMadHujIbi.jpg" group-title="Séries | Comédia",Trying S02 E02
+http://lxls.mx:80/series/994153115/101217/151579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/udXi7izmzle2JUyUnuC4gL5jHWK.jpg" group-title="Séries | Comédia",Trying S02 E03
+http://lxls.mx:80/series/994153115/101217/151576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8IqrivJ2S4MIqrhKkdaPS7ApSaJ.jpg" group-title="Séries | Comédia",Trying S02 E04
+http://lxls.mx:80/series/994153115/101217/151573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/opPXz9wvvL9t4OPiy96uYFN7gHi.jpg" group-title="Séries | Comédia",Trying S02 E05
+http://lxls.mx:80/series/994153115/101217/151571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/gvS20CtNLec4wPZ44181OTi1Hqi.jpg" group-title="Séries | Comédia",Trying S02 E06
+http://lxls.mx:80/series/994153115/101217/151568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRMpyWmKinhFQe83iTIk828INuE.jpg" group-title="Séries | Comédia",Trying S02 E07
+http://lxls.mx:80/series/994153115/101217/151566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trying S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/oss5cPg67oMX8kRh6b4hWeFpj4d.jpg" group-title="Séries | Comédia",Trying S02 E08
+http://lxls.mx:80/series/994153115/101217/151563.mp4

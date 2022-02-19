@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Tipo Isso S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8vZDn9D1T5rS6LM433TbvdTnFi0.jpg" group-title="Séries | HBO Max",Tipo Isso S01 E01
+http://lxls.mx:80/series/994153115/101217/142313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tipo Isso S01 E02" tvg-logo="http://lxls.mx:8080/images/5ec8091b05748e077f246f146b2adc6d.jpg" group-title="Séries | HBO Max",Tipo Isso S01 E02
+http://lxls.mx:80/series/994153115/101217/142312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tipo Isso S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/1AWSZJ7e0j4SbHNU9YybYSAoLqn.jpg" group-title="Séries | HBO Max",Tipo Isso S01 E03
+http://lxls.mx:80/series/994153115/101217/142311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tipo Isso S01 E04" tvg-logo="http://lxls.mx:8080/images/5ec8091b05748e077f246f146b2adc6d.jpg" group-title="Séries | HBO Max",Tipo Isso S01 E04
+http://lxls.mx:80/series/994153115/101217/142310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tipo Isso S01 E05" tvg-logo="http://lxls.mx:8080/images/5ec8091b05748e077f246f146b2adc6d.jpg" group-title="Séries | HBO Max",Tipo Isso S01 E05
+http://lxls.mx:80/series/994153115/101217/142309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tipo Isso S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/hAR7EARsaqR4DgwGh4DqJYtVEMK.jpg" group-title="Séries | HBO Max",Tipo Isso S01 E06
+http://lxls.mx:80/series/994153115/101217/142308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tipo Isso S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/ong0ZfopazsFpLx39nEjuxpoHxl.jpg" group-title="Séries | HBO Max",Tipo Isso S01 E07
+http://lxls.mx:80/series/994153115/101217/142307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tipo Isso S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/l3otwqspG8fB6onnIYpaKHTuOxq.jpg" group-title="Séries | HBO Max",Tipo Isso S01 E08
+http://lxls.mx:80/series/994153115/101217/142306.mp4

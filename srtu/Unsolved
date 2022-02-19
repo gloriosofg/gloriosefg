@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Unsolved S01 E01" tvg-logo="http://lxls.mx:8080/images/9fcf44372f2193e85d45fdab5758e60a.jpg" group-title="Séries | Netflix",Unsolved S01 E01
+http://lxls.mx:80/series/994153115/101217/223370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unsolved S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/awac86dQupObrOmLLC6rHknSUps.jpg" group-title="Séries | Netflix",Unsolved S01 E02
+http://lxls.mx:80/series/994153115/101217/223369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unsolved S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/dRrL7ipWeMoMgv2pCMfCq70Lm3g.jpg" group-title="Séries | Netflix",Unsolved S01 E03
+http://lxls.mx:80/series/994153115/101217/223368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unsolved S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/k8WVIOko2XczKBHiP640EvDRpht.jpg" group-title="Séries | Netflix",Unsolved S01 E04
+http://lxls.mx:80/series/994153115/101217/223367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unsolved S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/kaCuGG37i1H7nTaMJuBmv7vj6BA.jpg" group-title="Séries | Netflix",Unsolved S01 E05
+http://lxls.mx:80/series/994153115/101217/223366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unsolved S01 E06" tvg-logo="http://lxls.mx:8080/images/9fcf44372f2193e85d45fdab5758e60a.jpg" group-title="Séries | Netflix",Unsolved S01 E06
+http://lxls.mx:80/series/994153115/101217/223365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unsolved S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/8FeVgtdd4RMgwZWgAbsGHxhhaDu.jpg" group-title="Séries | Netflix",Unsolved S01 E07
+http://lxls.mx:80/series/994153115/101217/223364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unsolved S01 E08" tvg-logo="http://lxls.mx:8080/images/9fcf44372f2193e85d45fdab5758e60a.jpg" group-title="Séries | Netflix",Unsolved S01 E08
+http://lxls.mx:80/series/994153115/101217/223363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unsolved S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/nMb80SKj87sgsuduWENfgLJLqjZ.jpg" group-title="Séries | Netflix",Unsolved S01 E09
+http://lxls.mx:80/series/994153115/101217/223362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unsolved S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/sfZJnZMtB4NDUCV49bnPu3WIi3O.jpg" group-title="Séries | Netflix",Unsolved S01 E10
+http://lxls.mx:80/series/994153115/101217/223361.mp4

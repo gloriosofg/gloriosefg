@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Todo va a estar bien S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/bC7G2x8QsqKt31pIAO2K01sCSLX.jpg" group-title="Séries | Netflix",Todo va a estar bien S01 E01
+http://lxls.mx:80/series/994153115/101217/150897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo va a estar bien S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9h5dtL58ztleOl0D2fHF2enbvaU.jpg" group-title="Séries | Netflix",Todo va a estar bien S01 E02
+http://lxls.mx:80/series/994153115/101217/150895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo va a estar bien S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ls2aV57jbTFlTiLhXX1C4pgnURz.jpg" group-title="Séries | Netflix",Todo va a estar bien S01 E03
+http://lxls.mx:80/series/994153115/101217/150893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo va a estar bien S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/iwncSzS1iOW7z3QApO9n3tjiQhM.jpg" group-title="Séries | Netflix",Todo va a estar bien S01 E04
+http://lxls.mx:80/series/994153115/101217/150890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo va a estar bien S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/szny8Xpgfa6QQaeqGyReJOxia5Z.jpg" group-title="Séries | Netflix",Todo va a estar bien S01 E05
+http://lxls.mx:80/series/994153115/101217/150888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo va a estar bien S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/A0ZjGyZAAeyuBYR4sWv7GxyZzn9.jpg" group-title="Séries | Netflix",Todo va a estar bien S01 E06
+http://lxls.mx:80/series/994153115/101217/150886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo va a estar bien S01 E07" tvg-logo="http://lxls.mx:8080/images/dc6cc077eaab25f0ddd18249065502c5.jpg" group-title="Séries | Netflix",Todo va a estar bien S01 E07
+http://lxls.mx:80/series/994153115/101217/150884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo va a estar bien S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/f4TblS10IyGl2KNUE2eSeNXA706.jpg" group-title="Séries | Netflix",Todo va a estar bien S01 E08
+http://lxls.mx:80/series/994153115/101217/150881.mp4

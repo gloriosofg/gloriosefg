@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Tidelands S01 E01" tvg-logo="http://lxls.mx:8080/images/d060225e7735e608c489e744e1404ce4.jpg" group-title="Séries | Netflix",Tidelands S01 E01
+http://lxls.mx:80/series/994153115/101217/223202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tidelands S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/8CoIP6lIOase6QsA2cjNJHVar0E.jpg" group-title="Séries | Netflix",Tidelands S01 E02
+http://lxls.mx:80/series/994153115/101217/223201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tidelands S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/cri9MVkAvOL8PntLQFM6JNShLXc.jpg" group-title="Séries | Netflix",Tidelands S01 E03
+http://lxls.mx:80/series/994153115/101217/223200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tidelands S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/qOE7AEokNh4fRVY76ExoPmf7EGB.jpg" group-title="Séries | Netflix",Tidelands S01 E04
+http://lxls.mx:80/series/994153115/101217/223199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tidelands S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/q9VGdUjNU5VYa9I41FpCxLHYozO.jpg" group-title="Séries | Netflix",Tidelands S01 E05
+http://lxls.mx:80/series/994153115/101217/223198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tidelands S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/l4P8noQ8mJcJiv3w7SfoDA9qao8.jpg" group-title="Séries | Netflix",Tidelands S01 E06
+http://lxls.mx:80/series/994153115/101217/223197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tidelands S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/fRvUk33rbxn1NDYIsTj7vWo8GII.jpg" group-title="Séries | Netflix",Tidelands S01 E07
+http://lxls.mx:80/series/994153115/101217/223196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tidelands S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/jAEBIu6TTx199BoKNgTxyNY8ax1.jpg" group-title="Séries | Netflix",Tidelands S01 E08
+http://lxls.mx:80/series/994153115/101217/223195.mp4

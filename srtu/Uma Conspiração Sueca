@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Uma Conspiração Sueca S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/x99f94eGqQOKCAkZbbRkwwIIm8B.jpg" group-title="Séries | HBO Max",Uma Conspiração Sueca S01 E01
+http://lxls.mx:80/series/994153115/101217/146322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Conspiração Sueca S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/HK6b7V7jSpSF9Kg9VlHRachphA.jpg" group-title="Séries | HBO Max",Uma Conspiração Sueca S01 E02
+http://lxls.mx:80/series/994153115/101217/146321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Conspiração Sueca S01 E03" tvg-logo="http://lxls.mx:8080/images/e835573649bd05de8be7b8fdbf2200f5.jpg" group-title="Séries | HBO Max",Uma Conspiração Sueca S01 E03
+http://lxls.mx:80/series/994153115/101217/146320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Conspiração Sueca S01 E04" tvg-logo="http://lxls.mx:8080/images/e835573649bd05de8be7b8fdbf2200f5.jpg" group-title="Séries | HBO Max",Uma Conspiração Sueca S01 E04
+http://lxls.mx:80/series/994153115/101217/146319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Conspiração Sueca S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/2EPg1Sz5G0Tk7zqrtufpFDOUZDL.jpg" group-title="Séries | HBO Max",Uma Conspiração Sueca S01 E05
+http://lxls.mx:80/series/994153115/101217/146318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Conspiração Sueca S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/rxDhpcGPr0ieh3oJS3V03zrKNYc.jpg" group-title="Séries | HBO Max",Uma Conspiração Sueca S01 E06
+http://lxls.mx:80/series/994153115/101217/146317.mp4

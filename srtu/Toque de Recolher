@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Toque de Recolher S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/lkceRllYeUYcqC9X3n1J7SkPrnz.jpg" group-title="Séries | Globoplay",Toque de Recolher S01 E01
+http://lxls.mx:80/series/994153115/101217/214365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toque de Recolher S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/cST0Xl6LdfSVoana1g1l2ZH2lyb.jpg" group-title="Séries | Globoplay",Toque de Recolher S01 E02
+http://lxls.mx:80/series/994153115/101217/214364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toque de Recolher S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ixrOOmzrK0tPGMb94uU6NM6gBY0.jpg" group-title="Séries | Globoplay",Toque de Recolher S01 E03
+http://lxls.mx:80/series/994153115/101217/214363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toque de Recolher S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/6XB0K69ArDsRqLTCS9DGEB1GuGk.jpg" group-title="Séries | Globoplay",Toque de Recolher S01 E04
+http://lxls.mx:80/series/994153115/101217/214362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toque de Recolher S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/vXDlZxrSt0ejGkNmX3o3vWWGR6H.jpg" group-title="Séries | Globoplay",Toque de Recolher S01 E05
+http://lxls.mx:80/series/994153115/101217/214361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toque de Recolher S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/pLKm5hEKKnziAS24RoBLnOMNnm1.jpg" group-title="Séries | Globoplay",Toque de Recolher S01 E06
+http://lxls.mx:80/series/994153115/101217/214360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toque de Recolher S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/nKh4RLeAfO0W0jPZtege6Lq0Vrx.jpg" group-title="Séries | Globoplay",Toque de Recolher S01 E07
+http://lxls.mx:80/series/994153115/101217/214359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toque de Recolher S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/spNvUxawY4kSi1zD7HeWPZAF5pw.jpg" group-title="Séries | Globoplay",Toque de Recolher S01 E08
+http://lxls.mx:80/series/994153115/101217/214358.mp4

@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="UFO S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/wYTaiAi6Ss44daGu0GrRC6wIfWO.jpg" group-title="Séries | Ação & Ficção",UFO S01 E01
+http://lxls.mx:80/series/994153115/101217/150876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFO S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/rcxOOUFrTGvbW2kBG8VGOyxQQFn.jpg" group-title="Séries | Ação & Ficção",UFO S01 E02
+http://lxls.mx:80/series/994153115/101217/150874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFO S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/Ah9EA83RuTtJ83r0nIPywWFlJVs.jpg" group-title="Séries | Ação & Ficção",UFO S01 E03
+http://lxls.mx:80/series/994153115/101217/150871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFO S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/vEBgdCttSVQmXLm8DUF43QT0dtf.jpg" group-title="Séries | Ação & Ficção",UFO S01 E04
+http://lxls.mx:80/series/994153115/101217/150869.mp4

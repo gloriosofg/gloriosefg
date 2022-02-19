@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Um Rapaz Adequado S01 E01" tvg-logo="http://lxls.mx:8080/images/4519b389efd09c58e045e99d7fd10787.jpg" group-title="Séries | Netflix",Um Rapaz Adequado S01 E01
+http://lxls.mx:80/series/994153115/101217/181593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Rapaz Adequado S01 E02" tvg-logo="http://lxls.mx:8080/images/4519b389efd09c58e045e99d7fd10787.jpg" group-title="Séries | Netflix",Um Rapaz Adequado S01 E02
+http://lxls.mx:80/series/994153115/101217/181592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Rapaz Adequado S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/1uS2Cmmn9zcdmpSW0wxWad7O4yN.jpg" group-title="Séries | Netflix",Um Rapaz Adequado S01 E03
+http://lxls.mx:80/series/994153115/101217/181591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Rapaz Adequado S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/eLdFoDZLS8FdtQQz2lsTwkfFXs8.jpg" group-title="Séries | Netflix",Um Rapaz Adequado S01 E04
+http://lxls.mx:80/series/994153115/101217/181590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Rapaz Adequado S01 E05" tvg-logo="http://lxls.mx:8080/images/4519b389efd09c58e045e99d7fd10787.jpg" group-title="Séries | Netflix",Um Rapaz Adequado S01 E05
+http://lxls.mx:80/series/994153115/101217/181589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Rapaz Adequado S01 E06" tvg-logo="http://lxls.mx:8080/images/4519b389efd09c58e045e99d7fd10787.jpg" group-title="Séries | Netflix",Um Rapaz Adequado S01 E06
+http://lxls.mx:80/series/994153115/101217/181588.mp4

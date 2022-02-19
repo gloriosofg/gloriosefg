@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Tribos da  Europa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/v774EyGjYM82ii9kfDWidsmMmdN.jpg" group-title="Séries | Netflix",Tribos da  Europa S01 E01
+http://lxls.mx:80/series/994153115/101217/176263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribos da  Europa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/5Q2fGb1QoyJR0V3vl5RVmYDNKfT.jpg" group-title="Séries | Netflix",Tribos da  Europa S01 E02
+http://lxls.mx:80/series/994153115/101217/176262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribos da  Europa S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/t4dDHeXjOkLguTDPIPUKQEqCL08.jpg" group-title="Séries | Netflix",Tribos da  Europa S01 E03
+http://lxls.mx:80/series/994153115/101217/176261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribos da  Europa S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/mO9fNP3wOScp9xrjvX4ehbhGoqy.jpg" group-title="Séries | Netflix",Tribos da  Europa S01 E04
+http://lxls.mx:80/series/994153115/101217/176260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribos da  Europa S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/qlZAXlWQLgReNtPyPfZFnXEk6LP.jpg" group-title="Séries | Netflix",Tribos da  Europa S01 E05
+http://lxls.mx:80/series/994153115/101217/176259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribos da  Europa S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/aDjZKP7uNqu7LlIASGQ9A7ylSnW.jpg" group-title="Séries | Netflix",Tribos da  Europa S01 E06
+http://lxls.mx:80/series/994153115/101217/176258.mp4

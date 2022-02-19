@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Undone S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/f4BuROJRzrWKvXClaiJon8ipnx3.jpg" group-title="Séries | Amazon Prime",Undone S01 E01
+http://lxls.mx:80/series/994153115/101217/212645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Undone S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/yyHDOrhJl7u4kH3yrHelEMTipZX.jpg" group-title="Séries | Amazon Prime",Undone S01 E02
+http://lxls.mx:80/series/994153115/101217/212644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Undone S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/sRL7iTEXoxzyIHovKcVMlEJT21G.jpg" group-title="Séries | Amazon Prime",Undone S01 E03
+http://lxls.mx:80/series/994153115/101217/212643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Undone S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/g8TvlVHDeKN8NcNW5vM17UQ48md.jpg" group-title="Séries | Amazon Prime",Undone S01 E04
+http://lxls.mx:80/series/994153115/101217/212642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Undone S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/vl0KoSWf4eSsJcNlPSPG1dgLA21.jpg" group-title="Séries | Amazon Prime",Undone S01 E05
+http://lxls.mx:80/series/994153115/101217/212641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Undone S01 E06" tvg-logo="http://lxls.mx:8080/images/681b68363eed75aade9ad9942d0336aa.jpg" group-title="Séries | Amazon Prime",Undone S01 E06
+http://lxls.mx:80/series/994153115/101217/212640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Undone S01 E07" tvg-logo="http://lxls.mx:8080/images/681b68363eed75aade9ad9942d0336aa.jpg" group-title="Séries | Amazon Prime",Undone S01 E07
+http://lxls.mx:80/series/994153115/101217/212639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Undone S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/gLLMuItfXzjEJm7nBnopYA6M1o.jpg" group-title="Séries | Amazon Prime",Undone S01 E08
+http://lxls.mx:80/series/994153115/101217/212638.mp4

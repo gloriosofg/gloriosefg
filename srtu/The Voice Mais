@@ -1,0 +1,27 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Voice Mais S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",The Voice Mais S01 E01
+http://lxls.mx:80/series/994153115/101217/178825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Voice Mais S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",The Voice Mais S01 E02
+http://lxls.mx:80/series/994153115/101217/178362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Voice Mais S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",The Voice Mais S01 E03
+http://lxls.mx:80/series/994153115/101217/178005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Voice Mais S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",The Voice Mais S01 E04
+http://lxls.mx:80/series/994153115/101217/177912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Voice Mais S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",The Voice Mais S01 E05
+http://lxls.mx:80/series/994153115/101217/176092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Voice Mais S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",The Voice Mais S01 E06
+http://lxls.mx:80/series/994153115/101217/176091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Voice Mais S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",The Voice Mais S01 E07
+http://lxls.mx:80/series/994153115/101217/176090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Voice Mais S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",The Voice Mais S01 E08
+http://lxls.mx:80/series/994153115/101217/174812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Voice Mais S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",The Voice Mais S01 E09
+http://lxls.mx:80/series/994153115/101217/174000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Voice Mais S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",The Voice Mais S01 E10
+http://lxls.mx:80/series/994153115/101217/173265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Voice Mais S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",The Voice Mais S01 E11
+http://lxls.mx:80/series/994153115/101217/172630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Voice Mais S01 E12" tvg-logo="http://lxls.mx:8080/images/037923132315fda38d6583e5d7608e1a.jpg" group-title="Séries | Globoplay",The Voice Mais S01 E12
+http://lxls.mx:80/series/994153115/101217/172259.mp4
