@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Sigmund e os Monstros Marinhos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3T2nfrEBWWc4GmGyTbYzSy4uetJ.jpg" group-title="Séries | Amazon Prime",Sigmund e os Monstros Marinhos S01 E01
+http://lxls.mx:80/series/994153115/101217/211674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sigmund e os Monstros Marinhos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ulk4ZTnLgiZ1DYfxxMjtnfNwE01.jpg" group-title="Séries | Amazon Prime",Sigmund e os Monstros Marinhos S01 E02
+http://lxls.mx:80/series/994153115/101217/211673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sigmund e os Monstros Marinhos S01 E03" tvg-logo="http://lxls.mx:8080/images/3dfa20ed89227fe28c0e76e750ba4432.jpg" group-title="Séries | Amazon Prime",Sigmund e os Monstros Marinhos S01 E03
+http://lxls.mx:80/series/994153115/101217/211672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sigmund e os Monstros Marinhos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/mOvCuhxwtdmwWKL4HahjqqslJsP.jpg" group-title="Séries | Amazon Prime",Sigmund e os Monstros Marinhos S01 E04
+http://lxls.mx:80/series/994153115/101217/211671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sigmund e os Monstros Marinhos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3QDnUqc7HCIc9FhpwEsn6dt3Gjv.jpg" group-title="Séries | Amazon Prime",Sigmund e os Monstros Marinhos S01 E05
+http://lxls.mx:80/series/994153115/101217/211670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sigmund e os Monstros Marinhos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/mXaUPVzWXc4i7cfnhKI0hDpzisW.jpg" group-title="Séries | Amazon Prime",Sigmund e os Monstros Marinhos S01 E06
+http://lxls.mx:80/series/994153115/101217/211669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sigmund e os Monstros Marinhos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/l3UauCL5XlVh8uNEB6aYjXFrLUf.jpg" group-title="Séries | Amazon Prime",Sigmund e os Monstros Marinhos S01 E07
+http://lxls.mx:80/series/994153115/101217/211668.mp4

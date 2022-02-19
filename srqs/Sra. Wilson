@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Sra. Wilson S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rra1Nc6qQMUkGMzx4gwKgXUX96o.jpg" group-title="Séries | Drama",Sra. Wilson S01 E01
+http://lxls.mx:80/series/994153115/101217/208887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sra. Wilson S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/7fazCaY92qoS5jI8tKMKMZKdqD6.jpg" group-title="Séries | Drama",Sra. Wilson S01 E02
+http://lxls.mx:80/series/994153115/101217/208886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sra. Wilson S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/fdaRjCAv9wutJ2151olbUfasD73.jpg" group-title="Séries | Drama",Sra. Wilson S01 E03
+http://lxls.mx:80/series/994153115/101217/208885.mp4

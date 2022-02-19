@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Sneakerheads S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mmS0Ic5enKjLZ8frLRys9tg7JC2.jpg" group-title="Séries | Netflix",Sneakerheads S01 E01
+http://lxls.mx:80/series/994153115/101217/151834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sneakerheads S01 E02" tvg-logo="http://lxls.mx:8080/images/09fd60ce508400a9d2ff310dd6e3074b.jpg" group-title="Séries | Netflix",Sneakerheads S01 E02
+http://lxls.mx:80/series/994153115/101217/151832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sneakerheads S01 E03" tvg-logo="http://lxls.mx:8080/images/09fd60ce508400a9d2ff310dd6e3074b.jpg" group-title="Séries | Netflix",Sneakerheads S01 E03
+http://lxls.mx:80/series/994153115/101217/151830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sneakerheads S01 E04" tvg-logo="http://lxls.mx:8080/images/09fd60ce508400a9d2ff310dd6e3074b.jpg" group-title="Séries | Netflix",Sneakerheads S01 E04
+http://lxls.mx:80/series/994153115/101217/151828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sneakerheads S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/jp8atx7XJX9BW0w2XapVrvuERZw.jpg" group-title="Séries | Netflix",Sneakerheads S01 E05
+http://lxls.mx:80/series/994153115/101217/151825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sneakerheads S01 E06" tvg-logo="http://lxls.mx:8080/images/09fd60ce508400a9d2ff310dd6e3074b.jpg" group-title="Séries | Netflix",Sneakerheads S01 E06
+http://lxls.mx:80/series/994153115/101217/151823.mp4

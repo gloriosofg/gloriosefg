@@ -1,0 +1,27 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Sintonia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3t0OVmeVHKV1hYRMmD0atY1hyCL.jpg" group-title="Séries | Netflix",Sintonia S01 E01
+http://lxls.mx:80/series/994153115/101217/213701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintonia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/nFsuaUiGicHJJmLLdKi0bZalAkS.jpg" group-title="Séries | Netflix",Sintonia S01 E02
+http://lxls.mx:80/series/994153115/101217/213700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintonia S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/wgCMiPbpbowrjscp5q17YJWWXcE.jpg" group-title="Séries | Netflix",Sintonia S01 E03
+http://lxls.mx:80/series/994153115/101217/213699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintonia S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/sWjsjl1sVF8M7dbwPONgCy49KaP.jpg" group-title="Séries | Netflix",Sintonia S01 E04
+http://lxls.mx:80/series/994153115/101217/213698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintonia S01 E05" tvg-logo="http://lxls.mx:8080/images/07bdd2eb1e1fef0623a15f28cc0a87aa.jpg" group-title="Séries | Netflix",Sintonia S01 E05
+http://lxls.mx:80/series/994153115/101217/213697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintonia S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/r29WM1T4Q0B12tdLZ7rTSnZijy7.jpg" group-title="Séries | Netflix",Sintonia S01 E06
+http://lxls.mx:80/series/994153115/101217/213696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintonia S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mbIbw8iLqkXqIDUxMr9yEMK1aGt.jpg" group-title="Séries | Netflix",Sintonia S02 E01
+http://lxls.mx:80/series/994153115/101217/145469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintonia S02 E02" tvg-logo="http://lxls.mx:8080/images/07bdd2eb1e1fef0623a15f28cc0a87aa.jpg" group-title="Séries | Netflix",Sintonia S02 E02
+http://lxls.mx:80/series/994153115/101217/145468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintonia S02 E03" tvg-logo="http://lxls.mx:8080/images/07bdd2eb1e1fef0623a15f28cc0a87aa.jpg" group-title="Séries | Netflix",Sintonia S02 E03
+http://lxls.mx:80/series/994153115/101217/145467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintonia S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/nwtp4rjCkGm6jkbfBVLRWouN6MU.jpg" group-title="Séries | Netflix",Sintonia S02 E04
+http://lxls.mx:80/series/994153115/101217/145466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintonia S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/r2rdd3bmm2k7pTiDS1J2dtBF3CS.jpg" group-title="Séries | Netflix",Sintonia S02 E05
+http://lxls.mx:80/series/994153115/101217/145465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintonia S02 E06" tvg-logo="http://lxls.mx:8080/images/07bdd2eb1e1fef0623a15f28cc0a87aa.jpg" group-title="Séries | Netflix",Sintonia S02 E06
+http://lxls.mx:80/series/994153115/101217/145464.mp4

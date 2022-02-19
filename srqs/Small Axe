@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Small Axe S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/87BeWnQDyPho7Ze1azqDwO7oE2Z.jpg" group-title="Séries | Globoplay",Small Axe S01 E01
+http://lxls.mx:80/series/994153115/101217/164373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Small Axe S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/8RflWMEtPwA26wOpomTyE8TwI7j.jpg" group-title="Séries | Globoplay",Small Axe S01 E02
+http://lxls.mx:80/series/994153115/101217/164371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Small Axe S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/qIwv9PWoXzxyWoLL5ELnZwnk707.jpg" group-title="Séries | Globoplay",Small Axe S01 E03
+http://lxls.mx:80/series/994153115/101217/164368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Small Axe S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ew4QOc8fidhoIZY9ngmDHjsme6j.jpg" group-title="Séries | Globoplay",Small Axe S01 E04
+http://lxls.mx:80/series/994153115/101217/164365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Small Axe S01 E05" tvg-logo="http://lxls.mx:8080/images/82559f385b5de5301a39de1808f671bf.jpg" group-title="Séries | Globoplay",Small Axe S01 E05
+http://lxls.mx:80/series/994153115/101217/164363.mp4

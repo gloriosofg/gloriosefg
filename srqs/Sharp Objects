@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Sharp Objects S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3WmZQlYOMOhKL7fnfD5QH5jAahc.jpg" group-title="Séries | HBO Max",Sharp Objects S01 E01
+http://lxls.mx:80/series/994153115/101217/221941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharp Objects S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/mb9fkPpORIEAnKZsbTlXkyQ4uCT.jpg" group-title="Séries | HBO Max",Sharp Objects S01 E02
+http://lxls.mx:80/series/994153115/101217/221940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharp Objects S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/oDbw2y9SwRYJGRPmF8ibKnjJTfB.jpg" group-title="Séries | HBO Max",Sharp Objects S01 E03
+http://lxls.mx:80/series/994153115/101217/221939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharp Objects S01 E04" tvg-logo="http://lxls.mx:8080/images/4b63a6498b5cc8ec8dbebff0a4789d81.jpg" group-title="Séries | HBO Max",Sharp Objects S01 E04
+http://lxls.mx:80/series/994153115/101217/221938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharp Objects S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/gqCBHLwPLuN5SzyDXwIImDpVGzA.jpg" group-title="Séries | HBO Max",Sharp Objects S01 E05
+http://lxls.mx:80/series/994153115/101217/221937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharp Objects S01 E06" tvg-logo="http://lxls.mx:8080/images/4b63a6498b5cc8ec8dbebff0a4789d81.jpg" group-title="Séries | HBO Max",Sharp Objects S01 E06
+http://lxls.mx:80/series/994153115/101217/221936.mp4

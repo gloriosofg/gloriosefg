@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="SS GB S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/1FglmnHciGkShqy3044q0LCtEu9.jpg" group-title="Séries | Globoplay",SS GB S01 E01
+http://lxls.mx:80/series/994153115/101217/189914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SS GB S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/94X0XvEPRipLECcKJtGFmKWWyVq.jpg" group-title="Séries | Globoplay",SS GB S01 E02
+http://lxls.mx:80/series/994153115/101217/189913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SS GB S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/mFVWeh5kNnD7Ki1VT5kQXwWCl8G.jpg" group-title="Séries | Globoplay",SS GB S01 E03
+http://lxls.mx:80/series/994153115/101217/189912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SS GB S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/zEEwmFTJHHDPJPFeQ6I6QN7Sn2N.jpg" group-title="Séries | Globoplay",SS GB S01 E04
+http://lxls.mx:80/series/994153115/101217/189911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SS GB S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/u6dsPQqfkoIPQpwrc4sXSeb7BD7.jpg" group-title="Séries | Globoplay",SS GB S01 E05
+http://lxls.mx:80/series/994153115/101217/189910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SS GB S01 E06" tvg-logo="http://lxls.mx:8080/images/e756a62380d93021945b9383b34d7210.jpg" group-title="Séries | Globoplay",SS GB S01 E06
+http://lxls.mx:80/series/994153115/101217/189909.mp4

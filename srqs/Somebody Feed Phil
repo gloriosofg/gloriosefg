@@ -1,0 +1,27 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Somebody Feed Phil S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mSaoyMDmnAcYYJf7kvzteear3OI.jpg" group-title="Séries | Netflix",Somebody Feed Phil S01 E01
+http://lxls.mx:80/series/994153115/101217/213280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somebody Feed Phil S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/tDMlOaP2AgIIx0j3KLJqyIXkPVQ.jpg" group-title="Séries | Netflix",Somebody Feed Phil S01 E02
+http://lxls.mx:80/series/994153115/101217/213279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somebody Feed Phil S01 E03" tvg-logo="http://lxls.mx:8080/images/93f7a9915e7e89303734631563588558.jpg" group-title="Séries | Netflix",Somebody Feed Phil S01 E03
+http://lxls.mx:80/series/994153115/101217/213278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somebody Feed Phil S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/yHaPQGJUlpl5064VXds0vLddIsK.jpg" group-title="Séries | Netflix",Somebody Feed Phil S01 E04
+http://lxls.mx:80/series/994153115/101217/213277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somebody Feed Phil S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/oGYxRGRQegMDv7fwGXms8Yg4cGP.jpg" group-title="Séries | Netflix",Somebody Feed Phil S01 E05
+http://lxls.mx:80/series/994153115/101217/213276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somebody Feed Phil S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/mMDI2T4jwxRI45tPdj0aJnyXWXz.jpg" group-title="Séries | Netflix",Somebody Feed Phil S01 E06
+http://lxls.mx:80/series/994153115/101217/213275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somebody Feed Phil S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iz7uuguwmuIwYQWybjKnrgpAP0J.jpg" group-title="Séries | Netflix",Somebody Feed Phil S02 E01
+http://lxls.mx:80/series/994153115/101217/213274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somebody Feed Phil S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/peFOXnmyXBM9lPmAG6iwGElQvbo.jpg" group-title="Séries | Netflix",Somebody Feed Phil S02 E02
+http://lxls.mx:80/series/994153115/101217/213273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somebody Feed Phil S02 E03" tvg-logo="http://lxls.mx:8080/images/93f7a9915e7e89303734631563588558.jpg" group-title="Séries | Netflix",Somebody Feed Phil S02 E03
+http://lxls.mx:80/series/994153115/101217/213272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somebody Feed Phil S02 E04" tvg-logo="http://lxls.mx:8080/images/93f7a9915e7e89303734631563588558.jpg" group-title="Séries | Netflix",Somebody Feed Phil S02 E04
+http://lxls.mx:80/series/994153115/101217/213271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somebody Feed Phil S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/gQaTTQdGe6vkwsc684A5OlxEtaD.jpg" group-title="Séries | Netflix",Somebody Feed Phil S02 E05
+http://lxls.mx:80/series/994153115/101217/213270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somebody Feed Phil S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/u9rokSyvZWCPwQUKF7xPeZbnxLo.jpg" group-title="Séries | Netflix",Somebody Feed Phil S02 E06
+http://lxls.mx:80/series/994153115/101217/213269.mp4

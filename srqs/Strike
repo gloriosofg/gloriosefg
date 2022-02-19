@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Strike S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iHH2BykYIQoBjPex2GxLAMDo8tN.jpg" group-title="Séries | HBO Max",Strike S01 E01
+http://lxls.mx:80/series/994153115/101217/178121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strike S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/lwlDTPlPUw6fBezM8zXOoRa2iTW.jpg" group-title="Séries | HBO Max",Strike S01 E02
+http://lxls.mx:80/series/994153115/101217/178120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strike S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/xGTzWAinhvN4ScoVoWcbnlMeLIx.jpg" group-title="Séries | HBO Max",Strike S01 E03
+http://lxls.mx:80/series/994153115/101217/178119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strike S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dQd17daIHGmPYiRLPtrJmtComCz.jpg" group-title="Séries | HBO Max",Strike S01 E04
+http://lxls.mx:80/series/994153115/101217/178118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strike S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5DMuFCqh81NoXTcQlMjpyaX1pH3.jpg" group-title="Séries | HBO Max",Strike S01 E05
+http://lxls.mx:80/series/994153115/101217/178117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strike S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/hkjzM0pj1CymUpztKGQgMWp4dTM.jpg" group-title="Séries | HBO Max",Strike S02 E01
+http://lxls.mx:80/series/994153115/101217/178116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strike S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/pBASXs5GUn3iVBgVrnVMJ24YIYB.jpg" group-title="Séries | HBO Max",Strike S02 E02
+http://lxls.mx:80/series/994153115/101217/178115.mp4

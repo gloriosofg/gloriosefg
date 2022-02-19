@@ -1,0 +1,21 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Swagger S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/9ej5XfWGs1T1I88DBHhlvZAZQVT.jpg" group-title="Séries | Drama",Swagger S01 E01
+http://lxls.mx:80/series/994153115/101217/143231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Swagger S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/dEkr2VBux5ctYnN3Yzh1fP0NQ7b.jpg" group-title="Séries | Drama",Swagger S01 E02
+http://lxls.mx:80/series/994153115/101217/143230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Swagger S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/jhGw7ZBV19yAQHSHRFTL8568NGv.jpg" group-title="Séries | Drama",Swagger S01 E03
+http://lxls.mx:80/series/994153115/101217/143229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Swagger S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQUcWDagMCI8m96rko8zMK7SpHF.jpg" group-title="Séries | Drama",Swagger S01 E04
+http://lxls.mx:80/series/994153115/101217/143228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Swagger S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/zwjB3cXHmHv8ykSSX1YHqhHBNZ8.jpg" group-title="Séries | Drama",Swagger S01 E05
+http://lxls.mx:80/series/994153115/101217/142488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Swagger S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/oogHinSAcXIWtJuf0EvFa3pnSVP.jpg" group-title="Séries | Drama",Swagger S01 E06
+http://lxls.mx:80/series/994153115/101217/142487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Swagger S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQUcWDagMCI8m96rko8zMK7SpHF.jpg" group-title="Séries | Drama",Swagger S01 E07
+http://lxls.mx:80/series/994153115/101217/141713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Swagger S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/g3cp1vIFqA7vdE5tZf6ETD3krlR.jpg" group-title="Séries | Drama",Swagger S01 E08
+http://lxls.mx:80/series/994153115/101217/141135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Swagger S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/7ttPaThPqamGXDpfntkTHcN8dEm.jpg" group-title="Séries | Drama",Swagger S01 E09
+http://lxls.mx:80/series/994153115/101217/140763.mp4

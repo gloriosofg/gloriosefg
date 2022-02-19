@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Sou um Assassino  Em Liberdade S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/bA6pgC3ka9mjp7QKo9Vvu3wxdxX.jpg" group-title="Séries | Netflix",Sou um Assassino  Em Liberdade S01 E01
+http://lxls.mx:80/series/994153115/101217/188827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sou um Assassino  Em Liberdade S01 E02" tvg-logo="http://lxls.mx:8080/images/e801fd2221944d151b76c09361bd5c8c.jpg" group-title="Séries | Netflix",Sou um Assassino  Em Liberdade S01 E02
+http://lxls.mx:80/series/994153115/101217/188826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sou um Assassino  Em Liberdade S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/z9aTqbDQNWbiU3CVyfAYCiOIf4D.jpg" group-title="Séries | Netflix",Sou um Assassino  Em Liberdade S01 E03
+http://lxls.mx:80/series/994153115/101217/188825.mp4

@@ -1,0 +1,63 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S01 E01" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S01 E01
+http://lxls.mx:80/series/994153115/101217/176883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/5BBI8s9gLDRkmvyGsdhV7e1B4J2.jpg" group-title="Séries | Netflix",StartUp S01 E02
+http://lxls.mx:80/series/994153115/101217/176882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/4EOIcZX3vgQf2Y8LDNi2dDcHHnn.jpg" group-title="Séries | Netflix",StartUp S01 E03
+http://lxls.mx:80/series/994153115/101217/176881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S01 E04" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S01 E04
+http://lxls.mx:80/series/994153115/101217/176880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/aDMVStJIEjxO7wrRonJpP8k71Xn.jpg" group-title="Séries | Netflix",StartUp S01 E05
+http://lxls.mx:80/series/994153115/101217/176879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S01 E06" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S01 E06
+http://lxls.mx:80/series/994153115/101217/176878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S01 E07" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S01 E07
+http://lxls.mx:80/series/994153115/101217/176877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S01 E08" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S01 E08
+http://lxls.mx:80/series/994153115/101217/176876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/e2PCBQ9og0bmO7k4M1z7JQOJ6OG.jpg" group-title="Séries | Netflix",StartUp S01 E09
+http://lxls.mx:80/series/994153115/101217/176875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/s6OoAtkh7E9IH2QpKjw3xII9TBU.jpg" group-title="Séries | Netflix",StartUp S01 E10
+http://lxls.mx:80/series/994153115/101217/176874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/naE5alPT0R0pBsQEXTZjocKMde4.jpg" group-title="Séries | Netflix",StartUp S02 E01
+http://lxls.mx:80/series/994153115/101217/176873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S02 E02" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S02 E02
+http://lxls.mx:80/series/994153115/101217/176872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S02 E03" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S02 E03
+http://lxls.mx:80/series/994153115/101217/176871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/n5I1C7IEqRWdvtNwpLRDWbxyLmz.jpg" group-title="Séries | Netflix",StartUp S02 E04
+http://lxls.mx:80/series/994153115/101217/176870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S02 E05" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S02 E05
+http://lxls.mx:80/series/994153115/101217/176869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S02 E06" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S02 E06
+http://lxls.mx:80/series/994153115/101217/176868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S02 E07" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S02 E07
+http://lxls.mx:80/series/994153115/101217/176867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S02 E08" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S02 E08
+http://lxls.mx:80/series/994153115/101217/176866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S02 E09" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S02 E09
+http://lxls.mx:80/series/994153115/101217/176865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S02 E10" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S02 E10
+http://lxls.mx:80/series/994153115/101217/176864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/d1nFDeYjLG6o9auuxz8DW40lbvk.jpg" group-title="Séries | Netflix",StartUp S03 E01
+http://lxls.mx:80/series/994153115/101217/176863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/w4F4UJGc1YjOnBGfzzyS21GPzV0.jpg" group-title="Séries | Netflix",StartUp S03 E02
+http://lxls.mx:80/series/994153115/101217/176862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S03 E03" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S03 E03
+http://lxls.mx:80/series/994153115/101217/176861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S03 E04" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S03 E04
+http://lxls.mx:80/series/994153115/101217/176860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S03 E05" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S03 E05
+http://lxls.mx:80/series/994153115/101217/176859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/e3nJN4Fw8xBeWjc43Y3skthJpSy.jpg" group-title="Séries | Netflix",StartUp S03 E06
+http://lxls.mx:80/series/994153115/101217/176858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S03 E07" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S03 E07
+http://lxls.mx:80/series/994153115/101217/176857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S03 E08" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S03 E08
+http://lxls.mx:80/series/994153115/101217/176856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S03 E09" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S03 E09
+http://lxls.mx:80/series/994153115/101217/176855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="StartUp S03 E10" tvg-logo="http://lxls.mx:8080/images/7a8ab505b0c695a9c5e118bcae3e58e9.jpg" group-title="Séries | Netflix",StartUp S03 E10
+http://lxls.mx:80/series/994153115/101217/176854.mp4

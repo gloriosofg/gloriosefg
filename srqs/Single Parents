@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Single Parents S01 E01" tvg-logo="http://lxls.mx:8080/images/00cb869a830a1feb04ee6e9d67bd7fb0.jpg" group-title="Séries | Disney+",Single Parents S01 E01
+http://lxls.mx:80/series/994153115/101217/215345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Single Parents S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/fScgPGUHlH0shOmR1S0TN0qtQTI.jpg" group-title="Séries | Disney+",Single Parents S01 E02
+http://lxls.mx:80/series/994153115/101217/215341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Single Parents S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/sEzvKCUQcqXoKpQeE7xGO4uHzbE.jpg" group-title="Séries | Disney+",Single Parents S01 E03
+http://lxls.mx:80/series/994153115/101217/215340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Single Parents S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dNij7yBd4RhxdsGNdaEks8Jly8b.jpg" group-title="Séries | Disney+",Single Parents S01 E04
+http://lxls.mx:80/series/994153115/101217/215344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Single Parents S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/7OCJ1KcJ8JBSxeCshaghl5mbfgW.jpg" group-title="Séries | Disney+",Single Parents S01 E05
+http://lxls.mx:80/series/994153115/101217/215343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Single Parents S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/gqf2fp84IyidnyMreiyhB8TlceU.jpg" group-title="Séries | Disney+",Single Parents S01 E06
+http://lxls.mx:80/series/994153115/101217/215342.mp4

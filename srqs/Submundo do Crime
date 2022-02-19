@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Submundo do Crime S01 E01" tvg-logo="http://lxls.mx:8080/images/38882078068b66ee1512151d261724cf.jpg" group-title="Séries | Netflix",Submundo do Crime S01 E01
+http://lxls.mx:80/series/994153115/101217/147760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Submundo do Crime S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/1wsFf0ZWCW78SkkGFPVEkskxG0d.jpg" group-title="Séries | Netflix",Submundo do Crime S01 E02
+http://lxls.mx:80/series/994153115/101217/147759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Submundo do Crime S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/euRkIj85DOZJHzPrqA2zmerCVpl.jpg" group-title="Séries | Netflix",Submundo do Crime S01 E03
+http://lxls.mx:80/series/994153115/101217/147758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Submundo do Crime S01 E04" tvg-logo="http://lxls.mx:8080/images/38882078068b66ee1512151d261724cf.jpg" group-title="Séries | Netflix",Submundo do Crime S01 E04
+http://lxls.mx:80/series/994153115/101217/147757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Submundo do Crime S01 E05" tvg-logo="http://lxls.mx:8080/images/38882078068b66ee1512151d261724cf.jpg" group-title="Séries | Netflix",Submundo do Crime S01 E05
+http://lxls.mx:80/series/994153115/101217/147756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Submundo do Crime S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/h9szXtfrtyuJHY2sAo7aMNCIiBP.jpg" group-title="Séries | Netflix",Submundo do Crime S01 E06
+http://lxls.mx:80/series/994153115/101217/147755.mp4

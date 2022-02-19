@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Sombras da Guerra S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/asuZZa2iYdhLvnBISZ8tq2DyST2.jpg" group-title="Séries | Netflix",Sombras da Guerra S01 E01
+http://lxls.mx:80/series/994153115/101217/151400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras da Guerra S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kwuf9T2T4CsTKtnX6m1Zzg43Avr.jpg" group-title="Séries | Netflix",Sombras da Guerra S01 E02
+http://lxls.mx:80/series/994153115/101217/151397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras da Guerra S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/erfHCxkMVIptMDWKzxrkJztygLb.jpg" group-title="Séries | Netflix",Sombras da Guerra S01 E03
+http://lxls.mx:80/series/994153115/101217/151395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras da Guerra S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/xfApeFqHDdIhaJjEDkEmRHDSNW6.jpg" group-title="Séries | Netflix",Sombras da Guerra S01 E04
+http://lxls.mx:80/series/994153115/101217/151392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras da Guerra S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/pL34I61cODWSvZ2Ae7KXgvF1xU.jpg" group-title="Séries | Netflix",Sombras da Guerra S01 E05
+http://lxls.mx:80/series/994153115/101217/151390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras da Guerra S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/9uZtw1L8rwdfLFQded1vM7KnPDB.jpg" group-title="Séries | Netflix",Sombras da Guerra S01 E06
+http://lxls.mx:80/series/994153115/101217/151387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras da Guerra S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/sxYmYKpUQ3wpYi7hILZzUTnGZq1.jpg" group-title="Séries | Netflix",Sombras da Guerra S01 E07
+http://lxls.mx:80/series/994153115/101217/151385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras da Guerra S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/eYMSUF3RoOHSHeEgHgabxYmAkTS.jpg" group-title="Séries | Netflix",Sombras da Guerra S01 E08
+http://lxls.mx:80/series/994153115/101217/151384.mp4

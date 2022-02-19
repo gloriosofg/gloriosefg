@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Out S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/2DWeMtjbLUKeeLzrC9PQAYhbhh6.jpg" group-title="Séries | Netflix",Spinning Out S01 E01
+http://lxls.mx:80/series/994153115/101217/211018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Out S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/1743nxELKKqPchSia1uG5efBGmF.jpg" group-title="Séries | Netflix",Spinning Out S01 E02
+http://lxls.mx:80/series/994153115/101217/211017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Out S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/3myLC5pu2GZE7bzZCkQ0BUDTtR1.jpg" group-title="Séries | Netflix",Spinning Out S01 E03
+http://lxls.mx:80/series/994153115/101217/211016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Out S01 E04" tvg-logo="http://lxls.mx:8080/images/3ef08b25e81496b3008454fb592de7f2.jpg" group-title="Séries | Netflix",Spinning Out S01 E04
+http://lxls.mx:80/series/994153115/101217/211015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Out S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5U5voJ5094mSIfQ1ba7CMpXDr1u.jpg" group-title="Séries | Netflix",Spinning Out S01 E05
+http://lxls.mx:80/series/994153115/101217/211014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Out S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/4Rq3tpk12GjtVcETRgsuzgjWEZE.jpg" group-title="Séries | Netflix",Spinning Out S01 E06
+http://lxls.mx:80/series/994153115/101217/211013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Out S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/1GnLX4pP54u8ZXdZQ1tzmlF8xQ5.jpg" group-title="Séries | Netflix",Spinning Out S01 E07
+http://lxls.mx:80/series/994153115/101217/211012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Out S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/bTYkSkkKd3UhWugogZCGmrIH8zS.jpg" group-title="Séries | Netflix",Spinning Out S01 E08
+http://lxls.mx:80/series/994153115/101217/211011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Out S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/yWuNED6drQ4NbzeDBbY3sZjrJt3.jpg" group-title="Séries | Netflix",Spinning Out S01 E09
+http://lxls.mx:80/series/994153115/101217/211010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Out S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/kdrZQeeygViKyfSApN7QsXk98NB.jpg" group-title="Séries | Netflix",Spinning Out S01 E10
+http://lxls.mx:80/series/994153115/101217/211009.mp4

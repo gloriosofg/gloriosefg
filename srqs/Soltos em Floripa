@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/yLCgD7HAX1muquPjq5TVDbsi9Ln.jpg" group-title="Séries | Amazon Prime",Soltos em Floripa S01 E01
+http://lxls.mx:80/series/994153115/101217/206821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/bOimH0VjdfowBnB97SZPzcWe2ki.jpg" group-title="Séries | Amazon Prime",Soltos em Floripa S01 E02
+http://lxls.mx:80/series/994153115/101217/206820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/r6isnh5VaVHfRILS2iaWwNzRGxW.jpg" group-title="Séries | Amazon Prime",Soltos em Floripa S01 E03
+http://lxls.mx:80/series/994153115/101217/206102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/q04J5kDXqUbwE0hWiNeHQZt5MJI.jpg" group-title="Séries | Amazon Prime",Soltos em Floripa S01 E04
+http://lxls.mx:80/series/994153115/101217/206101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/iAnGEAjXCYVGmY2BZzY2TI0rLfZ.jpg" group-title="Séries | Amazon Prime",Soltos em Floripa S01 E05
+http://lxls.mx:80/series/994153115/101217/205281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/zTXZXcOQ9ffwqUWEBBggjPg4GyM.jpg" group-title="Séries | Amazon Prime",Soltos em Floripa S01 E06
+http://lxls.mx:80/series/994153115/101217/205268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",Soltos em Floripa S01 E07
+http://lxls.mx:80/series/994153115/101217/204651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",Soltos em Floripa S01 E08
+http://lxls.mx:80/series/994153115/101217/176552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",Soltos em Floripa S02 E01
+http://lxls.mx:80/series/994153115/101217/176551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",Soltos em Floripa S02 E02
+http://lxls.mx:80/series/994153115/101217/176550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",Soltos em Floripa S02 E03
+http://lxls.mx:80/series/994153115/101217/176549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",Soltos em Floripa S02 E04
+http://lxls.mx:80/series/994153115/101217/176257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",Soltos em Floripa S02 E05
+http://lxls.mx:80/series/994153115/101217/175826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",Soltos em Floripa S02 E06
+http://lxls.mx:80/series/994153115/101217/174813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",Soltos em Floripa S02 E07
+http://lxls.mx:80/series/994153115/101217/173989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soltos em Floripa S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Amazon Prime",Soltos em Floripa S02 E08
+http://lxls.mx:80/series/994153115/101217/173079.mp4

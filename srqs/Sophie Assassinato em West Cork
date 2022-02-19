@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Sophie Assassinato em West Cork S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gVA0LHTOD4FYsi46iQ4MpsUaO1R.jpg" group-title="Séries | Netflix",Sophie Assassinato em West Cork S01 E01
+http://lxls.mx:80/series/994153115/101217/158760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sophie Assassinato em West Cork S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/o5oB8DY8xpJzEF5z8QiM5ZLDoMC.jpg" group-title="Séries | Netflix",Sophie Assassinato em West Cork S01 E02
+http://lxls.mx:80/series/994153115/101217/158757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sophie Assassinato em West Cork S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/sYwTLaU5e30ymvmZQ1dMCFSAMMa.jpg" group-title="Séries | Netflix",Sophie Assassinato em West Cork S01 E03
+http://lxls.mx:80/series/994153115/101217/158755.mp4

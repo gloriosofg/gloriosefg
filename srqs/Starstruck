@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Starstruck S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/lhLh4rfWi4D79dK7YNTbDeliRkl.jpg" group-title="Séries | Disney+",Starstruck S01 E01
+http://lxls.mx:80/series/994153115/101217/154401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Starstruck S01 E02" tvg-logo="http://lxls.mx:8080/images/b622c80eccde7cf8cbbdcb17fbbcda64.jpg" group-title="Séries | Disney+",Starstruck S01 E02
+http://lxls.mx:80/series/994153115/101217/154399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Starstruck S01 E03" tvg-logo="http://lxls.mx:8080/images/b622c80eccde7cf8cbbdcb17fbbcda64.jpg" group-title="Séries | Disney+",Starstruck S01 E03
+http://lxls.mx:80/series/994153115/101217/154396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Starstruck S01 E04" tvg-logo="http://lxls.mx:8080/images/b622c80eccde7cf8cbbdcb17fbbcda64.jpg" group-title="Séries | Disney+",Starstruck S01 E04
+http://lxls.mx:80/series/994153115/101217/154393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Starstruck S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/jyg4tGbB4AXzNVpncqpISukrcfc.jpg" group-title="Séries | Disney+",Starstruck S01 E05
+http://lxls.mx:80/series/994153115/101217/154391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Starstruck S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/arwG7jRt1MMKcPMvCQuygcxvthr.jpg" group-title="Séries | Disney+",Starstruck S01 E06
+http://lxls.mx:80/series/994153115/101217/154389.mp4

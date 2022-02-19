@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Strange Angel S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ej18Xdl7WdeusJauQ1E89rawNu7.jpg" group-title="Séries | Amazon Prime",Strange Angel S01 E01
+http://lxls.mx:80/series/994153115/101217/214430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange Angel S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/xQiWHHRSKT1dPDng5tiIKev6y0w.jpg" group-title="Séries | Amazon Prime",Strange Angel S01 E02
+http://lxls.mx:80/series/994153115/101217/214429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange Angel S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/iN1Pnap0G1l5CFvc6xixjA6841n.jpg" group-title="Séries | Amazon Prime",Strange Angel S01 E03
+http://lxls.mx:80/series/994153115/101217/214428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange Angel S01 E04" tvg-logo="http://lxls.mx:8080/images/4a6ff7244e7e621a20b498258f89427a.jpg" group-title="Séries | Amazon Prime",Strange Angel S01 E04
+http://lxls.mx:80/series/994153115/101217/214427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange Angel S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/azProQ5dQYx8TogeWJQ22xSVuvz.jpg" group-title="Séries | Amazon Prime",Strange Angel S01 E05
+http://lxls.mx:80/series/994153115/101217/214426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange Angel S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/pCxI5B7bhokK4ZyLMjAuHSh2nol.jpg" group-title="Séries | Amazon Prime",Strange Angel S01 E06
+http://lxls.mx:80/series/994153115/101217/214425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange Angel S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/3TrkuOe6l9qOOmaR386Ph7UmzbW.jpg" group-title="Séries | Amazon Prime",Strange Angel S01 E07
+http://lxls.mx:80/series/994153115/101217/214424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange Angel S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/ypjp6zYyEC2uOwqlM0slKixQQxk.jpg" group-title="Séries | Amazon Prime",Strange Angel S01 E08
+http://lxls.mx:80/series/994153115/101217/214423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange Angel S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/bbJt4acW7d7HLYL6njUC9kM0BMG.jpg" group-title="Séries | Amazon Prime",Strange Angel S01 E09
+http://lxls.mx:80/series/994153115/101217/214422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange Angel S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/5r8k62MRWOVwRm8Dq5Xx5XgPKuW.jpg" group-title="Séries | Amazon Prime",Strange Angel S01 E10
+http://lxls.mx:80/series/994153115/101217/214421.mp4

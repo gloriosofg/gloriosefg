@@ -1,0 +1,29 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/u8xvgVzTQjAeRu68sI9JJHeQSuA.jpg" group-title="Séries | Terror & Suspense",Sherlock S01 E01
+http://lxls.mx:80/series/994153115/101217/212683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/cp1mf1pwb8F7NcuCJkzcfxIkZw2.jpg" group-title="Séries | Terror & Suspense",Sherlock S01 E02
+http://lxls.mx:80/series/994153115/101217/212682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/inRnf07LWmlT5Z3KkS4iWlBX48x.jpg" group-title="Séries | Terror & Suspense",Sherlock S01 E03
+http://lxls.mx:80/series/994153115/101217/212681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/9fmNcR20uEnMeAKmUucJnCPeUJg.jpg" group-title="Séries | Terror & Suspense",Sherlock S02 E01
+http://lxls.mx:80/series/994153115/101217/212680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/svYBjbn3QfytGZkdK1yDhtbVHEy.jpg" group-title="Séries | Terror & Suspense",Sherlock S02 E02
+http://lxls.mx:80/series/994153115/101217/212679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/PVxRD2JqT2QM4t1Cih0v2AoRSR.jpg" group-title="Séries | Terror & Suspense",Sherlock S02 E03
+http://lxls.mx:80/series/994153115/101217/212678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S03 E01" tvg-logo="http://lxls.mx:8080/images/e7dba235c72dd17c718a492000fe0249.jpg" group-title="Séries | Terror & Suspense",Sherlock S03 E01
+http://lxls.mx:80/series/994153115/101217/212677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S03 E02" tvg-logo="http://lxls.mx:8080/images/e7dba235c72dd17c718a492000fe0249.jpg" group-title="Séries | Terror & Suspense",Sherlock S03 E02
+http://lxls.mx:80/series/994153115/101217/212676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5phdYWQXMwn9cBUPzUt1Z3oie4K.jpg" group-title="Séries | Terror & Suspense",Sherlock S03 E03
+http://lxls.mx:80/series/994153115/101217/212675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S03 E04" tvg-logo="http://lxls.mx:8080/images/e7dba235c72dd17c718a492000fe0249.jpg" group-title="Séries | Terror & Suspense",Sherlock S03 E04
+http://lxls.mx:80/series/994153115/101217/212674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/pGRnT0D3Ni2QJzmcRyX3HZVcWrE.jpg" group-title="Séries | Terror & Suspense",Sherlock S04 E01
+http://lxls.mx:80/series/994153115/101217/212673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S04 E02" tvg-logo="http://lxls.mx:8080/images/e7dba235c72dd17c718a492000fe0249.jpg" group-title="Séries | Terror & Suspense",Sherlock S04 E02
+http://lxls.mx:80/series/994153115/101217/212672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/52CguxQAPg6JLDuIOT76EsWf2a8.jpg" group-title="Séries | Terror & Suspense",Sherlock S04 E03
+http://lxls.mx:80/series/994153115/101217/212671.mp4

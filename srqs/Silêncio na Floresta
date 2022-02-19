@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Silêncio na Floresta S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/wothUd6eHS28CAiHSVUDchhzmPY.jpg" group-title="Séries | Netflix",Silêncio na Floresta S01 E01
+http://lxls.mx:80/series/994153115/101217/189908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silêncio na Floresta S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4QU85OKMi1NcwWyzSlTRua4iuqE.jpg" group-title="Séries | Netflix",Silêncio na Floresta S01 E02
+http://lxls.mx:80/series/994153115/101217/189907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silêncio na Floresta S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/a4x2pWgSSs2e6aXkvcv8uSiuvw7.jpg" group-title="Séries | Netflix",Silêncio na Floresta S01 E03
+http://lxls.mx:80/series/994153115/101217/189906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silêncio na Floresta S01 E04" tvg-logo="http://lxls.mx:8080/imageS-A8c6e1dddaf231dddb9b8ac7228dd2c6.jpg" group-title="Séries | Netflix",Silêncio na Floresta S01 E04
+http://lxls.mx:80/series/994153115/101217/189905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silêncio na Floresta S01 E05" tvg-logo="http://lxls.mx:8080/imageS-A8c6e1dddaf231dddb9b8ac7228dd2c6.jpg" group-title="Séries | Netflix",Silêncio na Floresta S01 E05
+http://lxls.mx:80/series/994153115/101217/189904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silêncio na Floresta S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/fLePf45oKBebKAiptFn0UhND2jR.jpg" group-title="Séries | Netflix",Silêncio na Floresta S01 E06
+http://lxls.mx:80/series/994153115/101217/189903.mp4

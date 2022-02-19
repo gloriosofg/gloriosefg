@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Space Force S01 E01" tvg-logo="http://lxls.mx:8080/images/f2d347b65234c6fc757fd10087150fa9.jpg" group-title="Séries | Netflix",Space Force S01 E01
+http://lxls.mx:80/series/994153115/101217/203170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Space Force S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ts0NZ1LCMh8mgVZTCNota4PhzXe.jpg" group-title="Séries | Netflix",Space Force S01 E02
+http://lxls.mx:80/series/994153115/101217/203169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Space Force S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/3WMFeQBwT0nUwsk7jFk8YWcq4LD.jpg" group-title="Séries | Netflix",Space Force S01 E03
+http://lxls.mx:80/series/994153115/101217/203168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Space Force S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/llMjthCcYLhtc5nGpNimZWsGbv9.jpg" group-title="Séries | Netflix",Space Force S01 E04
+http://lxls.mx:80/series/994153115/101217/203167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Space Force S01 E05" tvg-logo="http://lxls.mx:8080/images/f2d347b65234c6fc757fd10087150fa9.jpg" group-title="Séries | Netflix",Space Force S01 E05
+http://lxls.mx:80/series/994153115/101217/203166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Space Force S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/3TECyB2frc32Yr8Wf52uIz4suXM.jpg" group-title="Séries | Netflix",Space Force S01 E06
+http://lxls.mx:80/series/994153115/101217/203165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Space Force S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/1lRkArqzmzH9LrptTKsYY88kgft.jpg" group-title="Séries | Netflix",Space Force S01 E07
+http://lxls.mx:80/series/994153115/101217/203164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Space Force S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/atHiOmBm1qUKEi3lBv7M7c1SeMh.jpg" group-title="Séries | Netflix",Space Force S01 E08
+http://lxls.mx:80/series/994153115/101217/203163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Space Force S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/nJQG6r0yRyYuXGUFRTH9m4vKFEk.jpg" group-title="Séries | Netflix",Space Force S01 E09
+http://lxls.mx:80/series/994153115/101217/203162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Space Force S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/aWKlyLwpbv0eU4Fr5ux5FEZCvgT.jpg" group-title="Séries | Netflix",Space Force S01 E10
+http://lxls.mx:80/series/994153115/101217/203161.mp4

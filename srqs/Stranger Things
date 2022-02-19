@@ -1,0 +1,53 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/AdwF2jXvhdODr6gUZ61bHKRkz09.jpg" group-title="Séries | Netflix",Stranger Things S01 E01
+http://lxls.mx:80/series/994153115/101217/215229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg" group-title="Séries | Netflix",Stranger Things S01 E02
+http://lxls.mx:80/series/994153115/101217/215228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5snULpWQWp7aqFto7UbRcEkEyyS.jpg" group-title="Séries | Netflix",Stranger Things S01 E03
+http://lxls.mx:80/series/994153115/101217/215227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/60wmC1e20HV8gu688GAhsWxqxPx.jpg" group-title="Séries | Netflix",Stranger Things S01 E04
+http://lxls.mx:80/series/994153115/101217/215226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/exT4NW9EdXG1qLZHKJnRpq3gh1H.jpg" group-title="Séries | Netflix",Stranger Things S01 E05
+http://lxls.mx:80/series/994153115/101217/215225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/lNS6qycyucewz3duTr1tf1LU688.jpg" group-title="Séries | Netflix",Stranger Things S01 E06
+http://lxls.mx:80/series/994153115/101217/215224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E07" tvg-logo="http://lxls.mx:8080/images/1b38bad49c555d94ed6e308a3f597d5a.jpg" group-title="Séries | Netflix",Stranger Things S01 E07
+http://lxls.mx:80/series/994153115/101217/204403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/1teJ5dbuepfqOOs9uYhYTUjr2qs.jpg" group-title="Séries | Netflix",Stranger Things S01 E08
+http://lxls.mx:80/series/994153115/101217/215223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/efz0MgPAxPw11PIeAJNgKKg3Paa.jpg" group-title="Séries | Netflix",Stranger Things S02 E01
+http://lxls.mx:80/series/994153115/101217/222150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/oGMZxF4yivOSCGZTMgiDD2Ye2Hi.jpg" group-title="Séries | Netflix",Stranger Things S02 E02
+http://lxls.mx:80/series/994153115/101217/222149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/tN2H3oZozRqO3OsXEGLfsUHMlIY.jpg" group-title="Séries | Netflix",Stranger Things S02 E03
+http://lxls.mx:80/series/994153115/101217/222148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/wZ7ZDnftX9Y1O25I5tOaEKdK7FT.jpg" group-title="Séries | Netflix",Stranger Things S02 E04
+http://lxls.mx:80/series/994153115/101217/222147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S02 E05" tvg-logo="http://lxls.mx:8080/images/1b38bad49c555d94ed6e308a3f597d5a.jpg" group-title="Séries | Netflix",Stranger Things S02 E05
+http://lxls.mx:80/series/994153115/101217/222146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/d90nCiTEACFEUd3fcX8DrLBi5DL.jpg" group-title="Séries | Netflix",Stranger Things S02 E06
+http://lxls.mx:80/series/994153115/101217/222145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/kgOaaTbAutwAoA7tkVzYCfTjPXn.jpg" group-title="Séries | Netflix",Stranger Things S02 E07
+http://lxls.mx:80/series/994153115/101217/222144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/k3cEwGAWSWbkauYBHSdFnEdalkb.jpg" group-title="Séries | Netflix",Stranger Things S02 E08
+http://lxls.mx:80/series/994153115/101217/222143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/wqwAsocYrxl7MtHiY8ZAsIxrX5v.jpg" group-title="Séries | Netflix",Stranger Things S02 E09
+http://lxls.mx:80/series/994153115/101217/222142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/97PVnrEQWEsdMnD08QDmMxLkV7h.jpg" group-title="Séries | Netflix",Stranger Things S03 E01
+http://lxls.mx:80/series/994153115/101217/215237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/qDlMvdlRGzIGtKYdV9lktEUM4vj.jpg" group-title="Séries | Netflix",Stranger Things S03 E02
+http://lxls.mx:80/series/994153115/101217/215236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/oxfQSyylp90cdwOVvCoUvWAW8od.jpg" group-title="Séries | Netflix",Stranger Things S03 E03
+http://lxls.mx:80/series/994153115/101217/215235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/bFRuAb0q7MN0RiJdo0RDMPSjLsK.jpg" group-title="Séries | Netflix",Stranger Things S03 E04
+http://lxls.mx:80/series/994153115/101217/215234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/cxIZ4btU6h9GQM1Fn0kotuaXlwo.jpg" group-title="Séries | Netflix",Stranger Things S03 E05
+http://lxls.mx:80/series/994153115/101217/215233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/dZKsMHJm8DPdBuqFcZxdIulrpNs.jpg" group-title="Séries | Netflix",Stranger Things S03 E06
+http://lxls.mx:80/series/994153115/101217/215232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/6QA91GJK2ze1EaGPEKhil9MJIXx.jpg" group-title="Séries | Netflix",Stranger Things S03 E07
+http://lxls.mx:80/series/994153115/101217/215231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/sT0fd7pEJ2AbKsXF511Xf3nrOk6.jpg" group-title="Séries | Netflix",Stranger Things S03 E08
+http://lxls.mx:80/series/994153115/101217/215230.mp4

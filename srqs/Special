@@ -1,0 +1,35 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Special S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8HTYSY2Hya6tjizowjriVu5qVP2.jpg" group-title="Séries | Netflix",Special S01 E01
+http://lxls.mx:80/series/994153115/101217/167518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/2Rv0Fe5SiPO5DCYeHmncAhFcs08.jpg" group-title="Séries | Netflix",Special S01 E02
+http://lxls.mx:80/series/994153115/101217/167517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/1uTai26MLQpsryXsKbXZGUYKcMr.jpg" group-title="Séries | Netflix",Special S01 E03
+http://lxls.mx:80/series/994153115/101217/167516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/a4um9CAcRqm1kHYT0p5WgyxBbfr.jpg" group-title="Séries | Netflix",Special S01 E04
+http://lxls.mx:80/series/994153115/101217/167515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/s3RUQGanEKbVORTZPdAmqTA4uEs.jpg" group-title="Séries | Netflix",Special S01 E05
+http://lxls.mx:80/series/994153115/101217/167514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/1R4IWnn3Vrbg14ltACB9KYxxKIu.jpg" group-title="Séries | Netflix",Special S01 E06
+http://lxls.mx:80/series/994153115/101217/167513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/s1sYkHXVpIO0dPD0OaeEkrv2Wfq.jpg" group-title="Séries | Netflix",Special S01 E07
+http://lxls.mx:80/series/994153115/101217/167512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/nqtbEgBJXWmUTOmqjzYRZt1byN0.jpg" group-title="Séries | Netflix",Special S01 E08
+http://lxls.mx:80/series/994153115/101217/167511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/lwIvTvWH8be3un3rWNw0wwrnyUV.jpg" group-title="Séries | Netflix",Special S02 E01
+http://lxls.mx:80/series/994153115/101217/167510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/2CEfuXZjj4yj8DFd0pFCVjz5VCn.jpg" group-title="Séries | Netflix",Special S02 E02
+http://lxls.mx:80/series/994153115/101217/167509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S02 E03" tvg-logo="http://lxls.mx:8080/images/f1c733a61ab0aedf5d306065f0c4997e.jpg" group-title="Séries | Netflix",Special S02 E03
+http://lxls.mx:80/series/994153115/101217/167508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/yEkmEXFg5kIb5HKVMqqopoWNZQE.jpg" group-title="Séries | Netflix",Special S02 E04
+http://lxls.mx:80/series/994153115/101217/167507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/x6V5VRElCtP3GxGY7SPyC0tdCoT.jpg" group-title="Séries | Netflix",Special S02 E05
+http://lxls.mx:80/series/994153115/101217/167506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/2v23FiI0ibgG7VdoKqV4g7SWJCx.jpg" group-title="Séries | Netflix",Special S02 E06
+http://lxls.mx:80/series/994153115/101217/167505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/m8Ey6xl5KHsLn5UcK86VWVrtPxT.jpg" group-title="Séries | Netflix",Special S02 E07
+http://lxls.mx:80/series/994153115/101217/167504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/2bfL5Say5eOZ1k2KbhF043koomy.jpg" group-title="Séries | Netflix",Special S02 E08
+http://lxls.mx:80/series/994153115/101217/167503.mp4

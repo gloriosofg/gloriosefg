@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Solos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/2aqfzX0mn0wIqTEuuv2CpFO2Th8.jpg" group-title="Séries | Amazon Prime",Solos S01 E01
+http://lxls.mx:80/series/994153115/101217/164254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Solos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/roIQCvHypGzcSLe28Fy1O3kMmxh.jpg" group-title="Séries | Amazon Prime",Solos S01 E02
+http://lxls.mx:80/series/994153115/101217/164251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Solos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/carg7mvTQxwbsiZvkzLI3ixWTTx.jpg" group-title="Séries | Amazon Prime",Solos S01 E03
+http://lxls.mx:80/series/994153115/101217/164248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Solos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/myfPDYcc6iinh5cI6e9DazFQ05e.jpg" group-title="Séries | Amazon Prime",Solos S01 E04
+http://lxls.mx:80/series/994153115/101217/164246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Solos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/hL3cc8T810jnlcoSBculfWK7orZ.jpg" group-title="Séries | Amazon Prime",Solos S01 E05
+http://lxls.mx:80/series/994153115/101217/164243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Solos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/fpk8PbP2Z7rGOpNMnlj5ozADlkQ.jpg" group-title="Séries | Amazon Prime",Solos S01 E06
+http://lxls.mx:80/series/994153115/101217/164241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Solos S01 E07" tvg-logo="http://lxls.mx:8080/images/87bdb57592a5787fe5474edd3056a3ed.jpg" group-title="Séries | Amazon Prime",Solos S01 E07
+http://lxls.mx:80/series/994153115/101217/164238.mp4

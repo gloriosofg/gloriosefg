@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Supernormal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/9jUVVSgVJlm5UTvZU2WzrS6l8DS.jpg" group-title="Séries | HBO Max",Supernormal S01 E01
+http://lxls.mx:80/series/994153115/101217/140786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supernormal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/n9mFhX32LbyyiUVorndDjd7dLxK.jpg" group-title="Séries | HBO Max",Supernormal S01 E02
+http://lxls.mx:80/series/994153115/101217/140785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supernormal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/nKGCUYk9DVrGMqysaxpVEj4spDb.jpg" group-title="Séries | HBO Max",Supernormal S01 E03
+http://lxls.mx:80/series/994153115/101217/140784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supernormal S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/19KdHOKX1VwguqbRnNuhcv47yUg.jpg" group-title="Séries | HBO Max",Supernormal S01 E04
+http://lxls.mx:80/series/994153115/101217/140783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supernormal S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/nLXoS5V6r524yFlRpquB2dF9zGF.jpg" group-title="Séries | HBO Max",Supernormal S01 E05
+http://lxls.mx:80/series/994153115/101217/140782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supernormal S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/ccIzDsbymxYdOI81EAbQCAQzH6O.jpg" group-title="Séries | HBO Max",Supernormal S01 E06
+http://lxls.mx:80/series/994153115/101217/140781.mp4
