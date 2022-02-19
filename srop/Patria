@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Patria S01 E01" tvg-logo="http://lxls.mx:8080/images/da11dda866be62abca629e27521fa597.jpg" group-title="Séries | HBO Max",Patria S01 E01
+http://lxls.mx:80/series/994153115/101217/184734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patria S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gRLg0ZxIidZD1A9fWDN97FpVFKV.jpg" group-title="Séries | HBO Max",Patria S01 E02
+http://lxls.mx:80/series/994153115/101217/184733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patria S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/3th2JHniM9EMWRnFUptBpdxX4ae.jpg" group-title="Séries | HBO Max",Patria S01 E03
+http://lxls.mx:80/series/994153115/101217/184732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patria S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/svh1patkAG2sXqd7s8ixNMKiJcC.jpg" group-title="Séries | HBO Max",Patria S01 E04
+http://lxls.mx:80/series/994153115/101217/182676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patria S01 E05" tvg-logo="http://lxls.mx:8080/images/da11dda866be62abca629e27521fa597.jpg" group-title="Séries | HBO Max",Patria S01 E05
+http://lxls.mx:80/series/994153115/101217/181482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patria S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/liIwNo6efzp2R5EVHEXB5FOXdf.jpg" group-title="Séries | HBO Max",Patria S01 E06
+http://lxls.mx:80/series/994153115/101217/180926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patria S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/gHtwDWZ7PvCIJb8ttg2EY1LoFj8.jpg" group-title="Séries | HBO Max",Patria S01 E07
+http://lxls.mx:80/series/994153115/101217/180925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patria S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/kpnIC5oOtVMSD5BX8irumVTn5Yn.jpg" group-title="Séries | HBO Max",Patria S01 E08
+http://lxls.mx:80/series/994153115/101217/180803.mp4

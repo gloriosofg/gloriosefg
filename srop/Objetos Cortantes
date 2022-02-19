@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Objetos Cortantes S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3WmZQlYOMOhKL7fnfD5QH5jAahc.jpg" group-title="Séries | HBO Max",Objetos Cortantes S01 E01
+http://lxls.mx:80/series/994153115/101217/180495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Objetos Cortantes S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/mb9fkPpORIEAnKZsbTlXkyQ4uCT.jpg" group-title="Séries | HBO Max",Objetos Cortantes S01 E02
+http://lxls.mx:80/series/994153115/101217/180494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Objetos Cortantes S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/oDbw2y9SwRYJGRPmF8ibKnjJTfB.jpg" group-title="Séries | HBO Max",Objetos Cortantes S01 E03
+http://lxls.mx:80/series/994153115/101217/180493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Objetos Cortantes S01 E04" tvg-logo="http://lxls.mx:8080/images/4b63a6498b5cc8ec8dbebff0a4789d81.jpg" group-title="Séries | HBO Max",Objetos Cortantes S01 E04
+http://lxls.mx:80/series/994153115/101217/180492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Objetos Cortantes S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/gqCBHLwPLuN5SzyDXwIImDpVGzA.jpg" group-title="Séries | HBO Max",Objetos Cortantes S01 E05
+http://lxls.mx:80/series/994153115/101217/180491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Objetos Cortantes S01 E06" tvg-logo="http://lxls.mx:8080/images/4b63a6498b5cc8ec8dbebff0a4789d81.jpg" group-title="Séries | HBO Max",Objetos Cortantes S01 E06
+http://lxls.mx:80/series/994153115/101217/180490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Objetos Cortantes S01 E07" tvg-logo="http://lxls.mx:8080/images/4b63a6498b5cc8ec8dbebff0a4789d81.jpg" group-title="Séries | HBO Max",Objetos Cortantes S01 E07
+http://lxls.mx:80/series/994153115/101217/180489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Objetos Cortantes S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/uqD0FFI56ih29hik1US5f45n0OL.jpg" group-title="Séries | HBO Max",Objetos Cortantes S01 E08
+http://lxls.mx:80/series/994153115/101217/180488.mp4

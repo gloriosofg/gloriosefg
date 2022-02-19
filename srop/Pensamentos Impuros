@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Pensamentos Impuros S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/o9AopK5QkpOmFoOzFNd621ZfsZy.jpg" group-title="Séries | Globoplay",Pensamentos Impuros S01 E01
+http://lxls.mx:80/series/994153115/101217/211693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pensamentos Impuros S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/mQzKGI8Sl2SWzez4JVhtteSrJhf.jpg" group-title="Séries | Globoplay",Pensamentos Impuros S01 E02
+http://lxls.mx:80/series/994153115/101217/211692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pensamentos Impuros S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/mWwUpUtRxTvCz572954qNkpzglF.jpg" group-title="Séries | Globoplay",Pensamentos Impuros S01 E03
+http://lxls.mx:80/series/994153115/101217/211691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pensamentos Impuros S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/k97vxJ52keh0G3FKxNj62B5sZAq.jpg" group-title="Séries | Globoplay",Pensamentos Impuros S01 E04
+http://lxls.mx:80/series/994153115/101217/211690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pensamentos Impuros S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/fWBfoofqHSGODZGMUpQ2YqH5jQI.jpg" group-title="Séries | Globoplay",Pensamentos Impuros S01 E05
+http://lxls.mx:80/series/994153115/101217/211689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pensamentos Impuros S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/zxDxEbecmJ5vpnEEpZNjJEmwDIc.jpg" group-title="Séries | Globoplay",Pensamentos Impuros S01 E06
+http://lxls.mx:80/series/994153115/101217/211688.mp4

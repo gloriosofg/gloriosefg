@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Pacificador S01 E01" tvg-logo="http://lxls.mx:8080/images/5cb5837cc9a30910b71cdcc9fd1431ec.jpg" group-title="Séries | HBO Max",Pacificador S01 E01
+http://lxls.mx:80/series/994153115/101217/224304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacificador S01 E02" tvg-logo="http://lxls.mx:8080/images/46434991ff9a6f4d923eebd1cd71b18f.jpg" group-title="Séries | HBO Max",Pacificador S01 E02
+http://lxls.mx:80/series/994153115/101217/224305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacificador S01 E03" tvg-logo="http://lxls.mx:8080/images/fdcf7bb7e12547b8b5b0e8150b49f3b0.jpg" group-title="Séries | HBO Max",Pacificador S01 E03
+http://lxls.mx:80/series/994153115/101217/224306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacificador S01 E04" tvg-logo="http://lxls.mx:80/images/4bc5d352d5b10061661ac2ac3c1d25ff.jpg" group-title="Séries | HBO Max",Pacificador S01 E04
+http://lxls.mx:80/series/994153115/101217/224962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacificador S01 E05" tvg-logo="http://lxls.mx:80/images/930954a9fe3162b32fa2373f40066e73.jpg" group-title="Séries | HBO Max",Pacificador S01 E05
+http://lxls.mx:80/series/994153115/101217/224986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacificador S01 E06" tvg-logo="http://lxls.mx:80/images/e7dbe14226ed3e3c01f31e0c864a9aca.jpg" group-title="Séries | HBO Max",Pacificador S01 E06
+http://lxls.mx:80/series/994153115/101217/234820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacificador S01 E07" tvg-logo="http://lxls.mx:80/images/2f807f48a48a6701cdc4b3a807072cab.jpg" group-title="Séries | HBO Max",Pacificador S01 E07
+http://lxls.mx:80/series/994153115/101217/235265.mp4

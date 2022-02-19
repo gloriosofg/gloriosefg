@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/hY8atqKvMPoFSfJplzsxknMmTzp.jpg" group-title="Séries | Netflix",Os Smurfs S01 E01
+http://lxls.mx:80/series/994153115/101217/144309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/91oyNYU4YySirJojEEEdVWxcUAM.jpg" group-title="Séries | Netflix",Os Smurfs S01 E02
+http://lxls.mx:80/series/994153115/101217/144308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/oGfQPX15JR9rYa0ctg1nevj9mJo.jpg" group-title="Séries | Netflix",Os Smurfs S01 E03
+http://lxls.mx:80/series/994153115/101217/144307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/lTziHNExVH1OnFX2Dc7NTu755sT.jpg" group-title="Séries | Netflix",Os Smurfs S01 E04
+http://lxls.mx:80/series/994153115/101217/144306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs S01 E05" tvg-logo="http://lxls.mx:8080/images/e64b46efdcfde22bf2f22c1fe2e71a79.jpg" group-title="Séries | Netflix",Os Smurfs S01 E05
+http://lxls.mx:80/series/994153115/101217/144305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/femoyNcUDFG1jCmMq7sucfIcrs2.jpg" group-title="Séries | Netflix",Os Smurfs S01 E06
+http://lxls.mx:80/series/994153115/101217/144304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/wmtEwJXkoeG9lUtUn9A4ff3Nd8k.jpg" group-title="Séries | Netflix",Os Smurfs S01 E07
+http://lxls.mx:80/series/994153115/101217/144303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/k9UOBV0CYO56q0j8Gm5cRO88p0P.jpg" group-title="Séries | Netflix",Os Smurfs S01 E08
+http://lxls.mx:80/series/994153115/101217/144302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/jywlRLjanh7Y3gIsOxvGTk8iJ2P.jpg" group-title="Séries | Netflix",Os Smurfs S01 E09
+http://lxls.mx:80/series/994153115/101217/144301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/2wJKdGGWe4NbD1CbHD6mgzHCmQX.jpg" group-title="Séries | Netflix",Os Smurfs S01 E10
+http://lxls.mx:80/series/994153115/101217/144300.mp4

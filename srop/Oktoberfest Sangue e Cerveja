@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Oktoberfest Sangue e Cerveja S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/geUY1ZUp0IHegmTdxk6MxIZOjV0.jpg" group-title="Séries | Netflix",Oktoberfest Sangue e Cerveja S01 E01
+http://lxls.mx:80/series/994153115/101217/185937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oktoberfest Sangue e Cerveja S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/nsMI8uTv0iaFicVvXJGRCWFlq2h.jpg" group-title="Séries | Netflix",Oktoberfest Sangue e Cerveja S01 E02
+http://lxls.mx:80/series/994153115/101217/185936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oktoberfest Sangue e Cerveja S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/fziwo4HG8x5AVGEaIaIC0bUU0k9.jpg" group-title="Séries | Netflix",Oktoberfest Sangue e Cerveja S01 E03
+http://lxls.mx:80/series/994153115/101217/185935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oktoberfest Sangue e Cerveja S01 E04" tvg-logo="http://lxls.mx:8080/images/7471c466ce588621abfce1b23b2fc521.jpg" group-title="Séries | Netflix",Oktoberfest Sangue e Cerveja S01 E04
+http://lxls.mx:80/series/994153115/101217/185934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oktoberfest Sangue e Cerveja S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/mM1vy5v1xMWU9qjfeb522LOvKI4.jpg" group-title="Séries | Netflix",Oktoberfest Sangue e Cerveja S01 E05
+http://lxls.mx:80/series/994153115/101217/185933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oktoberfest Sangue e Cerveja S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/2lAh8rOiHQXzov8nwEAIkHHrAdU.jpg" group-title="Séries | Netflix",Oktoberfest Sangue e Cerveja S01 E06
+http://lxls.mx:80/series/994153115/101217/185932.mp4

@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Onision Abuso na Internet S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/n7yFNwp75GkJC2Agr8EcIuLe49e.jpg" group-title="Séries | Discovery+",Onision Abuso na Internet S01 E01
+http://lxls.mx:80/series/994153115/101217/142756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Onision Abuso na Internet S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/AhmAHqz9KiOPzn7URGvUdzqAJ9T.jpg" group-title="Séries | Discovery+",Onision Abuso na Internet S01 E02
+http://lxls.mx:80/series/994153115/101217/142755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Onision Abuso na Internet S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/eUYrfOMO10ckWkBNGprhb0rkcHB.jpg" group-title="Séries | Discovery+",Onision Abuso na Internet S01 E03
+http://lxls.mx:80/series/994153115/101217/142754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Onision Abuso na Internet S01 E04" tvg-logo="http://lxls.mx:8080/images/1eb344b9fbd4b20e0d5b6b39ffe125c1.jpg" group-title="Séries | Discovery+",Onision Abuso na Internet S01 E04
+http://lxls.mx:80/series/994153115/101217/142753.mp4

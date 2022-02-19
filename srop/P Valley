@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="P Valley S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/jB0MHLrDtAFfmAipLAbb85VEhDF.jpg" group-title="Séries | Amazon Prime",P Valley S01 E01
+http://lxls.mx:80/series/994153115/101217/190396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="P Valley S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/57E6KHB0CUnorIenxIGZ8qK4YEP.jpg" group-title="Séries | Amazon Prime",P Valley S01 E02
+http://lxls.mx:80/series/994153115/101217/190395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="P Valley S01 E03" tvg-logo="http://lxls.mx:8080/images/32101192ec8db55c558970fe225ea163.jpg" group-title="Séries | Amazon Prime",P Valley S01 E03
+http://lxls.mx:80/series/994153115/101217/190394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="P Valley S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/kDiuZai34YWQSUea6N42GZkNpxo.jpg" group-title="Séries | Amazon Prime",P Valley S01 E04
+http://lxls.mx:80/series/994153115/101217/190393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="P Valley S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ligAvTkkAZ5zqE2X5SvTCchq1l7.jpg" group-title="Séries | Amazon Prime",P Valley S01 E05
+http://lxls.mx:80/series/994153115/101217/189408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="P Valley S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/9mM3zRhjRNOeeyuoXGYVAkGgZ8G.jpg" group-title="Séries | Amazon Prime",P Valley S01 E06
+http://lxls.mx:80/series/994153115/101217/189407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="P Valley S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/f0Sfv5BycuOf3Or7vCb7HmIw1iN.jpg" group-title="Séries | Amazon Prime",P Valley S01 E07
+http://lxls.mx:80/series/994153115/101217/188207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="P Valley S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/h8EiVWZKK3shbuXkwTxrc7fmQRM.jpg" group-title="Séries | Amazon Prime",P Valley S01 E08
+http://lxls.mx:80/series/994153115/101217/178524.mp4

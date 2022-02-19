@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/wWcD2JAuzh3xCsXuPejRR28dZj.jpg" group-title="Séries | HBO Max",Paraíso S01 E01
+http://lxls.mx:80/series/994153115/101217/146006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/t33XjTJuboPf5fGrhWDJPtLjsYe.jpg" group-title="Séries | HBO Max",Paraíso S01 E02
+http://lxls.mx:80/series/994153115/101217/144004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/iDv03ksJRSTuj0iIhgtX5zCpZyt.jpg" group-title="Séries | HBO Max",Paraíso S01 E03
+http://lxls.mx:80/series/994153115/101217/144003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/9gkqZ1r5rXdTPFW5jTYY6pgxFGC.jpg" group-title="Séries | HBO Max",Paraíso S01 E04
+http://lxls.mx:80/series/994153115/101217/144002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/dD4W5fg7NdradnlrsrfooF7sS6j.jpg" group-title="Séries | HBO Max",Paraíso S01 E05
+http://lxls.mx:80/series/994153115/101217/144001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/nX9ozma3REej8mRl7f0pyBZf1os.jpg" group-title="Séries | HBO Max",Paraíso S01 E06
+http://lxls.mx:80/series/994153115/101217/144000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/tmAsbS6IHELNhaFVrvc4fEA0VFc.jpg" group-title="Séries | HBO Max",Paraíso S01 E07
+http://lxls.mx:80/series/994153115/101217/143999.mp4

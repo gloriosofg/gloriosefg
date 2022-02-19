@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Only Murders in the Building S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/5Hibvlhv21pJNNkWQVOLuCA0OlO.jpg" group-title="Séries | Star+",Only Murders in the Building S01 E01
+http://lxls.mx:80/series/994153115/101217/150434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Only Murders in the Building S01 E02" tvg-logo="http://lxls.mx:8080/images/852de117c2146b5ed32b7ad4e487ed18.jpg" group-title="Séries | Star+",Only Murders in the Building S01 E02
+http://lxls.mx:80/series/994153115/101217/150431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Only Murders in the Building S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/tlX60XRpBSPLhMxXJuhxko3opgh.jpg" group-title="Séries | Star+",Only Murders in the Building S01 E03
+http://lxls.mx:80/series/994153115/101217/150429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Only Murders in the Building S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/Ymo9qJNDyUHxx7WXJTiucy0zsi.jpg" group-title="Séries | Star+",Only Murders in the Building S01 E04
+http://lxls.mx:80/series/994153115/101217/149313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Only Murders in the Building S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/kfTHXTatxT1AQCznMN8K25hLvra.jpg" group-title="Séries | Star+",Only Murders in the Building S01 E05
+http://lxls.mx:80/series/994153115/101217/148053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Only Murders in the Building S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/xGLGTNmrSa1PugNld8FSO1Lz4Tv.jpg" group-title="Séries | Star+",Only Murders in the Building S01 E06
+http://lxls.mx:80/series/994153115/101217/147782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Only Murders in the Building S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/m9DiJit0o9oYaVrFb6FYupchQOe.jpg" group-title="Séries | Star+",Only Murders in the Building S01 E07
+http://lxls.mx:80/series/994153115/101217/147525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Only Murders in the Building S01 E08" tvg-logo="http://lxls.mx:8080/images/852de117c2146b5ed32b7ad4e487ed18.jpg" group-title="Séries | Star+",Only Murders in the Building S01 E08
+http://lxls.mx:80/series/994153115/101217/147412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Only Murders in the Building S01 E09" tvg-logo="http://lxls.mx:8080/images/852de117c2146b5ed32b7ad4e487ed18.jpg" group-title="Séries | Star+",Only Murders in the Building S01 E09
+http://lxls.mx:80/series/994153115/101217/145480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Only Murders in the Building S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/g0aKJuopwAJEPFipxeGsljxX5wp.jpg" group-title="Séries | Star+",Only Murders in the Building S01 E10
+http://lxls.mx:80/series/994153115/101217/145479.mp4

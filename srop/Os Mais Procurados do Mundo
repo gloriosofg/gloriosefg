@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Mais Procurados do Mundo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/63ggKMbGz8CJHPTyWrgUCu2cdFv.jpg" group-title="Séries | Netflix",Os Mais Procurados do Mundo S01 E01
+http://lxls.mx:80/series/994153115/101217/190401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Mais Procurados do Mundo S01 E02" tvg-logo="http://lxls.mx:8080/images/e551ce9009867443f8ba3aa5d6f500b2.jpg" group-title="Séries | Netflix",Os Mais Procurados do Mundo S01 E02
+http://lxls.mx:80/series/994153115/101217/190400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Mais Procurados do Mundo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/w55D4kvg5B0krYeKe3vXoKcPTTm.jpg" group-title="Séries | Netflix",Os Mais Procurados do Mundo S01 E03
+http://lxls.mx:80/series/994153115/101217/190399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Mais Procurados do Mundo S01 E04" tvg-logo="http://lxls.mx:8080/images/e551ce9009867443f8ba3aa5d6f500b2.jpg" group-title="Séries | Netflix",Os Mais Procurados do Mundo S01 E04
+http://lxls.mx:80/series/994153115/101217/190398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Mais Procurados do Mundo S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/jcGgrCSH83KebV4AjqJSG1zqf8q.jpg" group-title="Séries | Netflix",Os Mais Procurados do Mundo S01 E05
+http://lxls.mx:80/series/994153115/101217/190397.mp4
