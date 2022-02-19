@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Wallander S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/mYfZTf0q525EsEdO9aYT59xieLR.jpg" group-title="Séries | Netflix",O Jovem Wallander S01 E01
+http://lxls.mx:80/series/994153115/101217/188013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Wallander S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ybtQmNG9aGNd7kkYJs38EEhIeQX.jpg" group-title="Séries | Netflix",O Jovem Wallander S01 E02
+http://lxls.mx:80/series/994153115/101217/188012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Wallander S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/xm2w3WHuRFgNDtiN3c8kHJTQXK.jpg" group-title="Séries | Netflix",O Jovem Wallander S01 E03
+http://lxls.mx:80/series/994153115/101217/188011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Wallander S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/iTdXJW9TyM4u1GtdrwUZHn6nUQH.jpg" group-title="Séries | Netflix",O Jovem Wallander S01 E04
+http://lxls.mx:80/series/994153115/101217/188010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Wallander S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/x2H61e6oPNCk6aHgomDaJoIVrIB.jpg" group-title="Séries | Netflix",O Jovem Wallander S01 E05
+http://lxls.mx:80/series/994153115/101217/188009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Wallander S01 E06" tvg-logo="http://lxls.mx:8080/images/dbc441f4700a62be8ea3a04fd97c7d7c.jpg" group-title="Séries | Netflix",O Jovem Wallander S01 E06
+http://lxls.mx:80/series/994153115/101217/188008.mp4

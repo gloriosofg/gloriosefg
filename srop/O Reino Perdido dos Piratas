@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Perdido dos Piratas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/biBod3UGXipsJXtGiigbIKM1kle.jpg" group-title="Séries | Netflix",O Reino Perdido dos Piratas S01 E01
+http://lxls.mx:80/series/994153115/101217/173715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Perdido dos Piratas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/qv1HmwMzzWtkjbkefhD9fsgBLIQ.jpg" group-title="Séries | Netflix",O Reino Perdido dos Piratas S01 E02
+http://lxls.mx:80/series/994153115/101217/173714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Perdido dos Piratas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/9dHH63EBSvYjDwdKaSpgcJ4DMx4.jpg" group-title="Séries | Netflix",O Reino Perdido dos Piratas S01 E03
+http://lxls.mx:80/series/994153115/101217/173713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Perdido dos Piratas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/nw6huHKyFWGw7Zf519rWDTMvZ0k.jpg" group-title="Séries | Netflix",O Reino Perdido dos Piratas S01 E04
+http://lxls.mx:80/series/994153115/101217/173712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Perdido dos Piratas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/x1qIvuELNl45mBgPJHD5qimlWv8.jpg" group-title="Séries | Netflix",O Reino Perdido dos Piratas S01 E05
+http://lxls.mx:80/series/994153115/101217/173711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Perdido dos Piratas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/v7vBSiRhGXxbMLaXWIqilTbDwJV.jpg" group-title="Séries | Netflix",O Reino Perdido dos Piratas S01 E06
+http://lxls.mx:80/series/994153115/101217/173710.mp4

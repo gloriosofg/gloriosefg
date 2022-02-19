@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Lobista S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/wWUz0a6hHgwq61ENKD0I6HU7R0z.jpg" group-title="Séries | HBO Max",O Lobista S01 E01
+http://lxls.mx:80/series/994153115/101217/212737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobista S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/8EuuoJojttO2ysT2ICBMy54ZkvB.jpg" group-title="Séries | HBO Max",O Lobista S01 E02
+http://lxls.mx:80/series/994153115/101217/212736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobista S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/uOIVJIf0y4MvNXzxp1t9POv1SLV.jpg" group-title="Séries | HBO Max",O Lobista S01 E03
+http://lxls.mx:80/series/994153115/101217/212735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobista S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/rsl18tQNBdNbWXVYzubtE8AlepX.jpg" group-title="Séries | HBO Max",O Lobista S01 E04
+http://lxls.mx:80/series/994153115/101217/212734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobista S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | HBO Max",O Lobista S01 E05
+http://lxls.mx:80/series/994153115/101217/212733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobista S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | HBO Max",O Lobista S01 E06
+http://lxls.mx:80/series/994153115/101217/212732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobista S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | HBO Max",O Lobista S01 E07
+http://lxls.mx:80/series/994153115/101217/212731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobista S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | HBO Max",O Lobista S01 E08
+http://lxls.mx:80/series/994153115/101217/212730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobista S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | HBO Max",O Lobista S01 E09
+http://lxls.mx:80/series/994153115/101217/212729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lobista S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | HBO Max",O Lobista S01 E10
+http://lxls.mx:80/series/994153115/101217/212728.mp4

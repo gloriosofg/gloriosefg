@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Papa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/1qMucxo80X2bRxVfGVBIbL1da7l.jpg" group-title="Séries | Star+",O Jovem Papa S01 E01
+http://lxls.mx:80/series/994153115/101217/208867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Papa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/p4RmzqwMXWQBs1gyGJLCJl7qD79.jpg" group-title="Séries | Star+",O Jovem Papa S01 E02
+http://lxls.mx:80/series/994153115/101217/208866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Papa S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/mQClZVRAYpFtSu8YLcaBt9yiR2x.jpg" group-title="Séries | Star+",O Jovem Papa S01 E03
+http://lxls.mx:80/series/994153115/101217/208865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Papa S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/7wcXBXaoAgBmmaii6iKc3krhN5s.jpg" group-title="Séries | Star+",O Jovem Papa S01 E04
+http://lxls.mx:80/series/994153115/101217/208864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Papa S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ohrqr8z4jdyUyEvYG5vgRHRuQ9B.jpg" group-title="Séries | Star+",O Jovem Papa S01 E05
+http://lxls.mx:80/series/994153115/101217/208863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Papa S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/kCQHiArR0N82Hbt7mBZnxhgIGah.jpg" group-title="Séries | Star+",O Jovem Papa S01 E06
+http://lxls.mx:80/series/994153115/101217/208862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Papa S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/nK7c3C74WKyu3KxZGH2IhdpGtg0.jpg" group-title="Séries | Star+",O Jovem Papa S01 E07
+http://lxls.mx:80/series/994153115/101217/208861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Papa S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/z26dgkOsspDdOH6HinXxqmA1qmF.jpg" group-title="Séries | Star+",O Jovem Papa S01 E08
+http://lxls.mx:80/series/994153115/101217/208860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Papa S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/gznuBLJeKJodip65KQOWozQE8x1.jpg" group-title="Séries | Star+",O Jovem Papa S01 E09
+http://lxls.mx:80/series/994153115/101217/208859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jovem Papa S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/y4KI9MxdxUrp1NbGos8NyeKzB2E.jpg" group-title="Séries | Star+",O Jovem Papa S01 E10
+http://lxls.mx:80/series/994153115/101217/208858.mp4

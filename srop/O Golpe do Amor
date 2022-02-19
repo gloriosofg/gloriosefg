@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Golpe do Amor S01 E01" tvg-logo="http://lxls.mx:8080/images/feb7d6028ebefef5ece5da5f8410786a.jpg" group-title="Séries | Netflix",O Golpe do Amor S01 E01
+http://lxls.mx:80/series/994153115/101217/170533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Golpe do Amor S01 E02" tvg-logo="http://lxls.mx:8080/images/feb7d6028ebefef5ece5da5f8410786a.jpg" group-title="Séries | Netflix",O Golpe do Amor S01 E02
+http://lxls.mx:80/series/994153115/101217/170532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Golpe do Amor S01 E03" tvg-logo="http://lxls.mx:8080/images/feb7d6028ebefef5ece5da5f8410786a.jpg" group-title="Séries | Netflix",O Golpe do Amor S01 E03
+http://lxls.mx:80/series/994153115/101217/170531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Golpe do Amor S01 E04" tvg-logo="http://lxls.mx:8080/images/feb7d6028ebefef5ece5da5f8410786a.jpg" group-title="Séries | Netflix",O Golpe do Amor S01 E04
+http://lxls.mx:80/series/994153115/101217/170530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Golpe do Amor S01 E05" tvg-logo="http://lxls.mx:8080/images/feb7d6028ebefef5ece5da5f8410786a.jpg" group-title="Séries | Netflix",O Golpe do Amor S01 E05
+http://lxls.mx:80/series/994153115/101217/170529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Golpe do Amor S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/t8p0FK9zlpJ1s6ypd3Keygs2nHl.jpg" group-title="Séries | Netflix",O Golpe do Amor S01 E06
+http://lxls.mx:80/series/994153115/101217/170528.mp4

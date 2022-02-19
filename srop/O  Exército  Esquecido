@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O  Exército  Esquecido S01 E01" tvg-logo="http://lxls.mx:8080/images/214ab5e0504b1766908b5eab3d6f14b9.jpg" group-title="Séries | Amazon Prime",O  Exército  Esquecido S01 E01
+http://lxls.mx:80/series/994153115/101217/210000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O  Exército  Esquecido S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4GjgSbt7zVGaufa1FJh9l3DPvpt.jpg" group-title="Séries | Amazon Prime",O  Exército  Esquecido S01 E02
+http://lxls.mx:80/series/994153115/101217/209999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O  Exército  Esquecido S01 E03" tvg-logo="http://lxls.mx:8080/images/214ab5e0504b1766908b5eab3d6f14b9.jpg" group-title="Séries | Amazon Prime",O  Exército  Esquecido S01 E03
+http://lxls.mx:80/series/994153115/101217/209998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O  Exército  Esquecido S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/lfxHJMCFM1rX0Qc2r6PkHQ9KrDu.jpg" group-title="Séries | Amazon Prime",O  Exército  Esquecido S01 E04
+http://lxls.mx:80/series/994153115/101217/209997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O  Exército  Esquecido S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/qZR26rRtatQuSTbqOj9UGyhxqxL.jpg" group-title="Séries | Amazon Prime",O  Exército  Esquecido S01 E05
+http://lxls.mx:80/series/994153115/101217/209996.mp4

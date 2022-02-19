@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Maior Roubo de Arte de Todos os Tempos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/bqAUyJvG8stWPrxauoxSHgenL9p.jpg" group-title="Séries | Netflix",O Maior Roubo de Arte de Todos os Tempos S01 E01
+http://lxls.mx:80/series/994153115/101217/172211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Maior Roubo de Arte de Todos os Tempos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/bH8wtNhf31AzW900YpnGL8UdCdM.jpg" group-title="Séries | Netflix",O Maior Roubo de Arte de Todos os Tempos S01 E02
+http://lxls.mx:80/series/994153115/101217/172210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Maior Roubo de Arte de Todos os Tempos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/lr2bEVxexoINJKMviwgWCvUUeRI.jpg" group-title="Séries | Netflix",O Maior Roubo de Arte de Todos os Tempos S01 E03
+http://lxls.mx:80/series/994153115/101217/172209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Maior Roubo de Arte de Todos os Tempos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/50hHyUG9aDGRXOsgSLRX878J6Ll.jpg" group-title="Séries | Netflix",O Maior Roubo de Arte de Todos os Tempos S01 E04
+http://lxls.mx:80/series/994153115/101217/172208.mp4

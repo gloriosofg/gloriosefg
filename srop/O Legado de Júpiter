@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Legado de Júpiter S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/fkLyxnI9pKsfUoABbrb5z8xtmJJ.jpg" group-title="Séries | Netflix",O Legado de Júpiter S01 E01
+http://lxls.mx:80/series/994153115/101217/169431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Legado de Júpiter S01 E02" tvg-logo="http://lxls.mx:8080/images/3dc4cc768636f69ae01232855eb04fb1.jpg" group-title="Séries | Netflix",O Legado de Júpiter S01 E02
+http://lxls.mx:80/series/994153115/101217/169430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Legado de Júpiter S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/miskGgAVDWk3bfl6049OTcH4yyk.jpg" group-title="Séries | Netflix",O Legado de Júpiter S01 E03
+http://lxls.mx:80/series/994153115/101217/169429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Legado de Júpiter S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/zDiSZSb7Mq2oMJBEEXIqTzQtH9Y.jpg" group-title="Séries | Netflix",O Legado de Júpiter S01 E04
+http://lxls.mx:80/series/994153115/101217/169428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Legado de Júpiter S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/daLuedUIJKNmQBjXBccU46XF1Do.jpg" group-title="Séries | Netflix",O Legado de Júpiter S01 E05
+http://lxls.mx:80/series/994153115/101217/169427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Legado de Júpiter S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/eFVODVGmnV9f4z3PkZHdjoBPhNM.jpg" group-title="Séries | Netflix",O Legado de Júpiter S01 E06
+http://lxls.mx:80/series/994153115/101217/169426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Legado de Júpiter S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/bN4kx98cYf8tI8sClq6evnCMcEf.jpg" group-title="Séries | Netflix",O Legado de Júpiter S01 E07
+http://lxls.mx:80/series/994153115/101217/169425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Legado de Júpiter S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/nsyd0XggnfX0STjJTTxth7zk6hk.jpg" group-title="Séries | Netflix",O Legado de Júpiter S01 E08
+http://lxls.mx:80/series/994153115/101217/169424.mp4

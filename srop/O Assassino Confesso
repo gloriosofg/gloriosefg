@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/1IWIC2WOakrOIAiDfXIHqzA8J4a.jpg" group-title="Séries | Netflix",O Assassino Confesso S01 E01
+http://lxls.mx:80/series/994153115/101217/211706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/zKAQtnW80XFwu6rZTo1yEFAKZfC.jpg" group-title="Séries | Netflix",O Assassino Confesso S01 E02
+http://lxls.mx:80/series/994153115/101217/211705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E03" tvg-logo="http://lxls.mx:8080/imageS-A480a0ab896abfed7ff0ca7f5fdff8f2.jpg" group-title="Séries | Netflix",O Assassino Confesso S01 E03
+http://lxls.mx:80/series/994153115/101217/211704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/kebXWp8uBP5zseB33GBK4O7lSo0.jpg" group-title="Séries | Netflix",O Assassino Confesso S01 E04
+http://lxls.mx:80/series/994153115/101217/211703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Confesso S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/4gSwNsofYgKwvvgvz4DrgDIyvVr.jpg" group-title="Séries | Netflix",O Assassino Confesso S01 E05
+http://lxls.mx:80/series/994153115/101217/211702.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Homem das Castanhas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gtEg68XW1X5r76TzWG3l2zlh9IX.jpg" group-title="Séries | Netflix",O Homem das Castanhas S01 E01
+http://lxls.mx:80/series/994153115/101217/147696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem das Castanhas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/6BFYCAzaw4HONXAqIWkNUUVTQbJ.jpg" group-title="Séries | Netflix",O Homem das Castanhas S01 E02
+http://lxls.mx:80/series/994153115/101217/147695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem das Castanhas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/bL20yd7hEfkdSzntsefHSpe89vr.jpg" group-title="Séries | Netflix",O Homem das Castanhas S01 E03
+http://lxls.mx:80/series/994153115/101217/147694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem das Castanhas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/v4E1xiMv2n217SzDYPR5oxcmi1D.jpg" group-title="Séries | Netflix",O Homem das Castanhas S01 E04
+http://lxls.mx:80/series/994153115/101217/147693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem das Castanhas S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/qqg908EB8bkaWLI8MxWKsv4xNDV.jpg" group-title="Séries | Netflix",O Homem das Castanhas S01 E05
+http://lxls.mx:80/series/994153115/101217/147692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem das Castanhas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/lcxEeGhCA8kBjNpuw4nSvdITB57.jpg" group-title="Séries | Netflix",O Homem das Castanhas S01 E06
+http://lxls.mx:80/series/994153115/101217/147691.mp4

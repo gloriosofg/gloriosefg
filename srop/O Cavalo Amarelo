@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Cavalo Amarelo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/7FHGwdgTSZ4OO4QE5WCzCSLTZGm.jpg" group-title="Séries | Globoplay",O Cavalo Amarelo S01 E01
+http://lxls.mx:80/series/994153115/101217/178124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cavalo Amarelo S01 E02" tvg-logo="http://lxls.mx:8080/images/2b9b537027d7e0e6db11c5f9d69eddf0.jpg" group-title="Séries | Globoplay",O Cavalo Amarelo S01 E02
+http://lxls.mx:80/series/994153115/101217/178123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cavalo Amarelo S01 E03" tvg-logo="http://lxls.mx:8080/images/2b9b537027d7e0e6db11c5f9d69eddf0.jpg" group-title="Séries | Globoplay",O Cavalo Amarelo S01 E03
+http://lxls.mx:80/series/994153115/101217/178122.mp4

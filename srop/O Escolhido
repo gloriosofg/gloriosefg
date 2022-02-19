@@ -1,0 +1,27 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Escolhido S01 E01" tvg-logo="http://lxls.mx:8080/images/2905cfd837352c0c4489e65e7b524909.jpg" group-title="Séries | Netflix",O Escolhido S01 E01
+http://lxls.mx:80/series/994153115/101217/215169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escolhido S01 E02" tvg-logo="http://lxls.mx:8080/images/2905cfd837352c0c4489e65e7b524909.jpg" group-title="Séries | Netflix",O Escolhido S01 E02
+http://lxls.mx:80/series/994153115/101217/215168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escolhido S01 E03" tvg-logo="http://lxls.mx:8080/images/2905cfd837352c0c4489e65e7b524909.jpg" group-title="Séries | Netflix",O Escolhido S01 E03
+http://lxls.mx:80/series/994153115/101217/215167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escolhido S01 E04" tvg-logo="http://lxls.mx:8080/images/2905cfd837352c0c4489e65e7b524909.jpg" group-title="Séries | Netflix",O Escolhido S01 E04
+http://lxls.mx:80/series/994153115/101217/215166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escolhido S01 E05" tvg-logo="http://lxls.mx:8080/images/2905cfd837352c0c4489e65e7b524909.jpg" group-title="Séries | Netflix",O Escolhido S01 E05
+http://lxls.mx:80/series/994153115/101217/215165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escolhido S01 E06" tvg-logo="http://lxls.mx:8080/images/2905cfd837352c0c4489e65e7b524909.jpg" group-title="Séries | Netflix",O Escolhido S01 E06
+http://lxls.mx:80/series/994153115/101217/215164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escolhido S02 E01" tvg-logo="http://lxls.mx:8080/images/2905cfd837352c0c4489e65e7b524909.jpg" group-title="Séries | Netflix",O Escolhido S02 E01
+http://lxls.mx:80/series/994153115/101217/142521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escolhido S02 E02" tvg-logo="http://lxls.mx:8080/images/2905cfd837352c0c4489e65e7b524909.jpg" group-title="Séries | Netflix",O Escolhido S02 E02
+http://lxls.mx:80/series/994153115/101217/142520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escolhido S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",O Escolhido S02 E03
+http://lxls.mx:80/series/994153115/101217/142519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escolhido S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",O Escolhido S02 E04
+http://lxls.mx:80/series/994153115/101217/142518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escolhido S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",O Escolhido S02 E05
+http://lxls.mx:80/series/994153115/101217/142517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escolhido S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",O Escolhido S02 E06
+http://lxls.mx:80/series/994153115/101217/142516.mp4

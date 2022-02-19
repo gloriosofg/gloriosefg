@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Plano é Esse S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",O Plano é Esse S01 E01
+http://lxls.mx:80/series/994153115/101217/142152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Plano é Esse S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",O Plano é Esse S01 E02
+http://lxls.mx:80/series/994153115/101217/142151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Plano é Esse S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",O Plano é Esse S01 E03
+http://lxls.mx:80/series/994153115/101217/142150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Plano é Esse S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",O Plano é Esse S01 E04
+http://lxls.mx:80/series/994153115/101217/142149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Plano é Esse S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",O Plano é Esse S01 E05
+http://lxls.mx:80/series/994153115/101217/142148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Plano é Esse S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",O Plano é Esse S01 E06
+http://lxls.mx:80/series/994153115/101217/142147.mp4

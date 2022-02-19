@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo das Baleias S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/xewdYAj8J2rhG4wiIDlL2ztwoJE.jpg" group-title="Séries | Disney+",O Segredo das Baleias S01 E01
+http://lxls.mx:80/series/994153115/101217/170522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo das Baleias S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4pfdNkEa0VBZFAwd2qig7NufnA9.jpg" group-title="Séries | Disney+",O Segredo das Baleias S01 E02
+http://lxls.mx:80/series/994153115/101217/170521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo das Baleias S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ulicWrtYtMRe9yqF4zjj7uqLE6d.jpg" group-title="Séries | Disney+",O Segredo das Baleias S01 E03
+http://lxls.mx:80/series/994153115/101217/170520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo das Baleias S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/gItn7aabvQidzne5aL4nsUTJbeQ.jpg" group-title="Séries | Disney+",O Segredo das Baleias S01 E04
+http://lxls.mx:80/series/994153115/101217/170519.mp4

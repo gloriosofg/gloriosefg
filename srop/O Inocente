@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Inocente S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/4yL9VNX9IxoWXxbvNnv4WNTlGF7.jpg" group-title="Séries | Netflix",O Inocente S01 E01
+http://lxls.mx:80/series/994153115/101217/169732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Inocente S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/tajBTqpgonHJpk82jm9I830IWOm.jpg" group-title="Séries | Netflix",O Inocente S01 E02
+http://lxls.mx:80/series/994153115/101217/169731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Inocente S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/f12Xn70cuSljvxpJcNWxIsk5awY.jpg" group-title="Séries | Netflix",O Inocente S01 E03
+http://lxls.mx:80/series/994153115/101217/169730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Inocente S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dJE9BCPNOW5Di672mPlMVuuPVNY.jpg" group-title="Séries | Netflix",O Inocente S01 E04
+http://lxls.mx:80/series/994153115/101217/169729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Inocente S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/jUHgiInauwQSOYmgNZemVjylu1S.jpg" group-title="Séries | Netflix",O Inocente S01 E05
+http://lxls.mx:80/series/994153115/101217/169728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Inocente S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/vwNqk5T14S7BTJUs1FoW8iF8l9d.jpg" group-title="Séries | Netflix",O Inocente S01 E06
+http://lxls.mx:80/series/994153115/101217/169727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Inocente S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/4LCdnygQ5bXyWrb4aZfz2nL4A5j.jpg" group-title="Séries | Netflix",O Inocente S01 E07
+http://lxls.mx:80/series/994153115/101217/169726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Inocente S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/o2Xf958jMUS7H7ggZLt7qYyGTD.jpg" group-title="Séries | Netflix",O Inocente S01 E08
+http://lxls.mx:80/series/994153115/101217/169725.mp4

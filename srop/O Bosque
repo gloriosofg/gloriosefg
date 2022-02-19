@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Bosque S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/oNptPArY09uxFsAWGnfqBcckJgk.jpg" group-title="Séries | Netflix",O Bosque S01 E01
+http://lxls.mx:80/series/994153115/101217/220582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bosque S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/vBiotm6WV7uVQ0kjgD8Bz1G265o.jpg" group-title="Séries | Netflix",O Bosque S01 E02
+http://lxls.mx:80/series/994153115/101217/220581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bosque S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/b8mKm00IknQjFGcLh7vCZ8xScjH.jpg" group-title="Séries | Netflix",O Bosque S01 E03
+http://lxls.mx:80/series/994153115/101217/220580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bosque S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/kwBpJBMGh7ofyEVvvkqirBFvJMB.jpg" group-title="Séries | Netflix",O Bosque S01 E04
+http://lxls.mx:80/series/994153115/101217/220579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bosque S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/daGQyE1jHUGoAQWUlWpBM9au7KA.jpg" group-title="Séries | Netflix",O Bosque S01 E05
+http://lxls.mx:80/series/994153115/101217/220578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bosque S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/wY5A0UOhpnOPJfudn58BN3dT1ld.jpg" group-title="Séries | Netflix",O Bosque S01 E06
+http://lxls.mx:80/series/994153115/101217/220577.mp4

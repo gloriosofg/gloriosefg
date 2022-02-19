@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Centauros S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gpv0MmMtOwmsUzF4b578e6pGTJR.jpg" group-title="Séries | Netflix",O Mundo dos Centauros S01 E01
+http://lxls.mx:80/series/994153115/101217/154425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Centauros S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/5L2lUCbEO3ZSgTcQ9snkQ4PQjzh.jpg" group-title="Séries | Netflix",O Mundo dos Centauros S01 E02
+http://lxls.mx:80/series/994153115/101217/154423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Centauros S01 E03" tvg-logo="http://lxls.mx:8080/images/e2ba9490a71bb2d392b98ec4041e4cb2.jpg" group-title="Séries | Netflix",O Mundo dos Centauros S01 E03
+http://lxls.mx:80/series/994153115/101217/154421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Centauros S01 E04" tvg-logo="http://lxls.mx:8080/images/e2ba9490a71bb2d392b98ec4041e4cb2.jpg" group-title="Séries | Netflix",O Mundo dos Centauros S01 E04
+http://lxls.mx:80/series/994153115/101217/154418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Centauros S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/pMKmBN1ycqvhCQrx3dkNg4bAnYC.jpg" group-title="Séries | Netflix",O Mundo dos Centauros S01 E05
+http://lxls.mx:80/series/994153115/101217/154416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Centauros S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/dJmB3yyBrm3dogmrIQwenEN93Dg.jpg" group-title="Séries | Netflix",O Mundo dos Centauros S01 E06
+http://lxls.mx:80/series/994153115/101217/154413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Centauros S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/eLKXDcg7lNlZRL1v7FGwvnvO4y9.jpg" group-title="Séries | Netflix",O Mundo dos Centauros S01 E07
+http://lxls.mx:80/series/994153115/101217/154411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Centauros S01 E08" tvg-logo="http://lxls.mx:8080/images/e2ba9490a71bb2d392b98ec4041e4cb2.jpg" group-title="Séries | Netflix",O Mundo dos Centauros S01 E08
+http://lxls.mx:80/series/994153115/101217/154409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Centauros S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/ffjsSovQT233MshUpgoALTarrmW.jpg" group-title="Séries | Netflix",O Mundo dos Centauros S01 E09
+http://lxls.mx:80/series/994153115/101217/154407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Centauros S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/jcyIawge2c1GVFB9bp9BQoczohz.jpg" group-title="Séries | Netflix",O Mundo dos Centauros S01 E10
+http://lxls.mx:80/series/994153115/101217/154405.mp4

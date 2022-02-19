@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério das Mortes de Burari S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/wE6xyAgGocd3KiWfnOJgyBvQEoP.jpg" group-title="Séries | Netflix",O Mistério das Mortes de Burari S01 E01
+http://lxls.mx:80/series/994153115/101217/146855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério das Mortes de Burari S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/s59kq7JffooNX87e2BYQQQq24Xf.jpg" group-title="Séries | Netflix",O Mistério das Mortes de Burari S01 E02
+http://lxls.mx:80/series/994153115/101217/146854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério das Mortes de Burari S01 E03" tvg-logo="http://lxls.mx:8080/images/a85431dc96601ffd41e4edcfb2e3cb3c.jpg" group-title="Séries | Netflix",O Mistério das Mortes de Burari S01 E03
+http://lxls.mx:80/series/994153115/101217/146853.mp4

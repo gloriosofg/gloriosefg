@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Codigo Bill Gates S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/yIx3BRElI1skjwrSAiyMN2Tydsv.jpg" group-title="Séries | Netflix",O Codigo Bill Gates S01 E01
+http://lxls.mx:80/series/994153115/101217/212267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Codigo Bill Gates S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/i6hOIr5KRr89LjEUSPx0N2k6opd.jpg" group-title="Séries | Netflix",O Codigo Bill Gates S01 E02
+http://lxls.mx:80/series/994153115/101217/212266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Codigo Bill Gates S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/dVdWJnuGsYAzswjeA5ENpLWo0km.jpg" group-title="Séries | Netflix",O Codigo Bill Gates S01 E03
+http://lxls.mx:80/series/994153115/101217/212265.mp4

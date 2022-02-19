@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Animais S01 E01" tvg-logo="http://lxls.mx:8080/images/c4a6f6a0f5f1d2be912393084b932a70.jpg" group-title="Séries | Disney+",O Mundo dos Animais S01 E01
+http://lxls.mx:80/series/994153115/101217/151485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Animais S01 E02" tvg-logo="http://lxls.mx:8080/images/c4a6f6a0f5f1d2be912393084b932a70.jpg" group-title="Séries | Disney+",O Mundo dos Animais S01 E02
+http://lxls.mx:80/series/994153115/101217/151482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Animais S01 E03" tvg-logo="http://lxls.mx:8080/images/c4a6f6a0f5f1d2be912393084b932a70.jpg" group-title="Séries | Disney+",O Mundo dos Animais S01 E03
+http://lxls.mx:80/series/994153115/101217/151480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Animais S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/wNWdsMgjsWPcTTlCtMxxlWV2QYp.jpg" group-title="Séries | Disney+",O Mundo dos Animais S01 E04
+http://lxls.mx:80/series/994153115/101217/151477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Animais S01 E05" tvg-logo="http://lxls.mx:8080/images/c4a6f6a0f5f1d2be912393084b932a70.jpg" group-title="Séries | Disney+",O Mundo dos Animais S01 E05
+http://lxls.mx:80/series/994153115/101217/151475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mundo dos Animais S01 E06" tvg-logo="http://lxls.mx:8080/images/c4a6f6a0f5f1d2be912393084b932a70.jpg" group-title="Séries | Disney+",O Mundo dos Animais S01 E06
+http://lxls.mx:80/series/994153115/101217/151472.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Livro de Boba Fett S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/taTPQoXNrt8nmQf9blQUULDUZhl.jpg" group-title="Séries | Disney+",O Livro de Boba Fett S01 E01
+http://lxls.mx:80/series/994153115/101217/224098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro de Boba Fett S01 E02" tvg-logo="http://lxls.mx:8080/images/cbc69bae0b129b03c5c81dd859f2a940.jpg" group-title="Séries | Disney+",O Livro de Boba Fett S01 E02
+http://lxls.mx:80/series/994153115/101217/224251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro de Boba Fett S01 E03" tvg-logo="http://lxls.mx:8080/images/86c069bbe95a79831d5d799189b396a0.jpg" group-title="Séries | Disney+",O Livro de Boba Fett S01 E03
+http://lxls.mx:80/series/994153115/101217/224302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro de Boba Fett S01 E04" tvg-logo="http://lxls.mx:80/images/2d365cd67ec25c74a22ce88f567de106.jpg" group-title="Séries | Disney+",O Livro de Boba Fett S01 E04
+http://lxls.mx:80/series/994153115/101217/224960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro de Boba Fett S01 E05" tvg-logo="http://lxls.mx:80/images/6bec89add49d5527aacd4d3056685028.jpg" group-title="Séries | Disney+",O Livro de Boba Fett S01 E05
+http://lxls.mx:80/series/994153115/101217/224988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro de Boba Fett S01 E06" tvg-logo="http://lxls.mx:80/images/8ff98bbdcf603014d8d29c25d220cdf0.jpg" group-title="Séries | Disney+",O Livro de Boba Fett S01 E06
+http://lxls.mx:80/series/994153115/101217/233309.mp4

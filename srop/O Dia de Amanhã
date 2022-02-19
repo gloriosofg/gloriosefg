@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Dia de Amanhã S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eOqmp8HiD9e92T0ogbuDSRAgIQG.jpg" group-title="Séries | HBO Max",O Dia de Amanhã S01 E01
+http://lxls.mx:80/series/994153115/101217/203369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dia de Amanhã S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/aF15BxulvVlZn1YRLEF2Ico6sJG.jpg" group-title="Séries | HBO Max",O Dia de Amanhã S01 E02
+http://lxls.mx:80/series/994153115/101217/203368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dia de Amanhã S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/k87o6QNa5TDGcYX9gcPrpfrXRgr.jpg" group-title="Séries | HBO Max",O Dia de Amanhã S01 E03
+http://lxls.mx:80/series/994153115/101217/203367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dia de Amanhã S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/j1NuZYQqt7ohuShoGxgjEctySos.jpg" group-title="Séries | HBO Max",O Dia de Amanhã S01 E04
+http://lxls.mx:80/series/994153115/101217/203366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Dia de Amanhã S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/6QZTtBnfO6ltAEiAs0pMeEotAqA.jpg" group-title="Séries | HBO Max",O Dia de Amanhã S01 E05
+http://lxls.mx:80/series/994153115/101217/191798.mp4

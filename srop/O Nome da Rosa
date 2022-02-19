@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="O Nome da Rosa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/1PuffXgE5ju5OFAmzN3oDwtHGIa.jpg" group-title="Séries | Amazon Prime",O Nome da Rosa S01 E01
+http://lxls.mx:80/series/994153115/101217/181427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Nome da Rosa S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/8DnSUDqqUzTyaW9LKi1AliSRrA.jpg" group-title="Séries | Amazon Prime",O Nome da Rosa S01 E02
+http://lxls.mx:80/series/994153115/101217/181426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Nome da Rosa S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/6DLPSc9d4Rsea9XXzpZ8AuXXL1T.jpg" group-title="Séries | Amazon Prime",O Nome da Rosa S01 E03
+http://lxls.mx:80/series/994153115/101217/181425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Nome da Rosa S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/b6vbYsUNoP5P9raQaKyBNatmkBr.jpg" group-title="Séries | Amazon Prime",O Nome da Rosa S01 E04
+http://lxls.mx:80/series/994153115/101217/181424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Nome da Rosa S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/6V45Z5fn0pneDUR6NUnAR8OiFUv.jpg" group-title="Séries | Amazon Prime",O Nome da Rosa S01 E05
+http://lxls.mx:80/series/994153115/101217/181423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Nome da Rosa S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/DfSD4cCGyQq4keMexzdBJXl5jc.jpg" group-title="Séries | Amazon Prime",O Nome da Rosa S01 E06
+http://lxls.mx:80/series/994153115/101217/181422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Nome da Rosa S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/vW1UcYN6rUUUILeGkQh7R8HzHLy.jpg" group-title="Séries | Amazon Prime",O Nome da Rosa S01 E07
+http://lxls.mx:80/series/994153115/101217/181421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Nome da Rosa S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/vZtHcPBAHST2P6kOdjVKO9MxT1y.jpg" group-title="Séries | Amazon Prime",O Nome da Rosa S01 E08
+http://lxls.mx:80/series/994153115/101217/181420.mp4
