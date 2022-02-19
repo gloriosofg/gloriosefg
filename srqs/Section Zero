@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Section Zero S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/hZsxnRJACURFVGZTn2JQPmcRChK.jpg" group-title="Séries | Amazon Prime",Section Zero S01 E01
+http://lxls.mx:80/series/994153115/101217/212998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Section Zero S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/vKUTCJl5ZWeAHOZux6WMR52Pz1k.jpg" group-title="Séries | Amazon Prime",Section Zero S01 E02
+http://lxls.mx:80/series/994153115/101217/212997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Section Zero S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/oBuOhNlKDgnazEgmGwayICRKRaM.jpg" group-title="Séries | Amazon Prime",Section Zero S01 E03
+http://lxls.mx:80/series/994153115/101217/212996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Section Zero S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/xleujejWJpMJlbuvZLyeM0OvEcU.jpg" group-title="Séries | Amazon Prime",Section Zero S01 E04
+http://lxls.mx:80/series/994153115/101217/212995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Section Zero S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/vhOxMLsH292HDmdsL2UrM0Vjhsg.jpg" group-title="Séries | Amazon Prime",Section Zero S01 E05
+http://lxls.mx:80/series/994153115/101217/212994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Section Zero S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/7382F0nO6vhB5AFX4BBBYtohLnT.jpg" group-title="Séries | Amazon Prime",Section Zero S01 E06
+http://lxls.mx:80/series/994153115/101217/212993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Section Zero S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/9OxrD5hfa3ImrlLzkLiLhbmT7LR.jpg" group-title="Séries | Amazon Prime",Section Zero S01 E07
+http://lxls.mx:80/series/994153115/101217/212992.mp4

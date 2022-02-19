@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Run the World S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/1Y73bWEQAccf1w8riMq68q2wij3.jpg" group-title="Séries | Amazon Prime",Run the World S01 E01
+http://lxls.mx:80/series/994153115/101217/155592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Run the World S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/jQCsYyi46vSvBCmiJAraJQxElpG.jpg" group-title="Séries | Amazon Prime",Run the World S01 E02
+http://lxls.mx:80/series/994153115/101217/155589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Run the World S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/wEJGMECaJIwgfPa6r7JscUjDAk0.jpg" group-title="Séries | Amazon Prime",Run the World S01 E03
+http://lxls.mx:80/series/994153115/101217/155587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Run the World S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/1prv0OrrhIH58dfUO79gVzbgk4M.jpg" group-title="Séries | Amazon Prime",Run the World S01 E04
+http://lxls.mx:80/series/994153115/101217/155584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Run the World S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/mYjrwNCE9nh6WHoFvJPRO2w6MCV.jpg" group-title="Séries | Amazon Prime",Run the World S01 E05
+http://lxls.mx:80/series/994153115/101217/155582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Run the World S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/10F2JUkO9jF9vQQETtuxRLx0Hui.jpg" group-title="Séries | Amazon Prime",Run the World S01 E06
+http://lxls.mx:80/series/994153115/101217/155580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Run the World S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/dfkP6mrC936JBdjb8itjzEcVw0x.jpg" group-title="Séries | Amazon Prime",Run the World S01 E07
+http://lxls.mx:80/series/994153115/101217/155578.mp4

@@ -1,0 +1,21 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Seguidores S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/WyB66ypU6oMcADClmMhyIZgCXr.jpg" group-title="Séries | Netflix",Seguidores S01 E01
+http://lxls.mx:80/series/994153115/101217/208634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seguidores S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/sjIMGSqQxMtiNJ8SVwGTPkR3PFu.jpg" group-title="Séries | Netflix",Seguidores S01 E02
+http://lxls.mx:80/series/994153115/101217/208633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seguidores S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/n7tT5oPMsFGeJ5oQX2KRAkEb5Jb.jpg" group-title="Séries | Netflix",Seguidores S01 E03
+http://lxls.mx:80/series/994153115/101217/208632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seguidores S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/AuyAOo6PZG18wQ6ndqty7cEQcHZ.jpg" group-title="Séries | Netflix",Seguidores S01 E04
+http://lxls.mx:80/series/994153115/101217/208631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seguidores S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/sL8ldqFmfJTqhI1nypr9fG83zcQ.jpg" group-title="Séries | Netflix",Seguidores S01 E05
+http://lxls.mx:80/series/994153115/101217/208630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seguidores S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/t117JtpuOlMODvVpUxcBRPlH4AT.jpg" group-title="Séries | Netflix",Seguidores S01 E06
+http://lxls.mx:80/series/994153115/101217/208629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seguidores S01 E07" tvg-logo="http://lxls.mx:8080/images/d18573243390f4895f2560ed77ba63bb.jpg" group-title="Séries | Netflix",Seguidores S01 E07
+http://lxls.mx:80/series/994153115/101217/208628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seguidores S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/2WBy7eTsDYLlRHtVM3XCHtUZEhv.jpg" group-title="Séries | Netflix",Seguidores S01 E08
+http://lxls.mx:80/series/994153115/101217/208627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seguidores S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/pUEel3oGEX8vF5BFMIhmpeyYmvf.jpg" group-title="Séries | Netflix",Seguidores S01 E09
+http://lxls.mx:80/series/994153115/101217/208626.mp4

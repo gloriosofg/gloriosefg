@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Restaurantes em Risco S01 E01" tvg-logo="http://lxls.mx:8080/imageS-A76b8d469556349a3f97251ad0eb8256.jpg" group-title="Séries | Netflix",Restaurantes em Risco S01 E01
+http://lxls.mx:80/series/994153115/101217/208036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Restaurantes em Risco S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/8m2bGpcUUoWSoiEg59BKiYONuzT.jpg" group-title="Séries | Netflix",Restaurantes em Risco S01 E02
+http://lxls.mx:80/series/994153115/101217/208035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Restaurantes em Risco S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/e0GnEyAn3pNmCaM6lJQUv3xHPaA.jpg" group-title="Séries | Netflix",Restaurantes em Risco S01 E03
+http://lxls.mx:80/series/994153115/101217/208034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Restaurantes em Risco S01 E04" tvg-logo="http://lxls.mx:8080/imageS-A76b8d469556349a3f97251ad0eb8256.jpg" group-title="Séries | Netflix",Restaurantes em Risco S01 E04
+http://lxls.mx:80/series/994153115/101217/208033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Restaurantes em Risco S01 E05" tvg-logo="http://lxls.mx:8080/imageS-A76b8d469556349a3f97251ad0eb8256.jpg" group-title="Séries | Netflix",Restaurantes em Risco S01 E05
+http://lxls.mx:80/series/994153115/101217/208032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Restaurantes em Risco S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/p7YJoWxKz5jELILMqsAV41mVrWr.jpg" group-title="Séries | Netflix",Restaurantes em Risco S01 E06
+http://lxls.mx:80/series/994153115/101217/208031.mp4

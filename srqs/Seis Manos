@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Seis Manos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/p4KGFH36yf42oj5yGi0c2CELM8I.jpg" group-title="Séries | Netflix",Seis Manos S01 E01
+http://lxls.mx:80/series/994153115/101217/212205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seis Manos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/qrFiLNzRN6aUp8zMpBGytHoTlqZ.jpg" group-title="Séries | Netflix",Seis Manos S01 E02
+http://lxls.mx:80/series/994153115/101217/212204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seis Manos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/3P1xi8bTiIOqQnIL9Vyb9ehximV.jpg" group-title="Séries | Netflix",Seis Manos S01 E03
+http://lxls.mx:80/series/994153115/101217/212203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seis Manos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/hCf8BzTDNA4qEQdZfxpoplI680q.jpg" group-title="Séries | Netflix",Seis Manos S01 E04
+http://lxls.mx:80/series/994153115/101217/212202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seis Manos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/cPtizXrpK3Xadk6RtwqkmiJARce.jpg" group-title="Séries | Netflix",Seis Manos S01 E05
+http://lxls.mx:80/series/994153115/101217/212201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seis Manos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/euc1bIsFzZW07UoVl9o3jbR3uLY.jpg" group-title="Séries | Netflix",Seis Manos S01 E06
+http://lxls.mx:80/series/994153115/101217/212200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seis Manos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/vB5qKkxyfei4PcttwJpUtJL5bYI.jpg" group-title="Séries | Netflix",Seis Manos S01 E07
+http://lxls.mx:80/series/994153115/101217/212199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seis Manos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/d6wLAB288qqMo9dnZP8gItRELUH.jpg" group-title="Séries | Netflix",Seis Manos S01 E08
+http://lxls.mx:80/series/994153115/101217/212198.mp4

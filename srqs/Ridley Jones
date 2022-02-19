@@ -1,0 +1,25 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Ridley Jones S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/3WbMsAXLsZtAujT4cM4Inus3hSD.jpg" group-title="Séries | Netflix",Ridley Jones S01 E01
+http://lxls.mx:80/series/994153115/101217/160559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ridley Jones S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9iGXOdsnfFe89B0I98HowM9DzX5.jpg" group-title="Séries | Netflix",Ridley Jones S01 E02
+http://lxls.mx:80/series/994153115/101217/160557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ridley Jones S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/9ZL5Ps5th7lS8yOb5F84qmlzkET.jpg" group-title="Séries | Netflix",Ridley Jones S01 E03
+http://lxls.mx:80/series/994153115/101217/160555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ridley Jones S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/wk5hxTIqrOATBrDxgf1FQzs7JlO.jpg" group-title="Séries | Netflix",Ridley Jones S01 E04
+http://lxls.mx:80/series/994153115/101217/160553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ridley Jones S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8VHYND0woL7tPZPoNlzA2rJ4gG.jpg" group-title="Séries | Netflix",Ridley Jones S01 E05
+http://lxls.mx:80/series/994153115/101217/160551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ridley Jones S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/kfmFbxo2XrgRUAjF2ZLQG3Hau5J.jpg" group-title="Séries | Netflix",Ridley Jones S01 E06
+http://lxls.mx:80/series/994153115/101217/160549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ridley Jones S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",Ridley Jones S02 E01
+http://lxls.mx:80/series/994153115/101217/143997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ridley Jones S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",Ridley Jones S02 E02
+http://lxls.mx:80/series/994153115/101217/143996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ridley Jones S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",Ridley Jones S02 E03
+http://lxls.mx:80/series/994153115/101217/143995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ridley Jones S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",Ridley Jones S02 E04
+http://lxls.mx:80/series/994153115/101217/143994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ridley Jones S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Netflix",Ridley Jones S02 E05
+http://lxls.mx:80/series/994153115/101217/143993.mp4

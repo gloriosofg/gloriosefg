@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Rumo às  Estrelas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/1KzinGfqrATF9T7kR1IU1iK1DWV.jpg" group-title="Séries | Star+",Rumo às  Estrelas S01 E01
+http://lxls.mx:80/series/994153115/101217/147180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rumo às  Estrelas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/mgNpg0PkfFMP1b3UDZOAi0Ji3Dh.jpg" group-title="Séries | Star+",Rumo às  Estrelas S01 E02
+http://lxls.mx:80/series/994153115/101217/147179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rumo às  Estrelas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/9TlwtWeGOoezcBvY1PJiJ5oc0YP.jpg" group-title="Séries | Star+",Rumo às  Estrelas S01 E03
+http://lxls.mx:80/series/994153115/101217/147178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rumo às  Estrelas S01 E04" tvg-logo="http://lxls.mx:8080/images/c29a6612160b9d0301f20c473cf062d9.jpg" group-title="Séries | Star+",Rumo às  Estrelas S01 E04
+http://lxls.mx:80/series/994153115/101217/147177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rumo às  Estrelas S01 E05" tvg-logo="http://lxls.mx:8080/images/c29a6612160b9d0301f20c473cf062d9.jpg" group-title="Séries | Star+",Rumo às  Estrelas S01 E05
+http://lxls.mx:80/series/994153115/101217/147176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rumo às  Estrelas S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/8M2eCH07V2UsaO27HKd9Xka1g12.jpg" group-title="Séries | Star+",Rumo às  Estrelas S01 E06
+http://lxls.mx:80/series/994153115/101217/147175.mp4

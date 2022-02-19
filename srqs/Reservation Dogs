@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Reservation Dogs S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/6zTTC1lHHOGorVcTDzWi0UsGwwo.jpg" group-title="Séries | Star+",Reservation Dogs S01 E01
+http://lxls.mx:80/series/994153115/101217/142347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reservation Dogs S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/A8kae2xsXlLUYW181ukmAXfWAlK.jpg" group-title="Séries | Star+",Reservation Dogs S01 E02
+http://lxls.mx:80/series/994153115/101217/142346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reservation Dogs S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ig0zfsWBK09LEdmc4FrKh1avzpw.jpg" group-title="Séries | Star+",Reservation Dogs S01 E03
+http://lxls.mx:80/series/994153115/101217/142345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reservation Dogs S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/72dsnJDYsBPhrT3SpSKdstIgCku.jpg" group-title="Séries | Star+",Reservation Dogs S01 E04
+http://lxls.mx:80/series/994153115/101217/142344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reservation Dogs S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/x2RIvsU2oKN9NCuKEIj3GjPvacc.jpg" group-title="Séries | Star+",Reservation Dogs S01 E05
+http://lxls.mx:80/series/994153115/101217/142343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reservation Dogs S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/76tKWLjOKWo556mVndVbCwDM2bg.jpg" group-title="Séries | Star+",Reservation Dogs S01 E06
+http://lxls.mx:80/series/994153115/101217/142342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reservation Dogs S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/1aGJBq5A4qGq2BXJtS6zdEknvLZ.jpg" group-title="Séries | Star+",Reservation Dogs S01 E07
+http://lxls.mx:80/series/994153115/101217/142341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reservation Dogs S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/8qcWhiKVToAb2IWgNm1R1g9F364.jpg" group-title="Séries | Star+",Reservation Dogs S01 E08
+http://lxls.mx:80/series/994153115/101217/142340.mp4

@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Q No Olho da Tempestade S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/2cIcrUzA7UhEHc7oDhF1V19AdIJ.jpg" group-title="Séries | HBO Max",Q No Olho da Tempestade S01 E01
+http://lxls.mx:80/series/994153115/101217/146213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Q No Olho da Tempestade S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/2YY2Rj5nAkSTDBFSeuxLOADx2dy.jpg" group-title="Séries | HBO Max",Q No Olho da Tempestade S01 E02
+http://lxls.mx:80/series/994153115/101217/146212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Q No Olho da Tempestade S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/95hXM156XmQOIYYnHXjJZO1G9GB.jpg" group-title="Séries | HBO Max",Q No Olho da Tempestade S01 E03
+http://lxls.mx:80/series/994153115/101217/146211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Q No Olho da Tempestade S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/Abcvh00hQKo4ILrQ8KnSaEwZaU5.jpg" group-title="Séries | HBO Max",Q No Olho da Tempestade S01 E04
+http://lxls.mx:80/series/994153115/101217/146210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Q No Olho da Tempestade S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3iFImmylWVRQuu3xQdjcHEBPESL.jpg" group-title="Séries | HBO Max",Q No Olho da Tempestade S01 E05
+http://lxls.mx:80/series/994153115/101217/146209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Q No Olho da Tempestade S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/zd6EhTTQIuj9aCc0trFPyuQRuCM.jpg" group-title="Séries | HBO Max",Q No Olho da Tempestade S01 E06
+http://lxls.mx:80/series/994153115/101217/146208.mp4

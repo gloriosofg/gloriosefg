@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Schmigadoon S01 E01" tvg-logo="http://lxls.mx:8080/images/1f893757d6ff74a40ec50b28247751af.jpg" group-title="Séries | Comédia",Schmigadoon S01 E01
+http://lxls.mx:80/series/994153115/101217/159900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Schmigadoon S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/uLyNB6bDgda5cmQ97UA0ODjub4N.jpg" group-title="Séries | Comédia",Schmigadoon S01 E02
+http://lxls.mx:80/series/994153115/101217/159899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Schmigadoon S01 E03" tvg-logo="http://lxls.mx:8080/images/1f893757d6ff74a40ec50b28247751af.jpg" group-title="Séries | Comédia",Schmigadoon S01 E03
+http://lxls.mx:80/series/994153115/101217/149747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Schmigadoon S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/gwRopwF6CaofYS3pIJtvusuIN7l.jpg" group-title="Séries | Comédia",Schmigadoon S01 E04
+http://lxls.mx:80/series/994153115/101217/149745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Schmigadoon S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/vMMZuMzd9ZkZ8BHESazsDfD0wgV.jpg" group-title="Séries | Comédia",Schmigadoon S01 E05
+http://lxls.mx:80/series/994153115/101217/149742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Schmigadoon S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/1Uk9AYJ5qQiQq4Z6Qf38CEBvoIk.jpg" group-title="Séries | Comédia",Schmigadoon S01 E06
+http://lxls.mx:80/series/994153115/101217/149740.mp4

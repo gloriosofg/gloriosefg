@@ -1,0 +1,31 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/jBA1vnQQQEnu71tYFiLGCRIhXMD.jpg" group-title="Séries | Globoplay",Rotas do Odio S01 E01
+http://lxls.mx:80/series/994153115/101217/214312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/p3b9WWBQiCzchK0g1xLn5TKttpS.jpg" group-title="Séries | Globoplay",Rotas do Odio S01 E02
+http://lxls.mx:80/series/994153115/101217/214311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/q4qUN3AWgQ4EMmkhhfmK7WTGRjI.jpg" group-title="Séries | Globoplay",Rotas do Odio S01 E03
+http://lxls.mx:80/series/994153115/101217/214310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/xKqsDoXc49hUSlhRDppxdfrONby.jpg" group-title="Séries | Globoplay",Rotas do Odio S01 E04
+http://lxls.mx:80/series/994153115/101217/214309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3SEOSrNFwPpSPeI3L7el4Siy5zN.jpg" group-title="Séries | Globoplay",Rotas do Odio S01 E05
+http://lxls.mx:80/series/994153115/101217/214308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/zUTRuVJvuafqQtZmEoAfGPZvMhB.jpg" group-title="Séries | Globoplay",Rotas do Odio S02 E01
+http://lxls.mx:80/series/994153115/101217/181480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/x1nCHtrLliTbZRn7JYjcJ2E0HM9.jpg" group-title="Séries | Globoplay",Rotas do Odio S02 E02
+http://lxls.mx:80/series/994153115/101217/181479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/4EueyYvOnW5b1GFRYB9OxGCKUW0.jpg" group-title="Séries | Globoplay",Rotas do Odio S02 E03
+http://lxls.mx:80/series/994153115/101217/181478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/hH88HoMwFauZXeWSEckrWcXZ8OO.jpg" group-title="Séries | Globoplay",Rotas do Odio S02 E04
+http://lxls.mx:80/series/994153115/101217/181477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8QBNDmhorebnPpO7TRMcYPl3Xsh.jpg" group-title="Séries | Globoplay",Rotas do Odio S02 E05
+http://lxls.mx:80/series/994153115/101217/181476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/cJDnFfIpr0Ey9AdL7SdwYuiYH6q.jpg" group-title="Séries | Globoplay",Rotas do Odio S03 E01
+http://lxls.mx:80/series/994153115/101217/178924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/rkWGbCCTekbfsLDBYqXYPfLMfmU.jpg" group-title="Séries | Globoplay",Rotas do Odio S03 E02
+http://lxls.mx:80/series/994153115/101217/178923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/cU30tRrz3wUzhwQkHvDJPLiXtvI.jpg" group-title="Séries | Globoplay",Rotas do Odio S03 E03
+http://lxls.mx:80/series/994153115/101217/178922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rotas do Odio S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/3Sxl566FMOjfdEtmgSFRLELJmvb.jpg" group-title="Séries | Globoplay",Rotas do Odio S03 E04
+http://lxls.mx:80/series/994153115/101217/178921.mp4

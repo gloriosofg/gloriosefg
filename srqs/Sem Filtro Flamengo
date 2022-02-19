@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Sem Filtro Flamengo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Documentários",Sem Filtro Flamengo S01 E01
+http://lxls.mx:80/series/994153115/101217/211687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Filtro Flamengo S01 E02" tvg-logo="http://lxls.mx:8080/images/28c20680172f59d28d98614bacc9b61c.jpg" group-title="Séries | Documentários",Sem Filtro Flamengo S01 E02
+http://lxls.mx:80/series/994153115/101217/211686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Filtro Flamengo S01 E03" tvg-logo="http://lxls.mx:8080/images/28c20680172f59d28d98614bacc9b61c.jpg" group-title="Séries | Documentários",Sem Filtro Flamengo S01 E03
+http://lxls.mx:80/series/994153115/101217/211685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Filtro Flamengo S01 E04" tvg-logo="http://lxls.mx:8080/images/28c20680172f59d28d98614bacc9b61c.jpg" group-title="Séries | Documentários",Sem Filtro Flamengo S01 E04
+http://lxls.mx:80/series/994153115/101217/211684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Filtro Flamengo S01 E05" tvg-logo="http://lxls.mx:8080/images/28c20680172f59d28d98614bacc9b61c.jpg" group-title="Séries | Documentários",Sem Filtro Flamengo S01 E05
+http://lxls.mx:80/series/994153115/101217/211683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Filtro Flamengo S01 E06" tvg-logo="http://lxls.mx:8080/images/28c20680172f59d28d98614bacc9b61c.jpg" group-title="Séries | Documentários",Sem Filtro Flamengo S01 E06
+http://lxls.mx:80/series/994153115/101217/211682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Filtro Flamengo S01 E07" tvg-logo="http://lxls.mx:8080/images/28c20680172f59d28d98614bacc9b61c.jpg" group-title="Séries | Documentários",Sem Filtro Flamengo S01 E07
+http://lxls.mx:80/series/994153115/101217/211681.mp4

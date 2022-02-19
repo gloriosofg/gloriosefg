@@ -1,0 +1,19 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Ratched S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gdmwItCSR0FHpiyDfHa18BkTLRj.jpg" group-title="Séries | Netflix",Ratched S01 E01
+http://lxls.mx:80/series/994153115/101217/187508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ratched S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/sSsQdp3XwnHzb26J8mlgZcXPVUV.jpg" group-title="Séries | Netflix",Ratched S01 E02
+http://lxls.mx:80/series/994153115/101217/187507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ratched S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ycyvPzplRvfbaCXxRxSWjFcyzWQ.jpg" group-title="Séries | Netflix",Ratched S01 E03
+http://lxls.mx:80/series/994153115/101217/187506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ratched S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/C6Nc1Kq4YOblHckuc7GCxHjGoO.jpg" group-title="Séries | Netflix",Ratched S01 E04
+http://lxls.mx:80/series/994153115/101217/187505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ratched S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/nqDtRTRBIrMKu2GJs1WFik7exdt.jpg" group-title="Séries | Netflix",Ratched S01 E05
+http://lxls.mx:80/series/994153115/101217/187504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ratched S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/7kLx8UOC7kQsGq13yCMLKPUQexS.jpg" group-title="Séries | Netflix",Ratched S01 E06
+http://lxls.mx:80/series/994153115/101217/187503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ratched S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/5WvpzF3ANz7o7ITYJOvy4ichFvt.jpg" group-title="Séries | Netflix",Ratched S01 E07
+http://lxls.mx:80/series/994153115/101217/187502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ratched S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/e346ZCl0jUwXEUojQOtQZtvlOeS.jpg" group-title="Séries | Netflix",Ratched S01 E08
+http://lxls.mx:80/series/994153115/101217/187501.mp4

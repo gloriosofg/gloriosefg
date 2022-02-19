@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Scenes from a Marriage S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/5bfo4xn0x8dksNmo0rBOBwkdb8l.jpg" group-title="Séries | HBO Max",Scenes from a Marriage S01 E01
+http://lxls.mx:80/series/994153115/101217/147830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scenes from a Marriage S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/x1OJkp8LWK7oKEG5CMFZ3PnHlqo.jpg" group-title="Séries | HBO Max",Scenes from a Marriage S01 E02
+http://lxls.mx:80/series/994153115/101217/147829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scenes from a Marriage S01 E03" tvg-logo="http://lxls.mx:8080/images/4901d953d68dd527549b355e24a234b5.jpg" group-title="Séries | HBO Max",Scenes from a Marriage S01 E03
+http://lxls.mx:80/series/994153115/101217/147517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scenes from a Marriage S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/8op4ZPAf01m9iptn0ssZ0zDAuRu.jpg" group-title="Séries | HBO Max",Scenes from a Marriage S01 E04
+http://lxls.mx:80/series/994153115/101217/147498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scenes from a Marriage S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/oKu4kIfTyCJFuFVG1u8B7D36y0S.jpg" group-title="Séries | HBO Max",Scenes from a Marriage S01 E05
+http://lxls.mx:80/series/994153115/101217/146589.mp4

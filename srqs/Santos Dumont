@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Santos Dumont S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/vgn9s3F9IXdNnN4mKEo8fxudI1K.jpg" group-title="Séries | HBO Max",Santos Dumont S01 E01
+http://lxls.mx:80/series/994153115/101217/212057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santos Dumont S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/p3bum5a4cNpzSn3Avplm8Tni65K.jpg" group-title="Séries | HBO Max",Santos Dumont S01 E02
+http://lxls.mx:80/series/994153115/101217/212056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santos Dumont S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/vCGbRjUO9JaBRFz7KM2UE5ZJwpJ.jpg" group-title="Séries | HBO Max",Santos Dumont S01 E03
+http://lxls.mx:80/series/994153115/101217/212055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santos Dumont S01 E04" tvg-logo="http://lxls.mx:8080/images/3745406410bf6840d31729638f09561b.jpg" group-title="Séries | HBO Max",Santos Dumont S01 E04
+http://lxls.mx:80/series/994153115/101217/212054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santos Dumont S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | HBO Max",Santos Dumont S01 E05
+http://lxls.mx:80/series/994153115/101217/211874.mp4

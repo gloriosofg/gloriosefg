@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Rio Heroes S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/j60Os0AQv9Ho85WvapNhWMXYzTr.jpg" group-title="Séries | Globoplay",Rio Heroes S01 E01
+http://lxls.mx:80/series/994153115/101217/213123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rio Heroes S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/tSlDSbH4w3eDSO4pBkkAKPoUcYz.jpg" group-title="Séries | Globoplay",Rio Heroes S01 E02
+http://lxls.mx:80/series/994153115/101217/213122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rio Heroes S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/7snFanBF5S1xZWcURerUnjpVHSR.jpg" group-title="Séries | Globoplay",Rio Heroes S01 E03
+http://lxls.mx:80/series/994153115/101217/213121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rio Heroes S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ezzFGo3C6TzDaOWP3iqvsx9MrfU.jpg" group-title="Séries | Globoplay",Rio Heroes S01 E04
+http://lxls.mx:80/series/994153115/101217/213120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rio Heroes S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/hzlephQqTqect43KuXkRd8MrGre.jpg" group-title="Séries | Globoplay",Rio Heroes S01 E05
+http://lxls.mx:80/series/994153115/101217/213119.mp4

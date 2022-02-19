@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Romulus S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/udFS6QiYZkIFfFJfHq1hE18ag6z.jpg" group-title="Séries | HBO Max",Romulus S01 E01
+http://lxls.mx:80/series/994153115/101217/224056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romulus S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/4mDLAfNti8bkzOq9TXIJJ3UYJJp.jpg" group-title="Séries | HBO Max",Romulus S01 E02
+http://lxls.mx:80/series/994153115/101217/224055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romulus S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/AE2Hlop7LNkklSsjeTCdK3IfZo.jpg" group-title="Séries | HBO Max",Romulus S01 E03
+http://lxls.mx:80/series/994153115/101217/224054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romulus S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/fPrIdNDrdM7EDaQgQbYJYtapDJU.jpg" group-title="Séries | HBO Max",Romulus S01 E04
+http://lxls.mx:80/series/994153115/101217/224053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romulus S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/o9P0qujdXNUurhMsZXgliPGAyAw.jpg" group-title="Séries | HBO Max",Romulus S01 E05
+http://lxls.mx:80/series/994153115/101217/224052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romulus S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/bcBKHDrPDRKKGmM3Z4pTRh2j7Kb.jpg" group-title="Séries | HBO Max",Romulus S01 E06
+http://lxls.mx:80/series/994153115/101217/224051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romulus S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/lS10heAWuz50eDEDCxoAWvEiv7J.jpg" group-title="Séries | HBO Max",Romulus S01 E07
+http://lxls.mx:80/series/994153115/101217/224050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romulus S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/kx0CT5DDFgSJP6JLVcaBX1ZN3Jx.jpg" group-title="Séries | HBO Max",Romulus S01 E08
+http://lxls.mx:80/series/994153115/101217/224049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romulus S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/qW1tVe9GskcHvQl1GSWQS4mOCtU.jpg" group-title="Séries | HBO Max",Romulus S01 E09
+http://lxls.mx:80/series/994153115/101217/224048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romulus S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/6XQHrxL49jW16YVqWBQFkMERyA3.jpg" group-title="Séries | HBO Max",Romulus S01 E10
+http://lxls.mx:80/series/994153115/101217/224047.mp4

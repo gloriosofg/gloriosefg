@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Queen Sono S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eIGvP7TQE66f4XlxBXoptEXCw7G.jpg" group-title="Séries | Netflix",Queen Sono S01 E01
+http://lxls.mx:80/series/994153115/101217/208042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Queen Sono S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/r7y5bCYaJIz3r4lQFiTv8qgm2k4.jpg" group-title="Séries | Netflix",Queen Sono S01 E02
+http://lxls.mx:80/series/994153115/101217/208041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Queen Sono S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/nExJSIrpEDFJrt1BIFhjgVYUQue.jpg" group-title="Séries | Netflix",Queen Sono S01 E03
+http://lxls.mx:80/series/994153115/101217/208040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Queen Sono S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/z9MD66m86IeEhdt42VhS5lvnmGv.jpg" group-title="Séries | Netflix",Queen Sono S01 E04
+http://lxls.mx:80/series/994153115/101217/208039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Queen Sono S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/cZ81jpmkFPkNYdtyb7Y3PcUl5X4.jpg" group-title="Séries | Netflix",Queen Sono S01 E05
+http://lxls.mx:80/series/994153115/101217/208038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Queen Sono S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/dLF8PhpmUzESFWFbK5yet3XdEqG.jpg" group-title="Séries | Netflix",Queen Sono S01 E06
+http://lxls.mx:80/series/994153115/101217/208037.mp4

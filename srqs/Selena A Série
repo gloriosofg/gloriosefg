@@ -1,0 +1,21 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Selena A Série S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/inOAEeK6MfIsqCiARDxBEPqoHgH.jpg" group-title="Séries | Netflix",Selena A Série S01 E01
+http://lxls.mx:80/series/994153115/101217/169693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selena A Série S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/m99ZSAYnyrfmAV1L0nJJ5LdeyX7.jpg" group-title="Séries | Netflix",Selena A Série S01 E02
+http://lxls.mx:80/series/994153115/101217/169692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selena A Série S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ziMZaiRQGGN3HhWdxFwQTKDzpG9.jpg" group-title="Séries | Netflix",Selena A Série S01 E03
+http://lxls.mx:80/series/994153115/101217/169691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selena A Série S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/2emCDJIHyMpKINoEr3b6j9L5MUH.jpg" group-title="Séries | Netflix",Selena A Série S01 E04
+http://lxls.mx:80/series/994153115/101217/169690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selena A Série S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/2Vo0JPKyX1DIm87CIYYaIdHMP00.jpg" group-title="Séries | Netflix",Selena A Série S01 E05
+http://lxls.mx:80/series/994153115/101217/169689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selena A Série S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/4asQ6QGX0VxfGSRCMFBm6pA6YGD.jpg" group-title="Séries | Netflix",Selena A Série S01 E06
+http://lxls.mx:80/series/994153115/101217/169688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selena A Série S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/7zHOekVLNtya6z1V024DB9KWlyS.jpg" group-title="Séries | Netflix",Selena A Série S01 E07
+http://lxls.mx:80/series/994153115/101217/169687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selena A Série S01 E08" tvg-logo="http://lxls.mx:8080/imageS-A3ceded3f8e6d2fdf495ae738e9c11f5.jpg" group-title="Séries | Netflix",Selena A Série S01 E08
+http://lxls.mx:80/series/994153115/101217/169686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Selena A Série S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/tjqMxoQHslWfaf7VetOkHPU2sIh.jpg" group-title="Séries | Netflix",Selena A Série S01 E09
+http://lxls.mx:80/series/994153115/101217/169685.mp4

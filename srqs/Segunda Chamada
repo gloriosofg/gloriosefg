@@ -1,0 +1,23 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Segunda Chamada S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/pcKQxx9m1YHto61aMGijSr8robs.jpg" group-title="Séries | Globoplay",Segunda Chamada S01 E01
+http://lxls.mx:80/series/994153115/101217/212213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segunda Chamada S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/t0fv38fkhOMTZd8nbfmNRhYEb8q.jpg" group-title="Séries | Globoplay",Segunda Chamada S01 E02
+http://lxls.mx:80/series/994153115/101217/212212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segunda Chamada S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/8M2gjtxxRXAWlGcpwXP8upWDZ8G.jpg" group-title="Séries | Globoplay",Segunda Chamada S01 E03
+http://lxls.mx:80/series/994153115/101217/212211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segunda Chamada S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/lozJC4pXBzfCTOxcFQevCAJuXrx.jpg" group-title="Séries | Globoplay",Segunda Chamada S01 E04
+http://lxls.mx:80/series/994153115/101217/212210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segunda Chamada S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/szUasK83yGhPxlkymfiOieQqTqh.jpg" group-title="Séries | Globoplay",Segunda Chamada S01 E05
+http://lxls.mx:80/series/994153115/101217/212209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segunda Chamada S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/5gtyOEEYSvAszq0jvmjy3UUm6Yo.jpg" group-title="Séries | Globoplay",Segunda Chamada S01 E06
+http://lxls.mx:80/series/994153115/101217/212208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segunda Chamada S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/sevQjSjvS0W4hVwkeGn9RtkjqdH.jpg" group-title="Séries | Globoplay",Segunda Chamada S01 E07
+http://lxls.mx:80/series/994153115/101217/212207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segunda Chamada S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/lIkglOx84EpjstbQ7Ngryinpliv.jpg" group-title="Séries | Globoplay",Segunda Chamada S01 E08
+http://lxls.mx:80/series/994153115/101217/212206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segunda Chamada S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Segunda Chamada S01 E09
+http://lxls.mx:80/series/994153115/101217/211913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segunda Chamada S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300None" group-title="Séries | Globoplay",Segunda Chamada S01 E10
+http://lxls.mx:80/series/994153115/101217/211912.mp4
