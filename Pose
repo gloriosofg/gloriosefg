@@ -1,0 +1,39 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Pose S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/wZoewZlCspqlKcAwcL6zovDPlwn.jpg" group-title="Séries | Netflix",Pose S01 E01
+http://lxls.mx:80/series/994153115/101217/182769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gR7ECgHJ19QcsVRJ6PG6Zacy1Yg.jpg" group-title="Séries | Netflix",Pose S01 E02
+http://lxls.mx:80/series/994153115/101217/182768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S01 E03" tvg-logo="http://lxls.mx:8080/images/2c61b4f48bed048c23d1369d2060ed32.jpg" group-title="Séries | Netflix",Pose S01 E03
+http://lxls.mx:80/series/994153115/101217/182767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S01 E04" tvg-logo="http://lxls.mx:8080/images/2c61b4f48bed048c23d1369d2060ed32.jpg" group-title="Séries | Netflix",Pose S01 E04
+http://lxls.mx:80/series/994153115/101217/182766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/anoVAGSvr7VvhV6tbjbX3nNxfV2.jpg" group-title="Séries | Netflix",Pose S01 E05
+http://lxls.mx:80/series/994153115/101217/182765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/gxKT2O1RfxCUfOtyS8bbAcJICzo.jpg" group-title="Séries | Netflix",Pose S01 E06
+http://lxls.mx:80/series/994153115/101217/182764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/6K96D0ke0pSJKnWfWhPDGX3Q0KZ.jpg" group-title="Séries | Netflix",Pose S01 E07
+http://lxls.mx:80/series/994153115/101217/182763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/fZz7JEgjWoQref1gpqVnbTA5IPS.jpg" group-title="Séries | Netflix",Pose S01 E08
+http://lxls.mx:80/series/994153115/101217/182762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S02 E01" tvg-logo="http://lxls.mx:8080/images/2c61b4f48bed048c23d1369d2060ed32.jpg" group-title="Séries | Netflix",Pose S02 E01
+http://lxls.mx:80/series/994153115/101217/182761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S02 E02" tvg-logo="http://lxls.mx:8080/images/2c61b4f48bed048c23d1369d2060ed32.jpg" group-title="Séries | Netflix",Pose S02 E02
+http://lxls.mx:80/series/994153115/101217/182760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/1IBANokX8zC22qjCkl25tEpjbdW.jpg" group-title="Séries | Netflix",Pose S02 E03
+http://lxls.mx:80/series/994153115/101217/182759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/dmsv5Yz371uUXgVlLy2HIWwyiN1.jpg" group-title="Séries | Netflix",Pose S02 E04
+http://lxls.mx:80/series/994153115/101217/182758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S02 E05" tvg-logo="http://lxls.mx:8080/images/2c61b4f48bed048c23d1369d2060ed32.jpg" group-title="Séries | Netflix",Pose S02 E05
+http://lxls.mx:80/series/994153115/101217/182757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/t9Rk79czEAZqj7SjeVO8Qhi3W25.jpg" group-title="Séries | Netflix",Pose S02 E06
+http://lxls.mx:80/series/994153115/101217/182756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/7qhhmKJyOoeqioIt2oMIquwoi6q.jpg" group-title="Séries | Netflix",Pose S02 E07
+http://lxls.mx:80/series/994153115/101217/182755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/iUBhI359jLbifLU4VXge32bw51d.jpg" group-title="Séries | Netflix",Pose S02 E08
+http://lxls.mx:80/series/994153115/101217/182754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/lRfIHADMppjLNcq9zrFNnv6Wzti.jpg" group-title="Séries | Netflix",Pose S02 E09
+http://lxls.mx:80/series/994153115/101217/182753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pose S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/iveMRebIB3Bucyi6UEDmHMcu93C.jpg" group-title="Séries | Netflix",Pose S02 E10
+http://lxls.mx:80/series/994153115/101217/182752.mp4

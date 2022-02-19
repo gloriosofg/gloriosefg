@@ -1,0 +1,55 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/zeS4P9FCRVykt5aLJY5wYgF7n1I.jpg" group-title="Séries | Netflix",Project Mc S01 E01
+http://lxls.mx:80/series/994153115/101217/191249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/79n6SP41GmqH80Y0A17SQ4yR3o5.jpg" group-title="Séries | Netflix",Project Mc S01 E02
+http://lxls.mx:80/series/994153115/101217/191248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/unVSE7bTkn2oESmJU3m5zXeCa6l.jpg" group-title="Séries | Netflix",Project Mc S01 E03
+http://lxls.mx:80/series/994153115/101217/191247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S02 E01" tvg-logo="http://lxls.mx:8080/images/829d1fb2351149f61688152994db1844.jpg" group-title="Séries | Netflix",Project Mc S02 E01
+http://lxls.mx:80/series/994153115/101217/191246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/cccuIB8pnBdqorvblUVDIELMceQ.jpg" group-title="Séries | Netflix",Project Mc S02 E02
+http://lxls.mx:80/series/994153115/101217/191245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/ektwL9NancDrKHrr3E9KydndaLc.jpg" group-title="Séries | Netflix",Project Mc S02 E03
+http://lxls.mx:80/series/994153115/101217/191244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/w2vYQ3FnqqtMA22Z3g3cwvpkXZj.jpg" group-title="Séries | Netflix",Project Mc S02 E04
+http://lxls.mx:80/series/994153115/101217/191243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/KyiOWLoXOsNQfC8njy9i0eqQnZ.jpg" group-title="Séries | Netflix",Project Mc S02 E05
+http://lxls.mx:80/series/994153115/101217/191242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/oUBzJvd7DtYtTz6eQBcxr6Ra1hZ.jpg" group-title="Séries | Netflix",Project Mc S02 E06
+http://lxls.mx:80/series/994153115/101217/191241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/c6Dg3UubDxxznzp8rMxfpTZY2K5.jpg" group-title="Séries | Netflix",Project Mc S03 E01
+http://lxls.mx:80/series/994153115/101217/191240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/q5xTzhhXwJpwxjKXVNG5nFR4THa.jpg" group-title="Séries | Netflix",Project Mc S03 E02
+http://lxls.mx:80/series/994153115/101217/191239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/uiNPWiuVpyjS70M8UJq15460Jij.jpg" group-title="Séries | Netflix",Project Mc S03 E03
+http://lxls.mx:80/series/994153115/101217/191238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/wYcWPMl6zkhcCPGhuVeYv4Zfpxd.jpg" group-title="Séries | Netflix",Project Mc S03 E04
+http://lxls.mx:80/series/994153115/101217/191237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/yQXhK2XPMARSCuUHYP7znb6U0Dt.jpg" group-title="Séries | Netflix",Project Mc S03 E05
+http://lxls.mx:80/series/994153115/101217/191236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/zFVJlSGcCmkPQattk6Yzr0D1ik1.jpg" group-title="Séries | Netflix",Project Mc S03 E06
+http://lxls.mx:80/series/994153115/101217/191235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/yIyS6QrY7a5eIWkudWeqKtWmCCq.jpg" group-title="Séries | Netflix",Project Mc S04 E01
+http://lxls.mx:80/series/994153115/101217/191234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S05 E01" tvg-logo="https://image.tmdb.org/t/p/w300/zfnX2IXSP5MS6Oyfa5G4TZZ8xYs.jpg" group-title="Séries | Netflix",Project Mc S05 E01
+http://lxls.mx:80/series/994153115/101217/191233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S05 E02" tvg-logo="https://image.tmdb.org/t/p/w300/89pluvP23i4vqgqTT6YkC1Wiu5q.jpg" group-title="Séries | Netflix",Project Mc S05 E02
+http://lxls.mx:80/series/994153115/101217/191232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S05 E03" tvg-logo="https://image.tmdb.org/t/p/w300/oNx0N7V5WwxZTfPupjpHWp4Iidj.jpg" group-title="Séries | Netflix",Project Mc S05 E03
+http://lxls.mx:80/series/994153115/101217/191231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S05 E04" tvg-logo="https://image.tmdb.org/t/p/w300/qSUjEtzXs7eegeMBHw3SRBlj9d9.jpg" group-title="Séries | Netflix",Project Mc S05 E04
+http://lxls.mx:80/series/994153115/101217/191230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S05 E05" tvg-logo="https://image.tmdb.org/t/p/w300/occaWHefzaLwThp4o1TCymUXiNA.jpg" group-title="Séries | Netflix",Project Mc S05 E05
+http://lxls.mx:80/series/994153115/101217/191229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S06 E01" tvg-logo="https://image.tmdb.org/t/p/w300/qarKA8TgGNK5mD7ODeC74h1O6Xw.jpg" group-title="Séries | Netflix",Project Mc S06 E01
+http://lxls.mx:80/series/994153115/101217/191228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S06 E02" tvg-logo="http://lxls.mx:8080/images/829d1fb2351149f61688152994db1844.jpg" group-title="Séries | Netflix",Project Mc S06 E02
+http://lxls.mx:80/series/994153115/101217/191227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S06 E03" tvg-logo="http://lxls.mx:8080/images/829d1fb2351149f61688152994db1844.jpg" group-title="Séries | Netflix",Project Mc S06 E03
+http://lxls.mx:80/series/994153115/101217/191226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S06 E04" tvg-logo="https://image.tmdb.org/t/p/w300/Auenxgiv355XoDQHmFVTW8TzZqg.jpg" group-title="Séries | Netflix",Project Mc S06 E04
+http://lxls.mx:80/series/994153115/101217/191225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Mc S06 E05" tvg-logo="https://image.tmdb.org/t/p/w300/1OL7QesO2eMWH88znnjoGEQzxl2.jpg" group-title="Séries | Netflix",Project Mc S06 E05
+http://lxls.mx:80/series/994153115/101217/191224.mp4

@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Pet Stars S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/h0imPFmkBeEkCHyQE9gzZM1DaYd.jpg" group-title="Séries | Netflix",Pet Stars S01 E01
+http://lxls.mx:80/series/994153115/101217/169714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pet Stars S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/nxyPWx3BqGtsDsPYE9c0NmG6tsm.jpg" group-title="Séries | Netflix",Pet Stars S01 E02
+http://lxls.mx:80/series/994153115/101217/169713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pet Stars S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/l8cNI3JieJrsBcDoWJXbivz0vKu.jpg" group-title="Séries | Netflix",Pet Stars S01 E03
+http://lxls.mx:80/series/994153115/101217/169712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pet Stars S01 E04" tvg-logo="http://lxls.mx:8080/images/89b92477d5db2640467a19a616cbf815.jpg" group-title="Séries | Netflix",Pet Stars S01 E04
+http://lxls.mx:80/series/994153115/101217/169711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pet Stars S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/h0bfk6yBobLcbRWcBYKrmzIPfYu.jpg" group-title="Séries | Netflix",Pet Stars S01 E05
+http://lxls.mx:80/series/994153115/101217/169710.mp4

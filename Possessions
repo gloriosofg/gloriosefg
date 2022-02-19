@@ -1,0 +1,15 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Possessions S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/bIbX5OcTPfgeM8hQzHwUXyux4bS.jpg" group-title="Séries | HBO Max",Possessions S01 E01
+http://lxls.mx:80/series/994153115/101217/163845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possessions S01 E02" tvg-logo="http://lxls.mx:8080/images/bf820bf7d69cfda4df1efe539557ca66.jpg" group-title="Séries | HBO Max",Possessions S01 E02
+http://lxls.mx:80/series/994153115/101217/163842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possessions S01 E03" tvg-logo="http://lxls.mx:8080/images/bf820bf7d69cfda4df1efe539557ca66.jpg" group-title="Séries | HBO Max",Possessions S01 E03
+http://lxls.mx:80/series/994153115/101217/163840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possessions S01 E04" tvg-logo="http://lxls.mx:8080/images/bf820bf7d69cfda4df1efe539557ca66.jpg" group-title="Séries | HBO Max",Possessions S01 E04
+http://lxls.mx:80/series/994153115/101217/163837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possessions S01 E05" tvg-logo="http://lxls.mx:8080/images/bf820bf7d69cfda4df1efe539557ca66.jpg" group-title="Séries | HBO Max",Possessions S01 E05
+http://lxls.mx:80/series/994153115/101217/163833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possessions S01 E06" tvg-logo="http://lxls.mx:8080/images/bf820bf7d69cfda4df1efe539557ca66.jpg" group-title="Séries | HBO Max",Possessions S01 E06
+http://lxls.mx:80/series/994153115/101217/163830.mp4
