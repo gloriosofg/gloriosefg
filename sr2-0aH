@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layoutype>thumb</layoutype>
 
+<channels>
+<channel>
+<name>[COLOR White][B]1 CONTRA TODOS[/B][/COLOR]</get.php?username=name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3o7f2Xjwl5hcoiioR9eGdD9ezHt.jpg</thumbnail>
+<fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/1%20CONTRA%20TODOS</externallink>
+<genre>[COLOR  red][B]1 CONTRA TODOS[/B][/COLOR]</genre>
+</channel>
 
 <channels>
 <channel>
@@ -14,12 +23,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]5X COM%c3%a9DIA[/B][/COLOR]</name>
+<name>[COLOR White][B]5X COM%C3%89DIA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQqES8kCd4p10bwIRL3E0m4HYei.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/5X%20COM%c3%a9DIA</externallink>
-<genre>[COLOR  red][B]5X COM%c3%a9DIA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/5X%20COM%C3%89DIA</externallink>
+<genre>[COLOR  red][B]5X COM%C3%89DIA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -134,12 +143,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]A BEN%c3%a7%c3%a3O[/B][/COLOR]</name>
+<name>[COLOR White][B]A BEN%C3%87%C3%83O[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqBYQdi8Dx2h9XqCl62gbrDs3oy.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20BEN%c3%a7%c3%a3O</externallink>
-<genre>[COLOR  red][B]A BEN%c3%a7%c3%a3O[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20BEN%C3%87%C3%83O</externallink>
+<genre>[COLOR  red][B]A BEN%C3%87%C3%83O[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -224,22 +233,22 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]A CULPA DO %c3%a9 DO CABRAL[/B][/COLOR]</name>
+<name>[COLOR White][B]A CULPA DO %C3%89 DO CABRAL[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/P9SsAeEvzAnBdK0aJb5aJtrFiS.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20CULPA%20DO%20%c3%a9%20DO%20CABRAL</externallink>
-<genre>[COLOR  red][B]A CULPA DO %c3%a9 DO CABRAL[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20CULPA%20DO%20%C3%89%20DO%20CABRAL</externallink>
+<genre>[COLOR  red][B]A CULPA DO %C3%89 DO CABRAL[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]A CULPA %c3%a9 DA CARLOTA[/B][/COLOR]</name>
+<name>[COLOR White][B]A CULPA %C3%89 DA CARLOTA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hv9t4bMZbyXaffVmC0QQ4LSfWId.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20CULPA%20%c3%a9%20DA%20CARLOTA</externallink>
-<genre>[COLOR  red][B]A CULPA %c3%a9 DA CARLOTA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20CULPA%20%C3%89%20DA%20CARLOTA</externallink>
+<genre>[COLOR  red][B]A CULPA %C3%89 DA CARLOTA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -274,32 +283,32 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]A DONA DO PEDA%c3%a7O[/B][/COLOR]</name>
+<name>[COLOR White][B]A DONA DO PEDA%C3%87O[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ym46NK48FRLrzFkkjNzzwp7INm.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20DONA%20DO%20PEDA%c3%a7O</externallink>
-<genre>[COLOR  red][B]A DONA DO PEDA%c3%a7O[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20DONA%20DO%20PEDA%C3%87O</externallink>
+<genre>[COLOR  red][B]A DONA DO PEDA%C3%87O[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]A FOR%c3%a7A DO QUERER[/B][/COLOR]</name>
+<name>[COLOR White][B]A FOR%C3%87A DO QUERER[/B][/COLOR]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20FOR%c3%a7A%20DO%20QUERER</externallink>
-<genre>[COLOR  red][B]A FOR%c3%a7A DO QUERER[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20FOR%C3%87A%20DO%20QUERER</externallink>
+<genre>[COLOR  red][B]A FOR%C3%87A DO QUERER[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]A F%c3%b3RMULA[/B][/COLOR]</name>
+<name>[COLOR White][B]A F%C3%93RMULA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxYo5egiDOdJPZm2Y7MgWlmGw0K.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20F%c3%b3RMULA</externallink>
-<genre>[COLOR  red][B]A F%c3%b3RMULA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20F%C3%93RMULA</externallink>
+<genre>[COLOR  red][B]A F%C3%93RMULA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -324,12 +333,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]A HIST%c3%b3RIA DE ANA RAIO E Z%c3%a9 TROV%c3%a3O[/B][/COLOR]</name>
+<name>[COLOR White][B]A HIST%C3%93RIA DE ANA RAIO E Z%C3%89 TROV%C3%83O[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0CJsmq0wGVYGe6dlIhsPZFf6nP.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20HIST%c3%b3RIA%20DE%20ANA%20RAIO%20E%20Z%c3%a9%20TROV%c3%a3O</externallink>
-<genre>[COLOR  red][B]A HIST%c3%b3RIA DE ANA RAIO E Z%c3%a9 TROV%c3%a3O[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20HIST%C3%93RIA%20DE%20ANA%20RAIO%20E%20Z%C3%89%20TROV%C3%83O</externallink>
+<genre>[COLOR  red][B]A HIST%C3%93RIA DE ANA RAIO E Z%C3%89 TROV%C3%83O[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -364,12 +373,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]A IND%c3%baSTRIA DA CURA[/B][/COLOR]</name>
+<name>[COLOR White][B]A IND%C3%9ASTRIA DA CURA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bC1CSudFJCvDm679fRtqdVHlDc3.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20IND%c3%baSTRIA%20DA%20CURA</externallink>
-<genre>[COLOR  red][B]A IND%c3%baSTRIA DA CURA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20IND%C3%9ASTRIA%20DA%20CURA</externallink>
+<genre>[COLOR  red][B]A IND%C3%9ASTRIA DA CURA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -394,32 +403,32 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]A M%c3%a1FIA DOS TIGRES[/B][/COLOR]</name>
+<name>[COLOR White][B]A M%C3%81FIA DOS TIGRES[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmjYMCnSwndlEpiFZhhOWSWmUsu.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20M%c3%a1FIA%20DOS%20TIGRES</externallink>
-<genre>[COLOR  red][B]A M%c3%a1FIA DOS TIGRES[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20M%C3%81FIA%20DOS%20TIGRES</externallink>
+<genre>[COLOR  red][B]A M%C3%81FIA DOS TIGRES[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]A MALDI%c3%a7%c3%a3O DA MANS%c3%a3O BLY[/B][/COLOR]</name>
+<name>[COLOR White][B]A MALDI%C3%87%C3%83O DA MANS%C3%83O BLY[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20MALDI%c3%a7%c3%a3O%20DA%20MANS%c3%a3O%20BLY</externallink>
-<genre>[COLOR  red][B]A MALDI%c3%a7%c3%a3O DA MANS%c3%a3O BLY[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20MALDI%C3%87%C3%83O%20DA%20MANS%C3%83O%20BLY</externallink>
+<genre>[COLOR  red][B]A MALDI%C3%87%C3%83O DA MANS%C3%83O BLY[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]A MALDI%c3%a7%c3%a3O DA RESIDENCIA HILL[/B][/COLOR]</name>
+<name>[COLOR White][B]A MALDI%C3%87%C3%83O DA RESIDENCIA HILL[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20MALDI%c3%a7%c3%a3O%20DA%20RESIDENCIA%20HILL</externallink>
-<genre>[COLOR  red][B]A MALDI%c3%a7%c3%a3O DA RESIDENCIA HILL[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20MALDI%C3%87%C3%83O%20DA%20RESIDENCIA%20HILL</externallink>
+<genre>[COLOR  red][B]A MALDI%C3%87%C3%83O DA RESIDENCIA HILL[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -444,12 +453,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]A MULHER INVIS%c3%adVEL[/B][/COLOR]</name>
+<name>[COLOR White][B]A MULHER INVIS%C3%8DVEL[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNxcYOizRKYkqmPALwdVrJWz5KI.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20MULHER%20INVIS%c3%adVEL</externallink>
-<genre>[COLOR  red][B]A MULHER INVIS%c3%adVEL[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20MULHER%20INVIS%C3%8DVEL</externallink>
+<genre>[COLOR  red][B]A MULHER INVIS%C3%8DVEL[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -504,12 +513,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]A RAINHA DO TR%c3%a1FICO[/B][/COLOR]</name>
+<name>[COLOR White][B]A RAINHA DO TR%C3%81FICO[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWlv4V6973xYIJWoSUvUcziitps.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20RAINHA%20DO%20TR%c3%a1FICO</externallink>
-<genre>[COLOR  red][B]A RAINHA DO TR%c3%a1FICO[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20RAINHA%20DO%20TR%C3%81FICO</externallink>
+<genre>[COLOR  red][B]A RAINHA DO TR%C3%81FICO[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -564,12 +573,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]A %c3%baLTIMA ONDA[/B][/COLOR]</name>
+<name>[COLOR White][B]A %C3%9ALTIMA ONDA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OO7jdAp8n95nIRd8S4JU700mHV.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20%c3%baLTIMA%20ONDA</externallink>
-<genre>[COLOR  red][B]A %c3%baLTIMA ONDA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20%C3%9ALTIMA%20ONDA</externallink>
+<genre>[COLOR  red][B]A %C3%9ALTIMA ONDA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -654,12 +663,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]A VINGAN%c3%a7A DAS JUANAS[/B][/COLOR]</name>
+<name>[COLOR White][B]A VINGAN%C3%87A DAS JUANAS[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmKwM0bS3qygN2t4ExwJABUBGLm.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20VINGAN%c3%a7A%20DAS%20JUANAS</externallink>
-<genre>[COLOR  red][B]A VINGAN%c3%a7A DAS JUANAS[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/A%20VINGAN%C3%87A%20DAS%20JUANAS</externallink>
+<genre>[COLOR  red][B]A VINGAN%C3%87A DAS JUANAS[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -784,22 +793,22 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]AL%c3%a9M DO TEMPO[/B][/COLOR]</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_de_Al%C3%A9m_do_Tempo.png</thumbnail>
+<name>[COLOR White][B]AL%C3%89M DO TEMPO[/B][/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_de_Al%C3%89m_do_Tempo.png</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/AL%c3%a9M%20DO%20TEMPO</externallink>
-<genre>[COLOR  red][B]AL%c3%a9M DO TEMPO[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/AL%C3%89M%20DO%20TEMPO</externallink>
+<genre>[COLOR  red][B]AL%C3%89M DO TEMPO[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]ALEM%c3%a3O- OS DOIS LADOS DO COMPLEXO[/B][/COLOR]</name>
+<name>[COLOR White][B]ALEM%C3%83O- OS DOIS LADOS DO COMPLEXO[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOU8esr3ocvlc7EsqoWRLhempQJ.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ALEM%c3%a3O-%20OS%20DOIS%20LADOS%20DO%20COMPLEXO</externallink>
-<genre>[COLOR  red][B]ALEM%c3%a3O- OS DOIS LADOS DO COMPLEXO[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ALEM%C3%83O-%20OS%20DOIS%20LADOS%20DO%20COMPLEXO</externallink>
+<genre>[COLOR  red][B]ALEM%C3%83O- OS DOIS LADOS DO COMPLEXO[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -814,12 +823,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]ALGU%c3%a9M TEM QUE MORRER[/B][/COLOR]</name>
+<name>[COLOR White][B]ALGU%C3%89M TEM QUE MORRER[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/phM7yIMYHj9ZaUCnLaytCd7XpTd.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ALGU%c3%a9M%20TEM%20QUE%20MORRER</externallink>
-<genre>[COLOR  red][B]ALGU%c3%a9M TEM QUE MORRER[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ALGU%C3%89M%20TEM%20QUE%20MORRER</externallink>
+<genre>[COLOR  red][B]ALGU%C3%89M TEM QUE MORRER[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -1054,12 +1063,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]AMOR VERDADE OU CONSEQU%c3%aaNCIA[/B][/COLOR]</name>
+<name>[COLOR White][B]AMOR VERDADE OU CONSEQU%C3%8ANCIA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIcN8B7UZXLZayrt2DNEKyoVoFX.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/AMOR%20VERDADE%20OU%20CONSEQU%c3%aaNCIA</externallink>
-<genre>[COLOR  red][B]AMOR VERDADE OU CONSEQU%c3%aaNCIA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/AMOR%20VERDADE%20OU%20CONSEQU%C3%8ANCIA</externallink>
+<genre>[COLOR  red][B]AMOR VERDADE OU CONSEQU%C3%8ANCIA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -1094,12 +1103,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]ANOTA A%c3%ad[/B][/COLOR]</name>
+<name>[COLOR White][B]ANOTA A%C3%8D[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0mc6M9wg2um5gePxCXUOhJp7NC.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ANOTA%20A%c3%ad</externallink>
-<genre>[COLOR  red][B]ANOTA A%c3%ad[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ANOTA%20A%C3%8D</externallink>
+<genre>[COLOR  red][B]ANOTA A%C3%8D[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -1174,12 +1183,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]AREIA MOVEDI%c3%a7A[/B][/COLOR]</name>
+<name>[COLOR White][B]AREIA MOVEDI%C3%87A[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke53MH4fNdM3Bc7XPMoj5li4seE.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/AREIA%20MOVEDI%c3%a7A</externallink>
-<genre>[COLOR  red][B]AREIA MOVEDI%c3%a7A[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/AREIA%20MOVEDI%C3%87A</externallink>
+<genre>[COLOR  red][B]AREIA MOVEDI%C3%87A[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -1304,22 +1313,22 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]AS VIS%c3%b5ES DA RAVEN[/B][/COLOR]</name>
+<name>[COLOR White][B]AS VIS%C3%95ES DA RAVEN[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AYuv6cSBC0Iqb1Ugkfp3z3Pjyw.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/AS%20VIS%c3%b5ES%20DA%20RAVEN</externallink>
-<genre>[COLOR  red][B]AS VIS%c3%b5ES DA RAVEN[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/AS%20VIS%C3%95ES%20DA%20RAVEN</externallink>
+<genre>[COLOR  red][B]AS VIS%C3%95ES DA RAVEN[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]ASCENS%c3%a3O, IMPERIO OTOMANO[/B][/COLOR]</name>
+<name>[COLOR White][B]ASCENS%C3%83O, IMPERIO OTOMANO[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyzWbv6zrtsRblqc90oUGyoTyl7.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ASCENS%c3%a3O,%20IMPERIO%20OTOMANO</externallink>
-<genre>[COLOR  red][B]ASCENS%c3%a3O, IMPERIO OTOMANO[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ASCENS%C3%83O,%20IMPERIO%20OTOMANO</externallink>
+<genre>[COLOR  red][B]ASCENS%C3%83O, IMPERIO OTOMANO[/B][/COLOR]</genre>
 </channel>
   
 <channels>
@@ -1354,12 +1363,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]AT%c3%a9 O FIM- FLAMENGO CAMPE%c3%a3O DA LIBERTADORES 2019[/B][/COLOR]</name>
+<name>[COLOR White][B]AT%C3%89 O FIM- FLAMENGO CAMPE%C3%83O DA LIBERTADORES 2019[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/48bvkEkf8ccabpbEAqw8XbpP8Wz.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/AT%c3%a9%20O%20FIM-%20FLAMENGO%20CAMPE%c3%a3O%20DA%20LIBERTADORES%202019</externallink>
-<genre>[COLOR  red][B]AT%c3%a9 O FIM- FLAMENGO CAMPE%c3%a3O DA LIBERTADORES 2019[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/AT%C3%89%20O%20FIM-%20FLAMENGO%20CAMPE%C3%83O%20DA%20LIBERTADORES%202019</externallink>
+<genre>[COLOR  red][B]AT%C3%89 O FIM- FLAMENGO CAMPE%C3%83O DA LIBERTADORES 2019[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -1404,12 +1413,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]BABIL%c3%b4NIA[/B][/COLOR]</name>
+<name>[COLOR White][B]BABIL%C3%94NIA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rciMGERofVNGWHtguiD89Vhjg92.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/BABIL%c3%b4NIA</externallink>
-<genre>[COLOR  red][B]BABIL%c3%b4NIA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/BABIL%C3%94NIA</externallink>
+<genre>[COLOR  red][B]BABIL%C3%94NIA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -1434,12 +1443,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]BAD CHAD  FORA DO PADR%c3%a3O[/B][/COLOR]</name>
+<name>[COLOR White][B]BAD CHAD  FORA DO PADR%C3%83O[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPUdHYhisau4Ii1SpONusDxYRgd.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/BAD%20CHAD%20%20FORA%20DO%20PADR%c3%a3O</externallink>
-<genre>[COLOR  red][B]BAD CHAD  FORA DO PADR%c3%a3O[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/BAD%20CHAD%20%20FORA%20DO%20PADR%C3%83O</externallink>
+<genre>[COLOR  red][B]BAD CHAD  FORA DO PADR%C3%83O[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -1774,12 +1783,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]BOM DIA VER%c3%b4NICA[/B][/COLOR]</name>
+<name>[COLOR White][B]BOM DIA VER%C3%94NICA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbyZ84DuLJGgxdMnC7bjHlcjJ3e.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/BOM%20DIA%20VER%c3%b4NICA</externallink>
-<genre>[COLOR  red][B]BOM DIA VER%c3%b4NICA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/BOM%20DIA%20VER%C3%94NICA</externallink>
+<genre>[COLOR  red][B]BOM DIA VER%C3%94NICA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -1894,12 +1903,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]C.S.I.- INVESTIGA%c3%a7%c3%a3O CRIMINAL[/B][/COLOR]</name>
+<name>[COLOR White][B]C.S.I.- INVESTIGA%C3%87%C3%83O CRIMINAL[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OOXYxrLLupCiUP78fDVGwaq0As.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/C.S.I.-%20INVESTIGA%c3%a7%c3%a3O%20CRIMINAL</externallink>
-<genre>[COLOR  red][B]C.S.I.- INVESTIGA%c3%a7%c3%a3O CRIMINAL[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/C.S.I.-%20INVESTIGA%C3%87%C3%83O%20CRIMINAL</externallink>
+<genre>[COLOR  red][B]C.S.I.- INVESTIGA%C3%87%C3%83O CRIMINAL[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -1924,12 +1933,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]CA%c3%a7ADORAS DE RECOMPENSAS[/B][/COLOR]</name>
+<name>[COLOR White][B]CA%C3%87ADORAS DE RECOMPENSAS[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSb5egw9t4Z89mZVcVJ210xI1F9.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CA%c3%a7ADORAS%20DE%20RECOMPENSAS</externallink>
-<genre>[COLOR  red][B]CA%c3%a7ADORAS DE RECOMPENSAS[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CA%C3%87ADORAS%20DE%20RECOMPENSAS</externallink>
+<genre>[COLOR  red][B]CA%C3%87ADORAS DE RECOMPENSAS[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -1964,12 +1973,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]CAF%c3%a9 COM AROMA DE MULHER[/B][/COLOR]</name>
+<name>[COLOR White][B]CAF%C3%89 COM AROMA DE MULHER[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQenarm5ZpUsj3TkAgG8Iu9Pjkk.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CAF%c3%a9%20COM%20AROMA%20DE%20MULHER</externallink>
-<genre>[COLOR  red][B]CAF%c3%a9 COM AROMA DE MULHER[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CAF%C3%89%20COM%20AROMA%20DE%20MULHER</externallink>
+<genre>[COLOR  red][B]CAF%C3%89 COM AROMA DE MULHER[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -1994,12 +2003,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]CAPIT%c3%a3O TSUBASA[/B][/COLOR]</name>
+<name>[COLOR White][B]CAPIT%C3%83O TSUBASA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qmfWBIOKMI0elhxGH2dZI1ZKBm.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CAPIT%c3%a3O%20TSUBASA</externallink>
-<genre>[COLOR  red][B]CAPIT%c3%a3O TSUBASA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CAPIT%C3%83O%20TSUBASA</externallink>
+<genre>[COLOR  red][B]CAPIT%C3%83O TSUBASA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -2144,12 +2153,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]CENA DO CRIME- MIST%c3%a9RIO E MORTE NO HOTEL CECIL[/B][/COLOR]</name>
+<name>[COLOR White][B]CENA DO CRIME- MIST%C3%89RIO E MORTE NO HOTEL CECIL[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9s5Za1RYXSjIA1g0KO1R7uywGlA.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CENA%20DO%20CRIME-%20MIST%c3%a9RIO%20E%20MORTE%20NO%20HOTEL%20CECIL</externallink>
-<genre>[COLOR  red][B]CENA DO CRIME- MIST%c3%a9RIO E MORTE NO HOTEL CECIL[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CENA%20DO%20CRIME-%20MIST%C3%89RIO%20E%20MORTE%20NO%20HOTEL%20CECIL</externallink>
+<genre>[COLOR  red][B]CENA DO CRIME- MIST%C3%89RIO E MORTE NO HOTEL CECIL[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -2164,12 +2173,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]CHACRINHA - A MINISS%c3%a9RIE[/B][/COLOR]</name>
+<name>[COLOR White][B]CHACRINHA - A MINISS%C3%89RIE[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHdoe1Z6tWDrBnHOdZjjjsthIVA.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CHACRINHA%20-%20A%20MINISS%c3%a9RIE</externallink>
-<genre>[COLOR  red][B]CHACRINHA - A MINISS%c3%a9RIE[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CHACRINHA%20-%20A%20MINISS%C3%89RIE</externallink>
+<genre>[COLOR  red][B]CHACRINHA - A MINISS%C3%89RIE[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -2334,22 +2343,22 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]CINE HOLLI%c3%baDY[/B][/COLOR]</name>
+<name>[COLOR White][B]CINE HOLLI%C3%9ADY[/B][/COLOR]</name>
 <thumbnail>http://b2p.li/images/1kAd29uH3rqzC2fug2hWdjVHBcU_small.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CINE%20HOLLI%c3%baDY</externallink>
-<genre>[COLOR  red][B]CINE HOLLI%c3%baDY[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CINE%20HOLLI%C3%9ADY</externallink>
+<genre>[COLOR  red][B]CINE HOLLI%C3%9ADY[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]C%c3%adRCULO DE FOGO THE BLACK[/B][/COLOR]</name>
+<name>[COLOR White][B]C%C3%8DRCULO DE FOGO THE BLACK[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4q1GGq86k5xmd9WJ30R3i6px1Yv.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/C%c3%adRCULO%20DE%20FOGO%20THE%20BLACK</externallink>
-<genre>[COLOR  red][B]C%c3%adRCULO DE FOGO THE BLACK[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/C%C3%8DRCULO%20DE%20FOGO%20THE%20BLACK</externallink>
+<genre>[COLOR  red][B]C%C3%8DRCULO DE FOGO THE BLACK[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -2424,12 +2433,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]COL%c3%b4NIA[/B][/COLOR]</name>
+<name>[COLOR White][B]COL%C3%94NIA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rSojHOHKD59jpXUyi7GnL1wYFC.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/COL%c3%b4NIA</externallink>
-<genre>[COLOR  red][B]COL%c3%b4NIA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/COL%C3%94NIA</externallink>
+<genre>[COLOR  red][B]COL%C3%94NIA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -2484,12 +2493,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]CORA%c3%a7%c3%a3O INDOM%c3%a1VEL[/B][/COLOR]</name>
+<name>[COLOR White][B]CORA%C3%87%C3%83O INDOM%C3%81VEL[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/92oVOfEUgDti2UJvCaVAS9QbG7U.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CORA%c3%a7%c3%a3O%20INDOM%c3%a1VEL</externallink>
-<genre>[COLOR  red][B]CORA%c3%a7%c3%a3O INDOM%c3%a1VEL[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/CORA%C3%87%C3%83O%20INDOM%C3%81VEL</externallink>
+<genre>[COLOR  red][B]CORA%C3%87%C3%83O INDOM%C3%81VEL[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -2534,12 +2543,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]COSMOS - UMA ODISSEIA NO ESPA%c3%a7O TEMPO[/B][/COLOR]</name>
+<name>[COLOR White][B]COSMOS - UMA ODISSEIA NO ESPA%C3%87O TEMPO[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMvrEICzMPZcz0ec1sbM6juIUHw.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/COSMOS%20-%20UMA%20ODISSEIA%20NO%20ESPA%c3%a7O%20TEMPO</externallink>
-<genre>[COLOR  red][B]COSMOS - UMA ODISSEIA NO ESPA%c3%a7O TEMPO[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/COSMOS%20-%20UMA%20ODISSEIA%20NO%20ESPA%C3%87O%20TEMPO</externallink>
+<genre>[COLOR  red][B]COSMOS - UMA ODISSEIA NO ESPA%C3%87O TEMPO[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -2664,12 +2673,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]D.P.A. - DETETIVES DO PR%c3%a9DIO AZUL[/B][/COLOR]</name>
+<name>[COLOR White][B]D.P.A. - DETETIVES DO PR%C3%89DIO AZUL[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws5cK4LzQy2lWfqKKqsFeKSLcgF.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/D.P.A.%20-%20DETETIVES%20DO%20PR%c3%a9DIO%20AZUL</externallink>
-<genre>[COLOR  red][B]D.P.A. - DETETIVES DO PR%c3%a9DIO AZUL[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/D.P.A.%20-%20DETETIVES%20DO%20PR%C3%89DIO%20AZUL</externallink>
+<genre>[COLOR  red][B]D.P.A. - DETETIVES DO PR%C3%89DIO AZUL[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -2754,12 +2763,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]DE F%c3%a9RIAS COM O EX-BRASIL[/B][/COLOR]</name>
+<name>[COLOR White][B]DE F%C3%89RIAS COM O EX-BRASIL[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aBYWnwd86ejV4ic36z188ZiGu4.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/DE%20F%c3%a9RIAS%20COM%20O%20EX-BRASIL</externallink>
-<genre>[COLOR  red][B]DE F%c3%a9RIAS COM O EX-BRASIL[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/DE%20F%C3%89RIAS%20COM%20O%20EX-BRASIL</externallink>
+<genre>[COLOR  red][B]DE F%C3%89RIAS COM O EX-BRASIL[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -2964,12 +2973,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]DI%c3%a1RIO DE UM CONFINADO[/B][/COLOR]</name>
+<name>[COLOR White][B]DI%C3%81RIO DE UM CONFINADO[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r43MlYCteQkXGkhFL7xw5YiFdd7.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/DI%c3%a1RIO%20DE%20UM%20CONFINADO</externallink>
-<genre>[COLOR  red][B]DI%c3%a1RIO DE UM CONFINADO[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/DI%C3%81RIO%20DE%20UM%20CONFINADO</externallink>
+<genre>[COLOR  red][B]DI%C3%81RIO DE UM CONFINADO[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -3004,12 +3013,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]DINHEIRO F%c3%a1CIL- A S%c3%a9RIE[/B][/COLOR]</name>
+<name>[COLOR White][B]DINHEIRO F%C3%81CIL- A S%C3%89RIE[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/RjJKHRjyXBL8Ia4acAyrPajyOp.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/DINHEIRO%20F%c3%a1CIL-%20A%20S%c3%a9RIE</externallink>
-<genre>[COLOR  red][B]DINHEIRO F%c3%a1CIL- A S%c3%a9RIE[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/DINHEIRO%20F%C3%81CIL-%20A%20S%C3%89RIE</externallink>
+<genre>[COLOR  red][B]DINHEIRO F%C3%81CIL- A S%C3%89RIE[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -3174,12 +3183,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]DR%c3%a1CULA[/B][/COLOR]</name>
+<name>[COLOR White][B]DR%C3%81CULA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w300/fW9UzoQB9mNoHCXrL5iTO2oWj8L.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/DR%c3%a1CULA</externallink>
-<genre>[COLOR  red][B]DR%c3%a1CULA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/DR%C3%81CULA</externallink>
+<genre>[COLOR  red][B]DR%C3%81CULA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -3354,12 +3363,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]ELITE HIST%c3%b3RIAS BREVES NADIA GUZM%c3%a1N[/B][/COLOR]</name>
+<name>[COLOR White][B]ELITE HIST%C3%93RIAS BREVES NADIA GUZM%C3%81N[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/13sJatLgtKD1szNsP8EyxK9u8eu.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ELITE%20HIST%c3%b3RIAS%20BREVES%20NADIA%20GUZM%c3%a1N</externallink>
-<genre>[COLOR  red][B]ELITE HIST%c3%b3RIAS BREVES NADIA GUZM%c3%a1N[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ELITE%20HIST%C3%93RIAS%20BREVES%20NADIA%20GUZM%C3%81N</externallink>
+<genre>[COLOR  red][B]ELITE HIST%C3%93RIAS BREVES NADIA GUZM%C3%81N[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -3503,12 +3512,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]ESCRAVA M%c3%a3E[/B][/COLOR]</name>
-<thumbnail>ESCRAVA M%c3%a3E</thumbnail>
+<name>[COLOR White][B]ESCRAVA M%C3%83E[/B][/COLOR]</name>
+<thumbnail>ESCRAVA M%C3%83E</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ESCRAVA%20M%c3%a3E</externallink>
-<genre>[COLOR  red][B]ESCRAVA M%c3%a3E[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ESCRAVA%20M%C3%83E</externallink>
+<genre>[COLOR  red][B]ESCRAVA M%C3%83E[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -3523,12 +3532,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]ESQUADR%c3%a3O RESGATE[/B][/COLOR]</name>
+<name>[COLOR White][B]ESQUADR%C3%83O RESGATE[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSdPK6uAArXWVfPk2mOiq4pVXzS.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ESQUADR%c3%a3O%20RESGATE</externallink>
-<genre>[COLOR  red][B]ESQUADR%c3%a3O RESGATE[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ESQUADR%C3%83O%20RESGATE</externallink>
+<genre>[COLOR  red][B]ESQUADR%C3%83O RESGATE[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -3543,12 +3552,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]ESTA%c3%a7%c3%a3O TEMPLE[/B][/COLOR]</name>
+<name>[COLOR White][B]ESTA%C3%87%C3%83O TEMPLE[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/snyRsHLSenU8Fb3QlIudFhZex0N.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ESTA%c3%a7%c3%a3O%20TEMPLE</externallink>
-<genre>[COLOR  red][B]ESTA%c3%a7%c3%a3O TEMPLE[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/ESTA%C3%87%C3%83O%20TEMPLE</externallink>
+<genre>[COLOR  red][B]ESTA%C3%87%C3%83O TEMPLE[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -3583,22 +3592,22 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]%c3%aaTA MUNDO BOM[/B][/COLOR]</name>
+<name>[COLOR White][B]%C3%8ATA MUNDO BOM[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRnQptsengpd82OpXe1ITh8Dwb3.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/%c3%aaTA%20MUNDO%20BOM</externallink>
-<genre>[COLOR  red][B]%c3%aaTA MUNDO BOM[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/%C3%8ATA%20MUNDO%20BOM</externallink>
+<genre>[COLOR  red][B]%C3%8ATA MUNDO BOM[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]EU A V%c3%b3 E A BOI[/B][/COLOR]</name>
+<name>[COLOR White][B]EU A V%C3%93 E A BOI[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvgaXyJAMiCNmW3AGfhrJUGWrf1.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/EU%20A%20V%c3%b3%20E%20A%20BOI</externallink>
-<genre>[COLOR  red][B]EU A V%c3%b3 E A BOI[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/EU%20A%20V%C3%93%20E%20A%20BOI</externallink>
+<genre>[COLOR  red][B]EU A V%C3%93 E A BOI[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -3623,12 +3632,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]EU VI- AM%c3%a9RICA LATINA[/B][/COLOR]</name>
+<name>[COLOR White][B]EU VI- AM%C3%89RICA LATINA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EGKztiWu57fphI3uHdMHZkMzzd.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/EU%20VI-%20AM%c3%a9RICA%20LATINA</externallink>
-<genre>[COLOR  red][B]EU VI- AM%c3%a9RICA LATINA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/EU%20VI-%20AM%C3%89RICA%20LATINA</externallink>
+<genre>[COLOR  red][B]EU VI- AM%C3%89RICA LATINA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -3713,32 +3722,32 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]FALC%c3%a3O E O SOLDADO INVERNAL[/B][/COLOR]</name>
+<name>[COLOR White][B]FALC%C3%83O E O SOLDADO INVERNAL[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/FALC%c3%a3O%20E%20O%20SOLDADO%20INVERNAL</externallink>
-<genre>[COLOR  red][B]FALC%c3%a3O E O SOLDADO INVERNAL[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/FALC%C3%83O%20E%20O%20SOLDADO%20INVERNAL</externallink>
+<genre>[COLOR  red][B]FALC%C3%83O E O SOLDADO INVERNAL[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]FAM%c3%adLIA EM CONCERTO[/B][/COLOR]</name>
+<name>[COLOR White][B]FAM%C3%8DLIA EM CONCERTO[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGqIt1x9PyGqwlurl2fA9V7uDmw.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/FAM%c3%adLIA%20EM%20CONCERTO</externallink>
-<genre>[COLOR  red][B]FAM%c3%adLIA EM CONCERTO[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/FAM%C3%8DLIA%20EM%20CONCERTO</externallink>
+<genre>[COLOR  red][B]FAM%C3%8DLIA EM CONCERTO[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]FAM%c3%adLIA UPSHAW[/B][/COLOR]</name>
+<name>[COLOR White][B]FAM%C3%8DLIA UPSHAW[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgtpwAsKNfqJmgp3zBxuSHMBAaW.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/FAM%c3%adLIA%20UPSHAW</externallink>
-<genre>[COLOR  red][B]FAM%c3%adLIA UPSHAW[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/FAM%C3%8DLIA%20UPSHAW</externallink>
+<genre>[COLOR  red][B]FAM%C3%8DLIA UPSHAW[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -3873,12 +3882,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]FILHOS DA P%c3%a1TRIA[/B][/COLOR]</name>
+<name>[COLOR White][B]FILHOS DA P%C3%81TRIA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRfgNJProIuPDY2wbVTiizmprnn.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/FILHOS%20DA%20P%c3%a1TRIA</externallink>
-<genre>[COLOR  red][B]FILHOS DA P%c3%a1TRIA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/FILHOS%20DA%20P%C3%81TRIA</externallink>
+<genre>[COLOR  red][B]FILHOS DA P%C3%81TRIA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -3933,12 +3942,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]FLAGRANTES DE FAM%c3%adLIA[/B][/COLOR]</name>
+<name>[COLOR White][B]FLAGRANTES DE FAM%C3%8DLIA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ty8FF3wcpQTRJVFV6xpCQ8zmPqI.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/FLAGRANTES%20DE%20FAM%c3%adLIA</externallink>
-<genre>[COLOR  red][B]FLAGRANTES DE FAM%c3%adLIA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/FLAGRANTES%20DE%20FAM%C3%8DLIA</externallink>
+<genre>[COLOR  red][B]FLAGRANTES DE FAM%C3%8DLIA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -4053,12 +4062,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]FUNER%c3%a1RIA FAM%c3%adLIA BERNARD[/B][/COLOR]</name>
+<name>[COLOR White][B]FUNER%C3%81RIA FAM%C3%8DLIA BERNARD[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOUbP2SFUwb5n2E6ixEhpl0kc06.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/FUNER%c3%a1RIA%20FAM%c3%adLIA%20BERNARD</externallink>
-<genre>[COLOR  red][B]FUNER%c3%a1RIA FAM%c3%adLIA BERNARD[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/FUNER%C3%81RIA%20FAM%C3%8DLIA%20BERNARD</externallink>
+<genre>[COLOR  red][B]FUNER%C3%81RIA FAM%C3%8DLIA BERNARD[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -4223,12 +4232,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]G%c3%aaNESIS[/B][/COLOR]</name>
+<name>[COLOR White][B]G%C3%8ANESIS[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hUZa9LzC4vyQiwX8KadKLIBXWg.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/G%c3%aaNESIS</externallink>
-<genre>[COLOR  red][B]G%c3%aaNESIS[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/G%C3%8ANESIS</externallink>
+<genre>[COLOR  red][B]G%C3%8ANESIS[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -4263,22 +4272,22 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]GERA%c3%a7%c3%a3O 30 E POUCOS[/B][/COLOR]</name>
+<name>[COLOR White][B]GERA%C3%87%C3%83O 30 E POUCOS[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/S9tTvVxHpzkKsH45jpitzFa6lz.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/GERA%c3%a7%c3%a3O%2030%20E%20POUCOS</externallink>
-<genre>[COLOR  red][B]GERA%c3%a7%c3%a3O 30 E POUCOS[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/GERA%C3%87%C3%83O%2030%20E%20POUCOS</externallink>
+<genre>[COLOR  red][B]GERA%C3%87%C3%83O 30 E POUCOS[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]GERA%c3%a7%c3%a3O BRASIL[/B][/COLOR]</name>
+<name>[COLOR White][B]GERA%C3%87%C3%83O BRASIL[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj5KM2dqDeVN7kby5ozvTKaVI6N.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/GERA%c3%a7%c3%a3O%20BRASIL</externallink>
-<genre>[COLOR  red][B]GERA%c3%a7%c3%a3O BRASIL[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/GERA%C3%87%C3%83O%20BRASIL</externallink>
+<genre>[COLOR  red][B]GERA%C3%87%C3%83O BRASIL[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -4453,12 +4462,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]GUERRA %c3%a0S DROGAS[/B][/COLOR]</name>
+<name>[COLOR White][B]GUERRA %C3%80S DROGAS[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTohFYBxEb4tGFJmHGUb4f282AN.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/GUERRA%20%c3%a0S%20DROGAS</externallink>
-<genre>[COLOR  red][B]GUERRA %c3%a0S DROGAS[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/GUERRA%20%C3%80S%20DROGAS</externallink>
+<genre>[COLOR  red][B]GUERRA %C3%80S DROGAS[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -4653,12 +4662,12 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]HEADSPACE MEDITA%c3%a7%c3%a3O GUIADA[/B][/COLOR]</name>
+<name>[COLOR White][B]HEADSPACE MEDITA%C3%87%C3%83O GUIADA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIqiTEhqKtuM8XZXDnzQhSts0v1.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/HEADSPACE%20MEDITA%c3%a7%c3%a3O%20GUIADA</externallink>
-<genre>[COLOR  red][B]HEADSPACE MEDITA%c3%a7%c3%a3O GUIADA[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/HEADSPACE%20MEDITA%C3%87%C3%83O%20GUIADA</externallink>
+<genre>[COLOR  red][B]HEADSPACE MEDITA%C3%87%C3%83O GUIADA[/B][/COLOR]</genre>
 </channel>
 
 <channels>
@@ -4763,22 +4772,22 @@
 
 <channels>
 <channel>
-<name>[COLOR White][B]HIST%c3%b3RIAS MARAVILHOSAS[/B][/COLOR]</name>
+<name>[COLOR White][B]HIST%C3%93RIAS MARAVILHOSAS[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w300/4AypKuJqIWAbGrrOGBwEORnF9e9.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/HIST%c3%b3RIAS%20MARAVILHOSAS</externallink>
-<genre>[COLOR  red][B]HIST%c3%b3RIAS MARAVILHOSAS[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/HIST%C3%93RIAS%20MARAVILHOSAS</externallink>
+<genre>[COLOR  red][B]HIST%C3%93RIAS MARAVILHOSAS[/B][/COLOR]</genre>
 </channel>
 
 <channels>
 <channel>
-<name>[COLOR White][B]HIST%c3%b3RIAS PRA VESTIR[/B][/COLOR]</name>
+<name>[COLOR White][B]HIST%C3%93RIAS PRA VESTIR[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDwYQ4MJ92hWtk8lTurUnJHSAJs.jpg</thumbnail>
 <fanart>https://64.media.tumblr.com/3d2699f2927374be6a3c12f624d85f24/tumblr_odx5n4xm9y1vgag0uo1_1280.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/HIST%c3%b3RIAS%20PRA%20VESTIR</externallink>
-<genre>[COLOR  red][B]HIST%c3%b3RIAS PRA VESTIR[/B][/COLOR]</genre>
+<externallink>https://raw.githubusercontent.com/gloriosofg/gloriosefg/main/teste/HIST%C3%93RIAS%20PRA%20VESTIR</externallink>
+<genre>[COLOR  red][B]HIST%C3%93RIAS PRA VESTIR[/B][/COLOR]</genre>
 </channel>
 
 <channels>
