@@ -1,0 +1,7 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="GOSSIP GIRL 2021 S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/es3mkwOXIQ5s72jEDCmzstmYryE.jpg" group-title="SERIE- GOSSIP GIRL 2021",GOSSIP GIRL 2021 S01 E01
+http://cdnrede.com:80/series/rosanapin/rosana@123/209675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GOSSIP GIRL 2021 S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/es3mkwOXIQ5s72jEDCmzstmYryE.jpg" group-title="SERIE- GOSSIP GIRL 2021",GOSSIP GIRL 2021 S01 E02
+http://cdnrede.com:80/series/rosanapin/rosana@123/209676.mp4
