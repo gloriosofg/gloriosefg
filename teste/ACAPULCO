@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="ACAPULCO S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vatxTWMRBHzVbFI2JHaOEEm3r0n.jpg" group-title="SERIE- ACAPULCO",ACAPULCO S01 E01
+http://cdnrede.com:80/series/rosanapin/rosana@123/218516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ACAPULCO S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vatxTWMRBHzVbFI2JHaOEEm3r0n.jpg" group-title="SERIE- ACAPULCO",ACAPULCO S01 E02
+http://cdnrede.com:80/series/rosanapin/rosana@123/218517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ACAPULCO S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vatxTWMRBHzVbFI2JHaOEEm3r0n.jpg" group-title="SERIE- ACAPULCO",ACAPULCO S01 E03
+http://cdnrede.com:80/series/rosanapin/rosana@123/218518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ACAPULCO S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vatxTWMRBHzVbFI2JHaOEEm3r0n.jpg" group-title="SERIE- ACAPULCO",ACAPULCO S01 E04
+http://cdnrede.com:80/series/rosanapin/rosana@123/218519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ACAPULCO S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vatxTWMRBHzVbFI2JHaOEEm3r0n.jpg" group-title="SERIE- ACAPULCO",ACAPULCO S01 E05
+http://cdnrede.com:80/series/rosanapin/rosana@123/218520.mp4

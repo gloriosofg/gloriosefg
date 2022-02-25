@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="30 MONEDAS S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw70w94nzCmIVSQvtMcuAjWHfWX.jpg" group-title="SERIE- 30 MONEDAS",30 MONEDAS S01 E01
+http://cdnrede.com:80/series/rosanapin/rosana@123/191064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 MONEDAS S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw70w94nzCmIVSQvtMcuAjWHfWX.jpg" group-title="SERIE- 30 MONEDAS",30 MONEDAS S01 E02
+http://cdnrede.com:80/series/rosanapin/rosana@123/192090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 MONEDAS S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw70w94nzCmIVSQvtMcuAjWHfWX.jpg" group-title="SERIE- 30 MONEDAS",30 MONEDAS S01 E03
+http://cdnrede.com:80/series/rosanapin/rosana@123/192091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 MONEDAS S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw70w94nzCmIVSQvtMcuAjWHfWX.jpg" group-title="SERIE- 30 MONEDAS",30 MONEDAS S01 E04
+http://cdnrede.com:80/series/rosanapin/rosana@123/192092.mp4

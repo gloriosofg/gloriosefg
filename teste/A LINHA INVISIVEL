@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="A LINHA INVISIVEL S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4evwYwGpGjW3XWlyBSFh7hSpdCC.jpg" group-title="SERIE- A LINHA INVISIVEL",A LINHA INVISIVEL S01 E01
+http://cdnrede.com:80/series/rosanapin/rosana@123/220556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A LINHA INVISIVEL S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4evwYwGpGjW3XWlyBSFh7hSpdCC.jpg" group-title="SERIE- A LINHA INVISIVEL",A LINHA INVISIVEL S01 E02
+http://cdnrede.com:80/series/rosanapin/rosana@123/220557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A LINHA INVISIVEL S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4evwYwGpGjW3XWlyBSFh7hSpdCC.jpg" group-title="SERIE- A LINHA INVISIVEL",A LINHA INVISIVEL S01 E03
+http://cdnrede.com:80/series/rosanapin/rosana@123/220558.mp4
