@@ -1,0 +1,7 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="QUEM ERA ELA S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLCUF74vUwpOfHcWpoOuITK3boH.jpg" group-title="SERIE- QUEM ERA ELA",QUEM ERA ELA S01 E01
+http://cdnrede.com:80/series/rosanapin/rosana@123/222834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="QUEM ERA ELA S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLCUF74vUwpOfHcWpoOuITK3boH.jpg" group-title="SERIE- QUEM ERA ELA",QUEM ERA ELA S01 E02
+http://cdnrede.com:80/series/rosanapin/rosana@123/222835.mp4

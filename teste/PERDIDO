@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="PERDIDO S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9yZJbSNMAZkhOy8hdSlVtOqFHY.jpg" group-title="SERIE- PERDIDO",PERDIDO S01 E01
+http://cdnrede.com:80/series/rosanapin/rosana@123/220814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PERDIDO S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9yZJbSNMAZkhOy8hdSlVtOqFHY.jpg" group-title="SERIE- PERDIDO",PERDIDO S01 E02
+http://cdnrede.com:80/series/rosanapin/rosana@123/220815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PERDIDO S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9yZJbSNMAZkhOy8hdSlVtOqFHY.jpg" group-title="SERIE- PERDIDO",PERDIDO S01 E03
+http://cdnrede.com:80/series/rosanapin/rosana@123/220816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PERDIDO S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9yZJbSNMAZkhOy8hdSlVtOqFHY.jpg" group-title="SERIE- PERDIDO",PERDIDO S01 E04
+http://cdnrede.com:80/series/rosanapin/rosana@123/220817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PERDIDO S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9yZJbSNMAZkhOy8hdSlVtOqFHY.jpg" group-title="SERIE- PERDIDO",PERDIDO S01 E05
+http://cdnrede.com:80/series/rosanapin/rosana@123/220818.mp4
