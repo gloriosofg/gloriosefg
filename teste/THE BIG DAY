@@ -1,0 +1,9 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="THE BIG DAY S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK2Lm0NznaURnlDaU023WMsAAtR.jpg" group-title="SERIE- THE BIG DAY",THE BIG DAY S01 E01
+http://cdnrede.com:80/series/rosanapin/rosana@123/193016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE BIG DAY S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK2Lm0NznaURnlDaU023WMsAAtR.jpg" group-title="SERIE- THE BIG DAY",THE BIG DAY S01 E02
+http://cdnrede.com:80/series/rosanapin/rosana@123/193017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE BIG DAY S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK2Lm0NznaURnlDaU023WMsAAtR.jpg" group-title="SERIE- THE BIG DAY",THE BIG DAY S01 E03
+http://cdnrede.com:80/series/rosanapin/rosana@123/193018.mp4
